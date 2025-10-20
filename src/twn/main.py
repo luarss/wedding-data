@@ -84,23 +84,26 @@ def scrape_venues(category="venues", state=None, limit=None):
     return all_listings
 
 
-def save_venues(venues, filename="venues"):
+def save_venues(venues, filename="data/twn/venues"):
     """
     Save venues to JSON and CSV
-    
+
     Args:
         venues: List of venue dicts from scrape_venues()
         filename: Output filename (without extension)
     """
+    import os
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+
     # Save JSON
     with open(f"{filename}.json", "w", encoding="utf-8") as f:
         json.dump(venues, f, indent=2, ensure_ascii=False)
-    
+
     # Save CSV
     if venues:
         keys = ["_id", "name", "slug", "category", "state", "city", "address"]
         venue_keys = ["minCapacity", "maxCapacity", "minPrice", "maxPrice", "indoorOutdoor"]
-        
+
         with open(f"{filename}.csv", "w", newline="", encoding="utf-8") as f:
             writer = csv.writer(f)
             # Header
@@ -111,7 +114,7 @@ def save_venues(venues, filename="venues"):
                 venue = v.get("venue") or {}
                 row += [venue.get(k, "") for k in venue_keys]
                 writer.writerow(row)
-    
+
     print(f"✅ Saved {len(venues)} venues to {filename}.json and {filename}.csv")
 
 
@@ -123,7 +126,7 @@ def main():
     args = sys.argv[1:]
     state = None
     limit = None
-    output = "venues"
+    output = "data/twn/venues"
     
     for i, arg in enumerate(args):
         if arg == "--state" and i + 1 < len(args):
