@@ -31,80 +31,6 @@ def download_pdf(url: str, save_path: Path) -> bool:
         return False
 
 
-def scrape_banquet_price_list() -> dict:
-    """
-    Scrape the wedding banquet price list page for ratings and pricing metadata
-    Returns a dictionary mapping venue_id to pricing data
-    """
-    try:
-        url = f"{BASE_URL}/wedding-banquet-price-list"
-        response = httpx.get(url, headers=HEADERS, timeout=30)
-        response.raise_for_status()
-
-        soup = BeautifulSoup(response.text, "html.parser")
-        pricing_data = {}
-
-        rows = soup.find_all('tr')
-
-        for row in rows:
-            venue_link = row.find('a', href=re.compile(r'/detail/\d+/'))
-            if not venue_link:
-                continue
-
-            venue_url = venue_link.get('href', '')
-            venue_id = venue_url.split('/detail/')[1].split('/')[0] if '/detail/' in venue_url else None
-
-            if not venue_id:
-                continue
-
-            rating_input = row.find('input', {'id': 'merchant_score'})
-            rating = float(rating_input.get('value', '0')) if rating_input else 0.0
-
-            tds = row.find_all('td')
-
-            lunch_from = None
-            lunch_days = None
-            dinner_from = None
-            dinner_days = None
-            tables_range = None
-            tables_days = None
-
-            if len(tds) >= 4:
-                lunch_text = tds[1].get_text(strip=True) if len(tds) > 1 else ''
-                dinner_text = tds[2].get_text(strip=True) if len(tds) > 2 else ''
-                tables_text = tds[3].get_text(strip=True) if len(tds) > 3 else ''
-
-                lunch_match = re.match(r'(\$\d+[,\d]*\+*)\s*(.*)', lunch_text)
-                if lunch_match:
-                    lunch_from = lunch_match.group(1)
-                    lunch_days = lunch_match.group(2).strip()
-
-                dinner_match = re.match(r'(\$\d+[,\d]*\+*)\s*(.*)', dinner_text)
-                if dinner_match:
-                    dinner_from = dinner_match.group(1)
-                    dinner_days = dinner_match.group(2).strip()
-
-                tables_match = re.match(r'(\d+\s*-\s*\d+)\s*(.*)', tables_text)
-                if tables_match:
-                    tables_range = tables_match.group(1)
-                    tables_days = tables_match.group(2).strip()
-
-            pricing_data[venue_id] = {
-                'rating': rating,
-                'lunch_from': lunch_from,
-                'lunch_days': lunch_days,
-                'dinner_from': dinner_from,
-                'dinner_days': dinner_days,
-                'tables_range': tables_range,
-                'tables_days': tables_days,
-            }
-
-        print(f"✅ Scraped pricing data for {len(pricing_data)} venues from price list")
-        return pricing_data
-
-    except Exception as e:
-        print(f"⚠️  Error scraping banquet price list: {e}")
-        return {}
 
 
 def get_urls_from_sitemap(url_pattern: str) -> list[str]:
@@ -129,7 +55,7 @@ def get_urls_from_sitemap(url_pattern: str) -> list[str]:
         return []
 
 
-def scrape_venue_detail(url: str, pricing_data: dict = None) -> Optional[dict]:
+def scrape_venue_detail(url: str) -> Optional[dict]:
     """Scrape a single venue detail page"""
     try:
         response = httpx.get(url, headers=HEADERS, timeout=30, follow_redirects=True)
@@ -222,17 +148,6 @@ def scrape_venue_detail(url: str, pricing_data: dict = None) -> Optional[dict]:
                         data["capacity"] = text
                     break
 
-        if pricing_data and venue_id in pricing_data:
-            data["rating"] = pricing_data[venue_id].get("rating", 0.0)
-            data["pricing"] = {
-                "lunch_from": pricing_data[venue_id].get("lunch_from"),
-                "lunch_days": pricing_data[venue_id].get("lunch_days"),
-                "dinner_from": pricing_data[venue_id].get("dinner_from"),
-                "dinner_days": pricing_data[venue_id].get("dinner_days"),
-                "tables_range": pricing_data[venue_id].get("tables_range"),
-                "tables_days": pricing_data[venue_id].get("tables_days"),
-            }
-
         return data
 
     except Exception as e:
@@ -273,6 +188,94 @@ def scrape_marketplace_package(url: str) -> Optional[dict]:
         return None
 
 
+def scrape_banquet_prices() -> list[dict]:
+    """Scrape banquet price list table from the main price list page"""
+    url = f"{BASE_URL}/wedding-banquet-price-list"
+
+    try:
+        print(f"Fetching {url}...")
+        response = httpx.get(url, headers=HEADERS, timeout=30, follow_redirects=True)
+        response.raise_for_status()
+
+        soup = BeautifulSoup(response.text, "html.parser")
+        vendors = []
+
+        table = soup.find('table', class_='table')
+        if not table:
+            table = soup.find('table')
+
+        if not table:
+            print("⚠️  No table found on banquet price list page")
+            return []
+
+        rows = table.find_all('tr')
+
+        for row in rows:
+            tds = row.find_all('td')
+
+            if len(tds) >= 4:
+                vendor_data = {}
+
+                vendor_info_td = tds[0]
+                strong_tag = vendor_info_td.find('strong')
+                if strong_tag:
+                    vendor_data['name'] = strong_tag.get_text(strip=True)
+                else:
+                    p_tag = vendor_info_td.find('p', style=lambda x: x and 'font-size: 18px' in x)
+                    if p_tag:
+                        vendor_data['name'] = p_tag.get_text(strip=True)
+
+                profile_link = vendor_info_td.find('a', href=lambda x: x and '/detail/' in x)
+                if profile_link and profile_link.get('href'):
+                    vendor_data['profile_url'] = f"{BASE_URL}{profile_link['href']}" if profile_link['href'].startswith('/') else profile_link['href']
+
+                rating_input = vendor_info_td.find('input', {'id': 'merchant_score'})
+                if rating_input and rating_input.get('value'):
+                    vendor_data['rating'] = rating_input['value']
+
+                lunch_td = tds[1] if len(tds) > 1 else None
+                if lunch_td:
+                    lunch_text = lunch_td.get_text(strip=True)
+                    vendor_data['lunch_price'] = lunch_text
+
+                dinner_td = tds[2] if len(tds) > 2 else None
+                if dinner_td:
+                    dinner_text = dinner_td.get_text(strip=True)
+                    vendor_data['dinner_price'] = dinner_text
+
+                tables_td = tds[3] if len(tds) > 3 else None
+                if tables_td:
+                    tables_text = tables_td.get_text(strip=True)
+                    tables_match = re.search(r'(\d+)\s*-\s*(\d+)', tables_text)
+                    if tables_match:
+                        vendor_data['tables_min'] = tables_match.group(1)
+                        vendor_data['tables_max'] = tables_match.group(2)
+                    vendor_data['tables_range'] = tables_text
+
+                pricelist_td = tds[4] if len(tds) > 4 else None
+                if pricelist_td:
+                    pdf_links = pricelist_td.find_all('a', href=True)
+                    price_list_urls = []
+                    for link in pdf_links:
+                        href = link.get('href')
+                        if href and isinstance(href, str) and href.strip() and href.strip() != '#':
+                            href = href.strip()
+                            pdf_url = f"{BASE_URL}{href}" if href.startswith('/') else href
+                            price_list_urls.append(pdf_url)
+                    if price_list_urls:
+                        vendor_data['price_lists'] = price_list_urls
+
+                if vendor_data.get('name'):
+                    vendors.append(vendor_data)
+
+        print(f"Found {len(vendors)} vendors")
+        return vendors
+
+    except Exception as e:
+        print(f"Error scraping banquet prices: {e}")
+        return []
+
+
 def load_existing_data(output_path: str) -> dict:
     """Load existing scraped data to avoid re-scraping"""
     json_file = Path(output_path).with_suffix(".json")
@@ -290,7 +293,7 @@ def load_existing_data(output_path: str) -> dict:
     return {}
 
 
-def scrape_items(url_pattern: str, scraper_func, limit: Optional[int], delay: float, pricing_data: dict = None, output_path: str = None) -> list[dict]:
+def scrape_items(url_pattern: str, scraper_func, limit: Optional[int], delay: float, output_path: str = None) -> list[dict]:
     """Generic scraping function with caching"""
     urls = get_urls_from_sitemap(url_pattern)
 
@@ -316,10 +319,7 @@ def scrape_items(url_pattern: str, scraper_func, limit: Optional[int], delay: fl
 
         print(f"[{i}/{total}] Scraping {url}")
 
-        if pricing_data is not None:
-            item = scraper_func(url, pricing_data)
-        else:
-            item = scraper_func(url)
+        item = scraper_func(url)
 
         if item:
             items.append(item)
@@ -347,11 +347,20 @@ def save_to_files(data: list[dict], output_path: str):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
     if data:
-        keys = list(data[0].keys())
+        all_keys = set()
+        for item in data:
+            all_keys.update(item.keys())
+        keys = sorted(all_keys)
+
         with open(csv_file, "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=keys)
             writer.writeheader()
-            writer.writerows(data)
+            for item in data:
+                row = item.copy()
+                for key, value in row.items():
+                    if isinstance(value, list):
+                        row[key] = json.dumps(value)
+                writer.writerow(row)
 
     print(f"✅ Saved {len(data)} items to:")
     print(f"   - {json_file}")
@@ -364,7 +373,7 @@ def main():
 
     parser.add_argument(
         "type",
-        choices=["venues", "marketplace", "both"],
+        choices=["venues", "marketplace", "banquet-prices", "all"],
         help="Type of data to scrape"
     )
     parser.add_argument("--limit", type=int, help="Max items to scrape")
@@ -374,24 +383,18 @@ def main():
 
     args = parser.parse_args()
 
-    if args.type in ["venues", "both"]:
+    if args.type in ["venues", "all"]:
         print("\n" + "="*60)
         print("SCRAPING VENUES")
         print("="*60 + "\n")
-
-        print("Fetching pricing data from banquet price list...")
-        pricing_data = scrape_banquet_price_list()
-        print()
 
         output_path = f"{args.output}/venues"
 
         if args.force:
             print("🔄 Force mode: ignoring existing data\n")
-            venues = scrape_items("/detail/", scrape_venue_detail, args.limit, args.delay, pricing_data, None)
+            venues = scrape_items("/detail/", scrape_venue_detail, args.limit, args.delay, None)
         else:
-            venues = scrape_items("/detail/", scrape_venue_detail, args.limit, args.delay, pricing_data, output_path)
-
-        save_to_files(venues, output_path)
+            venues = scrape_items("/detail/", scrape_venue_detail, args.limit, args.delay, output_path)
 
         if venues:
             print(f"\n📊 Total venues: {len(venues)}")
@@ -404,7 +407,7 @@ def main():
             for cat, count in sorted(categories.items(), key=lambda x: -x[1])[:10]:
                 print(f"  {cat}: {count}")
 
-    if args.type in ["marketplace", "both"]:
+    if args.type in ["marketplace", "all"]:
         print("\n" + "="*60)
         print("SCRAPING MARKETPLACE")
         print("="*60 + "\n")
@@ -414,6 +417,28 @@ def main():
 
         if packages:
             print(f"\n📊 Total packages: {len(packages)}")
+
+    if args.type in ["banquet-prices", "all"]:
+        print("\n" + "="*60)
+        print("SCRAPING BANQUET PRICES")
+        print("="*60 + "\n")
+
+        vendors = scrape_banquet_prices()
+        save_to_files(vendors, f"{args.output}/banquet_prices")
+
+        if vendors:
+            print(f"\n📊 Total vendors: {len(vendors)}")
+            print("\nSample vendors:")
+            for idx, vendor in enumerate(vendors[:5], 1):
+                print(f"\n{idx}. {vendor.get('name', 'N/A')}")
+                if 'rating' in vendor:
+                    print(f"   Rating: {vendor['rating']}/5")
+                if 'lunch_price' in vendor:
+                    print(f"   Lunch: {vendor['lunch_price']}")
+                if 'dinner_price' in vendor:
+                    print(f"   Dinner: {vendor['dinner_price']}")
+                if 'tables_range' in vendor:
+                    print(f"   Tables: {vendor['tables_range']}")
 
 
 if __name__ == "__main__":
