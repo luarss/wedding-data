@@ -24,6 +24,9 @@ jobs:
       - name: Run TWN scraper
         run: uv run python src/twn/main.py
 
+      - name: Run BlissfulBrides scraper
+        run: uv run python src/bb/main.py venues
+
       - name: Commit and push data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
