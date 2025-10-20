@@ -1,7 +1,12 @@
 [project]
 name = "wedscraper"
 version = "0.1.0"
-description = "Add your description here"
+description = "Wedding vendor data scraper for Singapore wedding websites"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "httpx>=0.28.1",
+    "lxml>=6.0.2",
+    "pandas>=2.3.3",
+]
