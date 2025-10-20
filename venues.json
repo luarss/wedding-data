@@ -1,0 +1,1330 @@
+[
+  {
+    "_id": "650d6f3ef70c5862f2ada9b9",
+    "name": "Sentul Pavilion KL",
+    "slug": "sentul-pavilion-kl",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "Jalan Strachan, Sentul West, 51200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 1,
+      "maxCapacity": 300,
+      "minPrice": "15000",
+      "maxPrice": "45000",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "65111b32f70c5862f2adea61",
+    "name": "Epitro House",
+    "slug": "epitro-house",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "address": "19, Jln 14/29, Seksyen 14, 46100 Petaling Jaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 1,
+      "maxCapacity": 50,
+      "minPrice": "1200",
+      "maxPrice": "1200",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "657819bfb413f3c2bcdab51c",
+    "name": "Grand Hyatt Kuala Lumpur",
+    "slug": "grand-hyatt-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "12, Jalan Pinang, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 200,
+      "maxCapacity": 700,
+      "minPrice": "3930",
+      "maxPrice": "4489",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "657917bab413f3c2bcdacc5e",
+    "name": "The Majestic Hotel Kuala Lumpur",
+    "slug": "the-majestic-hotel-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "5, Jalan Sultan Hishamuddin, Tasik Perdana, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 50,
+      "maxCapacity": 1500,
+      "minPrice": "250",
+      "maxPrice": "3580",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "659583d1b413f3c2bcdb2206",
+    "name": "Hilton Kuala Lumpur",
+    "slug": "hilton-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "3, Jalan Stesen Sentral, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 10,
+      "maxCapacity": 1100,
+      "minPrice": "1980",
+      "maxPrice": "4288",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "6596ae6fb413f3c2bcdb43bc",
+    "name": "The Saujana Hotel Kuala Lumpur",
+    "slug": "the-saujana-hotel-kuala-lumpur",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Shah Alam",
+    "address": "Jalan Lapangan Terbang Subang, Saujana, 40150 Shah Alam, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 120,
+      "maxCapacity": 300,
+      "minPrice": "2270",
+      "maxPrice": "2380",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "659777f5b413f3c2bcdb5928",
+    "name": "Pavilion Hotel Kuala Lumpur",
+    "slug": "pavilion-hotel-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "168, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 10,
+      "maxCapacity": 300,
+      "minPrice": "3888",
+      "maxPrice": "4288",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "659d1225b413f3c2bcdb9243",
+    "name": "The St. Regis Kuala Lumpur",
+    "slug": "the-st.-regis-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "6, Jalan Stesen Sentral 2, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 50,
+      "maxCapacity": 1060,
+      "minPrice": "400",
+      "maxPrice": "498",
+      "indoorOutdoor": "Indoor___Outdoor"
+    }
+  },
+  {
+    "_id": "659d3df0b413f3c2bcdbacfc",
+    "name": "Le Meridien Kuala Lumpur",
+    "slug": "le-meridien-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "2, Jalan Stesen Sentral, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 80,
+      "maxCapacity": 300,
+      "minPrice": "369",
+      "maxPrice": "439",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "659d4967b413f3c2bcdbc5ef",
+    "name": "JW Marriott Hotel Kuala Lumpur",
+    "slug": "jw-marriott-hotel-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "183, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 150,
+      "maxCapacity": 700,
+      "minPrice": "2888",
+      "maxPrice": "3288",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "65a13bbe8afc3f3cbf457165",
+    "name": "The Ruma Hotel and Residences",
+    "slug": "the-ruma-hotel-and-residences",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "7, Jalan Kia Peng, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 70,
+      "maxCapacity": 90,
+      "minPrice": "428",
+      "maxPrice": "528",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "65a144408afc3f3cbf459fea",
+    "name": "Sime Darby Convention Centre",
+    "slug": "sime-darby-convention-centre",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "1, Jalan Bukit Kiara 1, Bukit Kiara, 60000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 50,
+      "maxCapacity": 1500,
+      "minPrice": "1750",
+      "maxPrice": "60000",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "65a14bb18afc3f3cbf45cd52",
+    "name": "EQ Kuala Lumpur",
+    "slug": "eq-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "EQ, Equatorial Plaza, Jln Sultan Ismail, Kuala Lumpur, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 450,
+      "minPrice": "3899",
+      "maxPrice": "4699",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "65ae69ea8afc3f3cbf465fb2",
+    "name": "Sheraton Petaling Jaya Hotel",
+    "slug": "sheraton-petaling-jaya-hotel",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "address": "Lorong Utara C, Pjs 52, 46200 Petaling Jaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 200,
+      "maxCapacity": 750,
+      "minPrice": "2988",
+      "maxPrice": "2988",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "65ae6f7c8afc3f3cbf469003",
+    "name": "Sunway Resort Hotel",
+    "slug": "sunway-resort-hotel",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "address": "1, Persiaran Lagoon, Bandar Sunway, 47500 Petaling Jaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 1800,
+      "minPrice": null,
+      "maxPrice": null,
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "65dd8eb839b90954d9bb0458",
+    "name": "Metal Bees",
+    "slug": "metal-bees",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "address": "6, Jalan PJU 3/45, Sunway Damansara, 47810 Petaling Jaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 0,
+      "maxCapacity": 300,
+      "minPrice": "25000",
+      "maxPrice": "25000",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "67d247dc756e2c36f5412b24",
+    "name": "W Kuala Lumpur",
+    "slug": "w-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "121, Jln Ampang, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 20,
+      "maxCapacity": 500,
+      "minPrice": "458",
+      "maxPrice": "8888",
+      "indoorOutdoor": "Indoor___Outdoor"
+    }
+  },
+  {
+    "_id": "67d78cc73ffd1a7da2a35e8e",
+    "name": "Four Seasons Hotel Kuala Lumpur",
+    "slug": "four-seasons-hotel-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "145, Jln Ampang, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 400,
+      "minPrice": "468",
+      "maxPrice": "538",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "67d799a93ffd1a7da2a3b190",
+    "name": "Crystal Crown Hotel PJ",
+    "slug": "crystal-crown-hotel-pj",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "address": "12, Lorong Utara A, Off, Jln Utara, Pjs 52, 46200 Petaling Jaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 50,
+      "maxCapacity": 550,
+      "minPrice": "2088",
+      "maxPrice": "2298",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "67d7a23a3ffd1a7da2a3eca9",
+    "name": "Shangri-La Kuala Lumpur",
+    "slug": "shangri-la-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "11, Jln Sultan Ismail, Kuala Lumpur, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 50,
+      "maxCapacity": 1800,
+      "minPrice": "3888.8",
+      "maxPrice": "5000",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "67d7a8703ffd1a7da2a4205b",
+    "name": "The Estate KL",
+    "slug": "the-estate-kl",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "333, Jln Damansara, Bukit Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 20,
+      "maxCapacity": 100,
+      "minPrice": "0",
+      "maxPrice": "0",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "67d7bd3a3ffd1a7da2a48794",
+    "name": "The Chow Kit – An Ormond Hotel",
+    "slug": "the-chow-kit-–-an-ormond-hotel",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "1012, Jln Sultan Ismail, Chow Kit, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 40,
+      "maxCapacity": 100,
+      "minPrice": "25000",
+      "maxPrice": "25000",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "67d7c53c3ffd1a7da2a4de19",
+    "name": "M Resort & Hotel",
+    "slug": "m-resort-&-hotel",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "Jln Damansara, Bukit Kiara, 60000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 300,
+      "maxCapacity": 1000,
+      "minPrice": "288",
+      "maxPrice": "288",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "67d7cae23ffd1a7da2a4fd7e",
+    "name": "Aloft Kuala Lumpur Sentral",
+    "slug": "aloft-kuala-lumpur-sentral",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "5, Jalan Stesen Sentral, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 1000,
+      "minPrice": null,
+      "maxPrice": null,
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "67d7d0c13ffd1a7da2a5223a",
+    "name": "The Westin Kuala Lumpur",
+    "slug": "the-westin-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "199, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 600,
+      "minPrice": null,
+      "maxPrice": null,
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "67d7d5583ffd1a7da2a54331",
+    "name": "Grand Millennium KL",
+    "slug": "grand-millennium-kl",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "160, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 230,
+      "maxCapacity": 400,
+      "minPrice": "2388",
+      "maxPrice": "2788",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "67d7d9733ffd1a7da2a57c67",
+    "name": "Crowne Plaza Kuala Lumpur City Centre",
+    "slug": "crowne-plaza-kuala-lumpur-city-centre",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "No 22, Menara 8, Jalan Yap Kwan Seng, Kampung Baru, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 200,
+      "maxCapacity": 400,
+      "minPrice": "3085",
+      "maxPrice": "3288",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "67d7e1863ffd1a7da2a5b643",
+    "name": "Corus Hotel Kuala Lumpur",
+    "slug": "corus-hotel-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "Persiaran Hampshire, Jalan Ampang, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 80,
+      "maxCapacity": 500,
+      "minPrice": null,
+      "maxPrice": null,
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "67da54313ffd1a7da2a6a740",
+    "name": "Angsana Teluk Bahang",
+    "slug": "angsana-teluk-bahang",
+    "category": "venues",
+    "state": "Pulau Pinang",
+    "city": "Tanjung Bungah",
+    "address": "11, Jalan Teluk Bahang, Teluk Bahang, 11050 Tanjung Bungah, Pulau Pinang, Malaysia",
+    "venue": {
+      "minCapacity": 10,
+      "maxCapacity": 216,
+      "minPrice": "2385",
+      "maxPrice": "12995",
+      "indoorOutdoor": "Indoor___Outdoor"
+    }
+  },
+  {
+    "_id": "67da5e8e3ffd1a7da2a6ee8c",
+    "name": "Ruang Rama PJ",
+    "slug": "ruang-rama-pj",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "address": "WISMA DAJU 5, 21, Jalan Barat, Pjs 8, 46200 Petaling Jaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 450,
+      "minPrice": "12999",
+      "maxPrice": "37000",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "67da64193ffd1a7da2a71cfe",
+    "name": "K'Seena House",
+    "slug": "k'seena-house",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Kuang",
+    "address": "Lot 3035, Lorong Teratai, Kampung Damai, 48050 Kuang, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 50,
+      "maxCapacity": 300,
+      "minPrice": "0",
+      "maxPrice": "0",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "67da685d3ffd1a7da2a751ad",
+    "name": "Connexion Conference & Event Center",
+    "slug": "connexion-conference-&-event-center",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "7, Jalan Kerinchi, Bangsar South, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 1200,
+      "minPrice": "1900",
+      "maxPrice": "9000",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "67e12ff73ffd1a7da2a8c4af",
+    "name": "Renaissance Kuala Lumpur Hotel",
+    "slug": "renaissance-kuala-lumpur-hotel",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "Corner Of Jalan Sultan Ismail, &, Jln Ampang, Kampung Baru, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 10,
+      "maxCapacity": 750,
+      "minPrice": "2903",
+      "maxPrice": "4307.04",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "67e13e6c3ffd1a7da2a90247",
+    "name": "One World Hotel Petaling Jaya",
+    "slug": "one-world-hotel-petaling-jaya",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "address": "First Avenue, City Centre, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 2000,
+      "minPrice": "288",
+      "maxPrice": "468",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "67ef3c16594e6d14ed1065a1",
+    "name": "Atlantic Seafood Restaurant 大西洋海鲜酒家",
+    "slug": "atlantic-seafood-restaurant-大西洋海鲜酒家",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "address": "Lot TG-MW, 001 & 004, Ground Floor, Tropicana Golf & Country Resort, Main Wing, Jalan Kelab Tropicana, Tropicana, 47410 Petaling Jaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 50,
+      "maxCapacity": 650,
+      "minPrice": "180",
+      "maxPrice": "288",
+      "indoorOutdoor": "Indoor___Outdoor"
+    }
+  },
+  {
+    "_id": "67f4ebb5594e6d14ed1159f3",
+    "name": "Confetti KL",
+    "slug": "confetti-kl",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Seri Kembangan",
+    "address": "Confetti KL, Ground floor Retail Block, Pusat Perdagangan Mines, 2,",
+    "venue": {
+      "minCapacity": 1,
+      "maxCapacity": 450,
+      "minPrice": "2988",
+      "maxPrice": "4988",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "6805a24027c7453c08a1a5e6",
+    "name": "Putrajaya Marriott Hotel",
+    "slug": "putrajaya-marriott-hotel",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Sepang",
+    "address": "IOI Resort City, Ioi Resort, 62502 Sepang, Wilayah Persekutuan Putrajaya, Malaysia",
+    "venue": {
+      "minCapacity": 80,
+      "maxCapacity": 1200,
+      "minPrice": "2488",
+      "maxPrice": "2888",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "68070b1d27c7453c08a28bff",
+    "name": "Le Meridien Putrajaya Wedding",
+    "slug": "le-meridien-putrajaya-wedding",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Putrajaya",
+    "address": "Lebuh IRC IOI Resort City, Ioi Resort, 62502 Putrajaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 90,
+      "maxCapacity": 600,
+      "minPrice": "288",
+      "maxPrice": "3288",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "680860fa27c7453c08a344d9",
+    "name": "Palm Garden Hotel Putrajaya",
+    "slug": "palm-garden-hotel-putrajaya",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Serdang",
+    "address": "Palm Garden Hotel, Ioi Resort, 62502 Serdang, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 30,
+      "maxCapacity": 350,
+      "minPrice": "238",
+      "maxPrice": "250000",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "680df9c327c7453c08a4ef38",
+    "name": "Sofitel Kuala Lumpur Damansara",
+    "slug": "sofitel-kuala-lumpur-damansara",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "6, Jalan Damanlela, Bukit Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 80,
+      "maxCapacity": 420,
+      "minPrice": "328",
+      "maxPrice": "3899",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "682c37c6b09d890fe53071ff",
+    "name": "Glenmarie Hotel & Golf Resort",
+    "slug": "glenmarie-hotel-&-golf-resort",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Shah Alam",
+    "address": "1, Jalan Usahawan U1/8, Glenmarie Golf And Country Club, 40250 Shah Alam, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 250,
+      "maxCapacity": 500,
+      "minPrice": "168",
+      "maxPrice": "268",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "6837e66e7e5df6960d6afb2e",
+    "name": "PARKROYAL COLLECTION Kuala Lumpur",
+    "slug": "parkroyal-collection-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "Jln Sultan Ismail, Bukit Bintang, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 440,
+      "minPrice": "97",
+      "maxPrice": "250",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "683810777e5df6960d6b6fab",
+    "name": "The Ritz-Carlton",
+    "slug": "the-ritz-carlton",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "168, Jln Imbi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 20,
+      "maxCapacity": 400,
+      "minPrice": "250",
+      "maxPrice": "350",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "68382cf47e5df6960d6c8598",
+    "name": "Ciao Ristorante KL",
+    "slug": "ciao-ristorante-kl",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "20A, Jalan Kampung Pandan, Off, Jln Tun Razak, Kelab Golf di Raja Selangor, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 10,
+      "maxCapacity": 300,
+      "minPrice": "8800",
+      "maxPrice": "55000",
+      "indoorOutdoor": "Outdoor_Only"
+    }
+  },
+  {
+    "_id": "683942377e5df6960d6d477b",
+    "name": "Intercontinental Hotel",
+    "slug": "intercontinental-hotel",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "165, Jln Ampang, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 650,
+      "minPrice": "100",
+      "maxPrice": "300",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "683948ab7e5df6960d6d5c6e",
+    "name": "Lumi Marketplace (LMP)",
+    "slug": "lumi-marketplace-(lmp)",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "address": "Persiaran Tropicana, Tropicana, 47800 Petaling Jaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 10,
+      "maxCapacity": 210,
+      "minPrice": "95",
+      "maxPrice": "200",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "683e93a514b6d6d410863e71",
+    "name": "Bayswater at KLCC",
+    "slug": "bayswater-at-klcc",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "8, Jalan Sejahtera, Kampung Datuk Keramat, 55000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 1,
+      "maxCapacity": 500,
+      "minPrice": "2088",
+      "maxPrice": "3888",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "683ea05714b6d6d410865094",
+    "name": "The Luna Grand Ballroom Kuala Lumpur",
+    "slug": "the-luna-grand-ballroom-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "Level 7, Wisma IAV, 86, Jalan Pasar, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 1,
+      "maxCapacity": 450,
+      "minPrice": "2088",
+      "maxPrice": "2888",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "683eaef414b6d6d4108660fc",
+    "name": "Ukay Hills - Private Event Estate & Lifestyle Suites",
+    "slug": "ukay-hills---private-event-estate-&-lifestyle-suites",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Ampang",
+    "address": "Jalan Kelab Ukay Utama, Taman Kelab Ukay, 68000 Ampang, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 1,
+      "maxCapacity": 550,
+      "minPrice": "2288",
+      "maxPrice": "3588",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "683eb87d14b6d6d410868127",
+    "name": "The Grey Box (GMBB)",
+    "slug": "the-grey-box-(gmbb)",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "2, Jalan Robertson, Bukit Bintang, 50150 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 50,
+      "maxCapacity": 150,
+      "minPrice": "8000",
+      "maxPrice": "8000",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "68415c84d66e7d309284a70e",
+    "name": "RAMA V",
+    "slug": "rama-v",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "5, Jalan U Thant, Kelab Golf di Raja Selangor, 55000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 50,
+      "maxCapacity": 180,
+      "minPrice": "50",
+      "maxPrice": "268",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "6843aaf267e26917c4579d7c",
+    "name": "Maison Eleven - Lifestyle Event Venue",
+    "slug": "maison-eleven---lifestyle-event-venue",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Shah Alam",
+    "address": "Level 11, Courtyard By Marriott, Jln Setia Dagang AH U13/AH, Setia Alam, 40170 Shah Alam, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 1,
+      "maxCapacity": 250,
+      "minPrice": "200",
+      "maxPrice": "30000",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "68493a2202d4bb7faade4644",
+    "name": "M World Hotel Petaling Jaya",
+    "slug": "m-world-hotel-petaling-jaya",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "address": "1, Persiaran Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 50,
+      "maxCapacity": 500,
+      "minPrice": "188.8",
+      "maxPrice": "198.8",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "6849448502d4bb7faade6954",
+    "name": "Pullman KLCC",
+    "slug": "pullman-klcc",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "4, Jalan Conlay, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 150,
+      "maxCapacity": 420,
+      "minPrice": "198.8",
+      "maxPrice": "5888",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "684bcedbae485a22bdfae155",
+    "name": "Eastin Hotel",
+    "slug": "eastin-hotel",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "address": "Pusat Dagang, 13, Jalan 16/11, Seksyen 16, 46350 Petaling Jaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 500,
+      "minPrice": "228",
+      "maxPrice": "268",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "684d2326ae485a22bdfb9009",
+    "name": "Holiday Inn Sepang Airport",
+    "slug": "holiday-inn-sepang-airport",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Sepang",
+    "address": "SE MY, Kip Sentral, Jalan Warisan Sentral, Kota Warisan, 43900 Sepang, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 400,
+      "minPrice": "170",
+      "maxPrice": "15000",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "684d2d2bae485a22bdfbad01",
+    "name": "ELSE Kuala Lumpur",
+    "slug": "else-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "145, Jalan Tun H S Lee, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 10,
+      "maxCapacity": 120,
+      "minPrice": "10000",
+      "maxPrice": "18000",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "68565a619a928f37b3fb74ec",
+    "name": "WG Glassbox Cyberjaya",
+    "slug": "wg-glassbox-cyberjaya",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Cyberjaya",
+    "address": "Level 4, Block E, Park at L2, Tamarind Square, Persiaran Multimedia, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 50,
+      "maxCapacity": 150,
+      "minPrice": "16500",
+      "maxPrice": "16500",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "68565c339a928f37b3fb9e12",
+    "name": "Glasshouse at Seputeh",
+    "slug": "glasshouse-at-seputeh",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "17, Lorong Syed Putra Kiri, Bukit Seputeh, 50460 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 400,
+      "minPrice": "10000",
+      "maxPrice": "22000",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "686de692a4216d0eb5abf258",
+    "name": "Colony @ The MET",
+    "slug": "colony-@-the-met",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "20, Jalan Dutamas 2, Kompleks Kerajaan, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 300,
+      "minPrice": "19500",
+      "maxPrice": "25800",
+      "indoorOutdoor": "Outdoor_Only"
+    }
+  },
+  {
+    "_id": "686dfc99a4216d0eb5ac2500",
+    "name": "Mandarin Oriental Kuala Lumpur",
+    "slug": "mandarin-oriental-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 0,
+      "maxCapacity": 1100,
+      "minPrice": "4880",
+      "maxPrice": "5080",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "686e1a2ea4216d0eb5ac85e4",
+    "name": "Royale Chulan Kuala Lumpur",
+    "slug": "royale-chulan-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "5, Jalan Conlay, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 1500,
+      "minPrice": "2330",
+      "maxPrice": "2880",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "686e2d91a4216d0eb5acb1c3",
+    "name": "Sheraton Imperial KL",
+    "slug": "sheraton-imperial-kl",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "Jln Sultan Ismail, Kuala Lumpur, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 0,
+      "maxCapacity": 1000,
+      "minPrice": "2980",
+      "maxPrice": "4520",
+      "indoorOutdoor": "Outdoor_Only"
+    }
+  },
+  {
+    "_id": "6870c413a4216d0eb5ae7a49",
+    "name": "Imperial Lexis Kuala Lumpur",
+    "slug": "imperial-lexis-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Wilayah Persekutuan",
+    "address": "15, Jalan Kia Peng, Kuala Lumpur, 50450 Wilayah Persekutuan, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 10,
+      "maxCapacity": 360,
+      "minPrice": "3388",
+      "maxPrice": "45000",
+      "indoorOutdoor": "Indoor___Outdoor"
+    }
+  },
+  {
+    "_id": "6871ea8ca4216d0eb5af307c",
+    "name": "Boathouse By The Lake",
+    "slug": "boathouse-by-the-lake",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Ampang",
+    "address": "Tasik Ampang, 5, Jalan Hulu Kelang, Kampung Berembang, 68000 Ampang, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 200,
+      "maxCapacity": 340,
+      "minPrice": "38800",
+      "maxPrice": "44798",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "6874a3c8a4216d0eb5b0b683",
+    "name": "Sangkot Place",
+    "slug": "sangkot-place",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Hulu Langat",
+    "address": "Sangkot Garden, Lot 5373 Batu 15, Dusun Tua, 43100 Hulu Langat, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 700,
+      "minPrice": "16500",
+      "maxPrice": "23500",
+      "indoorOutdoor": "Outdoor_Only"
+    }
+  },
+  {
+    "_id": "6874ac68a4216d0eb5b0e44e",
+    "name": "Changkat Telang 18",
+    "slug": "changkat-telang-18",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Hulu Langat",
+    "address": "49, B52, Pekan Batu Lapan Belas, 43100 Hulu Langat, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 300,
+      "maxCapacity": 500,
+      "minPrice": "39250",
+      "maxPrice": "39250",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "687725a9a4216d0eb5b27fe6",
+    "name": "Forest Valley Hall",
+    "slug": "forest-valley-hall",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Cheras",
+    "address": "Jalan Permaisuri 10/6, Bandar Mahkota Cheras, 43200 Cheras, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 1000,
+      "minPrice": "10000",
+      "maxPrice": "41900",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "68774a5ca4216d0eb5b2fe4e",
+    "name": "Ginger KL",
+    "slug": "ginger-kl",
+    "category": "venues",
+    "state": "Federal Territory of Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "Unit P05, Bamboo Hills, off Lebuhraya Duta Ulu Kelang, Taman Bamboo, Segambut, 51200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 50,
+      "maxCapacity": 120,
+      "minPrice": "35000",
+      "maxPrice": "50000",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "6877660fa4216d0eb5b346e3",
+    "name": "Lantera Venue",
+    "slug": "lantera-venue",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Shah Alam",
+    "address": "Resort Club, Jalan Serindit, Seksyen U 9, Cahaya SPK, 40150 Shah Alam, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 200,
+      "maxCapacity": 500,
+      "minPrice": "29900",
+      "maxPrice": "99900",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "687c9497692887317bb558f1",
+    "name": "Tamarind Springs",
+    "slug": "tamarind-springs",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Ampang",
+    "address": "Jalan 1, Taman Tun Abdul Razak, 68000 Ampang, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 200,
+      "minPrice": "7888",
+      "maxPrice": "9888",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "68806c99692887317bb7fbf3",
+    "name": "The Acres Resort",
+    "slug": "the-acres-resort",
+    "category": "venues",
+    "state": "Pahang",
+    "city": "Bentong",
+    "address": "lot 28431, Kampung Bukit Tinggi, 28750 Bentong, Pahang, Malaysia",
+    "venue": {
+      "minCapacity": 76,
+      "maxCapacity": 150,
+      "minPrice": "40000",
+      "maxPrice": "58000",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "68807846692887317bb843d8",
+    "name": "Tanarimba Janda Baik",
+    "slug": "tanarimba-janda-baik",
+    "category": "venues",
+    "state": "Pahang",
+    "city": "Bentong",
+    "address": "C1, Jalan Tanarimba Pine, Tanarimba, Janda Baik, 28750 Bentong, Pahang, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 250,
+      "minPrice": "8250",
+      "maxPrice": "13200",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "6881e94f692887317bb9d88a",
+    "name": "Club 360, Setia Ecohill, Semenyih",
+    "slug": "club-360,-setia-ecohill,-semenyih",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Semenyih",
+    "address": "1, Persiaran Ecohill Barat, Setia Ecohill, 43500 Semenyih, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 1000,
+      "minPrice": "70",
+      "maxPrice": "73000",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "6881ee58692887317bb9e119",
+    "name": "Grand Ballroom @ LakePoint Club, Setia AlamImpian",
+    "slug": "grand-ballroom-@-lakepoint-club,-setia-alamimpian",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Shah Alam",
+    "address": "1, Jalan Panglima Hitam 35/26, Seksyen 35, Alam Impian, 40470 Shah Alam, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 300,
+      "maxCapacity": 1000,
+      "minPrice": "80",
+      "maxPrice": "78899",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "6881f001692887317bb9e6bb",
+    "name": "Camellia Hall, Canopy Club @ Setia Eco Park, Setia Alam",
+    "slug": "camellia-hall,-canopy-club-@-setia-eco-park,-setia-alam",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Shah Alam",
+    "address": "Jalan Setia Nusantara U13/17, Setia Alam, Seksyen U13, Setia Eco-park, Setia Alam, 40170 Shah Alam, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 200,
+      "maxCapacity": 500,
+      "minPrice": "80",
+      "maxPrice": "5600",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "6889f717692887317bc00aa9",
+    "name": "Kebun Rimba Private Estate",
+    "slug": "kebun-rimba-private-estate",
+    "category": "venues",
+    "state": "Pahang",
+    "city": "Bentong",
+    "address": "Lot PT 12391, Kampung Cheringin, Kampung Janda Baik, 28750 Bentong, Pahang, Malaysia",
+    "venue": {
+      "minCapacity": 30,
+      "maxCapacity": 250,
+      "minPrice": "2500",
+      "maxPrice": "19600",
+      "indoorOutdoor": "Indoor___Outdoor"
+    }
+  },
+  {
+    "_id": "688b153c81b9e5b9d53f09f4",
+    "name": "Meliá Kuala Lumpur",
+    "slug": "meliá-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "16, Jln Imbi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 150,
+      "maxCapacity": 200,
+      "minPrice": "850",
+      "maxPrice": "2500",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "688db58481b9e5b9d541058e",
+    "name": "Le Meridien Petaling Jaya",
+    "slug": "le-meridien-petaling-jaya",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "address": "1, Jalan SS 7/26a, Ss 7, 47301 Petaling Jaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 250,
+      "maxCapacity": 1000,
+      "minPrice": "2588",
+      "maxPrice": "2588",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "688e237e81b9e5b9d5416e88",
+    "name": "Hilton Petaling Jaya",
+    "slug": "hilton-petaling-jaya",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "address": "2, Jalan Barat, Pjs 52, 46200 Petaling Jaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 50,
+      "maxCapacity": 1000,
+      "minPrice": "2687",
+      "maxPrice": "3388",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "6891abee81b9e5b9d544a9aa",
+    "name": "Templer's Ballroom @ Setia Eco Templer, Rawang",
+    "slug": "templer's-ballroom-@-setia-eco-templer,-rawang",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Rawang",
+    "address": "1, Jalan Ipoh- KM20, Taman Rekreasi Templar, Templer Park, 48000 Rawang, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 1000,
+      "minPrice": "80",
+      "maxPrice": "76000",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "689c399481b9e5b9d54d28c4",
+    "name": "Urban Park Hall",
+    "slug": "urban-park-hall",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Shah Alam",
+    "address": "Alam Impian, 40470 Shah Alam, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 1500,
+      "minPrice": "15900",
+      "maxPrice": "39900",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  },
+  {
+    "_id": "68abc53481b9e5b9d5542e6f",
+    "name": "Ampang Glasshouse",
+    "slug": "ampang-glasshouse",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Ampang",
+    "address": "22, Jalan Cempaka 15, Taman Cempaka, 68000 Ampang, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 50,
+      "maxCapacity": 250,
+      "minPrice": "8850",
+      "maxPrice": "12880",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
+  }
+]
