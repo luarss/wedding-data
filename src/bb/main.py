@@ -3,6 +3,7 @@ import csv
 import time
 import argparse
 import re
+import asyncio
 from pathlib import Path
 import httpx
 from bs4 import BeautifulSoup
@@ -14,10 +15,10 @@ HEADERS = {
 }
 
 
-def download_pdf(url: str, save_path: Path) -> bool:
+async def download_pdf(client: httpx.AsyncClient, url: str, save_path: Path) -> bool:
     """Download a PDF file to the specified path"""
     try:
-        response = httpx.get(url, headers=HEADERS, timeout=30, follow_redirects=True)
+        response = await client.get(url, timeout=30, follow_redirects=True)
         response.raise_for_status()
 
         save_path.parent.mkdir(parents=True, exist_ok=True)
@@ -55,10 +56,10 @@ def get_urls_from_sitemap(url_pattern: str) -> list[str]:
         return []
 
 
-def scrape_venue_detail(url: str) -> Optional[dict]:
+async def scrape_venue_detail(client: httpx.AsyncClient, url: str) -> Optional[dict]:
     """Scrape a single venue detail page"""
     try:
-        response = httpx.get(url, headers=HEADERS, timeout=30, follow_redirects=True)
+        response = await client.get(url, timeout=30, follow_redirects=True)
         response.raise_for_status()
 
         soup = BeautifulSoup(response.text, "html.parser")
@@ -293,8 +294,8 @@ def load_existing_data(output_path: str) -> dict:
     return {}
 
 
-def scrape_items(url_pattern: str, scraper_func, limit: Optional[int], delay: float, output_path: str = None) -> list[dict]:
-    """Generic scraping function with caching"""
+async def scrape_items_parallel(url_pattern: str, scraper_func, limit: Optional[int], workers: int, output_path: str = None) -> list[dict]:
+    """Generic parallel scraping function with caching"""
     urls = get_urls_from_sitemap(url_pattern)
 
     existing_data = {}
@@ -304,31 +305,50 @@ def scrape_items(url_pattern: str, scraper_func, limit: Optional[int], delay: fl
     if limit:
         urls = urls[:limit]
 
+    urls_to_scrape = []
     items = []
     skipped = 0
     total = len(urls)
 
-    for i, url in enumerate(urls, 1):
+    for url in urls:
         venue_id = url.split('/detail/')[1].split('/')[0] if '/detail/' in url else None
 
         if venue_id and venue_id in existing_data:
-            print(f"[{i}/{total}] ⏭️  Skipping {url} (already scraped)")
             items.append(existing_data[venue_id])
             skipped += 1
-            continue
+        else:
+            urls_to_scrape.append(url)
 
-        print(f"[{i}/{total}] Scraping {url}")
+    if skipped > 0:
+        print(f"⏭️  Skipping {skipped} already scraped items from cache")
 
-        item = scraper_func(url)
+    print(f"🚀 Scraping {len(urls_to_scrape)} items with {workers} concurrent workers")
 
-        if item:
-            items.append(item)
+    async with httpx.AsyncClient(headers=HEADERS, timeout=30) as client:
+        semaphore = asyncio.Semaphore(workers)
 
-        if i < total and delay > 0:
-            time.sleep(delay)
+        async def scrape_with_semaphore(url: str, index: int):
+            async with semaphore:
+                print(f"[{index}/{len(urls_to_scrape)}] Scraping {url}")
+                return await scraper_func(client, url)
+
+        tasks = [scrape_with_semaphore(url, i+1) for i, url in enumerate(urls_to_scrape)]
+        results = await asyncio.gather(*tasks, return_exceptions=True)
+
+        for result in results:
+            if isinstance(result, Exception):
+                print(f"⚠️  Error: {result}")
+            elif result:
+                items.append(result)
 
     print(f"Successfully scraped {len(items) - skipped}/{total} items ({skipped} from cache)")
     return items
+
+
+def scrape_items(url_pattern: str, scraper_func, limit: Optional[int], delay: float, output_path: str = None) -> list[dict]:
+    """Generic scraping function with caching (synchronous wrapper for backward compatibility)"""
+    workers = max(1, int(1.0 / delay)) if delay > 0 else 10
+    return asyncio.run(scrape_items_parallel(url_pattern, scraper_func, limit, workers, output_path))
 
 
 def save_to_files(data: list[dict], output_path: str):
@@ -395,6 +415,8 @@ def main():
             venues = scrape_items("/detail/", scrape_venue_detail, args.limit, args.delay, None)
         else:
             venues = scrape_items("/detail/", scrape_venue_detail, args.limit, args.delay, output_path)
+
+        save_to_files(venues, output_path)
 
         if venues:
             print(f"\n📊 Total venues: {len(venues)}")
