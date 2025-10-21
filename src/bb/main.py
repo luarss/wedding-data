@@ -1,6 +1,5 @@
 import json
 import csv
-import time
 import argparse
 import re
 import asyncio
@@ -8,11 +7,9 @@ from pathlib import Path
 import httpx
 from bs4 import BeautifulSoup
 from typing import Optional
+from ..shared.config import get_headers
 
 BASE_URL = "https://www.blissfulbrides.sg"
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-}
 
 
 async def download_pdf(client: httpx.AsyncClient, url: str, save_path: Path) -> bool:
@@ -39,7 +36,7 @@ def get_urls_from_sitemap(url_pattern: str) -> list[str]:
     sitemap_url = f"{BASE_URL}/sitemap.xml"
 
     try:
-        response = httpx.get(sitemap_url, headers=HEADERS, timeout=30)
+        response = httpx.get(sitemap_url, headers=get_headers(), timeout=30)
         response.raise_for_status()
 
         soup = BeautifulSoup(response.text, "xml")
@@ -159,7 +156,7 @@ async def scrape_venue_detail(client: httpx.AsyncClient, url: str) -> Optional[d
 def scrape_marketplace_package(url: str) -> Optional[dict]:
     """Scrape a single marketplace package page"""
     try:
-        response = httpx.get(url, headers=HEADERS, timeout=30, follow_redirects=True)
+        response = httpx.get(url, headers=get_headers(), timeout=30, follow_redirects=True)
         response.raise_for_status()
 
         soup = BeautifulSoup(response.text, "html.parser")
@@ -195,7 +192,7 @@ def scrape_banquet_prices() -> list[dict]:
 
     try:
         print(f"Fetching {url}...")
-        response = httpx.get(url, headers=HEADERS, timeout=30, follow_redirects=True)
+        response = httpx.get(url, headers=get_headers(), timeout=30, follow_redirects=True)
         response.raise_for_status()
 
         soup = BeautifulSoup(response.text, "html.parser")
@@ -324,7 +321,7 @@ async def scrape_items_parallel(url_pattern: str, scraper_func, limit: Optional[
 
     print(f"🚀 Scraping {len(urls_to_scrape)} items with {workers} concurrent workers")
 
-    async with httpx.AsyncClient(headers=HEADERS, timeout=30) as client:
+    async with httpx.AsyncClient(headers=get_headers(), timeout=30) as client:
         semaphore = asyncio.Semaphore(workers)
 
         async def scrape_with_semaphore(url: str, index: int):

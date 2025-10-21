@@ -2,11 +2,11 @@ import json
 import csv
 from gql import Client, gql
 from gql.transport.httpx import HTTPXTransport
+from ..shared.config import get_headers
 
-# GraphQL setup
 transport = HTTPXTransport(
     url="https://twnprod.theweddingnotebook.com/graphql",
-    headers={"User-Agent": "Mozilla/5.0"},
+    headers=get_headers(),
     timeout=30,
 )
 client = Client(transport=transport, fetch_schema_from_transport=False)
