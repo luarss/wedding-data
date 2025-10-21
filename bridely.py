@@ -1,12 +1,12 @@
 """TODO: bridely.sg database down"""
 
-import httpx
-from bs4 import BeautifulSoup
-import pandas as pd
-from pathlib import Path
 import json
 import time
-from typing import Optional
+from pathlib import Path
+
+import httpx
+import pandas as pd
+from bs4 import BeautifulSoup
 
 
 class BridelyScraper:
@@ -25,87 +25,81 @@ class BridelyScraper:
         response = self.client.get(self.sitemap_url)
         response.raise_for_status()
 
-        soup = BeautifulSoup(response.text, 'lxml-xml')
-        urls = [loc.text for loc in soup.find_all('loc')]
+        soup = BeautifulSoup(response.text, "lxml-xml")
+        urls = [loc.text for loc in soup.find_all("loc")]
 
         print(f"Found {len(urls)} URLs in sitemap")
         return urls
 
     def categorize_urls(self, urls: list[str]) -> dict[str, list[str]]:
         """Categorize URLs by type"""
-        categories = {
-            'vendors': [],
-            'venues': [],
-            'venue_brochures': [],
-            'articles': [],
-            'other': []
-        }
+        categories = {"vendors": [], "venues": [], "venue_brochures": [], "articles": [], "other": []}
 
         for url in urls:
-            path = url.replace(self.base_url + '/', '')
-            if path.startswith('vendor/'):
-                categories['vendors'].append(url)
-            elif path.startswith('venue/') and '/r/' in path:
-                categories['venues'].append(url)
-            elif path.startswith('venue-brochures/'):
-                categories['venue_brochures'].append(url)
-            elif path.startswith('articles/'):
-                categories['articles'].append(url)
+            path = url.replace(self.base_url + "/", "")
+            if path.startswith("vendor/"):
+                categories["vendors"].append(url)
+            elif path.startswith("venue/") and "/r/" in path:
+                categories["venues"].append(url)
+            elif path.startswith("venue-brochures/"):
+                categories["venue_brochures"].append(url)
+            elif path.startswith("articles/"):
+                categories["articles"].append(url)
             else:
-                categories['other'].append(url)
+                categories["other"].append(url)
 
         for cat, cat_urls in categories.items():
             print(f"{cat}: {len(cat_urls)} URLs")
 
         return categories
 
-    def scrape_vendor(self, url: str) -> Optional[dict]:
+    def scrape_vendor(self, url: str) -> dict | None:
         """Scrape a single vendor page"""
         try:
             response = self.client.get(url)
             response.raise_for_status()
-            soup = BeautifulSoup(response.text, 'html.parser')
+            soup = BeautifulSoup(response.text, "html.parser")
 
             data = {
-                'url': url,
-                'name': None,
-                'category': None,
-                'description': None,
-                'phone': None,
-                'email': None,
-                'website': None,
-                'address': None,
-                'rating': None,
-                'review_count': None,
-                'price_range': None,
-                'services': [],
+                "url": url,
+                "name": None,
+                "category": None,
+                "description": None,
+                "phone": None,
+                "email": None,
+                "website": None,
+                "address": None,
+                "rating": None,
+                "review_count": None,
+                "price_range": None,
+                "services": [],
             }
 
             # Extract vendor name (adjust selectors based on actual HTML structure)
-            title = soup.find('h1')
+            title = soup.find("h1")
             if title:
-                data['name'] = title.get_text(strip=True)
+                data["name"] = title.get_text(strip=True)
 
             # Extract meta description
-            meta_desc = soup.find('meta', {'name': 'description'})
+            meta_desc = soup.find("meta", {"name": "description"})
             if meta_desc:
-                data['description'] = meta_desc.get('content', '').strip()
+                data["description"] = meta_desc.get("content", "").strip()
 
             # Look for contact information
             # Phone
-            phone_link = soup.find('a', href=lambda x: x and 'tel:' in x)
+            phone_link = soup.find("a", href=lambda x: x and "tel:" in x)
             if phone_link:
-                data['phone'] = phone_link.get('href', '').replace('tel:', '')
+                data["phone"] = phone_link.get("href", "").replace("tel:", "")
 
             # Email
-            email_link = soup.find('a', href=lambda x: x and 'mailto:' in x)
+            email_link = soup.find("a", href=lambda x: x and "mailto:" in x)
             if email_link:
-                data['email'] = email_link.get('href', '').replace('mailto:', '')
+                data["email"] = email_link.get("href", "").replace("mailto:", "")
 
             # Website
-            website_link = soup.find('a', href=lambda x: x and x.startswith('http') and 'bridely.sg' not in x)
+            website_link = soup.find("a", href=lambda x: x and x.startswith("http") and "bridely.sg" not in x)
             if website_link:
-                data['website'] = website_link.get('href', '')
+                data["website"] = website_link.get("href", "")
 
             return data
 
@@ -113,46 +107,46 @@ class BridelyScraper:
             print(f"Error scraping {url}: {e}")
             return None
 
-    def scrape_venue(self, url: str) -> Optional[dict]:
+    def scrape_venue(self, url: str) -> dict | None:
         """Scrape a single venue page"""
         try:
             response = self.client.get(url)
             response.raise_for_status()
-            soup = BeautifulSoup(response.text, 'html.parser')
+            soup = BeautifulSoup(response.text, "html.parser")
 
             data = {
-                'url': url,
-                'name': None,
-                'type': 'venue',
-                'description': None,
-                'capacity': None,
-                'phone': None,
-                'email': None,
-                'website': None,
-                'address': None,
-                'rating': None,
-                'review_count': None,
-                'price_range': None,
+                "url": url,
+                "name": None,
+                "type": "venue",
+                "description": None,
+                "capacity": None,
+                "phone": None,
+                "email": None,
+                "website": None,
+                "address": None,
+                "rating": None,
+                "review_count": None,
+                "price_range": None,
             }
 
             # Extract venue name
-            title = soup.find('h1')
+            title = soup.find("h1")
             if title:
-                data['name'] = title.get_text(strip=True)
+                data["name"] = title.get_text(strip=True)
 
             # Extract meta description
-            meta_desc = soup.find('meta', {'name': 'description'})
+            meta_desc = soup.find("meta", {"name": "description"})
             if meta_desc:
-                data['description'] = meta_desc.get('content', '').strip()
+                data["description"] = meta_desc.get("content", "").strip()
 
             # Contact info (similar to vendor)
-            phone_link = soup.find('a', href=lambda x: x and 'tel:' in x)
+            phone_link = soup.find("a", href=lambda x: x and "tel:" in x)
             if phone_link:
-                data['phone'] = phone_link.get('href', '').replace('tel:', '')
+                data["phone"] = phone_link.get("href", "").replace("tel:", "")
 
-            email_link = soup.find('a', href=lambda x: x and 'mailto:' in x)
+            email_link = soup.find("a", href=lambda x: x and "mailto:" in x)
             if email_link:
-                data['email'] = email_link.get('href', '').replace('mailto:', '')
+                data["email"] = email_link.get("href", "").replace("mailto:", "")
 
             return data
 
@@ -160,7 +154,7 @@ class BridelyScraper:
             print(f"Error scraping {url}: {e}")
             return None
 
-    def scrape_all_vendors(self, urls: list[str], limit: Optional[int] = None):
+    def scrape_all_vendors(self, urls: list[str], limit: int | None = None):
         """Scrape all vendor pages"""
         vendors = []
         total = len(urls)
@@ -183,7 +177,7 @@ class BridelyScraper:
 
         return vendors
 
-    def scrape_all_venues(self, urls: list[str], limit: Optional[int] = None):
+    def scrape_all_venues(self, urls: list[str], limit: int | None = None):
         """Scrape all venue pages"""
         venues = []
         total = len(urls)
@@ -214,14 +208,14 @@ class BridelyScraper:
 
         # Save as JSON
         json_path = self.output_dir / f"{filename}.json"
-        with open(json_path, 'w', encoding='utf-8') as f:
+        with open(json_path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
         print(f"Saved JSON: {json_path}")
 
         # Save as CSV
         df = pd.DataFrame(data)
         csv_path = self.output_dir / f"{filename}.csv"
-        df.to_csv(csv_path, index=False, encoding='utf-8')
+        df.to_csv(csv_path, index=False, encoding="utf-8")
         print(f"Saved CSV: {csv_path}")
 
     def run(self, test_mode: bool = False):
@@ -238,12 +232,12 @@ class BridelyScraper:
         limit = 5 if test_mode else None
 
         # Scrape vendors
-        vendors = self.scrape_all_vendors(categories['vendors'], limit=limit)
-        self.save_data(vendors, 'bridely_vendors')
+        vendors = self.scrape_all_vendors(categories["vendors"], limit=limit)
+        self.save_data(vendors, "bridely_vendors")
 
         # Scrape venues
-        venues = self.scrape_all_venues(categories['venues'], limit=limit)
-        self.save_data(venues, 'bridely_venues')
+        venues = self.scrape_all_venues(categories["venues"], limit=limit)
+        self.save_data(venues, "bridely_venues")
 
         print("\nScraping complete!")
         print(f"Total vendors scraped: {len(vendors)}")
@@ -255,9 +249,9 @@ class BridelyScraper:
 def main():
     import argparse
 
-    parser = argparse.ArgumentParser(description='Scrape wedding vendor data from bridely.sg')
-    parser.add_argument('--test', action='store_true', help='Run in test mode (only scrape 5 pages)')
-    parser.add_argument('--output', default='data', help='Output directory for scraped data')
+    parser = argparse.ArgumentParser(description="Scrape wedding vendor data from bridely.sg")
+    parser.add_argument("--test", action="store_true", help="Run in test mode (only scrape 5 pages)")
+    parser.add_argument("--output", default="data", help="Output directory for scraped data")
 
     args = parser.parse_args()
 

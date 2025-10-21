@@ -1,3 +1,3 @@
-from .config import get_random_user_agent, get_headers, USER_AGENTS
+from .config import USER_AGENTS, get_headers, get_random_user_agent
 
-__all__ = ["get_random_user_agent", "get_headers", "USER_AGENTS"]
+__all__ = ["USER_AGENTS", "get_headers", "get_random_user_agent"]
