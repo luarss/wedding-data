@@ -108,7 +108,7 @@ async def scrape_venue_detail(client: httpx.AsyncClient, url: str) -> dict | Non
                 pdf_save_path = pdf_dir / pdf_filename
 
                 print(f"  📄 Downloading {pdf_filename}...")
-                success = download_pdf(pdf_url, pdf_save_path)
+                success = await download_pdf(client, pdf_url, pdf_save_path)
 
                 if success:
                     pdf_list.append(pdf_url)
