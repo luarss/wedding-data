@@ -277,64 +277,28 @@ def scrape_banquet_prices() -> list[dict]:
         return []
 
 
-def load_existing_data(output_path: str) -> dict:
-    """Load existing scraped data to avoid re-scraping"""
-    json_file = Path(output_path).with_suffix(".json")
-
-    if json_file.exists():
-        try:
-            with open(json_file, encoding="utf-8") as f:
-                data = json.load(f)
-                existing = {item["id"]: item for item in data if "id" in item}
-                print(f"📂 Loaded {len(existing)} existing venues from cache")
-                return existing
-        except Exception as e:
-            print(f"⚠️  Error loading existing data: {e}")
-
-    return {}
-
-
 async def scrape_items_parallel(
     url_pattern: str, scraper_func, limit: int | None, workers: int, output_path: str | None = None
 ) -> list[dict]:
-    """Generic parallel scraping function with caching"""
+    """Generic parallel scraping function"""
     urls = get_urls_from_sitemap(url_pattern)
-
-    existing_data = {}
-    if output_path:
-        existing_data = load_existing_data(output_path)
 
     if limit:
         urls = urls[:limit]
 
-    urls_to_scrape = []
+    print(f"🚀 Scraping {len(urls)} items with {workers} concurrent workers")
+
     items = []
-    skipped = 0
-    total = len(urls)
-
-    for url in urls:
-        venue_id = url.split("/detail/")[1].split("/")[0] if "/detail/" in url else None
-
-        if venue_id and venue_id in existing_data:
-            items.append(existing_data[venue_id])
-            skipped += 1
-        else:
-            urls_to_scrape.append(url)
-
-    if skipped > 0:
-        print(f"⏭️  Skipping {skipped} already scraped items from cache")
-
-    print(f"🚀 Scraping {len(urls_to_scrape)} items with {workers} concurrent workers")
 
     async with httpx.AsyncClient(headers=get_headers(), timeout=30) as client:
         semaphore = asyncio.Semaphore(workers)
 
         async def scrape_with_semaphore(url: str, index: int):
             async with semaphore:
-                print(f"[{index}/{len(urls_to_scrape)}] Scraping {url}")
+                print(f"[{index}/{len(urls)}] Scraping {url}")
                 return await scraper_func(client, url)
 
-        tasks = [scrape_with_semaphore(url, i + 1) for i, url in enumerate(urls_to_scrape)]
+        tasks = [scrape_with_semaphore(url, i + 1) for i, url in enumerate(urls)]
         results = await asyncio.gather(*tasks, return_exceptions=True)
 
         for result in results:
@@ -343,7 +307,7 @@ async def scrape_items_parallel(
             elif result:
                 items.append(result)
 
-    print(f"Successfully scraped {len(items) - skipped}/{total} items ({skipped} from cache)")
+    print(f"Successfully scraped {len(items)}/{len(urls)} items")
     return items
 
 
@@ -401,7 +365,6 @@ def main():
     parser.add_argument("--limit", type=int, help="Max items to scrape")
     parser.add_argument("--delay", type=float, default=1.0, help="Delay between requests (seconds)")
     parser.add_argument("--output", type=str, default="data/bb", help="Output directory")
-    parser.add_argument("--force", action="store_true", help="Force re-scraping even if data exists")
 
     args = parser.parse_args()
 
@@ -411,13 +374,7 @@ def main():
         print("=" * 60 + "\n")
 
         output_path = f"{args.output}/venues"
-
-        if args.force:
-            print("🔄 Force mode: ignoring existing data\n")
-            venues = scrape_items("/detail/", scrape_venue_detail, args.limit, args.delay, None)
-        else:
-            venues = scrape_items("/detail/", scrape_venue_detail, args.limit, args.delay, output_path)
-
+        venues = scrape_items("/detail/", scrape_venue_detail, args.limit, args.delay, output_path)
         save_to_files(venues, output_path)
 
         if venues:
