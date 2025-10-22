@@ -27,7 +27,7 @@ jobs:
         run: uv run python -m src.twn.main
 
       - name: Run BlissfulBrides venue scraper
-        run: uv run python -m src.bb.main venues
+        run: uv run python -m src.bb.main venues --delay 0.1
 
       - name: Run BlissfulBrides banquet prices scraper
         run: uv run python -m src.bb.main banquet-prices
