@@ -101,17 +101,31 @@ async def scrape_venue_detail(client: httpx.AsyncClient, url: str) -> dict | Non
 
         if pdf_urls:
             pdf_list = []
-            pdf_dir = Path(f"data/bb/price-lists/{venue_id}-{slug}")
+            pdfs_by_venue = {}
 
             for pdf_url in set(pdf_urls):
-                pdf_filename = pdf_url.split("/")[-1]
-                pdf_save_path = pdf_dir / pdf_filename
+                pdf_slug_match = re.search(r'/banquet/([^/]+)/', pdf_url)
+                if pdf_slug_match:
+                    pdf_venue_slug = pdf_slug_match.group(1)
+                else:
+                    pdf_venue_slug = slug
 
-                print(f"  📄 Downloading {pdf_filename}...")
-                success = await download_pdf(client, pdf_url, pdf_save_path)
+                if pdf_venue_slug not in pdfs_by_venue:
+                    pdfs_by_venue[pdf_venue_slug] = []
+                pdfs_by_venue[pdf_venue_slug].append(pdf_url)
 
-                if success:
-                    pdf_list.append(pdf_url)
+            for pdf_venue_slug, venue_pdfs in pdfs_by_venue.items():
+                pdf_dir = Path(f"data/bb/price-lists/{venue_id}-{pdf_venue_slug}")
+
+                for pdf_url in venue_pdfs:
+                    pdf_filename = pdf_url.split("/")[-1]
+                    pdf_save_path = pdf_dir / pdf_filename
+
+                    print(f"  📄 Downloading {pdf_filename} to {venue_id}-{pdf_venue_slug}/...")
+                    success = await download_pdf(client, pdf_url, pdf_save_path)
+
+                    if success:
+                        pdf_list.append(pdf_url)
 
             data["price_list_pdfs"] = pdf_list
             data["has_price_list"] = len(pdf_list) > 0
