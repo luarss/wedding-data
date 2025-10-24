@@ -96,41 +96,40 @@ async def scrape_venue_detail(client: httpx.AsyncClient, url: str) -> dict | Non
             elif "mailto:" in href:
                 data["email"] = href.replace("mailto:", "").strip()
 
-        pdf_pattern = re.compile(r'https://www\.blissfulbrides\.sg/banquet/[^"\']+\.pdf', re.IGNORECASE)
-        pdf_urls = pdf_pattern.findall(response.text)
+        public_banquet_url = f"{BASE_URL}/public/banquet/{slug}/wedding-banquet-price-list/"
 
-        if pdf_urls:
-            pdf_list = []
-            pdfs_by_venue = {}
+        try:
+            listing_response = await client.get(public_banquet_url, timeout=30, follow_redirects=True)
+            listing_response.raise_for_status()
 
-            for pdf_url in set(pdf_urls):
-                pdf_slug_match = re.search(r'/banquet/([^/]+)/', pdf_url)
-                if pdf_slug_match:
-                    pdf_venue_slug = pdf_slug_match.group(1)
-                else:
-                    pdf_venue_slug = slug
+            listing_soup = BeautifulSoup(listing_response.text, "html.parser")
+            pdf_links = listing_soup.find_all("a", href=lambda x: x and x.endswith(".pdf"))
 
-                if pdf_venue_slug not in pdfs_by_venue:
-                    pdfs_by_venue[pdf_venue_slug] = []
-                pdfs_by_venue[pdf_venue_slug].append(pdf_url)
+            if pdf_links:
+                pdf_list = []
+                pdf_dir = Path(f"data/bb/price-lists/{venue_id}-{slug}")
 
-            for pdf_venue_slug, venue_pdfs in pdfs_by_venue.items():
-                pdf_dir = Path(f"data/bb/price-lists/{venue_id}-{pdf_venue_slug}")
+                for link in pdf_links:
+                    pdf_filename = link.get("href")
+                    if not pdf_filename or pdf_filename == "#":
+                        continue
 
-                for pdf_url in venue_pdfs:
-                    pdf_filename = pdf_url.split("/")[-1]
+                    pdf_url = f"{public_banquet_url}{pdf_filename}"
                     pdf_save_path = pdf_dir / pdf_filename
 
-                    print(f"  📄 Downloading {pdf_filename} to {venue_id}-{pdf_venue_slug}/...")
+                    print(f"  📄 Downloading {pdf_filename} to {venue_id}-{slug}/...")
                     success = await download_pdf(client, pdf_url, pdf_save_path)
 
                     if success:
                         pdf_list.append(pdf_url)
 
-            data["price_list_pdfs"] = pdf_list
-            data["has_price_list"] = len(pdf_list) > 0
-            data["price_list_count"] = len(pdf_list)
-        else:
+                data["price_list_pdfs"] = pdf_list
+                data["has_price_list"] = len(pdf_list) > 0
+                data["price_list_count"] = len(pdf_list)
+            else:
+                data["has_price_list"] = False
+                data["price_list_count"] = 0
+        except Exception:
             data["has_price_list"] = False
             data["price_list_count"] = 0
 
