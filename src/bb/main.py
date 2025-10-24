@@ -16,6 +16,10 @@ BASE_URL = "https://www.blissfulbrides.sg"
 async def download_pdf(client: httpx.AsyncClient, url: str, save_path: Path) -> bool:
     """Download a PDF file to the specified path"""
     try:
+        if save_path.exists():
+            print(f"  ⏭️  Skipping {save_path.name} (already exists)")
+            return True
+
         response = await client.get(url, timeout=30, follow_redirects=True)
         response.raise_for_status()
 
