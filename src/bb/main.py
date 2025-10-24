@@ -73,17 +73,9 @@ async def scrape_venue_detail(client: httpx.AsyncClient, url: str) -> dict | Non
             "url": url,
         }
 
-        breadcrumb = soup.find("ol", class_="breadcrumb")
-        if breadcrumb:
-            links = breadcrumb.find_all("a")
-            if len(links) >= 2:
-                data["category"] = links[1].get_text(strip=True)
-
         for link in soup.find_all("a", href=True):
             href = str(link.get("href", ""))
-            if "tel:" in href:
-                data["phone"] = href.replace("tel:", "").strip()
-            elif "mailto:" in href:
+            if "mailto:" in href:
                 data["email"] = href.replace("mailto:", "").strip()
 
         public_banquet_url = f"{BASE_URL}/public/banquet/{slug}/wedding-banquet-price-list/"
@@ -138,15 +130,6 @@ async def scrape_venue_detail(client: httpx.AsyncClient, url: str) -> dict | Non
             website_url = website_elem.get("href", "")
             if isinstance(website_url, str) and website_url.startswith("http"):
                 data["website"] = website_url
-
-        for elem in soup.find_all(string=re.compile(r"capacity|pax|guests|seating", re.IGNORECASE)):
-            text = elem.strip() if isinstance(elem, str) else elem.get_text(strip=True)
-            if text and len(text) < 200:
-                numbers = re.findall(r"\d+", text)
-                if numbers:
-                    if "capacity" not in data:
-                        data["capacity"] = text
-                    break
 
         return data
 
@@ -382,14 +365,6 @@ def main():
 
         if venues:
             print(f"\n📊 Total venues: {len(venues)}")
-            categories = {}
-            for v in venues:
-                cat = v.get("category", "Unknown")
-                categories[cat] = categories.get(cat, 0) + 1
-
-            print("\nBy category:")
-            for cat, count in sorted(categories.items(), key=lambda x: -x[1])[:10]:
-                print(f"  {cat}: {count}")
 
     if args.type in ["marketplace", "all"]:
         print("\n" + "=" * 60)
