@@ -73,20 +73,6 @@ async def scrape_venue_detail(client: httpx.AsyncClient, url: str) -> dict | Non
             "url": url,
         }
 
-        title = soup.find("h1") or soup.find("title")
-        if title:
-            data["name"] = title.get_text(strip=True).replace(" - Blissful Brides Singapore", "")
-
-        meta_desc = soup.find("meta", attrs={"name": "description"})
-        if meta_desc:
-            content = meta_desc.get("content", "")
-            data["description"] = str(content) if content else ""
-
-        og_image = soup.find("meta", attrs={"property": "og:image"})
-        if og_image:
-            content = og_image.get("content", "")
-            data["image_url"] = str(content) if content else ""
-
         breadcrumb = soup.find("ol", class_="breadcrumb")
         if breadcrumb:
             links = breadcrumb.find_all("a")
