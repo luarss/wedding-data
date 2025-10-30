@@ -2523,7 +2523,8 @@
     "slug": "French-Wedding",
     "url": "https://www.blissfulbrides.sg/detail/15/French-Wedding",
     "has_price_list": false,
-    "price_list_count": 0
+    "price_list_count": 0,
+    "website": "https://strikeyposey.com/"
   },
   {
     "id": "627",
@@ -4850,26 +4851,20 @@
     "slug": "-",
     "url": "https://www.blissfulbrides.sg/33/mobile-carts/detail/694/-",
     "price_list_pdfs": [
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/equarius-hotel-wedding-packages-2025.pdf",
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/ocean-gallery-wedding-packages-2025.pdf",
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/ofh_intimate-wedding-2024.pdf",
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/solemnization-packages-2025.pdf"
+      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/ofh_intimate-wedding-2024.pdf"
     ],
     "has_price_list": true,
-    "price_list_count": 4
+    "price_list_count": 1
   },
   {
     "id": "694",
     "slug": "-",
     "url": "https://www.blissfulbrides.sg/3/cakes-desserts/detail/694/-",
     "price_list_pdfs": [
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/equarius-hotel-wedding-packages-2025.pdf",
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/ocean-gallery-wedding-packages-2025.pdf",
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/ofh_intimate-wedding-2024.pdf",
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/solemnization-packages-2025.pdf"
+      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/ofh_intimate-wedding-2024.pdf"
     ],
     "has_price_list": true,
-    "price_list_count": 4
+    "price_list_count": 1
   },
   {
     "id": "662",
@@ -8084,13 +8079,10 @@
     "slug": "-",
     "url": "https://www.blissfulbrides.sg/detail/694/-",
     "price_list_pdfs": [
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/equarius-hotel-wedding-packages-2025.pdf",
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/ocean-gallery-wedding-packages-2025.pdf",
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/ofh_intimate-wedding-2024.pdf",
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/solemnization-packages-2025.pdf"
+      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/ofh_intimate-wedding-2024.pdf"
     ],
     "has_price_list": true,
-    "price_list_count": 4
+    "price_list_count": 1
   },
   {
     "id": "728",
@@ -11238,13 +11230,10 @@
     "slug": "-",
     "url": "https://www.blissfulbrides.sg/30/premium-vendors/detail/694/-",
     "price_list_pdfs": [
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/equarius-hotel-wedding-packages-2025.pdf",
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/ocean-gallery-wedding-packages-2025.pdf",
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/ofh_intimate-wedding-2024.pdf",
-      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/solemnization-packages-2025.pdf"
+      "https://www.blissfulbrides.sg/public/banquet/-/wedding-banquet-price-list/ofh_intimate-wedding-2024.pdf"
     ],
     "has_price_list": true,
-    "price_list_count": 4
+    "price_list_count": 1
   },
   {
     "id": "680",
