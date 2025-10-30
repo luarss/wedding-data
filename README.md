@@ -10,7 +10,7 @@ This project is for **educational purposes only** and **not for profit**. The da
 
 - **BlissfulBrides.sg** - Singapore wedding venues and marketplace packages
 - **TheWeddingNotebook.com** - Malaysia wedding venues
-- **Bridely.sg** - Singapore wedding vendors (currently unavailable)
+- **Bridely.sg** - Singapore wedding venues and vendors
 
 ## Setup
 
@@ -61,20 +61,23 @@ uv run python src/twn/main.py --output data/twn/my-venues
 
 Data is saved to `data/twn/venues.json` and `data/twn/venues.csv`.
 
-## Features
+### Bridely (Singapore)
 
-- **Multi-source scraping**: Collect data from multiple wedding websites
-- **PDF downloads**: Automatically download venue price lists and brochures
-- **Structured data**: Export to both JSON and CSV formats
-- **Respectful scraping**: Configurable delays between requests
-- **Error handling**: Robust error handling and logging
+Scrape wedding venues and vendors using the Bridely API:
 
-## Data Output
+```bash
+# Scrape venues
+uv run python -m src.bly.main
 
-Each scraper generates:
-- **JSON files**: Complete structured data with all fields
-- **CSV files**: Tabular format for easy analysis
-- **PDF files**: Price lists and brochures (BlissfulBrides only)
+# Scrape vendors from all categories
+uv run python -m src.bly.vendors
+
+# Options for venues
+uv run python -m src.bly.main --limit 50 --output data/bly/venues
+
+# Options for vendors
+uv run python -m src.bly.vendors --limit-per-category 20 --output data/bly/vendors
+```
 
 ## Project Structure
 
@@ -82,15 +85,23 @@ Each scraper generates:
 .
 ├── src/
 │   ├── bb/          # BlissfulBrides.sg scraper
+│   ├── bly/         # Bridely.sg scraper
 │   ├── twn/         # TheWeddingNotebook.com scraper
-└── data/            # Scraped data output
-    ├── bb/
-    │   ├── venues.json
-    │   ├── venues.csv
-    │   └── price-lists/        # PDF price lists
-    └── twn/
-        ├── venues.json
-        └── venues.csv
+│   └── shared/      # Shared utilities and config
+├── data/            # Scraped data output
+│   ├── bb/
+│   │   ├── venues.json
+│   │   ├── venues.csv
+│   │   └── price-lists/
+│   ├── bly/
+│   │   ├── venues.json
+│   │   ├── venues.csv
+│   │   ├── vendors.json
+│   │   └── vendors.csv
+│   └── twn/
+│       ├── venues.json
+│       └── venues.csv
+└── logs/            # Application logs
 ```
 
 ## License
