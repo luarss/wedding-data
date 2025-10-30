@@ -23,11 +23,37 @@ jobs:
       - name: Install dependencies
         run: make sync
 
+      - name: Create .env file
+        run: |
+          cat > .env << EOF
+          BRIDELY_BASE_URL=${{ secrets.BRIDELY_BASE_URL }}
+          BRIDELY_APP_ID=${{ secrets.BRIDELY_APP_ID }}
+          BRIDELY_VENUES_DATASOURCE_ID=${{ secrets.BRIDELY_VENUES_DATASOURCE_ID }}
+          BRIDELY_VENUES_ENDPOINT_ID=${{ secrets.BRIDELY_VENUES_ENDPOINT_ID }}
+          BRIDELY_ALL_VENDORS_ENDPOINT=${{ secrets.BRIDELY_ALL_VENDORS_ENDPOINT }}
+          BRIDELY_MAKEUP_ARTISTS_ENDPOINT=${{ secrets.BRIDELY_MAKEUP_ARTISTS_ENDPOINT }}
+          BRIDELY_VIDEOGRAPHERS_ENDPOINT=${{ secrets.BRIDELY_VIDEOGRAPHERS_ENDPOINT }}
+          BRIDELY_EMCEES_ENDPOINT=${{ secrets.BRIDELY_EMCEES_ENDPOINT }}
+          BRIDELY_WEDDING_PLANNERS_ENDPOINT=${{ secrets.BRIDELY_WEDDING_PLANNERS_ENDPOINT }}
+          BRIDELY_JUSTICES_ENDPOINT=${{ secrets.BRIDELY_JUSTICES_ENDPOINT }}
+          BRIDELY_PHOTOBOOTHS_ENDPOINT=${{ secrets.BRIDELY_PHOTOBOOTHS_ENDPOINT }}
+          BRIDELY_LIVE_MUSIC_ENDPOINT=${{ secrets.BRIDELY_LIVE_MUSIC_ENDPOINT }}
+          BRIDELY_WEDDING_CARS_ENDPOINT=${{ secrets.BRIDELY_WEDDING_CARS_ENDPOINT }}
+          BRIDELY_WEDDING_FAVOURS_ENDPOINT=${{ secrets.BRIDELY_WEDDING_FAVOURS_ENDPOINT }}
+          BRIDELY_ENGAGEMENT_RINGS_ENDPOINT=${{ secrets.BRIDELY_ENGAGEMENT_RINGS_ENDPOINT }}
+          EOF
+
       - name: Run TWN scraper
         run: uv run python -m src.twn.main
 
       - name: Run BlissfulBrides scraper
         run: uv run python -m src.bb.main
+
+      - name: Run Bridely venues scraper
+        run: uv run python -m src.bly.main
+
+      - name: Run Bridely vendors scraper
+        run: uv run python -m src.bly.vendors
 
       - name: Commit and push data
         uses: stefanzweifel/git-auto-commit-action@v5
