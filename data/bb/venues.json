@@ -2523,7 +2523,8 @@
     "slug": "French-Wedding",
     "url": "https://www.blissfulbrides.sg/detail/15/French-Wedding",
     "has_price_list": false,
-    "price_list_count": 0
+    "price_list_count": 0,
+    "website": "https://strikeyposey.com/"
   },
   {
     "id": "627",
@@ -2565,7 +2566,8 @@
     "slug": "under1frame",
     "url": "https://www.blissfulbrides.sg///detail/1066/under1frame",
     "has_price_list": false,
-    "price_list_count": 0
+    "price_list_count": 0,
+    "website": "https://strikeyposey.com/"
   },
   {
     "id": "906",
@@ -4296,8 +4298,7 @@
     "slug": "anseina-brides",
     "url": "https://www.blissfulbrides.sg/2/bridal-boutiques/detail/6/anseina-brides",
     "has_price_list": false,
-    "price_list_count": 0,
-    "website": "https://strikeyposey.com/"
+    "price_list_count": 0
   },
   {
     "id": "866",
