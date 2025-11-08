@@ -1326,5 +1326,21 @@
       "maxPrice": "12880",
       "indoorOutdoor": "Covered_Outdoor_Only"
     }
+  },
+  {
+    "_id": "6900880d49c72b2d2462be81",
+    "name": "LUMINARE EVENT HALL",
+    "slug": "luminare-event-hall",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "address": "B-G-02, PJ TRADE CENTRE, 8, Jalan PJU 8/8A, Damansara Perdana, 47820 Petaling Jaya, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 100,
+      "maxCapacity": 1000,
+      "minPrice": "35900",
+      "maxPrice": "35900",
+      "indoorOutdoor": "Indoor___Outdoor"
+    }
   }
 ]
