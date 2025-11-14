@@ -664,8 +664,8 @@
     "city": "Kuala Lumpur",
     "address": "Jln Sultan Ismail, Bukit Bintang, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
     "venue": {
-      "minCapacity": 100,
-      "maxCapacity": 440,
+      "minCapacity": 200,
+      "maxCapacity": 300,
       "minPrice": "97",
       "maxPrice": "398",
       "indoorOutdoor": "Indoor_Only"
