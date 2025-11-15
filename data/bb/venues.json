@@ -237,7 +237,6 @@
     "price_lists": [
       "https://www.blissfulbrides.sg/banquet/furama-riverfront/wedding-banquet-price-list/wedding-show-frf_2022.pdf",
       "https://www.blissfulbrides.sg/banquet/furama-riverfront/wedding-banquet-price-list/frf_wedding-show_limited-time-offer2.pdf",
-      "https://www.blissfulbrides.sg/banquet/furama-riverfront/wedding-banquet-price-list/promotion-chinese-wedding-package-2021-frf-.pdf",
       "https://www.blissfulbrides.sg/banquet/furama-riverfront/wedding-banquet-price-list/furama-riverfront-solemnisation-package-2021-2022.pdf"
     ]
   },
@@ -1118,9 +1117,7 @@
     "tables_min": "8",
     "tables_max": "23",
     "tables_range": "8 - 23Mon - Sun",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/ywca-fort-canning/wedding-banquet-price-list/wedding-package-2023_2024-v1.pdf"
-    ]
+    "price_lists": []
   },
   {
     "name": "Ah Yat Seafood Restaurant",
