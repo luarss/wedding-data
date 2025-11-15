@@ -24,23 +24,22 @@ uv sync
 
 ### BlissfulBrides (Singapore)
 
-Scrape wedding venues and marketplace packages:
+Scrape wedding venue data from multiple sources:
 
 ```bash
-# Scrape venues only
-uv run python src/bb/main.py venues
+# Scrape from all sources (default - recommended)
+uv run python -m src.bb.main
 
-# Scrape marketplace packages only
-uv run python src/bb/main.py marketplace
+# Scrape only from banquet price list
+uv run python -m src.bb.main --source banquet
 
-# Scrape both venues and packages
-uv run python src/bb/main.py both
+# Scrape only from wedding venues booking
+uv run python -m src.bb.main --source booking
 
-# Options
-uv run python src/bb/main.py venues --limit 10 --delay 1.5 --output data/blissfulbrides
+# Custom output directory
+uv run python -m src.bb.main --output data/custom
 ```
 
-Downloaded PDFs (price lists) are saved to `data/blissfulbrides/price-lists/` and JSON/CSV reports are generated in `data/blissfulbrides/`.
 
 ### The Wedding Notebook (Malaysia)
 
@@ -84,17 +83,14 @@ Each scraper generates:
 ├── src/
 │   ├── bb/          # BlissfulBrides.sg scraper
 │   ├── twn/         # TheWeddingNotebook.com scraper
-├── data/            # Scraped data output
-│   ├── blissfulbrides/
-│   │   ├── venues.json
-│   │   ├── venues.csv
-│   │   ├── marketplace.json
-│   │   ├── marketplace.csv
-│   │   └── price-lists/
-│   └── twn/
-│       ├── venues.json
-│       └── venues.csv
-└── logs/            # Application logs
+└── data/            # Scraped data output
+    ├── bb/
+    │   ├── venues.json
+    │   ├── venues.csv
+    │   └── price-lists/        # PDF price lists
+    └── twn/
+        ├── venues.json
+        └── venues.csv
 ```
 
 ## License
