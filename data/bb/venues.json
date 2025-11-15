@@ -1,5 +1,40 @@
 [
   {
+    "source": "banquet-price-list",
+    "name": "Ah Yat Seafood Restaurant",
+    "lunch_price": "$988–$1588Mon - Sun",
+    "dinner_price": "$988–$1588Mon - Sun",
+    "tables_min": "10",
+    "tables_max": "40",
+    "tables_range": "10 - 40- Sun"
+  },
+  {
+    "venue_id": "203",
+    "source": "wedding-venues-booking",
+    "name": "Albatross & Birdie",
+    "vendor_name": "Dusit Thani Laguna Singapore",
+    "profile_url": "https://www.blissfulbrides.sg/detail/810/Dusit-Thani-Laguna-Singapore",
+    "location": "11 Laguna Golf Green, Singapore 488047",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/dusit-thani-laguna-singapore/wedding-banquet-price-list/dusit-thani-laguna-singapore-property-fact-sheet_jun-2025.pdf"
+    ]
+  },
+  {
+    "venue_id": "235",
+    "source": "wedding-venues-booking",
+    "name": "Alfresco",
+    "vendor_name": "Village Hotel Katong",
+    "profile_url": "https://www.blissfulbrides.sg/detail/377/Village-Hotel-Katong",
+    "location": "25 Marine Parade Singapore 449536",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/eternal-vows-chinese.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/eternal-vows-buffet.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/timeless-union.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/impian-selamanya.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Aloft Singapore Novena",
     "profile_url": "https://www.blissfulbrides.sg/detail/59/aloft-singapore-novena",
     "rating": "5",
@@ -10,6 +45,7 @@
     "tables_range": "10 - 26Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
     "name": "Amara Sanctuary Resort Sentosa",
     "profile_url": "https://www.blissfulbrides.sg/detail/358/amara-sanctuary-resort-sentosa",
     "rating": "5",
@@ -20,6 +56,7 @@
     "tables_range": "15 - 40Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
     "name": "Amara Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/492/amara-singapore",
     "rating": "5",
@@ -33,6 +70,27 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Andaz Singapore",
+    "lunch_price": "$2614–$2614Mon - Sun",
+    "dinner_price": "$2734–$2734Mon - Fri$2854–$2854Saturday$2734–$2734Sunday",
+    "tables_min": "6",
+    "tables_max": "28",
+    "tables_range": "6 - 28Fri - Sun"
+  },
+  {
+    "venue_id": "225",
+    "source": "wedding-venues-booking",
+    "name": "Ballroom",
+    "vendor_name": "The Ritz Carlton - Bali",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1369/The-Ritz-Carlton---Bali",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/the-ritz-carlton-bali/wedding-banquet-price-list/wedding-reception-package-2025.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-ritz-carlton-bali/wedding-banquet-price-list/majestic-wedding-package-2025.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Ban Heng Restaurant @ Orchid Country Club",
     "profile_url": "https://www.blissfulbrides.sg/detail/257/ban-heng-restaurant-orchid-country-club-",
     "rating": "5",
@@ -46,6 +104,51 @@
     ]
   },
   {
+    "venue_id": "196",
+    "source": "wedding-venues-booking",
+    "name": "Beach Garden",
+    "vendor_name": "Meliá Ho Tram Beach Resort",
+    "profile_url": "https://www.blissfulbrides.sg/detail/39/Meli---Ho-Tram-Beach-Resort",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/mht-love-stories.pdf"
+    ]
+  },
+  {
+    "venue_id": "220",
+    "source": "wedding-venues-booking",
+    "name": "Beach Wedding",
+    "vendor_name": "The Ritz Carlton - Bali",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1369/The-Ritz-Carlton---Bali",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/the-ritz-carlton-bali/wedding-banquet-price-list/wedding-reception-package-2025.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-ritz-carlton-bali/wedding-banquet-price-list/majestic-wedding-package-2025.pdf"
+    ]
+  },
+  {
+    "venue_id": "195",
+    "source": "wedding-venues-booking",
+    "name": "Blackpearl Restaurant Venue",
+    "vendor_name": "Mövenpick Resort Phan Thiet",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1304/M--venpick-Resort-Phan-Thiet"
+  },
+  {
+    "venue_id": "194",
+    "source": "wedding-venues-booking",
+    "name": "Bounty Restaurant Venue",
+    "vendor_name": "Mövenpick Resort Phan Thiet",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1304/M--venpick-Resort-Phan-Thiet"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Capella Singapore",
+    "lunch_price": "$3093–$4412Mon - Sun",
+    "dinner_price": "$3213–$4412Mon - Sun",
+    "tables_min": "15",
+    "tables_max": "40",
+    "tables_range": "15 - 40Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Carlton Hotel Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/1198/carlton-hotel-singapore",
     "rating": "0",
@@ -60,6 +163,16 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Changi Cove Hotel",
+    "lunch_price": "$1424–$1499Mon - Sun",
+    "dinner_price": "$1424–$1703Mon - Sun",
+    "tables_min": "13",
+    "tables_max": "22",
+    "tables_range": "13 - 22Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Changi Cove Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/1084/changi-cove-singapore",
     "rating": "0",
@@ -77,6 +190,27 @@
     ]
   },
   {
+    "venue_id": "222",
+    "source": "wedding-venues-booking",
+    "name": "Chapel Lawn",
+    "vendor_name": "The Ritz Carlton - Bali",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1369/The-Ritz-Carlton---Bali",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/the-ritz-carlton-bali/wedding-banquet-price-list/wedding-reception-package-2025.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-ritz-carlton-bali/wedding-banquet-price-list/majestic-wedding-package-2025.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "CHIJMES Hall Singapore",
+    "lunch_price": "$1940–$2276Mon - Thu$2036–$2396Friday$2276–$2635Saturday$2156–$2516Sunday",
+    "dinner_price": "$1940–$2276Mon - Thu$2036–$2396Friday$2276–$2635Saturday$2156–$2516Sunday",
+    "tables_min": "12",
+    "tables_max": "30",
+    "tables_range": "12 - 30Mon - Thu16 - 30Friday20 - 30Saturday16 - 30Sunday"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Chui Huay Lim Teochew Cuisine",
     "profile_url": "https://www.blissfulbrides.sg/detail/1249/chui-huay-lim-teochew-cuisine",
     "rating": "0",
@@ -91,6 +225,18 @@
     ]
   },
   {
+    "venue_id": "221",
+    "source": "wedding-venues-booking",
+    "name": "Cliff Lawn",
+    "vendor_name": "The Ritz Carlton - Bali",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1369/The-Ritz-Carlton---Bali",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/the-ritz-carlton-bali/wedding-banquet-price-list/wedding-reception-package-2025.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-ritz-carlton-bali/wedding-banquet-price-list/majestic-wedding-package-2025.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Concorde Hotel Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/500/concorde-hotel-singapore",
     "rating": "5",
@@ -101,6 +247,7 @@
     "tables_range": "10 - 45Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
     "name": "Conrad Singapore Marina Bay",
     "profile_url": "https://www.blissfulbrides.sg/detail/1387/conrad-singapore-marina-bay",
     "rating": "0",
@@ -117,6 +264,16 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Conrad Singapore Orchard",
+    "lunch_price": "$2024–$2623Mon - Sun",
+    "dinner_price": "$2024–$2623Mon - Thu$2264–$2743Friday$2504–$2863Saturday$2264–$2743Sunday",
+    "tables_min": "10",
+    "tables_max": "50",
+    "tables_range": "10 - 50Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Copthorne King's Hotel",
     "profile_url": "https://www.blissfulbrides.sg/detail/53/copthorne-king-s-hotel",
     "rating": "5",
@@ -130,6 +287,21 @@
     ]
   },
   {
+    "venue_id": "230",
+    "source": "wedding-venues-booking",
+    "name": "Creek",
+    "vendor_name": "Village Hotel Changi",
+    "profile_url": "https://www.blissfulbrides.sg/detail/177/Village-Hotel-Changi",
+    "location": "1 Netheravon Road, Singapore 508502",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-chinese.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-buffet.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/timeless-union.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/impian-selamanya.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Crowne Plaza Changi Airport",
     "profile_url": "https://www.blissfulbrides.sg/detail/357/crowne-plaza-changi-airport",
     "rating": "5",
@@ -144,6 +316,37 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Crystal Jade Prestige",
+    "lunch_price": "$824Mon - Sun",
+    "dinner_price": "$824Mon - Sun",
+    "tables_min": "3",
+    "tables_max": "7",
+    "tables_range": "3 - 7Mon - Thu"
+  },
+  {
+    "venue_id": "233",
+    "source": "wedding-venues-booking",
+    "name": "Cube",
+    "vendor_name": "Village Hotel Changi",
+    "profile_url": "https://www.blissfulbrides.sg/detail/177/Village-Hotel-Changi",
+    "location": "1 Netheravon Road, Singapore 508502",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-chinese.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-buffet.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/timeless-union.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/impian-selamanya.pdf"
+    ]
+  },
+  {
+    "venue_id": "211",
+    "source": "wedding-venues-booking",
+    "name": "Diên Hồng Ballroom",
+    "vendor_name": "Legacy Yên Tử",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1346/Legacy-Y--n-T---"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Dusit Thani Laguna Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/810/dusit-thani-laguna-singapore",
     "rating": "5",
@@ -157,6 +360,31 @@
     ]
   },
   {
+    "venue_id": "218",
+    "source": "wedding-venues-booking",
+    "name": "El Chido",
+    "vendor_name": "Pullman Singapore Hill Street",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1357/Pullman-Singapore-Hill-Street",
+    "location": "1 Hill Street, Singapore 179949",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/wedding-brochure-pullman-singapore-hill-street.pdf"
+    ]
+  },
+  {
+    "venue_id": "164",
+    "source": "wedding-venues-booking",
+    "name": "Emerald Suite",
+    "vendor_name": "Orchid Country Club",
+    "profile_url": "https://www.blissfulbrides.sg/detail/118/Orchid-Country-Club",
+    "location": "1 Orchid Club Road, Singapore 769162",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/3-knots-wedding-package-2023-2024-1-apr-2023-31-mar-2024-.pdf",
+      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/occ-wedding-package-2023-2024-1-apr-2023-31-mar-2024-.pdf",
+      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/occ-wedding-package-2024-2025-1-apr-2024-31-mar-2025-.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Fairmont Singapore & Swissôtel The Stamford",
     "profile_url": "https://www.blissfulbrides.sg/detail/390/fairmont-singapore-swiss--tel-the-stamford",
     "rating": "5",
@@ -173,6 +401,19 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Flutes",
+    "lunch_price": "$NAMon - Sun",
+    "dinner_price": "$226++ - $300++Mon - Sun",
+    "tables_min": "10",
+    "tables_max": "30",
+    "tables_range": "10 - 30Mon - Sun",
+    "price_lists": [
+      "banquet//wedding-banquet-price-list/flutes-wedding-dinner-solemnisation-for-88-persons.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Forlino",
     "profile_url": "https://www.blissfulbrides.sg/detail/108/forlino",
     "rating": "5",
@@ -189,6 +430,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Four Points by Sheraton Singapore, Riverview",
     "profile_url": "https://www.blissfulbrides.sg/detail/190/four-points-by-sheraton-singapore--riverview",
     "rating": "5",
@@ -202,6 +444,16 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Four Seasons Hotel Singapore",
+    "lunch_price": "$2504–$3693Mon - Sun",
+    "dinner_price": "$2623–$3693Mon - Fri$2863–$3693Saturday$2623–$3693Sunday",
+    "tables_min": "3",
+    "tables_max": "30",
+    "tables_range": "3 - 30Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Fu Lin Men",
     "profile_url": "https://www.blissfulbrides.sg/detail/612/fu-lin-men",
     "rating": "4.8",
@@ -216,6 +468,43 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Fu Lin Men (Chinese Swimming Club)",
+    "lunch_price": "$1005–$1844Mon - Thu$1125–$2024Fri - Sun",
+    "dinner_price": "$1005–$1844Mon - Thu$1197–$2084Fri - Sun",
+    "tables_min": "12",
+    "tables_max": "25",
+    "tables_range": "12 - 25Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Fu Lin Men (National Service Resort & Country Club)",
+    "lunch_price": "$1005–$1844Mon - Thu$1041–$2024Fri - Sun",
+    "dinner_price": "$1005–$1844Mon - Thu$1125–$2084Sat - Sun",
+    "tables_min": "12",
+    "tables_max": "36",
+    "tables_range": "12 - 36Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Fu Lin Men (Temasek Club)",
+    "lunch_price": "$1005–$1844Mon - Thu$1125–$2024Fri - Sun",
+    "dinner_price": "$1005–$1844Mon - Thu$1197–$2084Fri - Sun",
+    "tables_min": "12",
+    "tables_max": "21",
+    "tables_range": "12 - 21Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Fu Lin Men Grandeur",
+    "lunch_price": "$1161–$1760Mon - Thu$1436–$2036Fri - Sun",
+    "dinner_price": "$1161–$1760Mon - Thu$1520–$2120Fri - Sun",
+    "tables_min": "12",
+    "tables_max": "36",
+    "tables_range": "12 - 36Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Furama City Centre, Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/392/furama-city-centre--singapore",
     "rating": "5",
@@ -226,6 +515,7 @@
     "tables_range": "14 - 50Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
     "name": "Furama RiverFront",
     "profile_url": "https://www.blissfulbrides.sg/detail/402/furama-riverfront",
     "rating": "5",
@@ -241,6 +531,30 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Furama RiverFront, Singapore",
+    "lunch_price": "$1424–$1616Mon - Sun",
+    "dinner_price": "$$1544–$1700Mon - Fri$$1568–$1784Saturday$$1544–$1700Sunday",
+    "tables_min": "10",
+    "tables_max": "55",
+    "tables_range": "10 - 55Mon - Sun"
+  },
+  {
+    "venue_id": "236",
+    "source": "wedding-venues-booking",
+    "name": "Galangal",
+    "vendor_name": "Village Hotel Katong",
+    "profile_url": "https://www.blissfulbrides.sg/detail/377/Village-Hotel-Katong",
+    "location": "25 Marine Parade Singapore 449536",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/eternal-vows-chinese.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/eternal-vows-buffet.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/timeless-union.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/impian-selamanya.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Genting Hotel Jurong",
     "profile_url": "https://www.blissfulbrides.sg/detail/520/genting-hotel-jurong",
     "rating": "5",
@@ -254,6 +568,38 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Goodwood Park Hotel",
+    "lunch_price": "$2024–$2024Mon - Sun",
+    "dinner_price": "$2024–$2024Mon - Thu$2276–$2276Fri - Sun",
+    "tables_min": "12",
+    "tables_max": "35",
+    "tables_range": "12 - 35Mon - Sun"
+  },
+  {
+    "venue_id": "162",
+    "source": "wedding-venues-booking",
+    "name": "Grand Ballroom",
+    "vendor_name": "Orchid Country Club",
+    "profile_url": "https://www.blissfulbrides.sg/detail/118/Orchid-Country-Club",
+    "location": "1 Orchid Club Road, Singapore 769162",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/3-knots-wedding-package-2023-2024-1-apr-2023-31-mar-2024-.pdf",
+      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/occ-wedding-package-2023-2024-1-apr-2023-31-mar-2024-.pdf",
+      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/occ-wedding-package-2024-2025-1-apr-2024-31-mar-2025-.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Grand Banquet",
+    "lunch_price": "$986Mon - Sun",
+    "dinner_price": "$986Mon - Sun",
+    "tables_min": "15",
+    "tables_max": "38",
+    "tables_range": "15 - 38Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Grand Copthorne Waterfront Hotel Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/54/grand-copthorne-waterfront-hotel-singapore",
     "rating": "5",
@@ -270,6 +616,25 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Grand Hyatt Singapore",
+    "lunch_price": "$2264–$2743Mon - Sun",
+    "dinner_price": "$2264–$2743Mon - Fri$2504–$2983Saturday$2384–$2863Sunday",
+    "tables_min": "15",
+    "tables_max": "36",
+    "tables_range": "15 - 36Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Grand Mercure Singapore Roxy",
+    "lunch_price": "$2024–$2024Mon - Sun",
+    "dinner_price": "$2024–$2024Mon - Sun",
+    "tables_min": "10",
+    "tables_max": "35",
+    "tables_range": "10 - 35Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Grand Park City Hall",
     "profile_url": "https://www.blissfulbrides.sg/detail/1170/grand-park-city-hall",
     "rating": "0",
@@ -284,6 +649,32 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Grand Shanghai",
+    "lunch_price": "$1784–$2384Mon - Sun",
+    "dinner_price": "$1784–$2384Mon - Sun",
+    "tables_min": "20",
+    "tables_max": "25",
+    "tables_range": "20 - 25Mon - Sun"
+  },
+  {
+    "venue_id": "193",
+    "source": "wedding-venues-booking",
+    "name": "Grass Field Venue",
+    "vendor_name": "Mövenpick Resort Phan Thiet",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1304/M--venpick-Resort-Phan-Thiet"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Hilton Singapore",
+    "lunch_price": "$1304-$1304Mon - Sun",
+    "dinner_price": "$1398-$1398Mon - Fri$1634-$1634Saturday$1398-$1398Sunday",
+    "tables_min": "18",
+    "tables_max": "50",
+    "tables_range": "18 - 50Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Hilton Singapore Orchard",
     "profile_url": "https://www.blissfulbrides.sg/detail/1196/hilton-singapore-orchard",
     "rating": "0",
@@ -299,6 +690,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Holiday Inn Express - Suites Singapore Novena",
     "profile_url": "https://www.blissfulbrides.sg/detail/1212/holiday-inn-express-suites-singapore-novena",
     "rating": "0",
@@ -314,6 +706,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Holiday Inn Singapore Atrium",
     "profile_url": "https://www.blissfulbrides.sg/detail/575/holiday-inn-singapore-atrium",
     "rating": "0",
@@ -331,6 +724,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Holiday Inn Singapore Orchard City Centre",
     "profile_url": "https://www.blissfulbrides.sg/detail/333/holiday-inn-singapore-orchard-city-centre",
     "rating": "5",
@@ -349,6 +743,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Hotel Fort Canning",
     "profile_url": "https://www.blissfulbrides.sg/detail/794/hotel-fort-canning",
     "rating": "0",
@@ -359,6 +754,65 @@
     "tables_range": "5 - 46Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
+    "name": "Hotel RE! @ Pearl's Hill",
+    "lunch_price": "$1222Mon - Thu$1281Fri - Sun",
+    "dinner_price": "$1339Mon - Thu$1398Fri - Sun",
+    "tables_min": "5",
+    "tables_max": "42",
+    "tables_range": "5 - 42Mon - Sun"
+  },
+  {
+    "venue_id": "198",
+    "source": "wedding-venues-booking",
+    "name": "Huong Tram Ballroom",
+    "vendor_name": "Meliá Ho Tram Beach Resort",
+    "profile_url": "https://www.blissfulbrides.sg/detail/39/Meli---Ho-Tram-Beach-Resort",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/mht-love-stories.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "iFly Singapore Sky Garden",
+    "lunch_price": "$1389-$1860Mon - Thu$1624-$1977Fri - Sun",
+    "dinner_price": "$1389-1860Mon - Thu$1624-$1977Fri - Sun",
+    "tables_min": "10",
+    "tables_max": "12",
+    "tables_range": "10 - 12Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Imperial Treasure @ Chinese Swimming Club",
+    "lunch_price": "$939Mon - Thu",
+    "dinner_price": "$979Mon - Thu$1163Fri - Sun",
+    "tables_min": "18",
+    "tables_max": "26",
+    "tables_range": "18 - 26Mon - Sun"
+  },
+  {
+    "venue_id": "213",
+    "source": "wedding-venues-booking",
+    "name": "Indoor Bar",
+    "vendor_name": "Tanglin Gin Jungle",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1356/Tanglin-Gin-Jungle"
+  },
+  {
+    "venue_id": "228",
+    "source": "wedding-venues-booking",
+    "name": "Infinity",
+    "vendor_name": "Village Hotel Changi",
+    "profile_url": "https://www.blissfulbrides.sg/detail/177/Village-Hotel-Changi",
+    "location": "1 Netheravon Road, Singapore 508502",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-chinese.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-buffet.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/timeless-union.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/impian-selamanya.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "InterContinental® Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/818/intercontinental-singapore",
     "rating": "5",
@@ -382,6 +836,16 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Jade @ The Fullerton Hotel Singapore",
+    "lunch_price": "$2254++Mon - Sun",
+    "dinner_price": "$2374–$2494Mon - Fri$2494–$2494Saturday$2374–$2494Sunday",
+    "tables_min": "10",
+    "tables_max": "12",
+    "tables_range": "10 - 12Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Jamie's Italian Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/738/jamie-s-italian-singapore",
     "rating": "5",
@@ -394,6 +858,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "JEN Singapore Tanglin by Shangri-La",
     "profile_url": "https://www.blissfulbrides.sg/detail/513/jen-singapore-tanglin-by-shangri-la",
     "rating": "5",
@@ -404,6 +869,7 @@
     "tables_range": "10 - 28Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
     "name": "JW Marriott Singapore South Beach",
     "profile_url": "https://www.blissfulbrides.sg/detail/423/jw-marriott-singapore-south-beach",
     "rating": "5",
@@ -418,6 +884,48 @@
     ]
   },
   {
+    "venue_id": "205",
+    "source": "wedding-venues-booking",
+    "name": "Kent Ridge Guild House",
+    "vendor_name": "The National University of Singapore Society (NUSS)",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1337/The-National-University-of-Singapore-Society--NUSS-",
+    "location": "9 Kent Ridge Drive, Singapore 119241",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/the-national-university-of-singapore-society-nuss-/wedding-banquet-price-list/suntec-city-guild-house-wedding-package-2025.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-national-university-of-singapore-society-nuss-/wedding-banquet-price-list/kent-ridge-guild-house-wedding-package-2025.pdf"
+    ]
+  },
+  {
+    "venue_id": "202",
+    "source": "wedding-venues-booking",
+    "name": "Laguna Ballroom",
+    "vendor_name": "Dusit Thani Laguna Singapore",
+    "profile_url": "https://www.blissfulbrides.sg/detail/810/Dusit-Thani-Laguna-Singapore",
+    "location": "11 Laguna Golf Green, Singapore 488047",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/dusit-thani-laguna-singapore/wedding-banquet-price-list/dusit-thani-laguna-singapore-property-fact-sheet_jun-2025.pdf"
+    ]
+  },
+  {
+    "venue_id": "204",
+    "source": "wedding-venues-booking",
+    "name": "Laguna Lawn",
+    "vendor_name": "Dusit Thani Laguna Singapore",
+    "profile_url": "https://www.blissfulbrides.sg/detail/810/Dusit-Thani-Laguna-Singapore",
+    "location": "11 Laguna Golf Green, Singapore 488047",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/dusit-thani-laguna-singapore/wedding-banquet-price-list/dusit-thani-laguna-singapore-property-fact-sheet_jun-2025.pdf"
+    ]
+  },
+  {
+    "venue_id": "215",
+    "source": "wedding-venues-booking",
+    "name": "Lawn",
+    "vendor_name": "Tanglin Gin Jungle",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1356/Tanglin-Gin-Jungle"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Lawry's The Prime Rib Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/578/lawry-s-the-prime-rib-singapore",
     "rating": "0",
@@ -428,6 +936,43 @@
     "tables_range": "8 - 32Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
+    "name": "Le Meridien Singapore, Sentosa (fomerly Movenpick)",
+    "lunch_price": "$1751-$2222Mon - Sun",
+    "dinner_price": "$1751-$2222Mon - Sun",
+    "tables_min": "12",
+    "tables_max": "16",
+    "tables_range": "12 - 16Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Lijiang Restaurant by Yunnan",
+    "lunch_price": "$608-$856Mon - Sun",
+    "dinner_price": "$608-$856Mon - Sun",
+    "tables_min": "20",
+    "tables_max": "40",
+    "tables_range": "20 - 40Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "LingZhi Vegetarian (Liat Towers)",
+    "lunch_price": "$597 – $837Mon - Sun",
+    "dinner_price": "$597 – $837Mon - Sun",
+    "tables_min": "9",
+    "tables_max": "13",
+    "tables_range": "9 - 13Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "LingZhi Vegetarian (Velocity – Novena Square)",
+    "lunch_price": "$501-$661Mon - Sun",
+    "dinner_price": "$501-$661Mon - Sun",
+    "tables_min": "10",
+    "tables_max": "12",
+    "tables_range": "10 - 12Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "M Hotel Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/212/m-hotel-singapore",
     "rating": "5",
@@ -441,6 +986,30 @@
     ]
   },
   {
+    "venue_id": "217",
+    "source": "wedding-venues-booking",
+    "name": "Madison",
+    "vendor_name": "Pullman Singapore Hill Street",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1357/Pullman-Singapore-Hill-Street",
+    "location": "1 Hill Street, Singapore 179949",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/wedding-brochure-pullman-singapore-hill-street.pdf"
+    ]
+  },
+  {
+    "venue_id": "207",
+    "source": "wedding-venues-booking",
+    "name": "Mandalay Guild House",
+    "vendor_name": "The National University of Singapore Society (NUSS)",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1337/The-National-University-of-Singapore-Society--NUSS-",
+    "location": "9 Kent Ridge Drive, Singapore 119241",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/the-national-university-of-singapore-society-nuss-/wedding-banquet-price-list/suntec-city-guild-house-wedding-package-2025.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-national-university-of-singapore-society-nuss-/wedding-banquet-price-list/kent-ridge-guild-house-wedding-package-2025.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Mandarin Oriental, Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/1199/mandarin-oriental--singapore-",
     "rating": "0",
@@ -454,6 +1023,32 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Marina Bay Sands",
+    "lunch_price": "$2854++Mon - Sun",
+    "dinner_price": "$3453++Mon - Sun",
+    "tables_min": "15",
+    "tables_max": "150",
+    "tables_range": "15 - 150Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Mercure Singapore Bugis",
+    "lunch_price": "$1305–$2144Mon - Fri$1424–$2144Sat - Sun",
+    "dinner_price": "$1424–$2264Mon - Fri$1544–$2264Sat - Sun",
+    "tables_min": "5",
+    "tables_max": "10",
+    "tables_range": "5 - 10Mon - Sun"
+  },
+  {
+    "venue_id": "212",
+    "source": "wedding-venues-booking",
+    "name": "Minh Tâm - Hoa Tâm - Ngọa Nguyệt Lake - Khai Tâm Gate",
+    "vendor_name": "Legacy Yên Tử",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1346/Legacy-Y--n-T---"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Montigo Resorts, Nongsa",
     "profile_url": "https://www.blissfulbrides.sg/detail/426/montigo-resorts--nongsa",
     "rating": "5",
@@ -467,6 +1062,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Mount Faber Peak",
     "profile_url": "https://www.blissfulbrides.sg/detail/306/mount-faber-peak",
     "rating": "0",
@@ -480,6 +1076,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Novotel Singapore on Stevens",
     "profile_url": "https://www.blissfulbrides.sg/detail/777/novotel-singapore-on-stevens",
     "rating": "5",
@@ -499,6 +1096,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "NTUC Club, Downtown East",
     "profile_url": "https://www.blissfulbrides.sg/detail/906/ntuc-club--downtown-east",
     "rating": "5",
@@ -507,6 +1105,7 @@
     "tables_range": "30 -Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
     "name": "Oasia Hotel Downtown",
     "profile_url": "https://www.blissfulbrides.sg/detail/927/oasia-hotel-downtown",
     "rating": "0",
@@ -517,6 +1116,7 @@
     "tables_range": "3 - 6Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
     "name": "Oasia Hotel Novena Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/375/oasia-hotel-novena-singapore",
     "rating": "5",
@@ -527,6 +1127,7 @@
     "tables_range": "5 - 10Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
     "name": "Oasia Resort Sentosa",
     "profile_url": "https://www.blissfulbrides.sg/detail/1126/oasia-resort-sentosa",
     "rating": "0",
@@ -540,6 +1141,29 @@
     ]
   },
   {
+    "venue_id": "224",
+    "source": "wedding-venues-booking",
+    "name": "Oceanfront Villa",
+    "vendor_name": "The Ritz Carlton - Bali",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1369/The-Ritz-Carlton---Bali",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/the-ritz-carlton-bali/wedding-banquet-price-list/wedding-reception-package-2025.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-ritz-carlton-bali/wedding-banquet-price-list/majestic-wedding-package-2025.pdf"
+    ]
+  },
+  {
+    "venue_id": "216",
+    "source": "wedding-venues-booking",
+    "name": "Oculus",
+    "vendor_name": "Pullman Singapore Hill Street",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1357/Pullman-Singapore-Hill-Street",
+    "location": "1 Hill Street, Singapore 179949",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/wedding-brochure-pullman-singapore-hill-street.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "One Farrer Hotel",
     "profile_url": "https://www.blissfulbrides.sg/detail/700/one-farrer-hotel",
     "rating": "0",
@@ -558,6 +1182,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "ONE°15 Marina Sentosa Cove Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/37/one--15-marina-sentosa-cove-singapore",
     "rating": "5",
@@ -572,6 +1197,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Orchard Hotel Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/523/orchard-hotel-singapore",
     "rating": "5",
@@ -589,6 +1215,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Orchid Country Club",
     "profile_url": "https://www.blissfulbrides.sg/detail/118/orchid-country-club",
     "rating": "5",
@@ -604,6 +1231,28 @@
     ]
   },
   {
+    "venue_id": "214",
+    "source": "wedding-venues-booking",
+    "name": "Outdoor Alfresco Dining",
+    "vendor_name": "Tanglin Gin Jungle",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1356/Tanglin-Gin-Jungle"
+  },
+  {
+    "venue_id": "231",
+    "source": "wedding-venues-booking",
+    "name": "Oval",
+    "vendor_name": "Village Hotel Changi",
+    "profile_url": "https://www.blissfulbrides.sg/detail/177/Village-Hotel-Changi",
+    "location": "1 Netheravon Road, Singapore 508502",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-chinese.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-buffet.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/timeless-union.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/impian-selamanya.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Pan Pacific Orchard Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/57/pan-pacific-orchard-singapore",
     "rating": "5",
@@ -614,6 +1263,7 @@
     "tables_range": "23 - 43Mon - Thu26 - 43Fri - Sun"
   },
   {
+    "source": "banquet-price-list",
     "name": "Pan Pacific Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/353/pan-pacific-singapore",
     "rating": "5",
@@ -628,6 +1278,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Paradox Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/1127/paradox-singapore",
     "rating": "0",
@@ -641,6 +1292,16 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Park Hotel Alexandra",
+    "lunch_price": "$1133-$1133Fri - Sun",
+    "dinner_price": "$1133-$1133Mon - Thu$1251-$1251Fri - Sun",
+    "tables_min": "3",
+    "tables_max": "14",
+    "tables_range": "3 - 14Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Park Hotel Clarke Quay",
     "profile_url": "https://www.blissfulbrides.sg/detail/381/park-hotel-clarke-quay",
     "rating": "5",
@@ -651,6 +1312,7 @@
     "tables_range": "3 - 13Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
     "name": "PARKROYAL COLLECTION Marina Bay, Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/847/parkroyal-collection-marina-bay--singapore",
     "rating": "0",
@@ -670,6 +1332,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "PARKROYAL COLLECTION Pickering, Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/58/parkroyal-collection-pickering--singapore",
     "rating": "0",
@@ -687,6 +1350,7 @@
     ]
   },
   {
+    "source": "both",
     "name": "PARKROYAL on Beach Road",
     "profile_url": "https://www.blissfulbrides.sg/detail/495/parkroyal-on-beach-road",
     "rating": "5",
@@ -703,9 +1367,13 @@
       "https://www.blissfulbrides.sg/banquet/parkroyal-on-beach-road/wedding-banquet-price-list/weekend-dinner-weekend-2026.pdf",
       "https://www.blissfulbrides.sg/banquet/parkroyal-on-beach-road/wedding-banquet-price-list/weekday-wedding-2026.pdf",
       "https://www.blissfulbrides.sg/banquet/parkroyal-on-beach-road/wedding-banquet-price-list/weekend-lunch-wedding-2026.pdf"
-    ]
+    ],
+    "venue_id": "208",
+    "vendor_name": "Si Chuan Dou Hua Restaurant",
+    "location": "PARKROYAL on Beach Road: 7500 Beach Road, Singapore 199591"
   },
   {
+    "source": "banquet-price-list",
     "name": "Pavilion Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/745/pavilion-singapore",
     "rating": "0",
@@ -716,6 +1384,61 @@
     "tables_range": "8 - 30Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
+    "name": "Peach Garden @ Hotel Miramar",
+    "lunch_price": "$975-$1363Mon - Sun",
+    "dinner_price": "$975-$1398Mon - Thu$1163-$1398Fri - Sun",
+    "tables_min": "20",
+    "tables_max": "42",
+    "tables_range": "20 - 42Mon - Thu25 - 42Fri - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Peach Garden @ OCBC Centre",
+    "lunch_price": "$1340–$1964Sat - Thu$1724–$1964Fri - Sun",
+    "dinner_price": "$1340–$1964Mon - Thu$1724–$1964Fri - Sun",
+    "tables_min": "10",
+    "tables_max": "36",
+    "tables_range": "10 - 36Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Peach Garden @ Orchid Country Club",
+    "lunch_price": "$975-$1328Mon - Sun",
+    "dinner_price": "$975-$1363Mon - Thu$1128-$1363Fri - Sun",
+    "tables_min": "15",
+    "tables_max": "42",
+    "tables_range": "15 - 42Mon - Fri25 - 42Sat - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Peach Garden @ The Heeren",
+    "lunch_price": "$1400–$2000Mon - Thu$1760–$2000Fri - Sun",
+    "dinner_price": "$1400–$2000Mon - Thu$1760–$2000Fri - Sun",
+    "tables_min": "16",
+    "tables_max": "20",
+    "tables_range": "16 - 20Mon - Sat"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Peach Garden @ The Metropolis",
+    "lunch_price": "$1340–$1760Mon - Thu$1592–$1760Fri - Sun",
+    "dinner_price": "$1340–$1760Mon - Thu$1592–$1760Fri - Sun",
+    "tables_min": "8",
+    "tables_max": "12",
+    "tables_range": "8 - 12Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Peach Garden @ Thomson Plaza",
+    "lunch_price": "$1340–$1760Mon - Thu$1592–$1760Fri - Sun",
+    "dinner_price": "$1340–$1760Mon - Thu$1592–$1760Fri - Sun",
+    "tables_min": "10",
+    "tables_max": "30",
+    "tables_range": "10 - 30Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Peninsula Excelsior Hotel",
     "profile_url": "https://www.blissfulbrides.sg/detail/289/peninsula-excelsior-hotel",
     "rating": "5",
@@ -729,6 +1452,205 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Peony Jade @ Amara Singapore",
+    "lunch_price": "$1664++Mon - Fri$1784++Sat - Sun",
+    "dinner_price": "$1664++Mon - Thu$1904++Fri - Sun",
+    "tables_min": "12",
+    "tables_max": "20",
+    "tables_range": "12 - 20Mon - Thu15 - 20Fri - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Peony Jade at Clarke Quay",
+    "lunch_price": "$1008-$1208Mon - Sun",
+    "dinner_price": "$1099-$1298Mon - Sun",
+    "tables_min": "18",
+    "tables_max": "38",
+    "tables_range": "18 - 38Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Peony Jade at Keppel Club",
+    "lunch_price": "$1028-$1208Mon - Sun",
+    "dinner_price": "$1128-$1298Mon - Sun",
+    "tables_min": "18",
+    "tables_max": "40",
+    "tables_range": "18 - 40Mon - Sun"
+  },
+  {
+    "venue_id": "80",
+    "source": "wedding-venues-booking",
+    "name": "Polaris Ballroom | Novotel Singapore on Stevens",
+    "vendor_name": "Novotel Singapore on Stevens",
+    "profile_url": "https://www.blissfulbrides.sg/detail/777/Novotel-Singapore-on-Stevens",
+    "location": "Novotel Singapore on Stevens, 28 Stevens Road, Singapore 257878",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/novotel-singapore-on-stevens/wedding-banquet-price-list/wedding-venue-only-package-2026.pdf",
+      "https://www.blissfulbrides.sg/banquet/novotel-singapore-on-stevens/wedding-banquet-price-list/food-exchange-wedding-package-2026.pdf",
+      "https://www.blissfulbrides.sg/banquet/novotel-singapore-on-stevens/wedding-banquet-price-list/solemnisation-x-l-aperitif-2026.pdf",
+      "https://www.blissfulbrides.sg/banquet/novotel-singapore-on-stevens/wedding-banquet-price-list/winestone-wedding-package-2026.pdf",
+      "https://www.blissfulbrides.sg/banquet/novotel-singapore-on-stevens/wedding-banquet-price-list/galactical-wedding-package-2026.pdf",
+      "https://www.blissfulbrides.sg/banquet/novotel-singapore-on-stevens/wedding-banquet-price-list/nova-wedding-package-2026.pdf",
+      "https://www.blissfulbrides.sg/banquet/novotel-singapore-on-stevens/wedding-banquet-price-list/constellation-wedding-package-2026.pdf"
+    ]
+  },
+  {
+    "venue_id": "229",
+    "source": "wedding-venues-booking",
+    "name": "Poolside",
+    "vendor_name": "Village Hotel Changi",
+    "profile_url": "https://www.blissfulbrides.sg/detail/177/Village-Hotel-Changi",
+    "location": "1 Netheravon Road, Singapore 508502",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-chinese.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-buffet.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/timeless-union.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/impian-selamanya.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Prima Tower Revolving Restaurant",
+    "lunch_price": "$568-$1388Mon - Sun",
+    "dinner_price": "$568-$1388Mon - Sun",
+    "tables_min": "20",
+    "tables_max": "40",
+    "tables_range": "20 - 40Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Qian Xi Bliss Garden",
+    "lunch_price": "$1138–$1758Mon - Sun",
+    "dinner_price": "$1138–$1758Mon - Sun",
+    "tables_min": "25",
+    "tables_max": "85",
+    "tables_range": "25 - 85Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Qian Xi Blossom Garden",
+    "lunch_price": "$698-$1118Mon - Sun",
+    "dinner_price": "$698-$1118Mon - Sun",
+    "tables_min": "10",
+    "tables_max": "70",
+    "tables_range": "10 - 70Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Qian Xi Bountiful Garden",
+    "lunch_price": "$1138–$1758Mon - Sun",
+    "dinner_price": "$1138–$1758Mon - Sun",
+    "tables_min": "6",
+    "tables_max": "28",
+    "tables_range": "6 - 28Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Qian Xi Carpenter Street",
+    "lunch_price": "$698-$1118Mon - Sun",
+    "dinner_price": "$698-$1118Mon - Sun",
+    "tables_min": "5",
+    "tables_max": "80",
+    "tables_range": "5 - 80Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Qian Xi Eternal Garden",
+    "lunch_price": "$1138–$1758Mon - Sun",
+    "dinner_price": "$1138–$1758Mon - Sun",
+    "tables_min": "10",
+    "tables_max": "40",
+    "tables_range": "10 - 40Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Qian Xi Farrer Park",
+    "lunch_price": "$1138–$1758Mon - Sun",
+    "dinner_price": "$1138–$1758Mon - Sun",
+    "tables_min": "21",
+    "tables_max": "57",
+    "tables_range": "21 - 57Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Qian Xi Hilltop Garden",
+    "lunch_price": "$1138–$1758Mon - Sun",
+    "dinner_price": "$1138–$1758Mon - Sun",
+    "tables_min": "8",
+    "tables_max": "62",
+    "tables_range": "8 - 62Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Qian Xi Joy Garden",
+    "lunch_price": "$698-$1118Mon - Sun",
+    "dinner_price": "$698-$1118Mon - Sun",
+    "tables_min": "15",
+    "tables_max": "130",
+    "tables_range": "15 - 130Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Qian Xi Jubilee Garden",
+    "lunch_price": "$1138–$1758Mon - Sun",
+    "dinner_price": "$1138–$1758Mon - Sun",
+    "tables_min": "22",
+    "tables_max": "116",
+    "tables_range": "22 - 116Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Qian Xi Paya Lebar",
+    "lunch_price": "$1138–$1758Mon - Sun",
+    "dinner_price": "$1138–$1758Mon - Sun",
+    "tables_min": "12",
+    "tables_max": "100",
+    "tables_range": "12 - 100Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Qian Xi Pearl Garden",
+    "lunch_price": "$1138–$1758Mon - Sun",
+    "dinner_price": "$1138–$1758Mon - Sun",
+    "tables_min": "17",
+    "tables_max": "120",
+    "tables_range": "17 - 120Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Qian Xi Summer Garden",
+    "lunch_price": "$1138–$1758Mon - Sun",
+    "dinner_price": "$1138–$1758Mon - Sun",
+    "tables_min": "10",
+    "tables_max": "90",
+    "tables_range": "10 - 90Mon - Sun"
+  },
+  {
+    "venue_id": "227",
+    "source": "wedding-venues-booking",
+    "name": "Quad",
+    "vendor_name": "Village Hotel Changi",
+    "profile_url": "https://www.blissfulbrides.sg/detail/177/Village-Hotel-Changi",
+    "location": "1 Netheravon Road, Singapore 508502",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-chinese.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-buffet.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/timeless-union.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/impian-selamanya.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Raffles Hotel",
+    "lunch_price": "$3093–$3453Mon - Sun",
+    "dinner_price": "$3093–$3453Mon - Fri$3573–$3933Sat - Sun",
+    "tables_min": "8",
+    "tables_max": "30",
+    "tables_range": "8 - 30Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Raffles Marina",
     "profile_url": "https://www.blissfulbrides.sg/detail/422/raffles-marina",
     "rating": "5",
@@ -743,6 +1665,34 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Red House Seafood",
+    "lunch_price": "$2264–$2863Mon - Sun",
+    "dinner_price": "$2264–$2863Mon - Sun",
+    "tables_min": "1",
+    "tables_max": "14",
+    "tables_range": "1 - 14Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Rendezvous Hotel Singapore at Bras Basah",
+    "lunch_price": "$1605++Mon - Sun",
+    "dinner_price": "$1605++Mon - Thu$1725++Friday$1795++Saturday$1725++Sunday",
+    "tables_min": "10",
+    "tables_max": "15",
+    "tables_range": "10 - 15Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Resorts World Sentosa, Convention Centre",
+    "lunch_price": "$2264–$2384Mon - Sun",
+    "dinner_price": "$2264–$2504Mon - Thu$2384–$2504Thu - Sat$2264–$2504Sunday",
+    "tables_min": "15",
+    "tables_max": "196",
+    "tables_range": "15 - 196Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Resorts World Sentosa, Equarius Hotel",
     "profile_url": "https://www.blissfulbrides.sg/detail/219/resorts-world-sentosa--equarius-hotel",
     "rating": "0",
@@ -760,6 +1710,18 @@
     ]
   },
   {
+    "venue_id": "165",
+    "source": "wedding-venues-booking",
+    "name": "Robertson 4",
+    "vendor_name": "The Robertson House by The Crest Collection",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1236/The-Robertson-House-by-The-Crest-Collection-",
+    "location": "1 Unity Street, Singapore 237983",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/the-robertson-house-by-the-crest-collection-/wedding-banquet-price-list/wedding-brochure-2025.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Royal Plaza on Scotts",
     "profile_url": "https://www.blissfulbrides.sg/detail/647/royal-plaza-on-scotts",
     "rating": "0",
@@ -774,6 +1736,44 @@
     ]
   },
   {
+    "venue_id": "237",
+    "source": "wedding-venues-booking",
+    "name": "Saffron",
+    "vendor_name": "Village Hotel Katong",
+    "profile_url": "https://www.blissfulbrides.sg/detail/377/Village-Hotel-Katong",
+    "location": "25 Marine Parade Singapore 449536",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/eternal-vows-chinese.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/eternal-vows-buffet.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/timeless-union.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/impian-selamanya.pdf"
+    ]
+  },
+  {
+    "venue_id": "163",
+    "source": "wedding-venues-booking",
+    "name": "Sapphire Suite",
+    "vendor_name": "Orchid Country Club",
+    "profile_url": "https://www.blissfulbrides.sg/detail/118/Orchid-Country-Club",
+    "location": "1 Orchid Club Road, Singapore 769162",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/3-knots-wedding-package-2023-2024-1-apr-2023-31-mar-2024-.pdf",
+      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/occ-wedding-package-2023-2024-1-apr-2023-31-mar-2024-.pdf",
+      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/occ-wedding-package-2024-2025-1-apr-2024-31-mar-2025-.pdf"
+    ]
+  },
+  {
+    "venue_id": "210",
+    "source": "wedding-venues-booking",
+    "name": "Scorpio and Taurus",
+    "vendor_name": "Park Avenue Rochester",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1345/Park-Avenue-Rochester",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/park-avenue-rochester/wedding-banquet-price-list/wedding-package-brochure.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Seletar Country Club",
     "profile_url": "https://www.blissfulbrides.sg/detail/206/seletar-country-club",
     "rating": "0",
@@ -784,6 +1784,18 @@
     "tables_range": "10 - 24Mon - Sun"
   },
   {
+    "venue_id": "223",
+    "source": "wedding-venues-booking",
+    "name": "Senses Lawn",
+    "vendor_name": "The Ritz Carlton - Bali",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1369/The-Ritz-Carlton---Bali",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/the-ritz-carlton-bali/wedding-banquet-price-list/wedding-reception-package-2025.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-ritz-carlton-bali/wedding-banquet-price-list/majestic-wedding-package-2025.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Sentosa Golf Club",
     "profile_url": "https://www.blissfulbrides.sg/detail/532/sentosa-golf-club",
     "rating": "0",
@@ -799,6 +1811,34 @@
     ]
   },
   {
+    "venue_id": "105",
+    "source": "wedding-venues-booking",
+    "name": "Sentosa Pavilion",
+    "vendor_name": "Sentosa Golf Club",
+    "profile_url": "https://www.blissfulbrides.sg/detail/532/Sentosa-Golf-Club",
+    "location": "27 Bukit Manis Rd, Singapore 099892",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/sentosa-golf-club/wedding-banquet-price-list/wedding-package-2025-international-buffet.pdf",
+      "https://www.blissfulbrides.sg/banquet/sentosa-golf-club/wedding-banquet-price-list/pyramid-wedding-package-2025.pdf",
+      "https://www.blissfulbrides.sg/banquet/sentosa-golf-club/wedding-banquet-price-list/wedding-packages-2025-chinese.pdf"
+    ]
+  },
+  {
+    "venue_id": "234",
+    "source": "wedding-venues-booking",
+    "name": "Serai",
+    "vendor_name": "Village Hotel Katong",
+    "profile_url": "https://www.blissfulbrides.sg/detail/377/Village-Hotel-Katong",
+    "location": "25 Marine Parade Singapore 449536",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/eternal-vows-chinese.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/eternal-vows-buffet.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/timeless-union.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/impian-selamanya.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Serangoon Gardens Country Club",
     "profile_url": "https://www.blissfulbrides.sg/detail/38/serangoon-gardens-country-club",
     "rating": "0",
@@ -812,6 +1852,16 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Shangri-La Hotel",
+    "lunch_price": "$2005 - $2362Mon - Sun",
+    "dinner_price": "$2362 - $3075Mon - Sun",
+    "tables_min": "6",
+    "tables_max": "100",
+    "tables_range": "6 - 100Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Shangri-La Rasa Sentosa, Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/579/shangri-la-rasa-sentosa--singapore",
     "rating": "5",
@@ -826,6 +1876,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Sheraton Towers Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/770/sheraton-towers-singapore",
     "rating": "5",
@@ -841,6 +1892,37 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Shin Yeh",
+    "lunch_price": "$651-$651Mon - Fri$683-$683Sat - Sun",
+    "dinner_price": "$651-$950Mon - Fri$683-$1004Sat - Sun",
+    "tables_min": "24",
+    "tables_max": "36",
+    "tables_range": "24 - 36Mon - Thu26 - 36Fri - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Shisen Hanten",
+    "lunch_price": "$2374++Mon - Sun",
+    "dinner_price": "$2374++Mon - Sun",
+    "tables_min": "10",
+    "tables_max": "12",
+    "tables_range": "10 - 12Mon - Sun"
+  },
+  {
+    "venue_id": "46",
+    "source": "wedding-venues-booking",
+    "name": "Siloso Ballroom",
+    "vendor_name": "Shangri-La Rasa Sentosa, Singapore",
+    "profile_url": "https://www.blissfulbrides.sg/detail/579/Shangri-La-Rasa-Sentosa--Singapore",
+    "location": "101 Siloso Road, Sentosa, 098970, Singapore",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/shangri-la-rasa-sentosa-singapore/wedding-banquet-price-list/exquisite-wedding-brochure-2025.pdf",
+      "https://www.blissfulbrides.sg/banquet/shangri-la-rasa-sentosa-singapore/wedding-banquet-price-list/elegance-enchantment-wedding-brochure-2025.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Sinfonia Ristorante",
     "profile_url": "https://www.blissfulbrides.sg/detail/580/sinfonia-ristorante",
     "rating": "5",
@@ -853,6 +1935,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Singapore Marriott Tang Plaza Hotel",
     "profile_url": "https://www.blissfulbrides.sg/detail/395/singapore-marriott-tang-plaza-hotel",
     "rating": "5",
@@ -870,6 +1953,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Singapore Recreation Club",
     "profile_url": "https://www.blissfulbrides.sg/detail/797/singapore-recreation-club",
     "rating": "0",
@@ -884,6 +1968,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Singapore Swimming Club",
     "profile_url": "https://www.blissfulbrides.sg/detail/516/singapore-swimming-club",
     "rating": "0",
@@ -894,6 +1979,7 @@
     "tables_range": "8 - 44Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
     "name": "SIRI HOUSE",
     "profile_url": "https://www.blissfulbrides.sg/detail/827/siri-house",
     "rating": "0",
@@ -907,6 +1993,16 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "Sky Garden Sentosa",
+    "lunch_price": "$1775–$2254Mon - Thu$$1894–$2374Fri - Sun",
+    "dinner_price": "$1894–$2374Mon - Thu$2014–$2494Fri - Sun",
+    "tables_min": "10",
+    "tables_max": "16",
+    "tables_range": "10 - 16Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Sofitel Singapore City Centre",
     "profile_url": "https://www.blissfulbrides.sg/detail/1250/sofitel-singapore-city-centre-",
     "rating": "0",
@@ -917,6 +2013,7 @@
     "tables_range": "8 - 32Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
     "name": "Sofitel Singapore Sentosa Resort & Spa",
     "profile_url": "https://www.blissfulbrides.sg/detail/343/sofitel-singapore-sentosa-resort-spa",
     "rating": "5",
@@ -936,6 +2033,65 @@
     ]
   },
   {
+    "venue_id": "232",
+    "source": "wedding-venues-booking",
+    "name": "Sphere",
+    "vendor_name": "Village Hotel Changi",
+    "profile_url": "https://www.blissfulbrides.sg/detail/177/Village-Hotel-Changi",
+    "location": "1 Netheravon Road, Singapore 508502",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-chinese.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-buffet.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/timeless-union.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/impian-selamanya.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Spring Court",
+    "lunch_price": "$1065–$1664Mon - Sun",
+    "dinner_price": "$1065–$1664Mon - Sun",
+    "tables_min": "12",
+    "tables_max": "18",
+    "tables_range": "12 - 18Mon - Sun"
+  },
+  {
+    "venue_id": "226",
+    "source": "wedding-venues-booking",
+    "name": "Square Ballroom",
+    "vendor_name": "Village Hotel Changi",
+    "profile_url": "https://www.blissfulbrides.sg/detail/177/Village-Hotel-Changi",
+    "location": "1 Netheravon Road, Singapore 508502",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-chinese.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-buffet.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/timeless-union.pdf",
+      "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/impian-selamanya.pdf"
+    ]
+  },
+  {
+    "venue_id": "206",
+    "source": "wedding-venues-booking",
+    "name": "Suntec City Guild House",
+    "vendor_name": "The National University of Singapore Society (NUSS)",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1337/The-National-University-of-Singapore-Society--NUSS-",
+    "location": "9 Kent Ridge Drive, Singapore 119241",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/the-national-university-of-singapore-society-nuss-/wedding-banquet-price-list/suntec-city-guild-house-wedding-package-2025.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-national-university-of-singapore-society-nuss-/wedding-banquet-price-list/kent-ridge-guild-house-wedding-package-2025.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Swissôtel Merchant Court Singapore",
+    "lunch_price": "$1281-$1281Mon - Sun",
+    "dinner_price": "$1045-$1045Mon - Thu$1563-$1563Friday$1681-$1681Saturday$1563-$1563Sunday",
+    "tables_min": "30",
+    "tables_max": "50",
+    "tables_range": "30 - 50Mon - Thu35 - 50Fri - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "The British Club",
     "profile_url": "https://www.blissfulbrides.sg/detail/325/the-british-club",
     "rating": "0",
@@ -946,6 +2102,7 @@
     "tables_range": "9 - 15Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
     "name": "The Capitol Kempinski Hotel Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/1286/the-capitol-kempinski-hotel-singapore",
     "rating": "0",
@@ -956,6 +2113,82 @@
     "tables_range": "8 - 10Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
+    "name": "THE CHEVRONS",
+    "lunch_price": "$808-$808Mon - Thu$808-$1058Fri - Sun",
+    "dinner_price": "$808-$808Mon - Thu$938-$1058Fri - Sun",
+    "tables_min": "15",
+    "tables_max": "70",
+    "tables_range": "15 - 70Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "The Chevrons @ Jurong East",
+    "lunch_price": "$1484++Mon - Sun",
+    "dinner_price": "$1604++Mon - Sun",
+    "tables_min": "12",
+    "tables_max": "40",
+    "tables_range": "12 - 40Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "The Clifford Pier @ The Fullerton Bay Hotel",
+    "lunch_price": "$3933++Mon - Sun",
+    "dinner_price": "$3933++Mon - Sun",
+    "tables_min": "15",
+    "tables_max": "28",
+    "tables_range": "15 - 28Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "The Fullerton Hotel Singapore",
+    "lunch_price": "$2854++Mon - Sun",
+    "dinner_price": "$2854++Mon - Thu$2974++Friday$3093++Saturday$2974Sunday",
+    "tables_min": "10",
+    "tables_max": "48",
+    "tables_range": "10 - 48Mon - Sun"
+  },
+  {
+    "venue_id": "197",
+    "source": "wedding-venues-booking",
+    "name": "The Level Poolside",
+    "vendor_name": "Meliá Ho Tram Beach Resort",
+    "profile_url": "https://www.blissfulbrides.sg/detail/39/Meli---Ho-Tram-Beach-Resort",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/mht-love-stories.pdf"
+    ]
+  },
+  {
+    "venue_id": "219",
+    "source": "wedding-venues-booking",
+    "name": "The Majestic Chapel",
+    "vendor_name": "The Ritz Carlton - Bali",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1369/The-Ritz-Carlton---Bali",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/the-ritz-carlton-bali/wedding-banquet-price-list/wedding-reception-package-2025.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-ritz-carlton-bali/wedding-banquet-price-list/majestic-wedding-package-2025.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "The Outpost Hotel Sentosa",
+    "lunch_price": "$2180++Mon - Fri$2599++Sat - Sun",
+    "dinner_price": "$2180++Mon - Fri$2599++Sat - Sun",
+    "tables_min": "12",
+    "tables_max": "16",
+    "tables_range": "12 - 16Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "The Ritz Carlton, Millenia Singapore",
+    "lunch_price": "$2494–$2734Mon - Sun",
+    "dinner_price": "$2854–$3573Mon - Sun",
+    "tables_min": "10",
+    "tables_max": "90",
+    "tables_range": "10 - 90Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "The Robertson House by The Crest Collection",
     "profile_url": "https://www.blissfulbrides.sg/detail/1236/the-robertson-house-by-the-crest-collection-",
     "rating": "0",
@@ -969,6 +2202,34 @@
     ]
   },
   {
+    "source": "banquet-price-list",
+    "name": "The Singapore EDITION",
+    "lunch_price": "$3093++Mon - Sun",
+    "dinner_price": "$3453++Mon - Sun",
+    "tables_min": "3",
+    "tables_max": "34",
+    "tables_range": "3 - 34Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "The Singapore Island Country Club",
+    "lunch_price": "$1131–$1177Mon - Sun",
+    "dinner_price": "$1131–$1177Mon - Sun",
+    "tables_min": "3",
+    "tables_max": "45",
+    "tables_range": "3 - 45Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "The St. Regis Singapore",
+    "lunch_price": "$$2623–$2863Sat - Sun",
+    "dinner_price": "$2623–$3463Mon - Fri$2863–$3463Saturday",
+    "tables_min": "12",
+    "tables_max": "42",
+    "tables_range": "12 - 42Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "The Westin Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/1318/the-westin-singapore",
     "rating": "0",
@@ -987,6 +2248,110 @@
     ]
   },
   {
+    "venue_id": "201",
+    "source": "wedding-venues-booking",
+    "name": "The Westin Singapore - Grand Ballroom",
+    "vendor_name": "The Westin Singapore",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1318/The-Westin-Singapore",
+    "location": "12 Marina View, Asia Square Tower 2, Singapore 018961",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2025-lunch-package-wedding-brochure.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2025-weekday-dinner-package-wedding-brochure.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2025-weekend-dinner-package-wedding-brochure.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2026-wedding-package-weekday-dinner.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2026-wedding-package-weekend-dinner.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2026-wedding-package-lunch-2026.pdf"
+    ]
+  },
+  {
+    "venue_id": "199",
+    "source": "wedding-venues-booking",
+    "name": "The Westin Singapore – Cook & Brew",
+    "vendor_name": "The Westin Singapore",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1318/The-Westin-Singapore",
+    "location": "12 Marina View, Asia Square Tower 2, Singapore 018961",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2025-lunch-package-wedding-brochure.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2025-weekday-dinner-package-wedding-brochure.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2025-weekend-dinner-package-wedding-brochure.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2026-wedding-package-weekday-dinner.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2026-wedding-package-weekend-dinner.pdf",
+      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2026-wedding-package-lunch-2026.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Tim Palace",
+    "lunch_price": "$628Mon - Sun",
+    "dinner_price": "$628Mon - Sun",
+    "tables_min": "15",
+    "tables_max": "80",
+    "tables_range": "15 - 80Mon - Sun"
+  },
+  {
+    "venue_id": "65",
+    "source": "wedding-venues-booking",
+    "name": "TOP of UOB Plaza",
+    "vendor_name": "Si Chuan Dou Hua Restaurant",
+    "profile_url": "https://www.blissfulbrides.sg/detail/711/Si-Chuan-Dou-Hua-Restaurant",
+    "location": "80 Raffles Place, #60-01 UOB Plaza 1, Singapore 048624"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Tung Lok Heen",
+    "lunch_price": "$1153-$1389Mon - Sun",
+    "dinner_price": "$1153-$1389Mon - Sun",
+    "tables_min": "8",
+    "tables_max": "14",
+    "tables_range": "8 - 14Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Tung Lok Seafood (Orchard Central)",
+    "lunch_price": "$629-$950Mon - Sun",
+    "dinner_price": "$629-$950Mon - Sun",
+    "tables_min": "15",
+    "tables_max": "18",
+    "tables_range": "15 - 18Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Tung Lok Seafood (Upper Jurong)",
+    "lunch_price": "$629-$843Mon - Sun",
+    "dinner_price": "$629-$843Mon - Sun",
+    "tables_min": "15",
+    "tables_max": "40",
+    "tables_range": "15 - 40Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Tung Lok Signatures (Orchard Parade)",
+    "lunch_price": "$950-$1089Mon - Fri$950-$1175Sat - Sun",
+    "dinner_price": "$950-$1089Mon - Fri$950-$1175Sat - Sun",
+    "tables_min": "20",
+    "tables_max": "30",
+    "tables_range": "20 - 30Mon - Fri25 - 30Sat - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Tung Lok Signatures (The Central)",
+    "lunch_price": "$927-$1045Mon - Sun",
+    "dinner_price": "$927-$1045Mon - Sun",
+    "tables_min": "17",
+    "tables_max": "20",
+    "tables_range": "17 - 20Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Tung Lok Signatures (Vivo)",
+    "lunch_price": "$498Mon - Sun",
+    "dinner_price": "$688, 888Mon - Sun",
+    "tables_min": "2",
+    "tables_max": "13",
+    "tables_range": "2 - 13Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "TungLok Heen",
     "profile_url": "https://www.blissfulbrides.sg/detail/305/",
     "rating": "0",
@@ -997,6 +2362,34 @@
     "tables_range": "10 - 15Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
+    "name": "TungLok Seafood (Park Regis Singapore)",
+    "lunch_price": "$1055–$2014Mon - Sun",
+    "dinner_price": "$1055–$2014Mon - Fri$1175–$2134Sat - Sun",
+    "tables_min": "14",
+    "tables_max": "16",
+    "tables_range": "14 - 16Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "TungLok Seafood (PLQ Mall)",
+    "lunch_price": "$859–$1295Mon - Sun",
+    "dinner_price": "$859–$1295Mon - Sun",
+    "tables_min": "15",
+    "tables_max": "18",
+    "tables_range": "15 - 18Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "TungLok Seafood (Upper Jurong)",
+    "lunch_price": "$825–$1664Mon - Sun",
+    "dinner_price": "$825–$1664Mon - Sun",
+    "tables_min": "24",
+    "tables_max": "29",
+    "tables_range": "24 - 29Mon - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "TungLok Seafood @ Orchard Central",
     "profile_url": "https://www.blissfulbrides.sg/detail/270/",
     "rating": "0",
@@ -1007,6 +2400,16 @@
     "tables_range": "15 - 18Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
+    "name": "TungLok Signatures (The Central)",
+    "lunch_price": "$1077–$1317Mon - Sun",
+    "dinner_price": "$1077–$1317Mon - Sun",
+    "tables_min": "16",
+    "tables_max": "19",
+    "tables_range": "16 - 19Mon - Thu16 - 20Friday16 - 19Sat - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Tunglok Signatures @ Antica Ballroom, Orchard Rendezvous Hotel",
     "profile_url": "https://www.blissfulbrides.sg/detail/603/tunglok-signatures-antica-ballroom--orchard-rendezvous-hotel",
     "rating": "0",
@@ -1017,6 +2420,16 @@
     "tables_range": "15 - 30Mon - Fri20 -Sat - Sun"
   },
   {
+    "source": "banquet-price-list",
+    "name": "TungLok Signatures, Antica Ballroom @ Orchard Rendezvous Hotel*",
+    "lunch_price": "$1415–$1622Mon - Sun",
+    "dinner_price": "$1415–$1622Mon - Fri$1469–$1676Sat - Sun",
+    "tables_min": "15",
+    "tables_max": "25",
+    "tables_range": "15 - 25Mon - Fri18 - 25Sat - Sun"
+  },
+  {
+    "source": "banquet-price-list",
     "name": "Village Hotel Changi",
     "profile_url": "https://www.blissfulbrides.sg/detail/177/village-hotel-changi",
     "rating": "5",
@@ -1033,6 +2446,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Village Hotel Katong",
     "profile_url": "https://www.blissfulbrides.sg/detail/377/village-hotel-katong",
     "rating": "5",
@@ -1049,6 +2463,17 @@
     ]
   },
   {
+    "venue_id": "209",
+    "source": "wedding-venues-booking",
+    "name": "Virgo",
+    "vendor_name": "Park Avenue Rochester",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1345/Park-Avenue-Rochester",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/park-avenue-rochester/wedding-banquet-price-list/wedding-package-brochure.pdf"
+    ]
+  },
+  {
+    "source": "banquet-price-list",
     "name": "voco Orchard Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/1070/voco-orchard-singapore",
     "rating": "0",
@@ -1064,6 +2489,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "W Singapore - Sentosa Cove",
     "profile_url": "https://www.blissfulbrides.sg/detail/1211/w-singapore-sentosa-cove",
     "rating": "0",
@@ -1084,6 +2510,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "Ya Ge Restaurant",
     "profile_url": "https://www.blissfulbrides.sg/detail/1281/ya-ge-restaurant",
     "rating": "0",
@@ -1096,6 +2523,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "York Hotel Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/1282/york-hotel-singapore",
     "rating": "0",
@@ -1109,6 +2537,7 @@
     ]
   },
   {
+    "source": "banquet-price-list",
     "name": "YWCA Fort Canning",
     "profile_url": "https://www.blissfulbrides.sg/detail/958/ywca-fort-canning",
     "rating": "0",
@@ -1120,681 +2549,7 @@
     "price_lists": []
   },
   {
-    "name": "Ah Yat Seafood Restaurant",
-    "lunch_price": "$988–$1588Mon - Sun",
-    "dinner_price": "$988–$1588Mon - Sun",
-    "tables_min": "10",
-    "tables_max": "40",
-    "tables_range": "10 - 40- Sun"
-  },
-  {
-    "name": "Andaz Singapore",
-    "lunch_price": "$2614–$2614Mon - Sun",
-    "dinner_price": "$2734–$2734Mon - Fri$2854–$2854Saturday$2734–$2734Sunday",
-    "tables_min": "6",
-    "tables_max": "28",
-    "tables_range": "6 - 28Fri - Sun"
-  },
-  {
-    "name": "Capella Singapore",
-    "lunch_price": "$3093–$4412Mon - Sun",
-    "dinner_price": "$3213–$4412Mon - Sun",
-    "tables_min": "15",
-    "tables_max": "40",
-    "tables_range": "15 - 40Mon - Sun"
-  },
-  {
-    "name": "Changi Cove Hotel",
-    "lunch_price": "$1424–$1499Mon - Sun",
-    "dinner_price": "$1424–$1703Mon - Sun",
-    "tables_min": "13",
-    "tables_max": "22",
-    "tables_range": "13 - 22Mon - Sun"
-  },
-  {
-    "name": "CHIJMES Hall Singapore",
-    "lunch_price": "$1940–$2276Mon - Thu$2036–$2396Friday$2276–$2635Saturday$2156–$2516Sunday",
-    "dinner_price": "$1940–$2276Mon - Thu$2036–$2396Friday$2276–$2635Saturday$2156–$2516Sunday",
-    "tables_min": "12",
-    "tables_max": "30",
-    "tables_range": "12 - 30Mon - Thu16 - 30Friday20 - 30Saturday16 - 30Sunday"
-  },
-  {
-    "name": "Conrad Singapore Orchard",
-    "lunch_price": "$2024–$2623Mon - Sun",
-    "dinner_price": "$2024–$2623Mon - Thu$2264–$2743Friday$2504–$2863Saturday$2264–$2743Sunday",
-    "tables_min": "10",
-    "tables_max": "50",
-    "tables_range": "10 - 50Mon - Sun"
-  },
-  {
-    "name": "Crystal Jade Prestige",
-    "lunch_price": "$824Mon - Sun",
-    "dinner_price": "$824Mon - Sun",
-    "tables_min": "3",
-    "tables_max": "7",
-    "tables_range": "3 - 7Mon - Thu"
-  },
-  {
-    "name": "Flutes",
-    "lunch_price": "$NAMon - Sun",
-    "dinner_price": "$226++ - $300++Mon - Sun",
-    "tables_min": "10",
-    "tables_max": "30",
-    "tables_range": "10 - 30Mon - Sun",
-    "price_lists": [
-      "banquet//wedding-banquet-price-list/flutes-wedding-dinner-solemnisation-for-88-persons.pdf"
-    ]
-  },
-  {
-    "name": "Four Seasons Hotel Singapore",
-    "lunch_price": "$2504–$3693Mon - Sun",
-    "dinner_price": "$2623–$3693Mon - Fri$2863–$3693Saturday$2623–$3693Sunday",
-    "tables_min": "3",
-    "tables_max": "30",
-    "tables_range": "3 - 30Mon - Sun"
-  },
-  {
-    "name": "Fu Lin Men (Chinese Swimming Club)",
-    "lunch_price": "$1005–$1844Mon - Thu$1125–$2024Fri - Sun",
-    "dinner_price": "$1005–$1844Mon - Thu$1197–$2084Fri - Sun",
-    "tables_min": "12",
-    "tables_max": "25",
-    "tables_range": "12 - 25Mon - Sun"
-  },
-  {
-    "name": "Fu Lin Men (National Service Resort & Country Club)",
-    "lunch_price": "$1005–$1844Mon - Thu$1041–$2024Fri - Sun",
-    "dinner_price": "$1005–$1844Mon - Thu$1125–$2084Sat - Sun",
-    "tables_min": "12",
-    "tables_max": "36",
-    "tables_range": "12 - 36Mon - Sun"
-  },
-  {
-    "name": "Fu Lin Men (Temasek Club)",
-    "lunch_price": "$1005–$1844Mon - Thu$1125–$2024Fri - Sun",
-    "dinner_price": "$1005–$1844Mon - Thu$1197–$2084Fri - Sun",
-    "tables_min": "12",
-    "tables_max": "21",
-    "tables_range": "12 - 21Mon - Sun"
-  },
-  {
-    "name": "Fu Lin Men Grandeur",
-    "lunch_price": "$1161–$1760Mon - Thu$1436–$2036Fri - Sun",
-    "dinner_price": "$1161–$1760Mon - Thu$1520–$2120Fri - Sun",
-    "tables_min": "12",
-    "tables_max": "36",
-    "tables_range": "12 - 36Mon - Sun"
-  },
-  {
-    "name": "Furama RiverFront, Singapore",
-    "lunch_price": "$1424–$1616Mon - Sun",
-    "dinner_price": "$$1544–$1700Mon - Fri$$1568–$1784Saturday$$1544–$1700Sunday",
-    "tables_min": "10",
-    "tables_max": "55",
-    "tables_range": "10 - 55Mon - Sun"
-  },
-  {
-    "name": "Goodwood Park Hotel",
-    "lunch_price": "$2024–$2024Mon - Sun",
-    "dinner_price": "$2024–$2024Mon - Thu$2276–$2276Fri - Sun",
-    "tables_min": "12",
-    "tables_max": "35",
-    "tables_range": "12 - 35Mon - Sun"
-  },
-  {
-    "name": "Grand Banquet",
-    "lunch_price": "$986Mon - Sun",
-    "dinner_price": "$986Mon - Sun",
-    "tables_min": "15",
-    "tables_max": "38",
-    "tables_range": "15 - 38Mon - Sun"
-  },
-  {
-    "name": "Grand Hyatt Singapore",
-    "lunch_price": "$2264–$2743Mon - Sun",
-    "dinner_price": "$2264–$2743Mon - Fri$2504–$2983Saturday$2384–$2863Sunday",
-    "tables_min": "15",
-    "tables_max": "36",
-    "tables_range": "15 - 36Mon - Sun"
-  },
-  {
-    "name": "Grand Mercure Singapore Roxy",
-    "lunch_price": "$2024–$2024Mon - Sun",
-    "dinner_price": "$2024–$2024Mon - Sun",
-    "tables_min": "10",
-    "tables_max": "35",
-    "tables_range": "10 - 35Mon - Sun"
-  },
-  {
-    "name": "Grand Shanghai",
-    "lunch_price": "$1784–$2384Mon - Sun",
-    "dinner_price": "$1784–$2384Mon - Sun",
-    "tables_min": "20",
-    "tables_max": "25",
-    "tables_range": "20 - 25Mon - Sun"
-  },
-  {
-    "name": "Hilton Singapore",
-    "lunch_price": "$1304-$1304Mon - Sun",
-    "dinner_price": "$1398-$1398Mon - Fri$1634-$1634Saturday$1398-$1398Sunday",
-    "tables_min": "18",
-    "tables_max": "50",
-    "tables_range": "18 - 50Mon - Sun"
-  },
-  {
-    "name": "Hotel RE! @ Pearl's Hill",
-    "lunch_price": "$1222Mon - Thu$1281Fri - Sun",
-    "dinner_price": "$1339Mon - Thu$1398Fri - Sun",
-    "tables_min": "5",
-    "tables_max": "42",
-    "tables_range": "5 - 42Mon - Sun"
-  },
-  {
-    "name": "iFly Singapore Sky Garden",
-    "lunch_price": "$1389-$1860Mon - Thu$1624-$1977Fri - Sun",
-    "dinner_price": "$1389-1860Mon - Thu$1624-$1977Fri - Sun",
-    "tables_min": "10",
-    "tables_max": "12",
-    "tables_range": "10 - 12Mon - Sun"
-  },
-  {
-    "name": "Imperial Treasure @ Chinese Swimming Club",
-    "lunch_price": "$939Mon - Thu",
-    "dinner_price": "$979Mon - Thu$1163Fri - Sun",
-    "tables_min": "18",
-    "tables_max": "26",
-    "tables_range": "18 - 26Mon - Sun"
-  },
-  {
-    "name": "Jade @ The Fullerton Hotel Singapore",
-    "lunch_price": "$2254++Mon - Sun",
-    "dinner_price": "$2374–$2494Mon - Fri$2494–$2494Saturday$2374–$2494Sunday",
-    "tables_min": "10",
-    "tables_max": "12",
-    "tables_range": "10 - 12Mon - Sun"
-  },
-  {
-    "name": "Le Meridien Singapore, Sentosa (fomerly Movenpick)",
-    "lunch_price": "$1751-$2222Mon - Sun",
-    "dinner_price": "$1751-$2222Mon - Sun",
-    "tables_min": "12",
-    "tables_max": "16",
-    "tables_range": "12 - 16Mon - Sun"
-  },
-  {
-    "name": "Lijiang Restaurant by Yunnan",
-    "lunch_price": "$608-$856Mon - Sun",
-    "dinner_price": "$608-$856Mon - Sun",
-    "tables_min": "20",
-    "tables_max": "40",
-    "tables_range": "20 - 40Mon - Sun"
-  },
-  {
-    "name": "LingZhi Vegetarian (Liat Towers)",
-    "lunch_price": "$597 – $837Mon - Sun",
-    "dinner_price": "$597 – $837Mon - Sun",
-    "tables_min": "9",
-    "tables_max": "13",
-    "tables_range": "9 - 13Mon - Sun"
-  },
-  {
-    "name": "LingZhi Vegetarian (Velocity – Novena Square)",
-    "lunch_price": "$501-$661Mon - Sun",
-    "dinner_price": "$501-$661Mon - Sun",
-    "tables_min": "10",
-    "tables_max": "12",
-    "tables_range": "10 - 12Mon - Sun"
-  },
-  {
-    "name": "Marina Bay Sands",
-    "lunch_price": "$2854++Mon - Sun",
-    "dinner_price": "$3453++Mon - Sun",
-    "tables_min": "15",
-    "tables_max": "150",
-    "tables_range": "15 - 150Mon - Sun"
-  },
-  {
-    "name": "Mercure Singapore Bugis",
-    "lunch_price": "$1305–$2144Mon - Fri$1424–$2144Sat - Sun",
-    "dinner_price": "$1424–$2264Mon - Fri$1544–$2264Sat - Sun",
-    "tables_min": "5",
-    "tables_max": "10",
-    "tables_range": "5 - 10Mon - Sun"
-  },
-  {
-    "name": "Park Hotel Alexandra",
-    "lunch_price": "$1133-$1133Fri - Sun",
-    "dinner_price": "$1133-$1133Mon - Thu$1251-$1251Fri - Sun",
-    "tables_min": "3",
-    "tables_max": "14",
-    "tables_range": "3 - 14Mon - Sun"
-  },
-  {
-    "name": "Peach Garden @ Hotel Miramar",
-    "lunch_price": "$975-$1363Mon - Sun",
-    "dinner_price": "$975-$1398Mon - Thu$1163-$1398Fri - Sun",
-    "tables_min": "20",
-    "tables_max": "42",
-    "tables_range": "20 - 42Mon - Thu25 - 42Fri - Sun"
-  },
-  {
-    "name": "Peach Garden @ OCBC Centre",
-    "lunch_price": "$1340–$1964Sat - Thu$1724–$1964Fri - Sun",
-    "dinner_price": "$1340–$1964Mon - Thu$1724–$1964Fri - Sun",
-    "tables_min": "10",
-    "tables_max": "36",
-    "tables_range": "10 - 36Mon - Sun"
-  },
-  {
-    "name": "Peach Garden @ Orchid Country Club",
-    "lunch_price": "$975-$1328Mon - Sun",
-    "dinner_price": "$975-$1363Mon - Thu$1128-$1363Fri - Sun",
-    "tables_min": "15",
-    "tables_max": "42",
-    "tables_range": "15 - 42Mon - Fri25 - 42Sat - Sun"
-  },
-  {
-    "name": "Peach Garden @ The Heeren",
-    "lunch_price": "$1400–$2000Mon - Thu$1760–$2000Fri - Sun",
-    "dinner_price": "$1400–$2000Mon - Thu$1760–$2000Fri - Sun",
-    "tables_min": "16",
-    "tables_max": "20",
-    "tables_range": "16 - 20Mon - Sat"
-  },
-  {
-    "name": "Peach Garden @ The Metropolis",
-    "lunch_price": "$1340–$1760Mon - Thu$1592–$1760Fri - Sun",
-    "dinner_price": "$1340–$1760Mon - Thu$1592–$1760Fri - Sun",
-    "tables_min": "8",
-    "tables_max": "12",
-    "tables_range": "8 - 12Mon - Sun"
-  },
-  {
-    "name": "Peach Garden @ Thomson Plaza",
-    "lunch_price": "$1340–$1760Mon - Thu$1592–$1760Fri - Sun",
-    "dinner_price": "$1340–$1760Mon - Thu$1592–$1760Fri - Sun",
-    "tables_min": "10",
-    "tables_max": "30",
-    "tables_range": "10 - 30Mon - Sun"
-  },
-  {
-    "name": "Peony Jade @ Amara Singapore",
-    "lunch_price": "$1664++Mon - Fri$1784++Sat - Sun",
-    "dinner_price": "$1664++Mon - Thu$1904++Fri - Sun",
-    "tables_min": "12",
-    "tables_max": "20",
-    "tables_range": "12 - 20Mon - Thu15 - 20Fri - Sun"
-  },
-  {
-    "name": "Peony Jade at Clarke Quay",
-    "lunch_price": "$1008-$1208Mon - Sun",
-    "dinner_price": "$1099-$1298Mon - Sun",
-    "tables_min": "18",
-    "tables_max": "38",
-    "tables_range": "18 - 38Mon - Sun"
-  },
-  {
-    "name": "Peony Jade at Keppel Club",
-    "lunch_price": "$1028-$1208Mon - Sun",
-    "dinner_price": "$1128-$1298Mon - Sun",
-    "tables_min": "18",
-    "tables_max": "40",
-    "tables_range": "18 - 40Mon - Sun"
-  },
-  {
-    "name": "Prima Tower Revolving Restaurant",
-    "lunch_price": "$568-$1388Mon - Sun",
-    "dinner_price": "$568-$1388Mon - Sun",
-    "tables_min": "20",
-    "tables_max": "40",
-    "tables_range": "20 - 40Mon - Sun"
-  },
-  {
-    "name": "Qian Xi Bliss Garden",
-    "lunch_price": "$1138–$1758Mon - Sun",
-    "dinner_price": "$1138–$1758Mon - Sun",
-    "tables_min": "25",
-    "tables_max": "85",
-    "tables_range": "25 - 85Mon - Sun"
-  },
-  {
-    "name": "Qian Xi Blossom Garden",
-    "lunch_price": "$698-$1118Mon - Sun",
-    "dinner_price": "$698-$1118Mon - Sun",
-    "tables_min": "10",
-    "tables_max": "70",
-    "tables_range": "10 - 70Mon - Sun"
-  },
-  {
-    "name": "Qian Xi Bountiful Garden",
-    "lunch_price": "$1138–$1758Mon - Sun",
-    "dinner_price": "$1138–$1758Mon - Sun",
-    "tables_min": "6",
-    "tables_max": "28",
-    "tables_range": "6 - 28Mon - Sun"
-  },
-  {
-    "name": "Qian Xi Carpenter Street",
-    "lunch_price": "$698-$1118Mon - Sun",
-    "dinner_price": "$698-$1118Mon - Sun",
-    "tables_min": "5",
-    "tables_max": "80",
-    "tables_range": "5 - 80Mon - Sun"
-  },
-  {
-    "name": "Qian Xi Eternal Garden",
-    "lunch_price": "$1138–$1758Mon - Sun",
-    "dinner_price": "$1138–$1758Mon - Sun",
-    "tables_min": "10",
-    "tables_max": "40",
-    "tables_range": "10 - 40Mon - Sun"
-  },
-  {
-    "name": "Qian Xi Farrer Park",
-    "lunch_price": "$1138–$1758Mon - Sun",
-    "dinner_price": "$1138–$1758Mon - Sun",
-    "tables_min": "21",
-    "tables_max": "57",
-    "tables_range": "21 - 57Mon - Sun"
-  },
-  {
-    "name": "Qian Xi Hilltop Garden",
-    "lunch_price": "$1138–$1758Mon - Sun",
-    "dinner_price": "$1138–$1758Mon - Sun",
-    "tables_min": "8",
-    "tables_max": "62",
-    "tables_range": "8 - 62Mon - Sun"
-  },
-  {
-    "name": "Qian Xi Joy Garden",
-    "lunch_price": "$698-$1118Mon - Sun",
-    "dinner_price": "$698-$1118Mon - Sun",
-    "tables_min": "15",
-    "tables_max": "130",
-    "tables_range": "15 - 130Mon - Sun"
-  },
-  {
-    "name": "Qian Xi Jubilee Garden",
-    "lunch_price": "$1138–$1758Mon - Sun",
-    "dinner_price": "$1138–$1758Mon - Sun",
-    "tables_min": "22",
-    "tables_max": "116",
-    "tables_range": "22 - 116Mon - Sun"
-  },
-  {
-    "name": "Qian Xi Paya Lebar",
-    "lunch_price": "$1138–$1758Mon - Sun",
-    "dinner_price": "$1138–$1758Mon - Sun",
-    "tables_min": "12",
-    "tables_max": "100",
-    "tables_range": "12 - 100Mon - Sun"
-  },
-  {
-    "name": "Qian Xi Pearl Garden",
-    "lunch_price": "$1138–$1758Mon - Sun",
-    "dinner_price": "$1138–$1758Mon - Sun",
-    "tables_min": "17",
-    "tables_max": "120",
-    "tables_range": "17 - 120Mon - Sun"
-  },
-  {
-    "name": "Qian Xi Summer Garden",
-    "lunch_price": "$1138–$1758Mon - Sun",
-    "dinner_price": "$1138–$1758Mon - Sun",
-    "tables_min": "10",
-    "tables_max": "90",
-    "tables_range": "10 - 90Mon - Sun"
-  },
-  {
-    "name": "Raffles Hotel",
-    "lunch_price": "$3093–$3453Mon - Sun",
-    "dinner_price": "$3093–$3453Mon - Fri$3573–$3933Sat - Sun",
-    "tables_min": "8",
-    "tables_max": "30",
-    "tables_range": "8 - 30Mon - Sun"
-  },
-  {
-    "name": "Red House Seafood",
-    "lunch_price": "$2264–$2863Mon - Sun",
-    "dinner_price": "$2264–$2863Mon - Sun",
-    "tables_min": "1",
-    "tables_max": "14",
-    "tables_range": "1 - 14Mon - Sun"
-  },
-  {
-    "name": "Rendezvous Hotel Singapore at Bras Basah",
-    "lunch_price": "$1605++Mon - Sun",
-    "dinner_price": "$1605++Mon - Thu$1725++Friday$1795++Saturday$1725++Sunday",
-    "tables_min": "10",
-    "tables_max": "15",
-    "tables_range": "10 - 15Mon - Sun"
-  },
-  {
-    "name": "Resorts World Sentosa, Convention Centre",
-    "lunch_price": "$2264–$2384Mon - Sun",
-    "dinner_price": "$2264–$2504Mon - Thu$2384–$2504Thu - Sat$2264–$2504Sunday",
-    "tables_min": "15",
-    "tables_max": "196",
-    "tables_range": "15 - 196Mon - Sun"
-  },
-  {
-    "name": "Shangri-La Hotel",
-    "lunch_price": "$2005 - $2362Mon - Sun",
-    "dinner_price": "$2362 - $3075Mon - Sun",
-    "tables_min": "6",
-    "tables_max": "100",
-    "tables_range": "6 - 100Mon - Sun"
-  },
-  {
-    "name": "Shin Yeh",
-    "lunch_price": "$651-$651Mon - Fri$683-$683Sat - Sun",
-    "dinner_price": "$651-$950Mon - Fri$683-$1004Sat - Sun",
-    "tables_min": "24",
-    "tables_max": "36",
-    "tables_range": "24 - 36Mon - Thu26 - 36Fri - Sun"
-  },
-  {
-    "name": "Shisen Hanten",
-    "lunch_price": "$2374++Mon - Sun",
-    "dinner_price": "$2374++Mon - Sun",
-    "tables_min": "10",
-    "tables_max": "12",
-    "tables_range": "10 - 12Mon - Sun"
-  },
-  {
-    "name": "Sky Garden Sentosa",
-    "lunch_price": "$1775–$2254Mon - Thu$$1894–$2374Fri - Sun",
-    "dinner_price": "$1894–$2374Mon - Thu$2014–$2494Fri - Sun",
-    "tables_min": "10",
-    "tables_max": "16",
-    "tables_range": "10 - 16Mon - Sun"
-  },
-  {
-    "name": "Spring Court",
-    "lunch_price": "$1065–$1664Mon - Sun",
-    "dinner_price": "$1065–$1664Mon - Sun",
-    "tables_min": "12",
-    "tables_max": "18",
-    "tables_range": "12 - 18Mon - Sun"
-  },
-  {
-    "name": "Swissôtel Merchant Court Singapore",
-    "lunch_price": "$1281-$1281Mon - Sun",
-    "dinner_price": "$1045-$1045Mon - Thu$1563-$1563Friday$1681-$1681Saturday$1563-$1563Sunday",
-    "tables_min": "30",
-    "tables_max": "50",
-    "tables_range": "30 - 50Mon - Thu35 - 50Fri - Sun"
-  },
-  {
-    "name": "THE CHEVRONS",
-    "lunch_price": "$808-$808Mon - Thu$808-$1058Fri - Sun",
-    "dinner_price": "$808-$808Mon - Thu$938-$1058Fri - Sun",
-    "tables_min": "15",
-    "tables_max": "70",
-    "tables_range": "15 - 70Mon - Sun"
-  },
-  {
-    "name": "The Chevrons @ Jurong East",
-    "lunch_price": "$1484++Mon - Sun",
-    "dinner_price": "$1604++Mon - Sun",
-    "tables_min": "12",
-    "tables_max": "40",
-    "tables_range": "12 - 40Mon - Sun"
-  },
-  {
-    "name": "The Clifford Pier @ The Fullerton Bay Hotel",
-    "lunch_price": "$3933++Mon - Sun",
-    "dinner_price": "$3933++Mon - Sun",
-    "tables_min": "15",
-    "tables_max": "28",
-    "tables_range": "15 - 28Mon - Sun"
-  },
-  {
-    "name": "The Fullerton Hotel Singapore",
-    "lunch_price": "$2854++Mon - Sun",
-    "dinner_price": "$2854++Mon - Thu$2974++Friday$3093++Saturday$2974Sunday",
-    "tables_min": "10",
-    "tables_max": "48",
-    "tables_range": "10 - 48Mon - Sun"
-  },
-  {
-    "name": "The Outpost Hotel Sentosa",
-    "lunch_price": "$2180++Mon - Fri$2599++Sat - Sun",
-    "dinner_price": "$2180++Mon - Fri$2599++Sat - Sun",
-    "tables_min": "12",
-    "tables_max": "16",
-    "tables_range": "12 - 16Mon - Sun"
-  },
-  {
-    "name": "The Ritz Carlton, Millenia Singapore",
-    "lunch_price": "$2494–$2734Mon - Sun",
-    "dinner_price": "$2854–$3573Mon - Sun",
-    "tables_min": "10",
-    "tables_max": "90",
-    "tables_range": "10 - 90Mon - Sun"
-  },
-  {
-    "name": "The Singapore EDITION",
-    "lunch_price": "$3093++Mon - Sun",
-    "dinner_price": "$3453++Mon - Sun",
-    "tables_min": "3",
-    "tables_max": "34",
-    "tables_range": "3 - 34Mon - Sun"
-  },
-  {
-    "name": "The Singapore Island Country Club",
-    "lunch_price": "$1131–$1177Mon - Sun",
-    "dinner_price": "$1131–$1177Mon - Sun",
-    "tables_min": "3",
-    "tables_max": "45",
-    "tables_range": "3 - 45Mon - Sun"
-  },
-  {
-    "name": "The St. Regis Singapore",
-    "lunch_price": "$$2623–$2863Sat - Sun",
-    "dinner_price": "$2623–$3463Mon - Fri$2863–$3463Saturday",
-    "tables_min": "12",
-    "tables_max": "42",
-    "tables_range": "12 - 42Mon - Sun"
-  },
-  {
-    "name": "Tim Palace",
-    "lunch_price": "$628Mon - Sun",
-    "dinner_price": "$628Mon - Sun",
-    "tables_min": "15",
-    "tables_max": "80",
-    "tables_range": "15 - 80Mon - Sun"
-  },
-  {
-    "name": "Tung Lok Heen",
-    "lunch_price": "$1153-$1389Mon - Sun",
-    "dinner_price": "$1153-$1389Mon - Sun",
-    "tables_min": "8",
-    "tables_max": "14",
-    "tables_range": "8 - 14Mon - Sun"
-  },
-  {
-    "name": "Tung Lok Seafood (Orchard Central)",
-    "lunch_price": "$629-$950Mon - Sun",
-    "dinner_price": "$629-$950Mon - Sun",
-    "tables_min": "15",
-    "tables_max": "18",
-    "tables_range": "15 - 18Mon - Sun"
-  },
-  {
-    "name": "Tung Lok Seafood (Upper Jurong)",
-    "lunch_price": "$629-$843Mon - Sun",
-    "dinner_price": "$629-$843Mon - Sun",
-    "tables_min": "15",
-    "tables_max": "40",
-    "tables_range": "15 - 40Mon - Sun"
-  },
-  {
-    "name": "Tung Lok Signatures (Orchard Parade)",
-    "lunch_price": "$950-$1089Mon - Fri$950-$1175Sat - Sun",
-    "dinner_price": "$950-$1089Mon - Fri$950-$1175Sat - Sun",
-    "tables_min": "20",
-    "tables_max": "30",
-    "tables_range": "20 - 30Mon - Fri25 - 30Sat - Sun"
-  },
-  {
-    "name": "Tung Lok Signatures (The Central)",
-    "lunch_price": "$927-$1045Mon - Sun",
-    "dinner_price": "$927-$1045Mon - Sun",
-    "tables_min": "17",
-    "tables_max": "20",
-    "tables_range": "17 - 20Mon - Sun"
-  },
-  {
-    "name": "Tung Lok Signatures (Vivo)",
-    "lunch_price": "$498Mon - Sun",
-    "dinner_price": "$688, 888Mon - Sun",
-    "tables_min": "2",
-    "tables_max": "13",
-    "tables_range": "2 - 13Mon - Sun"
-  },
-  {
-    "name": "TungLok Seafood (Park Regis Singapore)",
-    "lunch_price": "$1055–$2014Mon - Sun",
-    "dinner_price": "$1055–$2014Mon - Fri$1175–$2134Sat - Sun",
-    "tables_min": "14",
-    "tables_max": "16",
-    "tables_range": "14 - 16Mon - Sun"
-  },
-  {
-    "name": "TungLok Seafood (PLQ Mall)",
-    "lunch_price": "$859–$1295Mon - Sun",
-    "dinner_price": "$859–$1295Mon - Sun",
-    "tables_min": "15",
-    "tables_max": "18",
-    "tables_range": "15 - 18Mon - Sun"
-  },
-  {
-    "name": "TungLok Seafood (Upper Jurong)",
-    "lunch_price": "$825–$1664Mon - Sun",
-    "dinner_price": "$825–$1664Mon - Sun",
-    "tables_min": "24",
-    "tables_max": "29",
-    "tables_range": "24 - 29Mon - Sun"
-  },
-  {
-    "name": "TungLok Signatures (The Central)",
-    "lunch_price": "$1077–$1317Mon - Sun",
-    "dinner_price": "$1077–$1317Mon - Sun",
-    "tables_min": "16",
-    "tables_max": "19",
-    "tables_range": "16 - 19Mon - Thu16 - 20Friday16 - 19Sat - Sun"
-  },
-  {
-    "name": "TungLok Signatures, Antica Ballroom @ Orchard Rendezvous Hotel*",
-    "lunch_price": "$1415–$1622Mon - Sun",
-    "dinner_price": "$1415–$1622Mon - Fri$1469–$1676Sat - Sun",
-    "tables_min": "15",
-    "tables_max": "25",
-    "tables_range": "15 - 25Mon - Fri18 - 25Sat - Sun"
-  },
-  {
+    "source": "banquet-price-list",
     "name": "YÀN 宴",
     "lunch_price": "$1398-$1634Mon - Sun",
     "dinner_price": "$1398-$1634Mon - Sun",
