@@ -1,5 +1,4 @@
 import argparse
-import asyncio
 import csv
 import json
 import re
@@ -34,145 +33,41 @@ async def download_pdf(client: httpx.AsyncClient, url: str, save_path: Path) -> 
         return False
 
 
-def get_urls_from_sitemap(url_pattern: str) -> list[str]:
-    """Fetch URLs matching pattern from sitemap.xml"""
-    sitemap_url = f"{BASE_URL}/sitemap.xml"
+async def download_pdfs_for_vendor(client: httpx.AsyncClient, vendor_data: dict) -> dict:
+    """Download PDFs for a single vendor"""
+    if "price_lists" not in vendor_data or not vendor_data["price_lists"]:
+        return vendor_data
 
-    try:
-        response = httpx.get(sitemap_url, headers=get_headers(), timeout=30)
-        response.raise_for_status()
+    profile_url = vendor_data.get("profile_url", "")
+    if not profile_url:
+        return vendor_data
 
-        soup = BeautifulSoup(response.text, "xml")
-        locs = soup.find_all("loc")
+    url_parts = profile_url.rstrip("/").split("/")
+    venue_slug = url_parts[-1] if url_parts else "unknown"
 
-        urls = [loc.text for loc in locs if url_pattern in loc.text]
-        unique_urls = list(dict.fromkeys(urls))
+    pdf_dir = Path(f"data/bb/price-lists/{venue_slug}")
+    downloaded_pdfs = []
 
-        print(f"Found {len(unique_urls)} URLs matching '{url_pattern}'")
-        return unique_urls
+    for pdf_url in vendor_data["price_lists"]:
+        filename = pdf_url.split("/")[-1]
+        save_path = pdf_dir / filename
 
-    except Exception as e:
-        print(f"Error fetching sitemap: {e}")
-        return []
+        if save_path.exists():
+            print(f"  ⏭️  Skipping {filename} (already exists)")
+            downloaded_pdfs.append(pdf_url)
+            continue
 
+        print(f"  📄 Downloading {filename}...")
+        success = await download_pdf(client, pdf_url, save_path)
+        if success:
+            downloaded_pdfs.append(pdf_url)
 
-async def scrape_venue_detail(client: httpx.AsyncClient, url: str) -> dict | None:
-    """Scrape a single venue detail page"""
-    try:
-        response = await client.get(url, timeout=30, follow_redirects=True)
-        response.raise_for_status()
-
-        soup = BeautifulSoup(response.text, "html.parser")
-
-        venue_id = url.split("/detail/")[1].split("/")[0] if "/detail/" in url else None
-        slug = url.split("/detail/")[1].split("/")[1] if "/detail/" in url else None
-
-        data = {
-            "id": venue_id,
-            "slug": slug,
-            "url": url,
-        }
-
-        for link in soup.find_all("a", href=True):
-            href = str(link.get("href", ""))
-            if "mailto:" in href:
-                data["email"] = href.replace("mailto:", "").strip()
-
-        public_banquet_url = f"{BASE_URL}/public/banquet/{slug}/wedding-banquet-price-list/"
-
-        try:
-            listing_response = await client.get(public_banquet_url, timeout=30, follow_redirects=True)
-            listing_response.raise_for_status()
-
-            listing_soup = BeautifulSoup(listing_response.text, "html.parser")
-            pdf_links = listing_soup.find_all("a", href=lambda x: x and x.endswith(".pdf"))
-
-            if pdf_links:
-                pdf_list = []
-                pdf_dir = Path(f"data/bb/price-lists/{venue_id}-{slug}")
-
-                for link in pdf_links:
-                    pdf_filename = link.get("href")
-                    if not pdf_filename or pdf_filename == "#":
-                        continue
-
-                    pdf_url = f"{public_banquet_url}{pdf_filename}"
-                    pdf_save_path = pdf_dir / pdf_filename
-
-                    print(f"  📄 Downloading {pdf_filename} to {venue_id}-{slug}/...")
-                    success = await download_pdf(client, pdf_url, pdf_save_path)
-
-                    if success:
-                        pdf_list.append(pdf_url)
-
-                data["price_list_pdfs"] = pdf_list
-                data["has_price_list"] = len(pdf_list) > 0
-                data["price_list_count"] = len(pdf_list)
-            else:
-                data["has_price_list"] = False
-                data["price_list_count"] = 0
-        except Exception:
-            data["has_price_list"] = False
-            data["price_list_count"] = 0
-
-        for elem in soup.find_all(string=re.compile(r"Address", re.IGNORECASE)):
-            parent = elem.find_parent() if hasattr(elem, "find_parent") else None
-            if parent and parent.name in ["dt", "label", "th", "strong", "b"]:
-                next_sibling = parent.find_next_sibling()
-                if next_sibling and next_sibling.name in ["dd", "td", "div", "p"]:
-                    addr_text = next_sibling.get_text(strip=True)
-                    if addr_text and len(addr_text) < 500 and "singapore" in addr_text.lower():
-                        data["address"] = addr_text
-                        break
-
-        website_elem = soup.find("a", string=re.compile(r"^Website$", re.IGNORECASE))
-        if website_elem:
-            website_url = website_elem.get("href", "")
-            if isinstance(website_url, str) and website_url.startswith("http"):
-                data["website"] = website_url
-
-        return data
-
-    except Exception as e:
-        print(f"Error scraping {url}: {e}")
-        return None
+    vendor_data["price_lists"] = downloaded_pdfs
+    return vendor_data
 
 
-def scrape_marketplace_package(url: str) -> dict | None:
-    """Scrape a single marketplace package page"""
-    try:
-        response = httpx.get(url, headers=get_headers(), timeout=30, follow_redirects=True)
-        response.raise_for_status()
-
-        soup = BeautifulSoup(response.text, "html.parser")
-
-        package_id = url.split("/wedding-market-place/")[1].split("/")[0]
-        slug = url.split("/wedding-market-place/")[1].split("/")[1]
-
-        data = {
-            "id": package_id,
-            "slug": slug,
-            "url": url,
-        }
-
-        title = soup.find("h1")
-        if title:
-            data["title"] = title.get_text(strip=True)
-
-        meta_desc = soup.find("meta", attrs={"name": "description"})
-        if meta_desc:
-            content = meta_desc.get("content", "")
-            data["description"] = str(content) if content else ""
-
-        return data
-
-    except Exception as e:
-        print(f"Error scraping {url}: {e}")
-        return None
-
-
-def scrape_banquet_prices() -> list[dict]:
-    """Scrape banquet price list table from the main price list page"""
+async def scrape_banquet_prices_async() -> list[dict]:
+    """Scrape banquet price list table and download PDFs"""
     url = f"{BASE_URL}/wedding-banquet-price-list"
 
     try:
@@ -256,6 +151,16 @@ def scrape_banquet_prices() -> list[dict]:
                     vendors.append(vendor_data)
 
         print(f"Found {len(vendors)} vendors")
+
+        vendors_with_pdfs = [v for v in vendors if v.get("price_lists")]
+        if vendors_with_pdfs:
+            print(f"\n📥 Downloading PDFs for {len(vendors_with_pdfs)} vendors...")
+
+            async with httpx.AsyncClient(headers=get_headers(), timeout=60) as client:
+                for idx, vendor in enumerate(vendors_with_pdfs, 1):
+                    print(f"\n[{idx}/{len(vendors_with_pdfs)}] {vendor['name']}")
+                    await download_pdfs_for_vendor(client, vendor)
+
         return vendors
 
     except Exception as e:
@@ -263,46 +168,11 @@ def scrape_banquet_prices() -> list[dict]:
         return []
 
 
-async def scrape_items_parallel(
-    url_pattern: str, scraper_func, limit: int | None, workers: int, output_path: str | None = None
-) -> list[dict]:
-    """Generic parallel scraping function"""
-    urls = get_urls_from_sitemap(url_pattern)
+def scrape_banquet_prices() -> list[dict]:
+    """Synchronous wrapper for scrape_banquet_prices_async"""
+    import asyncio
 
-    if limit:
-        urls = urls[:limit]
-
-    print(f"🚀 Scraping {len(urls)} items with {workers} concurrent workers")
-
-    items = []
-
-    async with httpx.AsyncClient(headers=get_headers(), timeout=30) as client:
-        semaphore = asyncio.Semaphore(workers)
-
-        async def scrape_with_semaphore(url: str, index: int):
-            async with semaphore:
-                print(f"[{index}/{len(urls)}] Scraping {url}")
-                return await scraper_func(client, url)
-
-        tasks = [scrape_with_semaphore(url, i + 1) for i, url in enumerate(urls)]
-        results = await asyncio.gather(*tasks, return_exceptions=True)
-
-        for result in results:
-            if isinstance(result, Exception):
-                print(f"⚠️  Error: {result}")
-            elif result:
-                items.append(result)
-
-    print(f"Successfully scraped {len(items)}/{len(urls)} items")
-    return items
-
-
-def scrape_items(
-    url_pattern: str, scraper_func, limit: int | None, delay: float, output_path: str | None = None
-) -> list[dict]:
-    """Generic scraping function with caching (synchronous wrapper for backward compatibility)"""
-    workers = max(1, int(1.0 / delay)) if delay > 0 else 10
-    return asyncio.run(scrape_items_parallel(url_pattern, scraper_func, limit, workers, output_path))
+    return asyncio.run(scrape_banquet_prices_async())
 
 
 def save_to_files(data: list[dict], output_path: str):
@@ -343,61 +213,32 @@ def save_to_files(data: list[dict], output_path: str):
 
 def main():
     """CLI entry point"""
-    parser = argparse.ArgumentParser(description="Scrape BlissfulBrides.sg wedding data")
+    parser = argparse.ArgumentParser(description="Scrape BlissfulBrides.sg banquet pricing data")
 
-    parser.add_argument(
-        "type", choices=["venues", "marketplace", "banquet-prices", "all"], help="Type of data to scrape"
-    )
-    parser.add_argument("--limit", type=int, help="Max items to scrape")
-    parser.add_argument("--delay", type=float, default=1.0, help="Delay between requests (seconds)")
     parser.add_argument("--output", type=str, default="data/bb", help="Output directory")
 
     args = parser.parse_args()
 
-    if args.type in ["venues", "all"]:
-        print("\n" + "=" * 60)
-        print("SCRAPING VENUES")
-        print("=" * 60 + "\n")
+    print("\n" + "=" * 60)
+    print("SCRAPING BANQUET PRICES")
+    print("=" * 60 + "\n")
 
-        output_path = f"{args.output}/venues"
-        venues = scrape_items("/detail/", scrape_venue_detail, args.limit, args.delay, output_path)
-        save_to_files(venues, output_path)
+    vendors = scrape_banquet_prices()
+    save_to_files(vendors, f"{args.output}/venues")
 
-        if venues:
-            print(f"\n📊 Total venues: {len(venues)}")
-
-    if args.type in ["marketplace", "all"]:
-        print("\n" + "=" * 60)
-        print("SCRAPING MARKETPLACE")
-        print("=" * 60 + "\n")
-
-        packages = scrape_items("/wedding-market-place/", scrape_marketplace_package, args.limit, args.delay)
-        save_to_files(packages, f"{args.output}/marketplace")
-
-        if packages:
-            print(f"\n📊 Total packages: {len(packages)}")
-
-    if args.type in ["banquet-prices", "all"]:
-        print("\n" + "=" * 60)
-        print("SCRAPING BANQUET PRICES")
-        print("=" * 60 + "\n")
-
-        vendors = scrape_banquet_prices()
-        save_to_files(vendors, f"{args.output}/banquet_prices")
-
-        if vendors:
-            print(f"\n📊 Total vendors: {len(vendors)}")
-            print("\nSample vendors:")
-            for idx, vendor in enumerate(vendors[:5], 1):
-                print(f"\n{idx}. {vendor.get('name', 'N/A')}")
-                if "rating" in vendor:
-                    print(f"   Rating: {vendor['rating']}/5")
-                if "lunch_price" in vendor:
-                    print(f"   Lunch: {vendor['lunch_price']}")
-                if "dinner_price" in vendor:
-                    print(f"   Dinner: {vendor['dinner_price']}")
-                if "tables_range" in vendor:
-                    print(f"   Tables: {vendor['tables_range']}")
+    if vendors:
+        print(f"\n📊 Total vendors: {len(vendors)}")
+        print("\nSample vendors:")
+        for idx, vendor in enumerate(vendors[:5], 1):
+            print(f"\n{idx}. {vendor.get('name', 'N/A')}")
+            if "rating" in vendor:
+                print(f"   Rating: {vendor['rating']}/5")
+            if "lunch_price" in vendor:
+                print(f"   Lunch: {vendor['lunch_price']}")
+            if "dinner_price" in vendor:
+                print(f"   Dinner: {vendor['dinner_price']}")
+            if "tables_range" in vendor:
+                print(f"   Tables: {vendor['tables_range']}")
 
 
 if __name__ == "__main__":
