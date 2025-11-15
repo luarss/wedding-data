@@ -33,8 +33,41 @@ async def download_pdf(client: httpx.AsyncClient, url: str, save_path: Path) -> 
         return False
 
 
-def scrape_banquet_prices() -> list[dict]:
-    """Scrape banquet price list table from the main price list page"""
+async def download_pdfs_for_vendor(client: httpx.AsyncClient, vendor_data: dict) -> dict:
+    """Download PDFs for a single vendor"""
+    if "price_lists" not in vendor_data or not vendor_data["price_lists"]:
+        return vendor_data
+
+    profile_url = vendor_data.get("profile_url", "")
+    if not profile_url:
+        return vendor_data
+
+    url_parts = profile_url.rstrip("/").split("/")
+    venue_slug = url_parts[-1] if url_parts else "unknown"
+
+    pdf_dir = Path(f"data/bb/price-lists/{venue_slug}")
+    downloaded_pdfs = []
+
+    for pdf_url in vendor_data["price_lists"]:
+        filename = pdf_url.split("/")[-1]
+        save_path = pdf_dir / filename
+
+        if save_path.exists():
+            print(f"  ⏭️  Skipping {filename} (already exists)")
+            downloaded_pdfs.append(pdf_url)
+            continue
+
+        print(f"  📄 Downloading {filename}...")
+        success = await download_pdf(client, pdf_url, save_path)
+        if success:
+            downloaded_pdfs.append(pdf_url)
+
+    vendor_data["price_lists"] = downloaded_pdfs
+    return vendor_data
+
+
+async def scrape_banquet_prices_async() -> list[dict]:
+    """Scrape banquet price list table and download PDFs"""
     url = f"{BASE_URL}/wedding-banquet-price-list"
 
     try:
@@ -118,6 +151,16 @@ def scrape_banquet_prices() -> list[dict]:
                     vendors.append(vendor_data)
 
         print(f"Found {len(vendors)} vendors")
+
+        vendors_with_pdfs = [v for v in vendors if v.get("price_lists")]
+        if vendors_with_pdfs:
+            print(f"\n📥 Downloading PDFs for {len(vendors_with_pdfs)} vendors...")
+
+            async with httpx.AsyncClient(headers=get_headers(), timeout=60) as client:
+                for idx, vendor in enumerate(vendors_with_pdfs, 1):
+                    print(f"\n[{idx}/{len(vendors_with_pdfs)}] {vendor['name']}")
+                    await download_pdfs_for_vendor(client, vendor)
+
         return vendors
 
     except Exception as e:
@@ -125,6 +168,11 @@ def scrape_banquet_prices() -> list[dict]:
         return []
 
 
+def scrape_banquet_prices() -> list[dict]:
+    """Synchronous wrapper for scrape_banquet_prices_async"""
+    import asyncio
+
+    return asyncio.run(scrape_banquet_prices_async())
 
 
 def save_to_files(data: list[dict], output_path: str):
