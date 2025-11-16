@@ -139,10 +139,6 @@ def transform_vendors(raw_vendors: list):
         if isinstance(categories, list):
             categories = ", ".join(categories)
 
-        gallery_urls = []
-        if fields.get("Thumbnails"):
-            gallery_urls = [img["url"] for img in fields["Thumbnails"]]
-
         vendor = {
             "vendor_id": vendor_id,
             "name": fields.get("Name"),
@@ -152,8 +148,6 @@ def transform_vendors(raw_vendors: list):
             "phone": fields.get("Phone"),
             "website": fields.get("Website"),
             "ranking_score": fields.get("Ranking Score"),
-            "gallery_count": len(gallery_urls),
-            "gallery_urls": json.dumps(gallery_urls) if gallery_urls else None,
             "seo_description": fields.get("SEO:Description"),
             "social_description": fields.get("Social:Description"),
             "promo_available": fields.get("Promo Available"),
@@ -199,8 +193,6 @@ def save_vendors(vendors: list, filename: str = "data/bly/vendors"):
     print(f"  - Vendors with phone: {df['phone'].notna().sum()} ({phone_pct:.1f}%)")
     website_pct = df["website"].notna().sum() / len(df) * 100
     print(f"  - Vendors with website: {df['website'].notna().sum()} ({website_pct:.1f}%)")
-    gallery_pct = (df["gallery_count"] > 0).sum() / len(df) * 100
-    print(f"  - Vendors with gallery: {(df['gallery_count'] > 0).sum()} ({gallery_pct:.1f}%)")
 
     if df["category"].notna().sum() > 0:
         print("\n📋 Top 15 Vendor Categories:")

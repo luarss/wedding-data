@@ -99,10 +99,6 @@ def transform_venues(raw_venues: list):
 
         phone, email = parse_contact_links(fields.get("Contact Links", ""))
 
-        gallery_urls = []
-        if fields.get("Gallery"):
-            gallery_urls = [img["url"] for img in fields["Gallery"]]
-
         tags = fields.get("Tags", [])
         if isinstance(tags, list):
             tags = ", ".join(tags)
@@ -116,8 +112,6 @@ def transform_venues(raw_venues: list):
             "hero_embed": fields.get("Hero Embed"),
             "video": fields.get("Video"),
             "tags": tags,
-            "gallery_count": len(gallery_urls),
-            "gallery_urls": json.dumps(gallery_urls) if gallery_urls else None,
             "seo_title": fields.get("SEO:Title"),
             "seo_description": fields.get("SEO:Description"),
             "seo_slug": fields.get("SEO:Slug"),
@@ -162,8 +156,6 @@ def save_venues(venues: list, filename: str = "data/bly/venues"):
     print(f"  - Venues with phone: {df['phone'].notna().sum()} ({phone_pct:.1f}%)")
     email_pct = df["email"].notna().sum() / len(df) * 100
     print(f"  - Venues with email: {df['email'].notna().sum()} ({email_pct:.1f}%)")
-    gallery_pct = (df["gallery_count"] > 0).sum() / len(df) * 100
-    print(f"  - Venues with gallery: {(df['gallery_count'] > 0).sum()} ({gallery_pct:.1f}%)")
     tags_pct = df["tags"].notna().sum() / len(df) * 100
     print(f"  - Venues with tags: {df['tags'].notna().sum()} ({tags_pct:.1f}%)")
 
