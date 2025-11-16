@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 
 import asyncio
-from playwright.async_api import async_playwright
-import json
 import csv
+import json
+
+from playwright.async_api import async_playwright
+
 
 async def fetch_all_venues():
     async with async_playwright() as p:
@@ -11,7 +13,7 @@ async def fetch_all_venues():
         page = await browser.new_page()
 
         print("Navigating to venues page...")
-        await page.goto('https://www.bridely.sg/venues', wait_until='networkidle')
+        await page.goto("https://www.bridely.sg/venues", wait_until="networkidle")
 
         print("Clicking 'See more' until all venues are loaded...")
         click_count = 0
@@ -33,7 +35,7 @@ async def fetch_all_venues():
             await asyncio.sleep(0.5)
 
         print("\nDebugging DOM structure...")
-        debug_info = await page.evaluate(r'''() => {
+        debug_info = await page.evaluate(r"""() => {
             const venueCards = document.querySelectorAll('.vertical-list-item');
             const firstCard = venueCards[0];
 
@@ -43,12 +45,12 @@ async def fetch_all_venues():
                 firstCardLinks: firstCard ? firstCard.querySelectorAll('a').length : 0,
                 hasRecordId: firstCard ? !!firstCard.querySelector('a[href*="recordId"]') : false
             };
-        }''')
+        }""")
 
         print(f"Debug info: {debug_info}")
 
         print("\nExtracting venue data from DOM...")
-        venues = await page.evaluate(r'''() => {
+        venues = await page.evaluate(r"""() => {
             const wrappers = document.querySelectorAll('.list-item-wrapper.vertical');
             const venues = [];
 
@@ -103,7 +105,7 @@ async def fetch_all_venues():
             }
 
             return venues;
-        }''')
+        }""")
 
         print(f"Extracted {len(venues)} venues")
 
@@ -111,26 +113,39 @@ async def fetch_all_venues():
 
         return venues
 
+
 def save_to_csv(venues, filename):
     if not venues:
         print("No venues to save")
         return
 
-    with open(filename, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=[
-            'recordId', 'name', 'url', 'price', 'capacity',
-            'venueRating', 'serviceRating', 'foodRating', 'reviews'
-        ])
+    with open(filename, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(
+            f,
+            fieldnames=[
+                "recordId",
+                "name",
+                "url",
+                "price",
+                "capacity",
+                "venueRating",
+                "serviceRating",
+                "foodRating",
+                "reviews",
+            ],
+        )
         writer.writeheader()
         writer.writerows(venues)
 
     print(f"Saved to {filename}")
 
+
 def save_to_json(venues, filename):
-    with open(filename, 'w', encoding='utf-8') as f:
+    with open(filename, "w", encoding="utf-8") as f:
         json.dump(venues, f, indent=2, ensure_ascii=False)
 
     print(f"Saved to {filename}")
+
 
 async def main():
     print("Fetching all venues from Bridely.sg using Playwright...")
@@ -138,15 +153,16 @@ async def main():
 
     print(f"\nTotal venues fetched: {len(venues)}")
 
-    csv_file = '/home/luars/wedding-data/data/bly/venues_playwright.csv'
+    csv_file = "/home/luars/wedding-data/data/bly/venues_playwright.csv"
     save_to_csv(venues, csv_file)
 
-    json_file = '/home/luars/wedding-data/data/bly/venues_playwright.json'
+    json_file = "/home/luars/wedding-data/data/bly/venues_playwright.json"
     save_to_json(venues, json_file)
 
     print("\nFirst 5 venues:")
     for i, venue in enumerate(venues[:5], 1):
         print(f"{i}. {venue['name']} - {venue['price']} - {venue['capacity']}")
+
 
 if __name__ == "__main__":
     asyncio.run(main())
