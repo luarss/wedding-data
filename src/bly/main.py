@@ -1,188 +1,173 @@
-import argparse
+#!/usr/bin/env python3
+
+import asyncio
+import csv
 import json
-import os
 from pathlib import Path
 
-import httpx
-import pandas as pd
-from dotenv import load_dotenv
-
-from ..shared.config import get_headers
-
-load_dotenv()
-
-BASE_URL = os.getenv("BRIDELY_BASE_URL")
-APP_ID = os.getenv("BRIDELY_APP_ID")
-DATASOURCE_ID = os.getenv("BRIDELY_VENUES_DATASOURCE_ID")
-VENUES_ENDPOINT_ID = os.getenv("BRIDELY_VENUES_ENDPOINT_ID")
+from playwright.async_api import async_playwright
 
 
-def fetch_venues(max_records: int | None = None):
-    url = f"{BASE_URL}/{APP_ID}/{DATASOURCE_ID}/{VENUES_ENDPOINT_ID}/data"
+async def fetch_all_venues():
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        page = await browser.new_page()
 
-    all_venues = []
-    seen_ids = set()
-    offset = 0
-    limit = 100
+        print("Navigating to venues page...")
+        await page.goto("https://www.bridely.sg/venues", wait_until="networkidle")
 
-    client = httpx.Client(headers=get_headers(), timeout=30.0)
-
-    try:
+        print("Clicking 'See more' until all venues are loaded...")
+        click_count = 0
         while True:
-            print(f"Fetching batch (offset={offset}, limit={limit})...")
+            see_more_button = page.locator('button:has-text("See more")')
 
-            payload = {"limit": limit, "offset": offset}
-            response = client.post(url, json=payload)
-            response.raise_for_status()
-
-            data = response.json()
-            records = data.get("records", [])
-
-            if not records:
+            if await see_more_button.count() == 0:
+                print("No 'See more' button found - all venues loaded")
                 break
 
-            new_records = []
-            for record in records:
-                venue_id = record["id"]
-                if venue_id not in seen_ids:
-                    seen_ids.add(venue_id)
-                    new_records.append(record)
-
-            all_venues.extend(new_records)
-            print(f"  Retrieved {len(records)} records, {len(new_records)} unique (total: {len(all_venues)})")
-
-            if max_records and len(all_venues) >= max_records:
-                all_venues = all_venues[:max_records]
-                print(f"\n✅ Reached max_records limit: {max_records}")
+            try:
+                await see_more_button.scroll_into_view_if_needed()
+                await see_more_button.click(timeout=5000)
+                click_count += 1
+                print(f"  Clicked 'See more' {click_count} times")
+                await asyncio.sleep(1)
+            except Exception as e:
+                print(f"Could not click 'See more' button: {e}")
                 break
 
-            if len(new_records) == 0:
-                print("\n⚠️  No new unique records - stopping")
-                break
+        print("\nDebugging DOM structure...")
+        debug_info = await page.evaluate(r"""() => {
+            const venueCards = document.querySelectorAll('.vertical-list-item');
+            const firstCard = venueCards[0];
 
-            if len(records) < limit:
-                break
+            return {
+                totalCards: venueCards.length,
+                firstCardHTML: firstCard ? firstCard.outerHTML.substring(0, 500) : 'No cards found',
+                firstCardLinks: firstCard ? firstCard.querySelectorAll('a').length : 0,
+                hasRecordId: firstCard ? !!firstCard.querySelector('a[href*="recordId"]') : false
+            };
+        }""")
 
-            offset += limit
+        print(f"Debug info: {debug_info}")
 
-        print(f"\n✅ Total unique venues: {len(all_venues)}")
-        return all_venues
+        print("\nExtracting venue data from DOM...")
+        venues = await page.evaluate(r"""() => {
+            const wrappers = document.querySelectorAll('.list-item-wrapper.vertical');
+            const venues = [];
 
-    finally:
-        client.close()
+            for (let i = 0; i < wrappers.length; i++) {
+                const wrapper = wrappers[i];
+
+                const linkElement = wrapper.querySelector('.list-action-wrapper a[href*="recordId"]');
+                if (!linkElement) continue;
+
+                const url = linkElement.href;
+                const recordIdMatch = url.match(/recordId=([^&]+)/);
+                const recordId = recordIdMatch ? recordIdMatch[1] : '';
+
+                const card = wrapper.querySelector('.vertical-list-item');
+                if (!card) continue;
+
+                const allText = card.innerText || card.textContent || '';
+                const lines = allText.split('\n').map(l => l.trim()).filter(l => l);
+
+                const priceLine = lines.find(l => l.includes('++') || l.includes('/pax') || l.includes('$'));
+                const price = priceLine || '';
+
+                const capacityLine = lines.find(l => l.includes('Capacity:'));
+                const capacity = capacityLine ? capacityLine.replace('Capacity:', '').trim() : '';
+
+                const nameElement = card.querySelector('h3');
+                const name = nameElement ? nameElement.textContent.trim() : '';
+
+                const venueLabel = lines.find(l => l.startsWith('Venue:'));
+                const venueRating = venueLabel ? venueLabel.replace('Venue:', '').trim() : '';
+
+                const serviceLabel = lines.find(l => l.startsWith('Service:'));
+                const serviceRating = serviceLabel ? serviceLabel.replace('Service:', '').trim() : '';
+
+                const foodLabel = lines.find(l => l.startsWith('Food:'));
+                const foodRating = foodLabel ? foodLabel.replace('Food:', '').trim() : '';
+
+                const reviewMatch = allText.match(/(\d+)\s*reviews?/i);
+                const reviews = reviewMatch ? reviewMatch[1] : '';
+
+                venues.push({
+                    recordId,
+                    name,
+                    url,
+                    price,
+                    capacity,
+                    venueRating,
+                    serviceRating,
+                    foodRating,
+                    reviews
+                });
+            }
+
+            return venues;
+        }""")
+
+        print(f"Extracted {len(venues)} venues")
+
+        await browser.close()
+
+        return venues
 
 
-def parse_contact_links(contact_links_md: str):
-    phone = None
-    email = None
-
-    if not contact_links_md:
-        return phone, email
-
-    if "tel:" in contact_links_md:
-        phone = contact_links_md.split("tel:")[1].split(")")[0]
-        phone = phone.replace("+", "").strip()
-
-    if "mailto:" in contact_links_md:
-        email_part = contact_links_md.split("mailto:")[1].split("?")[0]
-        email = email_part.strip()
-
-    return phone, email
-
-
-def transform_venues(raw_venues: list):
-    venues = []
-
-    for record in raw_venues:
-        venue_id = record["id"]
-        fields = record["fields"]
-
-        phone, email = parse_contact_links(fields.get("Contact Links", ""))
-
-        tags = fields.get("Tags", [])
-        if isinstance(tags, list):
-            tags = ", ".join(tags)
-
-        venue = {
-            "venue_id": venue_id,
-            "name": fields.get("name"),
-            "address": fields.get("address"),
-            "phone": phone,
-            "email": email,
-            "hero_embed": fields.get("Hero Embed"),
-            "video": fields.get("Video"),
-            "tags": tags,
-            "seo_title": fields.get("SEO:Title"),
-            "seo_description": fields.get("SEO:Description"),
-            "seo_slug": fields.get("SEO:Slug"),
-            "social_title": fields.get("Social:Title"),
-            "social_description": fields.get("Social:Description"),
-            "related_venues_count": len(fields.get("Related Venues", [])),
-            "created_time": record.get("createdTime"),
-        }
-
-        venues.append(venue)
-
-    return venues
-
-
-def save_venues(venues: list, filename: str = "data/bly/venues"):
+def save_to_csv(venues, filename):
     if not venues:
-        print("No data to save")
+        print("No venues to save")
         return
 
-    output_path = Path(filename)
-    output_path.parent.mkdir(parents=True, exist_ok=True)
+    Path(filename).parent.mkdir(parents=True, exist_ok=True)
 
-    json_path = output_path.with_suffix(".json")
-    csv_path = output_path.with_suffix(".csv")
+    with open(filename, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(
+            f,
+            fieldnames=[
+                "recordId",
+                "name",
+                "url",
+                "price",
+                "capacity",
+                "venueRating",
+                "serviceRating",
+                "foodRating",
+                "reviews",
+            ],
+        )
+        writer.writeheader()
+        writer.writerows(venues)
 
-    with open(json_path, "w", encoding="utf-8") as f:
+    print(f"Saved to {filename}")
+
+
+def save_to_json(venues, filename):
+    Path(filename).parent.mkdir(parents=True, exist_ok=True)
+
+    with open(filename, "w", encoding="utf-8") as f:
         json.dump(venues, f, indent=2, ensure_ascii=False)
 
-    df = pd.DataFrame(venues)
-    df.to_csv(csv_path, index=False, encoding="utf-8")
-
-    print(f"✅ Saved {len(venues)} venues to:")
-    print(f"   - {json_path}")
-    print(f"   - {csv_path}")
-
-    print("\n📊 Data Quality:")
-    names_pct = df["name"].notna().sum() / len(df) * 100
-    print(f"  - Venues with names: {df['name'].notna().sum()} ({names_pct:.1f}%)")
-    addresses_pct = df["address"].notna().sum() / len(df) * 100
-    print(f"  - Venues with addresses: {df['address'].notna().sum()} ({addresses_pct:.1f}%)")
-    phone_pct = df["phone"].notna().sum() / len(df) * 100
-    print(f"  - Venues with phone: {df['phone'].notna().sum()} ({phone_pct:.1f}%)")
-    email_pct = df["email"].notna().sum() / len(df) * 100
-    print(f"  - Venues with email: {df['email'].notna().sum()} ({email_pct:.1f}%)")
-    tags_pct = df["tags"].notna().sum() / len(df) * 100
-    print(f"  - Venues with tags: {df['tags'].notna().sum()} ({tags_pct:.1f}%)")
+    print(f"Saved to {filename}")
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Scrape Bridely.sg wedding venues")
-    parser.add_argument("--limit", type=int, help="Max number of records to fetch")
-    parser.add_argument("--output", type=str, default="data/bly/venues", help="Output file path")
+async def main():
+    print("Fetching all venues from Bridely.sg using Playwright...")
+    venues = await fetch_all_venues()
 
-    args = parser.parse_args()
+    print(f"\nTotal venues fetched: {len(venues)}")
 
-    print("=" * 80)
-    print("BRIDELY.SG VENUES SCRAPER")
-    print("=" * 80)
-    print()
+    csv_file = "data/bly/venues.csv"
+    save_to_csv(venues, csv_file)
 
-    raw_venues = fetch_venues(max_records=args.limit)
-    print("\nTransforming data...")
-    venues = transform_venues(raw_venues)
+    json_file = "data/bly/venues.json"
+    save_to_json(venues, json_file)
 
-    print("\nSaving data...")
-    save_venues(venues, args.output)
-
-    print("\n" + "=" * 80)
-    print("✅ SCRAPING COMPLETE")
-    print("=" * 80)
+    print("\nFirst 5 venues:")
+    for i, venue in enumerate(venues[:5], 1):
+        print(f"{i}. {venue['name']} - {venue['price']} - {venue['capacity']}")
 
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
