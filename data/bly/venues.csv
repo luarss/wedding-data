@@ -1,8 +1,8 @@
 recordId,name,url,price,capacity,venueRating,serviceRating,foodRating,reviews
 rechBrz17hfP3SjHA,Mandarin Oriental Singapore,https://www.bridely.sg/venue?recordId=rechBrz17hfP3SjHA,$238-$298++/pax,100-350 pax,4.5,4.4,4.5,141
 rec4OTGIpBfuMuvQw,The Blue Ginger,https://www.bridely.sg/venue?recordId=rec4OTGIpBfuMuvQw,$120++/pax,30-120 pax,5,5,4.9,59
+recmnhQh4ANr89IdH,Mount Faber Peak,https://www.bridely.sg/venue?recordId=recmnhQh4ANr89IdH,$148-$168++/pax,30-200 pax,4.8,4.7,4.8,27
 recDE70TqO66tuVMT,Little Island Brewing Co,https://www.bridely.sg/venue?recordId=recDE70TqO66tuVMT,$78++/pax,50-350 pax,4.9,4.7,4.9,28
-recmnhQh4ANr89IdH,Mount Faber Peak,https://www.bridely.sg/venue?recordId=recmnhQh4ANr89IdH,$148-$168++/pax,30-200 pax,4.8,4.7,4.8,26
 recqSc5XwBLCNysgh,The Fullerton Hotel Singapore,https://www.bridely.sg/venue?recordId=recqSc5XwBLCNysgh,$285-$309++/pax,100-480 pax,4.5,4.4,4.1,139
 recNs8QOEuCPsy834,St Regis Singapore,https://www.bridely.sg/venue?recordId=recNs8QOEuCPsy834,$262-$346++/pax,120-150 pax,4.5,4.3,4.6,91
 rechMQnbE4MfnkVXo,PARKROYAL COLLECTION Marina Bay,https://www.bridely.sg/venue?recordId=rechMQnbE4MfnkVXo,$154-$274++/pax,150-500 pax,4.4,4.1,4.3,120
@@ -10,6 +10,7 @@ recBjzDZV6Tmy22FL,The Acacia Geneo,https://www.bridely.sg/venue?recordId=recBjzD
 rec7mXks7AULWV7XZ,Grand Hyatt Singapore,https://www.bridely.sg/venue?recordId=rec7mXks7AULWV7XZ,$226-$298++/pax,150-360 pax,4.4,4.3,4.3,112
 recVzTQWhOosRg4TC,Conrad Centennial Singapore,https://www.bridely.sg/venue?recordId=recVzTQWhOosRg4TC,$238-$276++/pax,60-400 pax,4.3,4.1,4.2,120
 recndJaJtwsBTrj1l,Capella Singapore,https://www.bridely.sg/venue?recordId=recndJaJtwsBTrj1l,$309-$441++/pax,150-400 pax,4.6,4.5,4.4,61
+recC9EssAfXWpDgGc,Ya Ge 雅閣 at Orchid Hotel,https://www.bridely.sg/venue?recordId=recC9EssAfXWpDgGc,$68-$169++/pax,20-120 pax,5,5,5,5
 reckwQMCm3MWY3VgW,Four Seasons Hotel Singapore,https://www.bridely.sg/venue?recordId=reckwQMCm3MWY3VgW,$209-$272++/pax,30-280 pax,4.4,4.6,4.1,73
 recQ7C4fJjQkZGA73,Shangri-La Hotel,https://www.bridely.sg/venue?recordId=recQ7C4fJjQkZGA73,$214-$322++/pax,60-1000 pax,4.4,4.4,4,77
 rec8cnoKFSmnBN2QE,Artemis Grill & Sky Bar,https://www.bridely.sg/venue?recordId=rec8cnoKFSmnBN2QE,$18000-$25000++,160 pax,4.7,4.7,4.7,46
@@ -17,7 +18,6 @@ recITWukbNkhbbWxF,Singapore Marriott Tang Plaza Hotel,https://www.bridely.sg/ven
 recQpPPBl9LBtl9ft,CHIJMES,https://www.bridely.sg/venue?recordId=recQpPPBl9LBtl9ft,$190-$264++/pax,160-300 pax,4.6,4.6,4,57
 recfHEKdi2Pvj2eya,Vineyard at Hort Park,https://www.bridely.sg/venue?recordId=recfHEKdi2Pvj2eya,$129-$149++/pax,135 pax,4.8,4.6,4.6,35
 recaFuygUVJPHDLpF,Conrad Singapore Orchard,https://www.bridely.sg/venue?recordId=recaFuygUVJPHDLpF,$202-$286++/pax,220-500 pax,4.8,4.9,4.8,31
-recC9EssAfXWpDgGc,Ya Ge 雅閣 at Orchid Hotel,https://www.bridely.sg/venue?recordId=recC9EssAfXWpDgGc,$68-$169++/pax,20-120 pax,5,5,5,4
 recrwQfJ9TAdsWcSZ,Pan Pacific Singapore,https://www.bridely.sg/venue?recordId=recrwQfJ9TAdsWcSZ,$217-$251++/pax,32-800 pax,4.4,4.3,4.3,81
 recu87sCQAVtXkfCT,Grand Copthorne Waterfront Hotel,https://www.bridely.sg/venue?recordId=recu87sCQAVtXkfCT,$205-$262++/pax,30-650 pax,4.1,3.9,4.1,100
 recEVqHq1aNQ9gkfi,JW Marriott Hotel Singapore South Beach,https://www.bridely.sg/venue?recordId=recEVqHq1aNQ9gkfi,$261-$309++/pax,220-320 pax,4.5,4.3,3.8,63
