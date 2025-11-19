@@ -696,11 +696,11 @@
     "city": "Kuala Lumpur",
     "address": "20A, Jalan Kampung Pandan, Off, Jln Tun Razak, Kelab Golf di Raja Selangor, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
     "venue": {
-      "minCapacity": 10,
+      "minCapacity": 2,
       "maxCapacity": 300,
       "minPrice": "8800",
       "maxPrice": "55000",
-      "indoorOutdoor": "Outdoor_Only"
+      "indoorOutdoor": "Indoor___Outdoor"
     }
   },
   {
