@@ -198,17 +198,6 @@
     "reviews": "35"
   },
   {
-    "recordId": "recaFuygUVJPHDLpF",
-    "name": "Conrad Singapore Orchard",
-    "url": "https://www.bridely.sg/venue?recordId=recaFuygUVJPHDLpF",
-    "price": "$202-$286++/pax",
-    "capacity": "220-500 pax",
-    "venueRating": "4.8",
-    "serviceRating": "4.9",
-    "foodRating": "4.8",
-    "reviews": "31"
-  },
-  {
     "recordId": "recrwQfJ9TAdsWcSZ",
     "name": "Pan Pacific Singapore",
     "url": "https://www.bridely.sg/venue?recordId=recrwQfJ9TAdsWcSZ",
@@ -218,6 +207,17 @@
     "serviceRating": "4.3",
     "foodRating": "4.3",
     "reviews": "81"
+  },
+  {
+    "recordId": "recaFuygUVJPHDLpF",
+    "name": "Conrad Singapore Orchard",
+    "url": "https://www.bridely.sg/venue?recordId=recaFuygUVJPHDLpF",
+    "price": "$202-$286++/pax",
+    "capacity": "220-500 pax",
+    "venueRating": "4.9",
+    "serviceRating": "4.9",
+    "foodRating": "4.6",
+    "reviews": "32"
   },
   {
     "recordId": "recu87sCQAVtXkfCT",
