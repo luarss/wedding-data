@@ -121,17 +121,6 @@
     "reviews": "61"
   },
   {
-    "recordId": "recC9EssAfXWpDgGc",
-    "name": "Ya Ge 雅閣 at Orchid Hotel",
-    "url": "https://www.bridely.sg/venue?recordId=recC9EssAfXWpDgGc",
-    "price": "$68-$169++/pax",
-    "capacity": "20-120 pax",
-    "venueRating": "5",
-    "serviceRating": "5",
-    "foodRating": "5",
-    "reviews": "5"
-  },
-  {
     "recordId": "reckwQMCm3MWY3VgW",
     "name": "Four Seasons Hotel Singapore",
     "url": "https://www.bridely.sg/venue?recordId=reckwQMCm3MWY3VgW",
@@ -801,6 +790,17 @@
     "serviceRating": "3.8",
     "foodRating": "3.7",
     "reviews": "27"
+  },
+  {
+    "recordId": "recC9EssAfXWpDgGc",
+    "name": "Ya Ge 雅閣 at Orchid Hotel",
+    "url": "https://www.bridely.sg/venue?recordId=recC9EssAfXWpDgGc",
+    "price": "$68-$169++/pax",
+    "capacity": "20-120 pax",
+    "venueRating": "5",
+    "serviceRating": "5",
+    "foodRating": "5",
+    "reviews": "5"
   },
   {
     "recordId": "rec9TcTOYjrk9MDJj",

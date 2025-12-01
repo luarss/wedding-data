@@ -125,20 +125,6 @@
     ]
   },
   {
-    "venue_id": "195",
-    "source": "wedding-venues-booking",
-    "name": "Blackpearl Restaurant Venue",
-    "vendor_name": "Mövenpick Resort Phan Thiet",
-    "profile_url": "https://www.blissfulbrides.sg/detail/1304/M--venpick-Resort-Phan-Thiet"
-  },
-  {
-    "venue_id": "194",
-    "source": "wedding-venues-booking",
-    "name": "Bounty Restaurant Venue",
-    "vendor_name": "Mövenpick Resort Phan Thiet",
-    "profile_url": "https://www.blissfulbrides.sg/detail/1304/M--venpick-Resort-Phan-Thiet"
-  },
-  {
     "source": "banquet-price-list",
     "name": "Capella Singapore",
     "lunch_price": "$3093–$4412Mon - Sun",
@@ -656,13 +642,6 @@
     "tables_min": "20",
     "tables_max": "25",
     "tables_range": "20 - 25Mon - Sun"
-  },
-  {
-    "venue_id": "193",
-    "source": "wedding-venues-booking",
-    "name": "Grass Field Venue",
-    "vendor_name": "Mövenpick Resort Phan Thiet",
-    "profile_url": "https://www.blissfulbrides.sg/detail/1304/M--venpick-Resort-Phan-Thiet"
   },
   {
     "source": "banquet-price-list",
