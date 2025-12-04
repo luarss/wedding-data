@@ -1727,17 +1727,6 @@
     "reviews": "5"
   },
   {
-    "recordId": "recLNCMRefAyjQTZl",
-    "name": "Peach Garden @ OCBC Centre",
-    "url": "https://www.bridely.sg/venue?recordId=recLNCMRefAyjQTZl",
-    "price": "$134-$196++/pax",
-    "capacity": "100-360 pax",
-    "venueRating": "3.5",
-    "serviceRating": "3.3",
-    "foodRating": "3.8",
-    "reviews": "19"
-  },
-  {
     "recordId": "recynafp6DR0aiBmk",
     "name": "Si Chuan Dou Hua Restaurant at Top of UOB Plaza",
     "url": "https://www.bridely.sg/venue?recordId=recynafp6DR0aiBmk",
@@ -1813,6 +1802,17 @@
     "serviceRating": "3.5",
     "foodRating": "3.6",
     "reviews": "13"
+  },
+  {
+    "recordId": "recLNCMRefAyjQTZl",
+    "name": "Peach Garden @ OCBC Centre",
+    "url": "https://www.bridely.sg/venue?recordId=recLNCMRefAyjQTZl",
+    "price": "$134-$196++/pax",
+    "capacity": "100-360 pax",
+    "venueRating": "3.3",
+    "serviceRating": "3.2",
+    "foodRating": "3.7",
+    "reviews": "20"
   },
   {
     "recordId": "rec1toCaVFPovrNsB",
