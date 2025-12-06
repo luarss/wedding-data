@@ -246,7 +246,7 @@
     "category": "venues",
     "state": "Selangor",
     "city": "Petaling Jaya",
-    "address": "6, Jalan PJU 3/45, Sunway Damansara, 47810 Petaling Jaya, Selangor, Malaysia",
+    "address": "33, Jalan PJU 3/48, Sunway Damansara Technology, Sunway Damansara, 47810 Petaling Jaya, Selangor, Malaysia",
     "venue": {
       "minCapacity": 0,
       "maxCapacity": 300,
@@ -715,7 +715,7 @@
       "minCapacity": 100,
       "maxCapacity": 650,
       "minPrice": "100",
-      "maxPrice": "300",
+      "maxPrice": "458",
       "indoorOutdoor": "Indoor_Only"
     }
   },
