@@ -362,8 +362,8 @@
     "venue": {
       "minCapacity": 300,
       "maxCapacity": 1000,
-      "minPrice": "288",
-      "maxPrice": "288",
+      "minPrice": "318.8",
+      "maxPrice": "368.8",
       "indoorOutdoor": "Covered_Outdoor_Only"
     }
   },
@@ -849,16 +849,16 @@
   },
   {
     "_id": "6849448502d4bb7faade6954",
-    "name": "Pullman KLCC",
-    "slug": "pullman-klcc",
+    "name": "Pullman KLCC Hotel",
+    "slug": "pullman-klcc-hotel",
     "category": "venues",
     "state": "Wilayah Persekutuan Kuala Lumpur",
     "city": "Kuala Lumpur",
     "address": "4, Jalan Conlay, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
     "venue": {
-      "minCapacity": 150,
+      "minCapacity": 100,
       "maxCapacity": 420,
-      "minPrice": "198.8",
+      "minPrice": "150",
       "maxPrice": "5888",
       "indoorOutdoor": "Indoor_Only"
     }
