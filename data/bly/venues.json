@@ -19,7 +19,7 @@
     "venueRating": "4.8",
     "serviceRating": "4.7",
     "foodRating": "4.8",
-    "reviews": "29"
+    "reviews": "31"
   },
   {
     "recordId": "rec4OTGIpBfuMuvQw",
@@ -55,6 +55,17 @@
     "reviews": "139"
   },
   {
+    "recordId": "recBjzDZV6Tmy22FL",
+    "name": "The Acacia Geneo",
+    "url": "https://www.bridely.sg/venue?recordId=recBjzDZV6Tmy22FL",
+    "price": "$55++/pax",
+    "capacity": "100-500 pax",
+    "venueRating": "5",
+    "serviceRating": "5",
+    "foodRating": "5",
+    "reviews": "10"
+  },
+  {
     "recordId": "recNs8QOEuCPsy834",
     "name": "St Regis Singapore",
     "url": "https://www.bridely.sg/venue?recordId=recNs8QOEuCPsy834",
@@ -75,17 +86,6 @@
     "serviceRating": "4.1",
     "foodRating": "4.3",
     "reviews": "120"
-  },
-  {
-    "recordId": "recBjzDZV6Tmy22FL",
-    "name": "The Acacia Geneo",
-    "url": "https://www.bridely.sg/venue?recordId=recBjzDZV6Tmy22FL",
-    "price": "$55++/pax",
-    "capacity": "100-500 pax",
-    "venueRating": "5",
-    "serviceRating": "5",
-    "foodRating": "5",
-    "reviews": "8"
   },
   {
     "recordId": "rec7mXks7AULWV7XZ",
