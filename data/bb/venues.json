@@ -382,8 +382,6 @@
     "tables_max": "150",
     "tables_range": "12 - 150Mon - Sun",
     "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/fairmont-singapore-swiss-tel-the-stamford/wedding-banquet-price-list/skai-suites-wedding-2024.pdf",
-      "https://www.blissfulbrides.sg/banquet/fairmont-singapore-swiss-tel-the-stamford/wedding-banquet-price-list/rccc-wedding-2024.pdf",
       "https://www.blissfulbrides.sg/banquet/fairmont-singapore-swiss-tel-the-stamford/wedding-banquet-price-list/skai-suites-wedding-2025.pdf",
       "https://www.blissfulbrides.sg/banquet/fairmont-singapore-swiss-tel-the-stamford/wedding-banquet-price-list/rccc-wedding-2025.pdf"
     ]
@@ -422,13 +420,12 @@
     "name": "Four Points by Sheraton Singapore, Riverview",
     "profile_url": "https://www.blissfulbrides.sg/detail/190/four-points-by-sheraton-singapore--riverview",
     "rating": "5",
-    "lunch_price": "$1604–$1844Mon - Thu$1664–$1904Fri - Sun",
-    "dinner_price": "$1724–$1844Mon - Thu$1664–$1904Fri - Sun",
+    "lunch_price": "$1438–$1638Mon - Sun",
+    "dinner_price": "$1438–$1638Mon - Sun",
     "tables_min": "6",
     "tables_max": "25",
     "tables_range": "6 - 25Mon - Sun",
     "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/four-points-by-sheraton-singapore-riverview/wedding-banquet-price-list/wedding-brochure-2025-26.pdf",
       "https://www.blissfulbrides.sg/banquet/four-points-by-sheraton-singapore-riverview/wedding-banquet-price-list/wedding-brochure-20262027.pdf"
     ]
   },
@@ -983,6 +980,17 @@
     "price_lists": [
       "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/wedding-brochure-pullman-singapore-hill-street.pdf"
     ]
+  },
+  {
+    "source": "banquet-price-list",
+    "name": "Mandai Rainforest Resort by Banyan Tree",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1396/mandai-rainforest-resort-by-banyan-tree",
+    "rating": "0",
+    "lunch_price": "$2288++Mon - Sun",
+    "dinner_price": "$2388++Sun - Fri$2488++Saturday",
+    "tables_min": "15",
+    "tables_max": "30",
+    "tables_range": "15 - 30Mon - Sun"
   },
   {
     "venue_id": "207",
