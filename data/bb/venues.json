@@ -126,6 +126,13 @@
     ]
   },
   {
+    "venue_id": "239",
+    "source": "wedding-venues-booking",
+    "name": "Bird Paradise, Crimson Restaurant",
+    "vendor_name": "Mandai Wildlife Group",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1385/Mandai-Wildlife-Group"
+  },
+  {
     "source": "banquet-price-list",
     "name": "Capella Singapore",
     "lunch_price": "$3093–$4412Mon - Sun",
@@ -1073,6 +1080,13 @@
     ]
   },
   {
+    "venue_id": "242",
+    "source": "wedding-venues-booking",
+    "name": "Night Safari, Tipi Tent",
+    "vendor_name": "Mandai Wildlife Group",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1385/Mandai-Wildlife-Group"
+  },
+  {
     "source": "banquet-price-list",
     "name": "Novotel Singapore on Stevens",
     "profile_url": "https://www.blissfulbrides.sg/detail/777/novotel-singapore-on-stevens",
@@ -1672,6 +1686,13 @@
     ]
   },
   {
+    "venue_id": "240",
+    "source": "wedding-venues-booking",
+    "name": "Rainforest Wild ASIA, The Oculus",
+    "vendor_name": "Mandai Wildlife Group",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1385/Mandai-Wildlife-Group"
+  },
+  {
     "source": "banquet-price-list",
     "name": "Red House Seafood",
     "lunch_price": "$2264–$2863Mon - Sun",
@@ -1984,6 +2005,14 @@
     "tables_min": "8",
     "tables_max": "44",
     "tables_range": "8 - 44Mon - Sun"
+  },
+  {
+    "venue_id": "241",
+    "source": "wedding-venues-booking",
+    "name": "Singapore Zoo, Forest Lodge",
+    "vendor_name": "Mandai Wildlife Group",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1385/Mandai-Wildlife-Group",
+    "location": ""
   },
   {
     "source": "banquet-price-list",
