@@ -9,18 +9,6 @@
     "tables_range": "10 - 40- Sun"
   },
   {
-    "venue_id": "203",
-    "source": "wedding-venues-booking",
-    "name": "Albatross & Birdie",
-    "vendor_name": "Dusit Thani Laguna Singapore",
-    "profile_url": "https://www.blissfulbrides.sg/detail/810/Dusit-Thani-Laguna-Singapore",
-    "location": "11 Laguna Golf Green, Singapore 488047",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/dusit-thani-laguna-singapore/wedding-banquet-price-list/dusit-thani-laguna-singapore-property-fact-sheet_jun-2025.pdf",
-      "https://www.blissfulbrides.sg/banquet/dusit-thani-laguna-singapore/wedding-banquet-price-list/timeless-symphonies-wedding-brochure.pdf"
-    ]
-  },
-  {
     "venue_id": "235",
     "source": "wedding-venues-booking",
     "name": "Alfresco",
@@ -366,19 +354,6 @@
     ]
   },
   {
-    "venue_id": "164",
-    "source": "wedding-venues-booking",
-    "name": "Emerald Suite",
-    "vendor_name": "Orchid Country Club",
-    "profile_url": "https://www.blissfulbrides.sg/detail/118/Orchid-Country-Club",
-    "location": "1 Orchid Club Road, Singapore 769162",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/3-knots-wedding-package-2023-2024-1-apr-2023-31-mar-2024-.pdf",
-      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/occ-wedding-package-2023-2024-1-apr-2023-31-mar-2024-.pdf",
-      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/occ-wedding-package-2024-2025-1-apr-2024-31-mar-2025-.pdf"
-    ]
-  },
-  {
     "source": "banquet-price-list",
     "name": "Fairmont Singapore & Swissôtel The Stamford",
     "profile_url": "https://www.blissfulbrides.sg/detail/390/fairmont-singapore-swiss--tel-the-stamford",
@@ -568,19 +543,6 @@
     "tables_min": "12",
     "tables_max": "35",
     "tables_range": "12 - 35Mon - Sun"
-  },
-  {
-    "venue_id": "162",
-    "source": "wedding-venues-booking",
-    "name": "Grand Ballroom",
-    "vendor_name": "Orchid Country Club",
-    "profile_url": "https://www.blissfulbrides.sg/detail/118/Orchid-Country-Club",
-    "location": "1 Orchid Club Road, Singapore 769162",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/3-knots-wedding-package-2023-2024-1-apr-2023-31-mar-2024-.pdf",
-      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/occ-wedding-package-2023-2024-1-apr-2023-31-mar-2024-.pdf",
-      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/occ-wedding-package-2024-2025-1-apr-2024-31-mar-2025-.pdf"
-    ]
   },
   {
     "source": "banquet-price-list",
@@ -883,30 +845,6 @@
       "https://www.blissfulbrides.sg/banquet/the-national-university-of-singapore-society-nuss-/wedding-banquet-price-list/mandalay-guild-house-2025.pdf",
       "https://www.blissfulbrides.sg/banquet/the-national-university-of-singapore-society-nuss-/wedding-banquet-price-list/suntec-city-guild-house-2025.pdf",
       "https://www.blissfulbrides.sg/banquet/the-national-university-of-singapore-society-nuss-/wedding-banquet-price-list/kent-ridge-guild-house-2025.pdf"
-    ]
-  },
-  {
-    "venue_id": "202",
-    "source": "wedding-venues-booking",
-    "name": "Laguna Ballroom",
-    "vendor_name": "Dusit Thani Laguna Singapore",
-    "profile_url": "https://www.blissfulbrides.sg/detail/810/Dusit-Thani-Laguna-Singapore",
-    "location": "11 Laguna Golf Green, Singapore 488047",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/dusit-thani-laguna-singapore/wedding-banquet-price-list/dusit-thani-laguna-singapore-property-fact-sheet_jun-2025.pdf",
-      "https://www.blissfulbrides.sg/banquet/dusit-thani-laguna-singapore/wedding-banquet-price-list/timeless-symphonies-wedding-brochure.pdf"
-    ]
-  },
-  {
-    "venue_id": "204",
-    "source": "wedding-venues-booking",
-    "name": "Laguna Lawn",
-    "vendor_name": "Dusit Thani Laguna Singapore",
-    "profile_url": "https://www.blissfulbrides.sg/detail/810/Dusit-Thani-Laguna-Singapore",
-    "location": "11 Laguna Golf Green, Singapore 488047",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/dusit-thani-laguna-singapore/wedding-banquet-price-list/dusit-thani-laguna-singapore-property-fact-sheet_jun-2025.pdf",
-      "https://www.blissfulbrides.sg/banquet/dusit-thani-laguna-singapore/wedding-banquet-price-list/timeless-symphonies-wedding-brochure.pdf"
     ]
   },
   {
@@ -1488,23 +1426,6 @@
     "tables_range": "18 - 40Mon - Sun"
   },
   {
-    "venue_id": "80",
-    "source": "wedding-venues-booking",
-    "name": "Polaris Ballroom | Novotel Singapore on Stevens",
-    "vendor_name": "Novotel Singapore on Stevens",
-    "profile_url": "https://www.blissfulbrides.sg/detail/777/Novotel-Singapore-on-Stevens",
-    "location": "Novotel Singapore on Stevens, 28 Stevens Road, Singapore 257878",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/novotel-singapore-on-stevens/wedding-banquet-price-list/wedding-venue-only-package-2026.pdf",
-      "https://www.blissfulbrides.sg/banquet/novotel-singapore-on-stevens/wedding-banquet-price-list/food-exchange-wedding-package-2026.pdf",
-      "https://www.blissfulbrides.sg/banquet/novotel-singapore-on-stevens/wedding-banquet-price-list/solemnisation-x-l-aperitif-2026.pdf",
-      "https://www.blissfulbrides.sg/banquet/novotel-singapore-on-stevens/wedding-banquet-price-list/winestone-wedding-package-2026.pdf",
-      "https://www.blissfulbrides.sg/banquet/novotel-singapore-on-stevens/wedding-banquet-price-list/galactical-wedding-package-2026.pdf",
-      "https://www.blissfulbrides.sg/banquet/novotel-singapore-on-stevens/wedding-banquet-price-list/nova-wedding-package-2026.pdf",
-      "https://www.blissfulbrides.sg/banquet/novotel-singapore-on-stevens/wedding-banquet-price-list/constellation-wedding-package-2026.pdf"
-    ]
-  },
-  {
     "venue_id": "238",
     "source": "wedding-venues-booking",
     "name": "Pool Pavilions",
@@ -1738,17 +1659,6 @@
     ]
   },
   {
-    "venue_id": "165",
-    "source": "wedding-venues-booking",
-    "name": "Robertson 4",
-    "vendor_name": "The Robertson House by The Crest Collection",
-    "profile_url": "https://www.blissfulbrides.sg/detail/1236/The-Robertson-House-by-The-Crest-Collection-",
-    "location": "1 Unity Street, Singapore 237983",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/the-robertson-house-by-the-crest-collection-/wedding-banquet-price-list/wedding-brochure-2025.pdf"
-    ]
-  },
-  {
     "source": "banquet-price-list",
     "name": "Royal Plaza on Scotts",
     "profile_url": "https://www.blissfulbrides.sg/detail/647/royal-plaza-on-scotts",
@@ -1775,29 +1685,6 @@
       "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/eternal-vows-buffet.pdf",
       "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/timeless-union.pdf",
       "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/impian-selamanya.pdf"
-    ]
-  },
-  {
-    "venue_id": "163",
-    "source": "wedding-venues-booking",
-    "name": "Sapphire Suite",
-    "vendor_name": "Orchid Country Club",
-    "profile_url": "https://www.blissfulbrides.sg/detail/118/Orchid-Country-Club",
-    "location": "1 Orchid Club Road, Singapore 769162",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/3-knots-wedding-package-2023-2024-1-apr-2023-31-mar-2024-.pdf",
-      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/occ-wedding-package-2023-2024-1-apr-2023-31-mar-2024-.pdf",
-      "https://www.blissfulbrides.sg/banquet/orchid-country-club/wedding-banquet-price-list/occ-wedding-package-2024-2025-1-apr-2024-31-mar-2025-.pdf"
-    ]
-  },
-  {
-    "venue_id": "210",
-    "source": "wedding-venues-booking",
-    "name": "Scorpio and Taurus",
-    "vendor_name": "Park Avenue Rochester",
-    "profile_url": "https://www.blissfulbrides.sg/detail/1345/Park-Avenue-Rochester",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/park-avenue-rochester/wedding-banquet-price-list/wedding-package-brochure.pdf"
     ]
   },
   {
@@ -1936,18 +1823,6 @@
     "tables_min": "10",
     "tables_max": "12",
     "tables_range": "10 - 12Mon - Sun"
-  },
-  {
-    "venue_id": "46",
-    "source": "wedding-venues-booking",
-    "name": "Siloso Ballroom",
-    "vendor_name": "Shangri-La Rasa Sentosa, Singapore",
-    "profile_url": "https://www.blissfulbrides.sg/detail/579/Shangri-La-Rasa-Sentosa--Singapore",
-    "location": "101 Siloso Road, Sentosa, 098970, Singapore",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/shangri-la-rasa-sentosa-singapore/wedding-banquet-price-list/exquisite-wedding-brochure-2025.pdf",
-      "https://www.blissfulbrides.sg/banquet/shangri-la-rasa-sentosa-singapore/wedding-banquet-price-list/elegance-enchantment-wedding-brochure-2025.pdf"
-    ]
   },
   {
     "source": "banquet-price-list",
@@ -2285,22 +2160,6 @@
     ]
   },
   {
-    "venue_id": "201",
-    "source": "wedding-venues-booking",
-    "name": "The Westin Singapore - Grand Ballroom",
-    "vendor_name": "The Westin Singapore",
-    "profile_url": "https://www.blissfulbrides.sg/detail/1318/The-Westin-Singapore",
-    "location": "12 Marina View, Asia Square Tower 2, Singapore 018961",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2025-lunch-package-wedding-brochure.pdf",
-      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2025-weekday-dinner-package-wedding-brochure.pdf",
-      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2025-weekend-dinner-package-wedding-brochure.pdf",
-      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2026-wedding-package-weekday-dinner.pdf",
-      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2026-wedding-package-weekend-dinner.pdf",
-      "https://www.blissfulbrides.sg/banquet/the-westin-singapore/wedding-banquet-price-list/2026-wedding-package-lunch-2026.pdf"
-    ]
-  },
-  {
     "venue_id": "199",
     "source": "wedding-venues-booking",
     "name": "The Westin Singapore – Cook & Brew",
@@ -2497,16 +2356,6 @@
       "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/eternal-vows-buffet.pdf",
       "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/timeless-union.pdf",
       "https://www.blissfulbrides.sg/banquet/village-hotel-katong/wedding-banquet-price-list/impian-selamanya.pdf"
-    ]
-  },
-  {
-    "venue_id": "209",
-    "source": "wedding-venues-booking",
-    "name": "Virgo",
-    "vendor_name": "Park Avenue Rochester",
-    "profile_url": "https://www.blissfulbrides.sg/detail/1345/Park-Avenue-Rochester",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/park-avenue-rochester/wedding-banquet-price-list/wedding-package-brochure.pdf"
     ]
   },
   {
