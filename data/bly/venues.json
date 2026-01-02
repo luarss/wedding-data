@@ -1133,6 +1133,17 @@
     "reviews": "17"
   },
   {
+    "recordId": "recCU4LTFklNKCcri",
+    "name": "Ah Yat Seafood Restaurant",
+    "url": "https://www.bridely.sg/venue?recordId=recCU4LTFklNKCcri",
+    "price": "$99-$159++/pax",
+    "capacity": "100-400 pax",
+    "venueRating": "5",
+    "serviceRating": "5",
+    "foodRating": "5",
+    "reviews": "2"
+  },
+  {
     "recordId": "recDoffEI8F40Vlop",
     "name": "Sentosa Golf Club",
     "url": "https://www.bridely.sg/venue?recordId=recDoffEI8F40Vlop",
@@ -1362,17 +1373,6 @@
     "serviceRating": "3.8",
     "foodRating": "4",
     "reviews": "15"
-  },
-  {
-    "recordId": "recCU4LTFklNKCcri",
-    "name": "Ah Yat Seafood Restaurant",
-    "url": "https://www.bridely.sg/venue?recordId=recCU4LTFklNKCcri",
-    "price": "$99-$159++/pax",
-    "capacity": "100-400 pax",
-    "venueRating": "5",
-    "serviceRating": "5",
-    "foodRating": "5",
-    "reviews": "1"
   },
   {
     "recordId": "recrEa1DK6yFzgLqj",
@@ -2513,17 +2513,6 @@
     "url": "https://www.bridely.sg/venue?recordId=rec3qgNaCD6xG3F95",
     "price": "$13000++",
     "capacity": "70 pax",
-    "venueRating": "",
-    "serviceRating": "",
-    "foodRating": "",
-    "reviews": "0"
-  },
-  {
-    "recordId": "rec51N1L8UKDGh5Ro",
-    "name": "Gardenasia Weddings",
-    "url": "https://www.bridely.sg/venue?recordId=rec51N1L8UKDGh5Ro",
-    "price": "",
-    "capacity": "",
     "venueRating": "",
     "serviceRating": "",
     "foodRating": "",
