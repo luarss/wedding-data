@@ -1307,13 +1307,13 @@
     "tables_max": "40",
     "tables_range": "16 - 40Mon - Sun",
     "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/parkroyal-on-beach-road/wedding-banquet-price-list/2025-weekday-wedding-lunch-dinner-package.pdf",
-      "https://www.blissfulbrides.sg/banquet/parkroyal-on-beach-road/wedding-banquet-price-list/2025-weekend-wedding-dinner-package.pdf",
-      "https://www.blissfulbrides.sg/banquet/parkroyal-on-beach-road/wedding-banquet-price-list/2025-weekend-wedding-lunch-package.pdf",
-      "https://www.blissfulbrides.sg/banquet/parkroyal-on-beach-road/wedding-banquet-price-list/parkroyal-on-beach-road-limited-time-promotion.pdf",
       "https://www.blissfulbrides.sg/banquet/parkroyal-on-beach-road/wedding-banquet-price-list/weekend-dinner-weekend-2026.pdf",
       "https://www.blissfulbrides.sg/banquet/parkroyal-on-beach-road/wedding-banquet-price-list/weekday-wedding-2026.pdf",
-      "https://www.blissfulbrides.sg/banquet/parkroyal-on-beach-road/wedding-banquet-price-list/weekend-lunch-wedding-2026.pdf"
+      "https://www.blissfulbrides.sg/banquet/parkroyal-on-beach-road/wedding-banquet-price-list/weekend-lunch-wedding-2026.pdf",
+      "https://www.blissfulbrides.sg/banquet/parkroyal-on-beach-road/wedding-banquet-price-list/prsin-wedding-packages-weekend-dinner-year-2027.pdf",
+      "https://www.blissfulbrides.sg/banquet/parkroyal-on-beach-road/wedding-banquet-price-list/prsin-wedding-packages-weekend-lunch-year-2027.pdf",
+      "https://www.blissfulbrides.sg/banquet/parkroyal-on-beach-road/wedding-banquet-price-list/prsin-wedding-packages-weekdays-year-2027.pdf",
+      "https://www.blissfulbrides.sg/banquet/parkroyal-on-beach-road/wedding-banquet-price-list/limited-time-promotion-for-year-2026-weddings.pdf"
     ],
     "venue_id": "208",
     "vendor_name": "Si Chuan Dou Hua Restaurant",
