@@ -9,6 +9,18 @@
     "tables_range": "10 - 40- Sun"
   },
   {
+    "venue_id": "203",
+    "source": "wedding-venues-booking",
+    "name": "Albatross & Birdie",
+    "vendor_name": "Dusit Thani Laguna Singapore",
+    "profile_url": "https://www.blissfulbrides.sg/detail/810/Dusit-Thani-Laguna-Singapore",
+    "location": "11 Laguna Golf Green, Singapore 488047",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/dusit-thani-laguna-singapore/wedding-banquet-price-list/dusit-thani-laguna-singapore-property-fact-sheet_jun-2025.pdf",
+      "https://www.blissfulbrides.sg/banquet/dusit-thani-laguna-singapore/wedding-banquet-price-list/timeless-symphonies-wedding-brochure.pdf"
+    ]
+  },
+  {
     "venue_id": "235",
     "source": "wedding-venues-booking",
     "name": "Alfresco",
@@ -845,6 +857,30 @@
       "https://www.blissfulbrides.sg/banquet/the-national-university-of-singapore-society-nuss-/wedding-banquet-price-list/mandalay-guild-house-2025.pdf",
       "https://www.blissfulbrides.sg/banquet/the-national-university-of-singapore-society-nuss-/wedding-banquet-price-list/suntec-city-guild-house-2025.pdf",
       "https://www.blissfulbrides.sg/banquet/the-national-university-of-singapore-society-nuss-/wedding-banquet-price-list/kent-ridge-guild-house-2025.pdf"
+    ]
+  },
+  {
+    "venue_id": "202",
+    "source": "wedding-venues-booking",
+    "name": "Laguna Ballroom",
+    "vendor_name": "Dusit Thani Laguna Singapore",
+    "profile_url": "https://www.blissfulbrides.sg/detail/810/Dusit-Thani-Laguna-Singapore",
+    "location": "11 Laguna Golf Green, Singapore 488047",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/dusit-thani-laguna-singapore/wedding-banquet-price-list/dusit-thani-laguna-singapore-property-fact-sheet_jun-2025.pdf",
+      "https://www.blissfulbrides.sg/banquet/dusit-thani-laguna-singapore/wedding-banquet-price-list/timeless-symphonies-wedding-brochure.pdf"
+    ]
+  },
+  {
+    "venue_id": "204",
+    "source": "wedding-venues-booking",
+    "name": "Laguna Lawn",
+    "vendor_name": "Dusit Thani Laguna Singapore",
+    "profile_url": "https://www.blissfulbrides.sg/detail/810/Dusit-Thani-Laguna-Singapore",
+    "location": "11 Laguna Golf Green, Singapore 488047",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/dusit-thani-laguna-singapore/wedding-banquet-price-list/dusit-thani-laguna-singapore-property-fact-sheet_jun-2025.pdf",
+      "https://www.blissfulbrides.sg/banquet/dusit-thani-laguna-singapore/wedding-banquet-price-list/timeless-symphonies-wedding-brochure.pdf"
     ]
   },
   {
