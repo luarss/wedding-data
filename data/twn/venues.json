@@ -1342,5 +1342,21 @@
       "maxPrice": "35900",
       "indoorOutdoor": "Indoor___Outdoor"
     }
+  },
+  {
+    "_id": "6964959c78086a981b14f838",
+    "name": "A-Park Puchong",
+    "slug": "a-park-puchong",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Puchong",
+    "address": "3275, Jalan Pulau Meranti, Kampung Pulau Meranti, 47100 Puchong, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 200,
+      "maxCapacity": 1000,
+      "minPrice": "27000",
+      "maxPrice": "38500",
+      "indoorOutdoor": "Covered_Outdoor_Only"
+    }
   }
 ]
