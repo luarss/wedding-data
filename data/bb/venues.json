@@ -129,8 +129,8 @@
     "venue_id": "239",
     "source": "wedding-venues-booking",
     "name": "Bird Paradise, Crimson Restaurant",
-    "vendor_name": "Mandai Wildlife Group",
-    "profile_url": "https://www.blissfulbrides.sg/detail/1385/Mandai-Wildlife-Group"
+    "vendor_name": "Mandai Wildlife Reserve",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1385/Mandai-Wildlife-Reserve"
   },
   {
     "source": "banquet-price-list",
@@ -1056,8 +1056,8 @@
     "venue_id": "242",
     "source": "wedding-venues-booking",
     "name": "Night Safari, Tipi Tent",
-    "vendor_name": "Mandai Wildlife Group",
-    "profile_url": "https://www.blissfulbrides.sg/detail/1385/Mandai-Wildlife-Group"
+    "vendor_name": "Mandai Wildlife Reserve",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1385/Mandai-Wildlife-Reserve"
   },
   {
     "source": "banquet-price-list",
@@ -1270,7 +1270,9 @@
     "tables_max": "42",
     "tables_range": "20 - 42Mon - Sun",
     "price_lists": [
-      "https://www.blissfulbrides.sg/banquet/paradox-singapore-merchant-court/wedding-banquet-price-list/wedding-menu.pdf"
+      "https://www.blissfulbrides.sg/banquet/paradox-singapore/wedding-banquet-price-list/paradox-wedding-packages-till-31-dec-2027-wedding-lunch-weekday-dinner-.pdf",
+      "https://www.blissfulbrides.sg/banquet/paradox-singapore/wedding-banquet-price-list/paradox-wedding-packages-till-31-dec-2027-weekend-dinner-.pdf",
+      "https://www.blissfulbrides.sg/banquet/paradox-singapore/wedding-banquet-price-list/fa-dec-wedding-guide.pdf"
     ]
   },
   {
@@ -1645,8 +1647,8 @@
     "venue_id": "240",
     "source": "wedding-venues-booking",
     "name": "Rainforest Wild ASIA, The Oculus",
-    "vendor_name": "Mandai Wildlife Group",
-    "profile_url": "https://www.blissfulbrides.sg/detail/1385/Mandai-Wildlife-Group"
+    "vendor_name": "Mandai Wildlife Reserve",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1385/Mandai-Wildlife-Reserve"
   },
   {
     "source": "banquet-price-list",
@@ -1920,8 +1922,8 @@
     "venue_id": "241",
     "source": "wedding-venues-booking",
     "name": "Singapore Zoo, Forest Lodge",
-    "vendor_name": "Mandai Wildlife Group",
-    "profile_url": "https://www.blissfulbrides.sg/detail/1385/Mandai-Wildlife-Group",
+    "vendor_name": "Mandai Wildlife Reserve",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1385/Mandai-Wildlife-Reserve",
     "location": ""
   },
   {
