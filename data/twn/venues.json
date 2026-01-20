@@ -496,22 +496,6 @@
     }
   },
   {
-    "_id": "67da685d3ffd1a7da2a751ad",
-    "name": "Connexion Conference & Event Center",
-    "slug": "connexion-conference-&-event-center",
-    "category": "venues",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
-    "city": "Kuala Lumpur",
-    "address": "7, Jalan Kerinchi, Bangsar South, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
-    "venue": {
-      "minCapacity": 100,
-      "maxCapacity": 1200,
-      "minPrice": "1900",
-      "maxPrice": "9000",
-      "indoorOutdoor": "Indoor_Only"
-    }
-  },
-  {
     "_id": "67e12ff73ffd1a7da2a8c4af",
     "name": "Renaissance Kuala Lumpur Hotel",
     "slug": "renaissance-kuala-lumpur-hotel",
