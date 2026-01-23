@@ -1342,5 +1342,21 @@
       "maxPrice": "38500",
       "indoorOutdoor": "Covered_Outdoor_Only"
     }
+  },
+  {
+    "_id": "6969a31e0e334ced81999e67",
+    "name": "G Glasshouse Klang",
+    "slug": "g-glasshouse-klang",
+    "category": "venues",
+    "state": "Selangor",
+    "city": "Klang",
+    "address": "Unit 3-0, 65, Jalan Raja Bot, Kawasan 18, 41400 Klang, Selangor, Malaysia",
+    "venue": {
+      "minCapacity": 250,
+      "maxCapacity": 500,
+      "minPrice": "10000",
+      "maxPrice": "41000",
+      "indoorOutdoor": "Indoor_Only"
+    }
   }
 ]

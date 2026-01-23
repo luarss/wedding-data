@@ -83,3 +83,4 @@ _id,name,slug,category,state,city,address,venue_minCapacity,venue_maxCapacity,ve
 68abc53481b9e5b9d5542e6f,Ampang Glasshouse,ampang-glasshouse,venues,Selangor,Ampang,"22, Jalan Cempaka 15, Taman Cempaka, 68000 Ampang, Selangor, Malaysia",50,250,8850,12880,Covered_Outdoor_Only
 6900880d49c72b2d2462be81,Luminare Event Hall,luminare-event-hall,venues,Selangor,Petaling Jaya,"B-G-02, PJ TRADE CENTRE, 8, Jalan PJU 8/8A, Damansara Perdana, 47820 Petaling Jaya, Selangor, Malaysia",100,1000,35900,35900,Indoor___Outdoor
 6964959c78086a981b14f838,A-Park Puchong,a-park-puchong,venues,Selangor,Puchong,"3275, Jalan Pulau Meranti, Kampung Pulau Meranti, 47100 Puchong, Selangor, Malaysia",200,1000,27000,38500,Covered_Outdoor_Only
+6969a31e0e334ced81999e67,G Glasshouse Klang,g-glasshouse-klang,venues,Selangor,Klang,"Unit 3-0, 65, Jalan Raja Bot, Kawasan 18, 41400 Klang, Selangor, Malaysia",250,500,10000,41000,Indoor_Only
