@@ -1344,6 +1344,22 @@
     }
   },
   {
+    "_id": "6968b3a32ee5eafdc46a1705",
+    "name": "Astana at Bamboo Hills",
+    "slug": "astana-at-bamboo-hills",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "Unit P13, Bamboo Hills, Jalan Bukit Bamboo, off, DUKE, Taman Bamboo, 51200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 10,
+      "maxCapacity": 500,
+      "minPrice": "10000",
+      "maxPrice": "38000",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
     "_id": "6969a31e0e334ced81999e67",
     "name": "G Glasshouse Klang",
     "slug": "g-glasshouse-klang",
@@ -1356,6 +1372,22 @@
       "maxCapacity": 500,
       "minPrice": "10000",
       "maxPrice": "41000",
+      "indoorOutdoor": "Indoor_Only"
+    }
+  },
+  {
+    "_id": "696dfe4fa23e2a048932d6c1",
+    "name": "Element Kuala Lumpur",
+    "slug": "element-kuala-lumpur",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "8, Jln Binjai, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 30,
+      "maxCapacity": 240,
+      "minPrice": "260",
+      "maxPrice": "3200",
       "indoorOutdoor": "Indoor_Only"
     }
   }
