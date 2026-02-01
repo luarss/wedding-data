@@ -105,16 +105,6 @@
     ]
   },
   {
-    "venue_id": "196",
-    "source": "wedding-venues-booking",
-    "name": "Beach Garden",
-    "vendor_name": "Meliá Ho Tram Beach Resort",
-    "profile_url": "https://www.blissfulbrides.sg/detail/39/Meli---Ho-Tram-Beach-Resort",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/mht-love-stories.pdf"
-    ]
-  },
-  {
     "venue_id": "220",
     "source": "wedding-venues-booking",
     "name": "Beach Wedding",
@@ -723,16 +713,6 @@
     "tables_min": "5",
     "tables_max": "42",
     "tables_range": "5 - 42Mon - Sun"
-  },
-  {
-    "venue_id": "198",
-    "source": "wedding-venues-booking",
-    "name": "Huong Tram Ballroom",
-    "vendor_name": "Meliá Ho Tram Beach Resort",
-    "profile_url": "https://www.blissfulbrides.sg/detail/39/Meli---Ho-Tram-Beach-Resort",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/mht-love-stories.pdf"
-    ]
   },
   {
     "source": "banquet-price-list",
@@ -2096,16 +2076,6 @@
     "tables_min": "10",
     "tables_max": "48",
     "tables_range": "10 - 48Mon - Sun"
-  },
-  {
-    "venue_id": "197",
-    "source": "wedding-venues-booking",
-    "name": "The Level Poolside",
-    "vendor_name": "Meliá Ho Tram Beach Resort",
-    "profile_url": "https://www.blissfulbrides.sg/detail/39/Meli---Ho-Tram-Beach-Resort",
-    "price_lists": [
-      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/mht-love-stories.pdf"
-    ]
   },
   {
     "venue_id": "219",
