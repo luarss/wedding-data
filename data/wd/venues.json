@@ -1,0 +1,46 @@
+[
+  {
+    "name": "1-Alfaro",
+    "slug": "1-alfaro",
+    "url": "https://wedded.sg/venues/1-alfaro",
+    "vendor_id": "019ba4e0-67ad-76db-a02c-7aa760cd89c3",
+    "rooms": [
+      {
+        "name": "1-Alfaro",
+        "types": [
+          "Event Venue",
+          "Garden & Greenery",
+          "Glasshouse",
+          "Indoor",
+          "Outdoor",
+          "Rooftop"
+        ],
+        "room_id": "d1f4fd67-1b31-4719-8ea5-0790b873d484",
+        "packages": [
+          {
+            "day": "Saturday",
+            "menu": "Wedding Banquet (Italian menu)",
+            "capacity_min": 108,
+            "capacity_max": 120,
+            "price": "$16,200++"
+          },
+          {
+            "day": "Sunday",
+            "menu": "Wedding Banquet (Italian menu)",
+            "capacity_min": 108,
+            "capacity_max": 120,
+            "price": "$16,200++"
+          }
+        ]
+      }
+    ],
+    "pdfs": [
+      {
+        "filename": "1 Alfaro Year End Promo 2026.pdf",
+        "url": "https://bucket.wedded.sg/vendors/019ba4e0-67ad-76db-a02c-7aa760cd89c3/attachments/1-Alfaro_Year-End-Promo_2026.pdf?t=1767997899",
+        "local_path": "data/wd/pdfs/019ba4e0-67ad-76db-a02c-7aa760cd89c3/1 Alfaro Year End Promo 2026.pdf"
+      }
+    ],
+    "scraped_at": "2026-02-02T12:31:33.791177Z"
+  }
+]
