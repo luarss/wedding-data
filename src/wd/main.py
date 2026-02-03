@@ -39,8 +39,8 @@ async def fetch_sitemap() -> list[str]:
         return [loc.text for loc in locs if "/venues/" in loc.text and loc.text.count("/") == 4]
 
 
-async def download_pdf(url: str, vendor_id: str, filename: str) -> str | None:
-    pdf_dir = Path("data/wd/pdfs") / vendor_id
+async def download_pdf(url: str, venue_slug: str, filename: str) -> str | None:
+    pdf_dir = Path("data/wd/price-lists") / venue_slug
     pdf_dir.mkdir(parents=True, exist_ok=True)
 
     filepath = pdf_dir / filename
@@ -94,7 +94,7 @@ async def scrape_venue_page(page, url: str, max_retries: int = 2) -> dict:
             if not filename.endswith(".pdf"):
                 filename = filename + ".pdf"
 
-            local_path = await download_pdf(pdf.get("url", ""), vendor_id, filename)
+            local_path = await download_pdf(pdf.get("url", ""), slug, filename)
 
             pdfs.append({"filename": pdf.get("filename", ""), "url": pdf.get("url", ""), "local_path": local_path})
 
@@ -109,31 +109,36 @@ async def scrape_venue_page(page, url: str, max_retries: int = 2) -> dict:
     }
 
 
-async def scrape_all_venues(urls: list[str], concurrent_limit: int = 3) -> list[dict]:
+async def scrape_all_venues(urls: list[str], concurrent_limit: int = 5) -> list[dict]:
     semaphore = asyncio.Semaphore(concurrent_limit)
 
-    async def scrape_with_semaphore(page, url: str, index: int) -> dict:
+    async def scrape_with_semaphore(browser, url: str, index: int) -> dict:
         async with semaphore:
             print(f"[{index}/{len(urls)}] Scraping: {url}")
             try:
-                result = await scrape_venue_page(page, url)
-                pdf_count = len(result.get("pdfs", []))
-                pdf_info = f", {pdf_count} PDFs" if pdf_count > 0 else ""
-                print(f"  -> {result['name']}: {len(result['rooms'])} rooms{pdf_info}")
-                await asyncio.sleep(1)
-                return result
+                page = await browser.new_page()
+                try:
+                    result = await scrape_venue_page(page, url)
+                    pdf_count = len(result.get("pdfs", []))
+                    pdf_info = f", {pdf_count} PDFs" if pdf_count > 0 else ""
+                    print(f"  -> {result['name']}: {len(result['rooms'])} rooms{pdf_info}")
+                    await asyncio.sleep(1)
+                    return result
+                finally:
+                    await page.close()
             except Exception as e:
                 print(f"  -> ERROR: {type(e).__name__}: {str(e)[:100]}")
                 return None
 
-    results = []
-    async with get_browser_page() as page:
-        for i, url in enumerate(urls):
-            result = await scrape_with_semaphore(page, url, i + 1)
-            if result:
-                results.append(result)
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        try:
+            tasks = [scrape_with_semaphore(browser, url, i + 1) for i, url in enumerate(urls)]
+            results = await asyncio.gather(*tasks)
+        finally:
+            await browser.close()
 
-    return results
+    return [r for r in results if r is not None]
 
 
 def save_to_json(venues: list[dict], filename: str):
