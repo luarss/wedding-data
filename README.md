@@ -82,14 +82,14 @@ uv run python -m src.bly.vendors --limit-per-category 20 --output data/bly/vendo
 
 ### Wedded.sg (Singapore)
 
-Scrape wedding venues and download price list PDFs using Playwright browser automation:
+Scrape wedding venues/vendors using Playwright:
 
 ```bash
 # Scrape all venues
 uv run python -m src.wd.main
 
-# Scrape limited number for testing
-uv run python -m src.wd.main 10
+# Scrape all photographers
+uv run python -m src.wd.photographers
 ```
 
 ## License
