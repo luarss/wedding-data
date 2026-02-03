@@ -89,7 +89,7 @@ Scrape wedding venues/vendors using Playwright:
 uv run python -m src.wd.main
 
 # Scrape all photographers
-uv run python -m src.wd.photographer_main
+uv run python -m src.wd.photographers
 ```
 
 ## License

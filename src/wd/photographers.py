@@ -26,7 +26,7 @@ async def fetch_photographer_sitemap() -> list[str]:
 
 
 def load_photographer_scraper_script() -> str:
-    script_path = Path(__file__).parent / "photographer_scraper.js"
+    script_path = Path(__file__).parent / "photographers_scraper.js"
     with open(script_path, encoding="utf-8") as f:
         content = f.read()
     return f"(() => {{ {content} return scrapePhotographerPage(); }})()"
