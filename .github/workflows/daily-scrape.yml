@@ -58,6 +58,9 @@ jobs:
       - name: Run Bridely vendors scraper
         run: uv run python -m src.bly.vendors
 
+      - name: Run Wedded.sg scraper
+        run: uv run python -m src.wd.main
+
       - name: Commit and push data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

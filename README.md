@@ -11,6 +11,7 @@ This project is for **educational purposes only** and **not for profit**. The da
 - **BlissfulBrides.sg** - Singapore wedding venues and marketplace packages
 - **TheWeddingNotebook.com** - Malaysia wedding venues
 - **Bridely.sg** - Singapore wedding venues and vendors
+- **Wedded.sg** - Singapore wedding venues
 
 ## Setup
 
@@ -79,29 +80,16 @@ uv run python -m src.bly.main --limit 50 --output data/bly/venues
 uv run python -m src.bly.vendors --limit-per-category 20 --output data/bly/vendors
 ```
 
-## Project Structure
+### Wedded.sg (Singapore)
 
-```
-.
-├── src/
-│   ├── bb/          # BlissfulBrides.sg scraper
-│   ├── bly/         # Bridely.sg scraper
-│   ├── twn/         # TheWeddingNotebook.com scraper
-│   └── shared/      # Shared utilities and config
-├── data/            # Scraped data output
-│   ├── bb/
-│   │   ├── venues.json
-│   │   ├── venues.csv
-│   │   └── price-lists/
-│   ├── bly/
-│   │   ├── venues.json
-│   │   ├── venues.csv
-│   │   ├── vendors.json
-│   │   └── vendors.csv
-│   └── twn/
-│       ├── venues.json
-│       └── venues.csv
-└── logs/            # Application logs
+Scrape wedding venues and download price list PDFs using Playwright browser automation:
+
+```bash
+# Scrape all venues
+uv run python -m src.wd.main
+
+# Scrape limited number for testing
+uv run python -m src.wd.main 10
 ```
 
 ## License
