@@ -998,6 +998,17 @@
     "tables_range": "5 - 10Mon - Sun"
   },
   {
+    "source": "banquet-price-list",
+    "name": "Min Jiang at Dempsey",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1416/min-jiang-at-dempsey",
+    "rating": "0",
+    "lunch_price": "$15,888++Mon - Fri$20,888++Sat - Sun",
+    "dinner_price": "$16,888++Mon - Fri$23,888++Sat - Sun",
+    "tables_min": "110",
+    "tables_max": "170",
+    "tables_range": "110 - 170Mon - Sun"
+  },
+  {
     "venue_id": "212",
     "source": "wedding-venues-booking",
     "name": "Minh Tâm - Hoa Tâm - Ngọa Nguyệt Lake - Khai Tâm Gate",
