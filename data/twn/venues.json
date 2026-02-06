@@ -1390,5 +1390,21 @@
       "maxPrice": "3200",
       "indoorOutdoor": "Indoor_Only"
     }
+  },
+  {
+    "_id": "697affeb2d345662b34e47b1",
+    "name": "Connexion Conference & Event Centre (CCEC)",
+    "slug": "connexion-conference-&-event-centre-(ccec)",
+    "category": "venues",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "7, Jalan Kerinchi, Bangsar South, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "venue": {
+      "minCapacity": 20,
+      "maxCapacity": 2000,
+      "minPrice": "1500",
+      "maxPrice": "2680",
+      "indoorOutdoor": "Indoor___Outdoor"
+    }
   }
 ]
