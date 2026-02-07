@@ -41,7 +41,7 @@
         "local_path": "data/wd/price-lists/1-alfaro/1 Alfaro Year End Promo 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:01.645256Z"
+    "scraped_at": "2026-02-07T02:56:13.730415Z"
   },
   {
     "name": "1-Altitude Coast",
@@ -57,7 +57,7 @@
           "Restaurant",
           "Rooftop"
         ],
-        "room_id": "",
+        "room_id": "fbd8cf7e-7444-415f-9e87-dc0ee913f0b3",
         "packages": [
           {
             "day": "Saturday",
@@ -83,7 +83,7 @@
         "local_path": "data/wd/price-lists/1-altitude-coast/1 Altitude Coast year end promo 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:01.260497Z"
+    "scraped_at": "2026-02-07T02:56:13.703923Z"
   },
   {
     "name": "1-Arden",
@@ -100,7 +100,7 @@
           "Restaurant",
           "Rooftop"
         ],
-        "room_id": "",
+        "room_id": "524575ca-2351-4593-8950-d7d32b50ab23",
         "packages": [
           {
             "day": "Saturday",
@@ -120,7 +120,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T02:59:01.670048Z"
+    "scraped_at": "2026-02-07T02:56:13.553621Z"
   },
   {
     "name": "1-Atico",
@@ -136,7 +136,7 @@
           "Restaurant",
           "Rooftop"
         ],
-        "room_id": "",
+        "room_id": "3711cdef-2045-426f-86b9-f7bdab42598e",
         "packages": [
           {
             "day": "Saturday",
@@ -162,7 +162,7 @@
         "local_path": "data/wd/price-lists/1-atico/1 Atico 2025 Packages.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:01.244445Z"
+    "scraped_at": "2026-02-07T02:56:13.697383Z"
   },
   {
     "name": "1-Flowerhill",
@@ -243,7 +243,7 @@
         "local_path": "data/wd/price-lists/1-flowerhill/Camille Package.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:02.037403Z"
+    "scraped_at": "2026-02-07T02:56:13.740165Z"
   },
   {
     "name": "Ah Yat Seafood Restaurant",
@@ -291,7 +291,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T02:59:03.947928Z"
+    "scraped_at": "2026-02-07T02:56:16.194446Z"
   },
   {
     "name": "Aloft Singapore Novena",
@@ -364,7 +364,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T02:59:03.915117Z"
+    "scraped_at": "2026-02-07T02:56:16.539169Z"
   },
   {
     "name": "Altro Zafferano",
@@ -417,7 +417,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T02:59:04.396052Z"
+    "scraped_at": "2026-02-07T02:56:16.739104Z"
   },
   {
     "name": "Amara Sanctuary Sentosa",
@@ -553,7 +553,7 @@
         "local_path": "data/wd/price-lists/amara-sanctuary-sentosa/Amara Santuary 2026 & 2027 Wedding Packages.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:04.521923Z"
+    "scraped_at": "2026-02-07T02:56:16.774016Z"
   },
   {
     "name": "Amara Singapore",
@@ -603,7 +603,7 @@
         "local_path": "data/wd/price-lists/amara-singapore/2026 27 Wedding Package Blissful.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:05.002953Z"
+    "scraped_at": "2026-02-07T02:56:16.812305Z"
   },
   {
     "name": "Andaz Singapore",
@@ -697,7 +697,7 @@
         "local_path": "data/wd/price-lists/andaz/2026 Wedding Package Andaz Singapore.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:06.442445Z"
+    "scraped_at": "2026-02-07T02:56:18.713888Z"
   },
   {
     "name": "Artemis",
@@ -741,7 +741,7 @@
         "local_path": "data/wd/price-lists/artemis-grill-and-sky-bar/Artemis Wedding Kit 2026 Updated.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:06.410112Z"
+    "scraped_at": "2026-02-07T02:56:19.174727Z"
   },
   {
     "name": "Ban Heng @ Orchid Country Club",
@@ -903,7 +903,7 @@
         "local_path": "data/wd/price-lists/ban-heng-at-orchid-country-club/BH OCC WEDDING FLYER 20252026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:07.165657Z"
+    "scraped_at": "2026-02-07T02:56:19.656660Z"
   },
   {
     "name": "Beaulieu House",
@@ -952,7 +952,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T02:59:07.308632Z"
+    "scraped_at": "2026-02-07T02:56:19.819811Z"
   },
   {
     "name": "Capella Singapore",
@@ -1134,7 +1134,7 @@
         "local_path": "data/wd/price-lists/capella-singapore/Capella Sentosa Room.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:08.993945Z"
+    "scraped_at": "2026-02-07T02:56:21.370436Z"
   },
   {
     "name": "Carlton Hotel",
@@ -1268,7 +1268,7 @@
         "local_path": "data/wd/price-lists/carlton-hotel/empress ballroom wedding package 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:09.019017Z"
+    "scraped_at": "2026-02-07T02:56:21.800521Z"
   },
   {
     "name": "Changi Cove Hotel",
@@ -1361,7 +1361,7 @@
         "local_path": "data/wd/price-lists/changi-cove/Changi Cove Chinese Western Wedding Package 20262027.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:09.851256Z"
+    "scraped_at": "2026-02-07T02:56:22.597568Z"
   },
   {
     "name": "CHIJMES",
@@ -1427,7 +1427,7 @@
         "local_path": "data/wd/price-lists/chijmes-hall-singapore/Wedding Events Kit.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:10.103109Z"
+    "scraped_at": "2026-02-07T02:56:22.725707Z"
   },
   {
     "name": "Chui Huay Lim Teochew Cuisine",
@@ -1667,7 +1667,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T02:59:11.608070Z"
+    "scraped_at": "2026-02-07T02:56:23.961855Z"
   },
   {
     "name": "Claudine Restaurant",
@@ -1763,7 +1763,7 @@
         "local_path": "data/wd/price-lists/claudine-restaurant/CLD+Events+Kit+2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:13.930014Z"
+    "scraped_at": "2026-02-07T02:56:26.445740Z"
   },
   {
     "name": "Concorde Hotel Singapore",
@@ -1811,7 +1811,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T02:59:16.396051Z"
+    "scraped_at": "2026-02-07T02:56:28.877453Z"
   },
   {
     "name": "Conrad Singapore Orchard",
@@ -2007,7 +2007,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T02:59:18.769572Z"
+    "scraped_at": "2026-02-07T02:56:31.367526Z"
   },
   {
     "name": "Conrad Singapore Marina Bay",
@@ -2131,7 +2131,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T02:59:21.168271Z"
+    "scraped_at": "2026-02-07T02:56:33.870149Z"
   },
   {
     "name": "Copthorne King's Hotel Singapore",
@@ -2191,7 +2191,7 @@
         "local_path": "data/wd/price-lists/copthorne-kings-hotel-singapore/CKS Wedding Package 20252026 (5).pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:23.570808Z"
+    "scraped_at": "2026-02-07T02:56:36.360680Z"
   },
   {
     "name": "Crowne Plaza Changi Airport",
@@ -2277,7 +2277,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T02:59:25.922664Z"
+    "scraped_at": "2026-02-07T02:56:38.848532Z"
   },
   {
     "name": "Dusit Thani Laguna Singapore",
@@ -2369,7 +2369,7 @@
         "local_path": "data/wd/price-lists/dusit-thani-laguna-singapore/DTLS package.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:28.541266Z"
+    "scraped_at": "2026-02-07T02:56:41.277905Z"
   },
   {
     "name": "Empress at ACM",
@@ -2468,7 +2468,7 @@
         "local_path": "data/wd/price-lists/empress-at-acm/EMPRESS Wedding 2026 Package.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:30.870554Z"
+    "scraped_at": "2026-02-07T02:56:43.668949Z"
   },
   {
     "name": "Equarius Hotel / Ocean Gallery",
@@ -2611,7 +2611,7 @@
         "local_path": "data/wd/price-lists/equarius-hotel-ocean-gallery/Ocean Gallery and Ocean Dome.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:33.267335Z"
+    "scraped_at": "2026-02-07T02:56:46.060765Z"
   },
   {
     "name": "Fico",
@@ -2669,7 +2669,7 @@
         "local_path": "data/wd/price-lists/fico/[Fico] Wedding Kit 2025 (2).pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:35.652972Z"
+    "scraped_at": "2026-02-07T02:56:48.489119Z"
   },
   {
     "name": "Ficus Room @ Gardens by the Bay",
@@ -2719,7 +2719,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T02:59:38.031121Z"
+    "scraped_at": "2026-02-07T02:56:51.017582Z"
   },
   {
     "name": "Flutes",
@@ -2778,7 +2778,7 @@
         "local_path": "data/wd/price-lists/flutes/Flutes Solemnization Lunch for 80 persons Whole Restaurant.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:40.355908Z"
+    "scraped_at": "2026-02-07T02:56:53.423026Z"
   },
   {
     "name": "Four Points by Sheraton, Riverview",
@@ -2862,7 +2862,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T02:59:42.769022Z"
+    "scraped_at": "2026-02-07T02:56:55.970068Z"
   },
   {
     "name": "Four Seasons Hotel Singapore",
@@ -3050,7 +3050,7 @@
         "local_path": "data/wd/price-lists/four-seasons-hotel-singapore/2026 Wedding Lunch Package.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:45.209179Z"
+    "scraped_at": "2026-02-07T02:56:58.477673Z"
   },
   {
     "name": "Fu Lin Men (Chinese Swimming Club)",
@@ -3104,7 +3104,7 @@
         "local_path": "data/wd/price-lists/fu-lin-men-chinese-swimming-club/Fu Lin Men.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:47.574721Z"
+    "scraped_at": "2026-02-07T02:57:00.931284Z"
   },
   {
     "name": "Furama City Centre",
@@ -3190,7 +3190,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T02:59:49.971437Z"
+    "scraped_at": "2026-02-07T02:57:03.427907Z"
   },
   {
     "name": "Furama Riverfront",
@@ -3511,7 +3511,7 @@
         "local_path": "data/wd/price-lists/furama-riverfront/A Summer's Dream Wedding Package 2026 & 2027.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:52.357279Z"
+    "scraped_at": "2026-02-07T02:57:06.052478Z"
   },
   {
     "name": "Genting Hotel Jurong",
@@ -3604,7 +3604,7 @@
         "local_path": "data/wd/price-lists/genting-hotel-jurong/GHJ Wedding.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:54.786534Z"
+    "scraped_at": "2026-02-07T02:57:08.369132Z"
   },
   {
     "name": "Goodwood Park Hotel",
@@ -3703,7 +3703,7 @@
         "local_path": "data/wd/price-lists/goodwood-park-hotel/Tudor.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:56.240678Z"
+    "scraped_at": "2026-02-07T02:57:08.607991Z"
   },
   {
     "name": "Grand Copthorne Waterfront Hotel Singapore",
@@ -3881,7 +3881,7 @@
         "local_path": "data/wd/price-lists/grand-copthorne-waterfront-hotel-singapore/Grand Copthorne Waterfront Wedding Packages 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:57.245942Z"
+    "scraped_at": "2026-02-07T02:57:10.855569Z"
   },
   {
     "name": "Grand Hyatt Singapore",
@@ -4052,7 +4052,7 @@
         "local_path": "data/wd/price-lists/grand-hyatt-singapore/Grand Hyatt Singapore 2026 Wedding Lunch Brochure.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:58.610859Z"
+    "scraped_at": "2026-02-07T02:57:11.166883Z"
   },
   {
     "name": "Grand Park City Hall",
@@ -4107,7 +4107,7 @@
         "local_path": "data/wd/price-lists/grand-park-city-hall/weddings solemnisations cms document.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:59.615929Z"
+    "scraped_at": "2026-02-07T02:57:13.326695Z"
   },
   {
     "name": "Grand Shanghai",
@@ -4161,7 +4161,7 @@
         "local_path": "data/wd/price-lists/grand-shanghai/Grand Shanghai Packages.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T02:59:59.945755Z"
+    "scraped_at": "2026-02-07T02:57:13.584936Z"
   },
   {
     "name": "HAUS217",
@@ -4209,7 +4209,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:00.862216Z"
+    "scraped_at": "2026-02-07T02:57:13.924148Z"
   },
   {
     "name": "Hilton Singapore Orchard",
@@ -4341,7 +4341,7 @@
         "local_path": "data/wd/price-lists/hilton-singapore-orchard/hilton singapore orchard wedding brochure 2026 hiresfinal.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:02.218725Z"
+    "scraped_at": "2026-02-07T02:57:14.258737Z"
   },
   {
     "name": "Holiday Inn Express & Suites Singapore Novena",
@@ -4431,7 +4431,7 @@
         "local_path": "data/wd/price-lists/holiday-inn-express-and-suites-singapore-novena/Holiday Inn Express & Suites Singapore Novena Wedding Brochures.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:01.582675Z"
+    "scraped_at": "2026-02-07T02:57:14.812222Z"
   },
   {
     "name": "Holiday Inn Singapore Atrium",
@@ -4561,7 +4561,7 @@
         "local_path": "data/wd/price-lists/holiday-inn-singapore-atrium/Wedding Brochure 2025 2026 2027.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:02.411570Z"
+    "scraped_at": "2026-02-07T02:57:15.892460Z"
   },
   {
     "name": "Hortus (Gardens by the Bay)",
@@ -4613,7 +4613,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:02.568999Z"
+    "scraped_at": "2026-02-07T02:57:16.174051Z"
   },
   {
     "name": "Ida's Bar and Event Space",
@@ -4661,7 +4661,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:03.357488Z"
+    "scraped_at": "2026-02-07T02:57:16.594331Z"
   },
   {
     "name": "JEN Tanglin by Shangri-la",
@@ -4791,7 +4791,7 @@
         "local_path": "data/wd/price-lists/jen-tanglin/Jen package.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:04.097451Z"
+    "scraped_at": "2026-02-07T02:57:17.080506Z"
   },
   {
     "name": "JW Marriott Hotel Singapore South Beach",
@@ -4831,7 +4831,7 @@
         "local_path": "data/wd/price-lists/jw-marriott-hotel-singapore-south-beach/JWM Wedding eBrochure 2026 (Mar).pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:04.806131Z"
+    "scraped_at": "2026-02-07T02:57:17.475328Z"
   },
   {
     "name": "Keyaki at Pan Pacific",
@@ -4887,7 +4887,7 @@
         "local_path": "data/wd/price-lists/keyaki-at-pan-pacific/ppain celebrations keyaki wedding packages 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:05.013497Z"
+    "scraped_at": "2026-02-07T02:57:18.359838Z"
   },
   {
     "name": "Little Island Brewing Co @ Changi Village",
@@ -5055,7 +5055,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:05.179161Z"
+    "scraped_at": "2026-02-07T02:57:18.759178Z"
   },
   {
     "name": "M Hotel Singapore City Centre",
@@ -5145,7 +5145,7 @@
         "local_path": "data/wd/price-lists/m-hotel-singapore-city-centre/Voyage of Love Wedding Package 2025 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:06.028596Z"
+    "scraped_at": "2026-02-07T02:57:19.277532Z"
   },
   {
     "name": "Mandai Rainforest Resort by Banyan Tree",
@@ -5199,7 +5199,7 @@
         "local_path": "data/wd/price-lists/mandai-rainforest-resort-by-banyan-tree/Wedding Packages 2025 & 2026 (New).pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:06.560601Z"
+    "scraped_at": "2026-02-07T02:57:19.741101Z"
   },
   {
     "name": "Mandai Wildlife Reserve",
@@ -5336,7 +5336,7 @@
         "local_path": "data/wd/price-lists/mandai-wildlife-reserve/wedding brochure.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:07.493528Z"
+    "scraped_at": "2026-02-07T02:57:20.156001Z"
   },
   {
     "name": "Mandarin Oriental Singapore",
@@ -5466,7 +5466,7 @@
         "local_path": "data/wd/price-lists/mandarin-oriental-singapore/SGBrides  MOSIN Wedding Package 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:07.793104Z"
+    "scraped_at": "2026-02-07T02:57:20.858595Z"
   },
   {
     "name": "Marguerite (Gardens by the Bay)",
@@ -5517,7 +5517,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:07.711407Z"
+    "scraped_at": "2026-02-07T02:57:21.323137Z"
   },
   {
     "name": "Marina Bay Sands",
@@ -5632,7 +5632,7 @@
         "local_path": "data/wd/price-lists/marina-bay-sands/blissful wedding celebration packages 150 249pax.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:08.734932Z"
+    "scraped_at": "2026-02-07T02:57:21.932021Z"
   },
   {
     "name": "Mercure Singapore Bugis",
@@ -5686,7 +5686,7 @@
         "local_path": "data/wd/price-lists/mercure-singapore-bugis/Wedding Brochure 2026 2027 09092025.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:09.185367Z"
+    "scraped_at": "2026-02-07T02:57:23.005768Z"
   },
   {
     "name": "METT Singapore",
@@ -5778,7 +5778,7 @@
         "local_path": "data/wd/price-lists/mett-singapore/METT Singapore Wedding Package 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:10.030604Z"
+    "scraped_at": "2026-02-07T02:57:22.705717Z"
   },
   {
     "name": "Min Jiang Dempsey",
@@ -5874,7 +5874,7 @@
         "local_path": "data/wd/price-lists/min-jiang-dempsey/Min Jiang 01 October 2025 to 30 September 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:10.546969Z"
+    "scraped_at": "2026-02-07T02:57:23.652122Z"
   },
   {
     "name": "Monti at 1-Pavilion",
@@ -5911,7 +5911,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:10.281552Z"
+    "scraped_at": "2026-02-07T02:57:24.107655Z"
   },
   {
     "name": "Mount Faber Peak",
@@ -6097,7 +6097,7 @@
         "local_path": "data/wd/price-lists/mount-faber-peak/Mount Faber Peak Wedding.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:11.424752Z"
+    "scraped_at": "2026-02-07T02:57:24.613689Z"
   },
   {
     "name": "Novotel Singapore on Stevens",
@@ -6196,7 +6196,7 @@
         "local_path": "data/wd/price-lists/novotel-singapore-on-stevens/Winestone Wedding Package.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:11.751160Z"
+    "scraped_at": "2026-02-07T02:57:25.338843Z"
   },
   {
     "name": "Oasia Hotel Downtown",
@@ -6289,7 +6289,7 @@
         "local_path": "data/wd/price-lists/oasia-hotel-downtown/Oasia Hotel Downtown & Oasia Hotel Novena Wedding Deck.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:12.770752Z"
+    "scraped_at": "2026-02-07T02:57:26.207674Z"
   },
   {
     "name": "Oasia Hotel Novena, Singapore",
@@ -6420,7 +6420,7 @@
         "local_path": "data/wd/price-lists/oasia-hotel-novena-singapore/OHN Wedding Brochure.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:12.917076Z"
+    "scraped_at": "2026-02-07T02:57:26.816258Z"
   },
   {
     "name": "Oasia Resort Sentosa",
@@ -6516,7 +6516,7 @@
         "local_path": "data/wd/price-lists/oasia-hotel-sentosa/2026 wedding dinner package new.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:13.341547Z"
+    "scraped_at": "2026-02-07T02:57:27.404992Z"
   },
   {
     "name": "One Farrer Hotel",
@@ -6619,7 +6619,7 @@
         "local_path": "data/wd/price-lists/one-farrer-hotel/intimate wedding package 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:14.063506Z"
+    "scraped_at": "2026-02-07T02:57:27.311854Z"
   },
   {
     "name": "ONE°15 Marina Sentosa Cove",
@@ -6798,7 +6798,7 @@
         "local_path": "data/wd/price-lists/onedeg15-marina-sentosa-cove/ONE15 Marina Sentosa Cove Singapore Social Wedding Packages 2026 A Close knit Wedding Affair at Iconic Building.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:14.358541Z"
+    "scraped_at": "2026-02-07T02:57:28.014803Z"
   },
   {
     "name": "Orchard Hotel Singapore",
@@ -6838,7 +6838,7 @@
         "local_path": "data/wd/price-lists/orchard-hotel-singapore/Chinese Wedding 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:15.277748Z"
+    "scraped_at": "2026-02-07T02:57:28.719616Z"
   },
   {
     "name": "TungLok Signatures @ Antica Ballroom, Orchard Rendezvous Hotel",
@@ -6892,7 +6892,7 @@
         "local_path": "data/wd/price-lists/orchard-rendezvous-hotel/TUNGLOK SIGNATURES   ANTICA BALLROOM WEDDING PACKAGE 2024.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:15.575063Z"
+    "scraped_at": "2026-02-07T02:57:30.051845Z"
   },
   {
     "name": "Orchid Country Club",
@@ -7077,7 +7077,7 @@
         "local_path": "data/wd/price-lists/orchid-country-club/occ wedding package 2025 2026 (1 apr 2025 31 mar 2026).pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:16.015007Z"
+    "scraped_at": "2026-02-07T02:57:29.951429Z"
   },
   {
     "name": "Pan Pacific Orchard",
@@ -7194,7 +7194,7 @@
         "local_path": "data/wd/price-lists/pan-pacific-orchard/2026 Wedding Package Insert PDF.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:16.622684Z"
+    "scraped_at": "2026-02-07T02:57:30.026065Z"
   },
   {
     "name": "Pan Pacific Singapore",
@@ -7300,7 +7300,7 @@
         "local_path": "data/wd/price-lists/pan-pacific-singapore/ppain celebrations wedding packages 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:16.938932Z"
+    "scraped_at": "2026-02-07T02:57:30.844882Z"
   },
   {
     "name": "Paradox Singapore",
@@ -7354,7 +7354,7 @@
         "local_path": "data/wd/price-lists/paradox-singapore/Paradox Wedding Packages till 30 Jun 2027.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:17.813604Z"
+    "scraped_at": "2026-02-07T02:57:31.371809Z"
   },
   {
     "name": "PARKROYAL COLLECTION Marina Bay",
@@ -7444,7 +7444,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:18.131345Z"
+    "scraped_at": "2026-02-07T02:57:32.508100Z"
   },
   {
     "name": "PARKROYAL COLLECTION Pickering",
@@ -7538,7 +7538,7 @@
         "local_path": null
       }
     ],
-    "scraped_at": "2026-02-06T03:00:19.267645Z"
+    "scraped_at": "2026-02-07T02:57:33.039596Z"
   },
   {
     "name": "PARKROYAL on Beach Road",
@@ -7747,7 +7747,7 @@
         "local_path": "data/wd/price-lists/parkroyal-on-beach-road/PRSIN Wedding A4 packages wkdays Year 2027.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:19.268241Z"
+    "scraped_at": "2026-02-07T02:57:32.722549Z"
   },
   {
     "name": "Peach Blossoms at PARKROYAL Marina Bay",
@@ -7797,7 +7797,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:19.613410Z"
+    "scraped_at": "2026-02-07T02:57:33.731245Z"
   },
   {
     "name": "Peach Garden @ OCBC Centre",
@@ -7853,7 +7853,7 @@
         "local_path": "data/wd/price-lists/peach-garden-at-ocbc-centre/Peach Garden Wedding Booklet 2026 27.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:20.402172Z"
+    "scraped_at": "2026-02-07T02:57:34.114165Z"
   },
   {
     "name": "Peach Garden @ The Heeren",
@@ -7908,7 +7908,7 @@
         "local_path": "data/wd/price-lists/peach-garden-at-the-heeren/Peach Garden Wedding Booklet 2026 27.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:20.755905Z"
+    "scraped_at": "2026-02-07T02:57:34.987940Z"
   },
   {
     "name": "Peach Garden @ The Metropolis",
@@ -7965,7 +7965,7 @@
         "local_path": "data/wd/price-lists/peach-garden-at-the-metropolis/Peach Garden Wedding Booklet 2026 27.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:21.880569Z"
+    "scraped_at": "2026-02-07T02:57:35.853444Z"
   },
   {
     "name": "Peach Garden @ Thomson Plaza",
@@ -8020,7 +8020,7 @@
         "local_path": "data/wd/price-lists/peach-garden-at-thomson-plaza/Peach Garden Wedding Booklet 2026 27.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:21.868298Z"
+    "scraped_at": "2026-02-07T02:57:35.546143Z"
   },
   {
     "name": "Peony Jade @ Amara Singapore",
@@ -8073,7 +8073,7 @@
         "local_path": "data/wd/price-lists/peony-jade/peonyjade.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:22.246404Z"
+    "scraped_at": "2026-02-07T02:57:36.810974Z"
   },
   {
     "name": "Pullman Singapore Hill Street",
@@ -8201,7 +8201,7 @@
         "local_path": "data/wd/price-lists/pullman-singapore-hill-street/Pullman Singapore Packages.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:22.905008Z"
+    "scraped_at": "2026-02-07T02:57:36.522975Z"
   },
   {
     "name": "Qian Xi Summer Garden",
@@ -8372,7 +8372,7 @@
         "local_path": "data/wd/price-lists/qian-xi-summer-garden/qian xi.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:23.471660Z"
+    "scraped_at": "2026-02-07T02:57:37.625113Z"
   },
   {
     "name": "Raffles Marina",
@@ -8421,7 +8421,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:24.481388Z"
+    "scraped_at": "2026-02-07T02:57:38.234627Z"
   },
   {
     "name": "Raffles Sentosa",
@@ -8547,7 +8547,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:24.447211Z"
+    "scraped_at": "2026-02-07T02:57:38.447341Z"
   },
   {
     "name": "Raffles Singapore",
@@ -8679,7 +8679,7 @@
         "local_path": "data/wd/price-lists/raffles-singapore/Raffles Romance Brochure 2025 v2.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:24.963370Z"
+    "scraped_at": "2026-02-07T02:57:39.184449Z"
   },
   {
     "name": "Red House Seafood (Grand Copthorne)",
@@ -8734,7 +8734,7 @@
         "local_path": "data/wd/price-lists/red-house-seafood/Red House Seafood Wedding 2025.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:25.521418Z"
+    "scraped_at": "2026-02-07T02:57:40.031798Z"
   },
   {
     "name": "RedDot BrewHouse",
@@ -8984,7 +8984,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:26.092283Z"
+    "scraped_at": "2026-02-07T02:57:40.328191Z"
   },
   {
     "name": "Rendezvous Hotel Singapore",
@@ -9037,7 +9037,7 @@
         "local_path": "data/wd/price-lists/rendezvous-hotel-singapore/packages rhs timelessrendezvous 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:27.112246Z"
+    "scraped_at": "2026-02-07T02:57:40.892202Z"
   },
   {
     "name": "Resorts World Sentosa, Convention Centre",
@@ -9130,7 +9130,7 @@
         "local_path": "data/wd/price-lists/resorts-world-sentosa-convention-centre/(RWS) Resorts World Convention Centre Wedding Packages 2025.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:27.055464Z"
+    "scraped_at": "2026-02-07T02:57:41.027679Z"
   },
   {
     "name": "Royal Plaza on Scotts",
@@ -9203,7 +9203,7 @@
         "local_path": "data/wd/price-lists/royal-plaza-on-scotts/Wedding Package Menu.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:27.671220Z"
+    "scraped_at": "2026-02-07T02:57:42.513677Z"
   },
   {
     "name": "Seletar Country Club",
@@ -9311,7 +9311,7 @@
         "local_path": "data/wd/price-lists/seletar-country-club/Seletar CC Solemn.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:28.134180Z"
+    "scraped_at": "2026-02-07T02:57:42.812201Z"
   },
   {
     "name": "Serangoon Gardens Country Club",
@@ -9360,7 +9360,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:28.586805Z"
+    "scraped_at": "2026-02-07T02:57:43.070870Z"
   },
   {
     "name": "Shangri-La Rasa Sentosa",
@@ -9579,7 +9579,7 @@
         "local_path": "data/wd/price-lists/shangri-la-rasa-sentosa/2026 Elegance Enchantment Wedding Packages.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:29.797095Z"
+    "scraped_at": "2026-02-07T02:57:43.819167Z"
   },
   {
     "name": "Shangri-La Singapore",
@@ -9750,7 +9750,7 @@
         "local_path": "data/wd/price-lists/shangri-la-singapore/2026 Azalea Lunch and Dinner Wedding Brochure.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:29.682837Z"
+    "scraped_at": "2026-02-07T02:57:43.820940Z"
   },
   {
     "name": "Sheraton Towers Singapore",
@@ -9927,7 +9927,7 @@
         "local_path": "data/wd/price-lists/sheraton-towers-singapore/Intimate Wedding Package.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:30.385645Z"
+    "scraped_at": "2026-02-07T02:57:45.203112Z"
   },
   {
     "name": "Shisen Hanten by Chen Kentaro",
@@ -10067,7 +10067,7 @@
         "local_path": "data/wd/price-lists/shisen-hanten/Events Brochure.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:30.963560Z"
+    "scraped_at": "2026-02-07T02:57:45.996937Z"
   },
   {
     "name": "Si Chuan Dou Hua Restaurant (Top of UOB Plaza)",
@@ -10121,7 +10121,7 @@
         "local_path": "data/wd/price-lists/si-chuan-dou-hua-restaurant-top-of-uob-plaza/SCDH Wedding Packages.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:31.345105Z"
+    "scraped_at": "2026-02-07T02:57:46.532579Z"
   },
   {
     "name": "Singapore Island Country Club (SICC)",
@@ -10308,7 +10308,7 @@
         "local_path": "data/wd/price-lists/singapore-island-country-club-sicc/Banquet Beverage List.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:32.356360Z"
+    "scraped_at": "2026-02-07T02:57:46.774794Z"
   },
   {
     "name": "Singapore Marriott Tang Plaza Hotel",
@@ -10375,7 +10375,7 @@
         "local_path": "data/wd/price-lists/singapore-marriott-tang-plaza-hotel/Saturday Dinner until Sep 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:32.262243Z"
+    "scraped_at": "2026-02-07T02:57:46.657891Z"
   },
   {
     "name": "Singapore Swimming Club",
@@ -10430,7 +10430,7 @@
         "local_path": "data/wd/price-lists/singapore-swimming-club/Singapore Swimming Club Wedding Solemnisation Package.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:33.125656Z"
+    "scraped_at": "2026-02-07T02:57:47.688031Z"
   },
   {
     "name": "Sky Garden Sentosa",
@@ -10494,7 +10494,7 @@
         "local_path": "data/wd/price-lists/sky-garden-sentosa-1/2026 27 Sky Garden Sentosa Wedding Package (1).pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:33.763643Z"
+    "scraped_at": "2026-02-07T02:57:48.425056Z"
   },
   {
     "name": "Sofitel Singapore City Centre",
@@ -10572,7 +10572,7 @@
         "local_path": "data/wd/price-lists/sofitel-singapore-city-centre/Sofitel Singapore City Centre Weddings Magnifique Weddings 2025 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:33.927508Z"
+    "scraped_at": "2026-02-07T02:57:49.167835Z"
   },
   {
     "name": "Sofitel Singapore Sentosa",
@@ -10734,7 +10734,7 @@
         "local_path": "data/wd/price-lists/sofitel-singapore-sentosa/Sofitel Singapore Sentosa Resort Spa 2026 Weddings Solemnisation.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:35.122884Z"
+    "scraped_at": "2026-02-07T02:57:49.576685Z"
   },
   {
     "name": "Spring Court",
@@ -10788,7 +10788,7 @@
         "local_path": "data/wd/price-lists/spring-court/Wedding Menu.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:35.049113Z"
+    "scraped_at": "2026-02-07T02:57:49.570914Z"
   },
   {
     "name": "Fairmont Singapore and Swissôtel The Stamford",
@@ -10950,7 +10950,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:35.779474Z"
+    "scraped_at": "2026-02-07T02:57:50.456940Z"
   },
   {
     "name": "The Alkaff Mansion",
@@ -10999,7 +10999,7 @@
         "local_path": "data/wd/price-lists/the-alkaff-mansion/Alkaff 2024 (L2 exclusive).pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:36.631785Z"
+    "scraped_at": "2026-02-07T02:57:51.072895Z"
   },
   {
     "name": "The Capitol Kempinski Hotel",
@@ -11183,7 +11183,7 @@
         "local_path": "data/wd/price-lists/the-capitol-kempinski-hotel/Wedding Brochure Capitol Theatre Updated.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:36.627756Z"
+    "scraped_at": "2026-02-07T02:57:51.874593Z"
   },
   {
     "name": "THE CHEVRONS",
@@ -11308,7 +11308,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:38.087465Z"
+    "scraped_at": "2026-02-07T02:57:52.386853Z"
   },
   {
     "name": "The Clifford Pier (The Fullerton Bay Hotel)",
@@ -11358,7 +11358,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:37.661400Z"
+    "scraped_at": "2026-02-07T02:57:52.596460Z"
   },
   {
     "name": "The Fullerton Hotel Singapore",
@@ -11542,7 +11542,7 @@
         "local_path": "data/wd/price-lists/the-fullerton-hotel-singapore/The Ballroom Fullerton Hotel.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:38.541191Z"
+    "scraped_at": "2026-02-07T02:57:53.227694Z"
   },
   {
     "name": "il Giardino @ The Garage",
@@ -11584,7 +11584,7 @@
         "local_path": "data/wd/price-lists/the-garage/il Giardino @ The Garage 2026 Bridal Showcase Packages (100pax).pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:39.313224Z"
+    "scraped_at": "2026-02-07T02:57:53.726128Z"
   },
   {
     "name": "The Masons Table",
@@ -11644,7 +11644,7 @@
         "local_path": "data/wd/price-lists/the-masons-table/The Masons Table Food Menu.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:39.261414Z"
+    "scraped_at": "2026-02-07T02:57:54.408968Z"
   },
   {
     "name": "The Barracks Hotel / The Outpost Hotel Sentosa",
@@ -11745,7 +11745,7 @@
         "local_path": "data/wd/price-lists/the-outpost-hotel-sentosa/2026 wedding dinner package new.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:40.318622Z"
+    "scraped_at": "2026-02-07T02:57:55.075461Z"
   },
   {
     "name": "THE OUTSET",
@@ -11856,7 +11856,7 @@
         "local_path": "data/wd/price-lists/the-outset/THE OUTSET. Event Deck (2025) (2).pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:40.644022Z"
+    "scraped_at": "2026-02-07T02:57:55.162857Z"
   },
   {
     "name": "The Ritz-Carlton, Millenia Singapore",
@@ -11958,7 +11958,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:41.062729Z"
+    "scraped_at": "2026-02-07T02:57:55.827733Z"
   },
   {
     "name": "The Riverhouse",
@@ -11994,7 +11994,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:41.799105Z"
+    "scraped_at": "2026-02-07T02:57:56.331954Z"
   },
   {
     "name": "The Robertson House by The Crest Collection",
@@ -12049,7 +12049,7 @@
         "local_path": "data/wd/price-lists/the-robertson-house-by-the-crest-collection/The Robertson House   Wedding Package.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:41.913707Z"
+    "scraped_at": "2026-02-07T02:57:57.565962Z"
   },
   {
     "name": "The Secret Haven",
@@ -12114,7 +12114,7 @@
         "local_path": "data/wd/price-lists/the-secret-haven/Saving for BTO Package.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:42.758663Z"
+    "scraped_at": "2026-02-07T02:57:57.601910Z"
   },
   {
     "name": "The Secret Patio",
@@ -12262,7 +12262,7 @@
         "local_path": "data/wd/price-lists/the-secret-patio/2026:27 Solemn Peach Garden.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:43.236965Z"
+    "scraped_at": "2026-02-07T02:57:58.340251Z"
   },
   {
     "name": "The Singapore EDITION",
@@ -12359,7 +12359,7 @@
         "local_path": "data/wd/price-lists/the-singapore-edition/EDITION Weddings.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:43.561540Z"
+    "scraped_at": "2026-02-07T02:57:58.483438Z"
   },
   {
     "name": "The St. Regis Singapore",
@@ -12448,7 +12448,7 @@
         "local_path": "data/wd/price-lists/the-st-regis-singapore/St Regis Caroline's Mansion.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:44.486542Z"
+    "scraped_at": "2026-02-07T02:57:59.023958Z"
   },
   {
     "name": "The Summerhouse",
@@ -12492,7 +12492,7 @@
         "local_path": "data/wd/price-lists/the-summerhouse/The Summerhouse Wedding Kit (1).pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:44.450444Z"
+    "scraped_at": "2026-02-07T02:58:00.111630Z"
   },
   {
     "name": "The Westin",
@@ -12602,7 +12602,7 @@
         "local_path": "data/wd/price-lists/the-westin/Wedding Package Lunch 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:45.336754Z"
+    "scraped_at": "2026-02-07T02:58:00.062428Z"
   },
   {
     "name": "TungLok Heen @ Resorts World Sentosa",
@@ -12656,7 +12656,7 @@
         "local_path": "data/wd/price-lists/tunglok-heen/ih W tlh Menu.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:45.905390Z"
+    "scraped_at": "2026-02-07T02:58:01.639960Z"
   },
   {
     "name": "TungLok Seafood (Gardens by the Bay)",
@@ -12712,7 +12712,7 @@
         "local_path": "data/wd/price-lists/tunglok-seafood-gardens-by-the-bay/ih W tlsf gbb Menu.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:46.148131Z"
+    "scraped_at": "2026-02-07T02:58:01.018451Z"
   },
   {
     "name": "Village Hotel Changi",
@@ -13012,7 +13012,7 @@
         "local_path": "data/wd/price-lists/village-hotel-changi/everlasting bliss.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:46.965013Z"
+    "scraped_at": "2026-02-07T02:58:01.655821Z"
   },
   {
     "name": "Village Hotel Katong",
@@ -13151,7 +13151,7 @@
         "local_path": "data/wd/price-lists/village-hotel-katong/eternal vows   chinese banquet brochure.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:46.984355Z"
+    "scraped_at": "2026-02-07T02:58:02.586062Z"
   },
   {
     "name": "Village Hotel Sentosa",
@@ -13204,7 +13204,7 @@
         "local_path": "data/wd/price-lists/village-hotel-sentosa/2026 wedding dinner package new.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:47.818092Z"
+    "scraped_at": "2026-02-07T02:58:02.620999Z"
   },
   {
     "name": "Vineyard at HortPark",
@@ -13336,7 +13336,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:48.308402Z"
+    "scraped_at": "2026-02-07T02:58:04.389667Z"
   },
   {
     "name": "voco Orchard",
@@ -13465,7 +13465,7 @@
         "local_path": "data/wd/price-lists/voco-orchard/VOCO 2026.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:48.760527Z"
+    "scraped_at": "2026-02-07T02:58:04.089611Z"
   },
   {
     "name": "W Singapore Sentosa Cove",
@@ -13669,7 +13669,7 @@
         "local_path": "data/wd/price-lists/w-singapore-sentosa-cove/Wedding at SKIRT.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:49.676408Z"
+    "scraped_at": "2026-02-07T02:58:04.409503Z"
   },
   {
     "name": "Wheeler's Tropikana",
@@ -13797,7 +13797,7 @@
       }
     ],
     "pdfs": [],
-    "scraped_at": "2026-02-06T03:00:49.775446Z"
+    "scraped_at": "2026-02-07T02:58:06.097947Z"
   },
   {
     "name": "Ya Ge @ Orchid Hotel",
@@ -13851,7 +13851,7 @@
         "local_path": "data/wd/price-lists/ya-ge-at-orchid-hotel/wedding packages 2025 26.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:50.598539Z"
+    "scraped_at": "2026-02-07T02:58:05.371991Z"
   },
   {
     "name": "York Hotel Singapore",
@@ -13941,6 +13941,6 @@
         "local_path": "data/wd/price-lists/york-hotel-singapore/york.pdf"
       }
     ],
-    "scraped_at": "2026-02-06T03:00:50.936882Z"
+    "scraped_at": "2026-02-07T02:58:06.694036Z"
   }
 ]
