@@ -56,7 +56,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-09T03:04:33.567803Z"
+    "scraped_at": "2026-02-10T03:05:48.538056Z"
   },
   {
     "name": "Synchronal Photography",
@@ -96,7 +96,86 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-09T03:04:33.106552Z"
+    "scraped_at": "2026-02-10T03:05:48.538184Z"
+  },
+  {
+    "name": "tlgraphy",
+    "slug": "tlgraphy",
+    "url": "https://wedded.sg/photographers/tlgraphy",
+    "vendor_id": "019a8c65-8c74-72be-8b42-7f6c6f27fa53",
+    "business_type": "photographer",
+    "contact": {
+      "email": "team@wedded.sg",
+      "whatsapp_number": null
+    },
+    "social": {
+      "website": "https://www.tlgraphysg.com/",
+      "instagram": "https://www.instagram.com/p/DUKPqI9j_s4",
+      "facebook": "https://www.facebook.com/TLGraphy.sg"
+    },
+    "description": "Associate | Admin",
+    "packages": [
+      {
+        "title": "Photographer",
+        "duration": "6 hours",
+        "price": "$1,488SGD",
+        "details": "300 minimum edited photos\n1-4 weeks delivery time\nUnlimited locations\nOnline delivery and storage (2 weeks)"
+      },
+      {
+        "title": "Photographer",
+        "duration": "8 hours",
+        "price": "$1,788SGD",
+        "details": "400 minimum edited photos\n1-4 weeks delivery time\nUnlimited locations\nOnline delivery and storage (2 weeks)"
+      },
+      {
+        "title": "Photographer",
+        "duration": "10 hours",
+        "price": "$2,058SGD",
+        "details": "500 minimum edited photos\n1-4 weeks delivery time\nUnlimited locations\nOnline delivery and storage (2 weeks)"
+      },
+      {
+        "title": "Videographer",
+        "duration": "6 hours",
+        "price": "$1,588SGD",
+        "details": "Express highlight video footage (3-4 minutes)\nEvent coverage footage\nUnlimited locations\nOnline delivery and storage (2 weeks)"
+      },
+      {
+        "title": "Videographer",
+        "duration": "8 hours",
+        "price": "$1,888SGD",
+        "details": "Express highlight video footage (3-4 minutes)\nEvent coverage footage\nUnlimited locations\nOnline delivery and storage (2 weeks)"
+      },
+      {
+        "title": "Videographer",
+        "duration": "10 hours",
+        "price": "$2,088SGD",
+        "details": "Express highlight video footage (3-4 minutes)\nEvent coverage footage\nUnlimited locations\nOnline delivery and storage (2 weeks)"
+      }
+    ],
+    "portfolio": {
+      "photobook_count": 9,
+      "sample_images": [
+        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-49c8cc00-a08a-4263-979f-03dd07135412.webp?t=1770548537",
+        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-519e51a2-2d69-4808-97c5-8ab4b1c0c6a4.webp?t=1770548537",
+        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-5af5c134-3517-45c5-ab5c-34188064e242.webp?t=1770548537",
+        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-36924499-1417-4440-9d8b-94fbf1e5e88b.webp?t=1770548537",
+        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-074e12ba-33a0-484f-87e0-1b2faeaa8b0e.webp?t=1770548537",
+        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-e62efc95-1e5e-4ea6-91e0-6979dbb70076.webp?t=1770548802",
+        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-49c8cc00-a08a-4263-979f-03dd07135412.webp?t=1770548537",
+        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-519e51a2-2d69-4808-97c5-8ab4b1c0c6a4.webp?t=1770548537",
+        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-5af5c134-3517-45c5-ab5c-34188064e242.webp?t=1770548537",
+        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-36924499-1417-4440-9d8b-94fbf1e5e88b.webp?t=1770548537",
+        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-074e12ba-33a0-484f-87e0-1b2faeaa8b0e.webp?t=1770548537",
+        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-95f8a548-21c5-434d-b129-282e9af67c3c.webp?t=1770548537",
+        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-e62efc95-1e5e-4ea6-91e0-6979dbb70076.webp?t=1770548802",
+        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-49c8cc00-a08a-4263-979f-03dd07135412.webp?t=1770548537"
+      ]
+    },
+    "reviews": {
+      "average_rating": null,
+      "review_count": 0
+    },
+    "scraped_at": "2026-02-10T03:05:49.223794Z"
   },
   {
     "name": "With Twenty Two Photography",
@@ -161,88 +240,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-09T03:04:33.479704Z"
-  },
-  {
-    "name": "Said & Meant",
-    "slug": "said-and-meant",
-    "url": "https://wedded.sg/photographers/said-and-meant",
-    "vendor_id": "019b2159-25dc-787d-877e-695bf4ae39f9",
-    "business_type": "photographer",
-    "contact": {
-      "email": "team@wedded.sg",
-      "whatsapp_number": null
-    },
-    "social": {
-      "website": "https://www.saidandmeant.co/",
-      "instagram": "https://www.instagram.com/p/DUKPqI9j_s4",
-      "facebook": "https://www.facebook.com/saidandmeant/"
-    },
-    "description": "Lead Photographer",
-    "packages": [],
-    "portfolio": {
-      "photobook_count": 9,
-      "sample_images": [
-        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-9766b0b7-3468-4769-b2c0-49adba425266.webp?t=1769703549",
-        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-d2417c67-5336-4f0d-867b-f01aa047bb36.webp?t=1769703549",
-        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-c72202f5-9fd7-48e8-9da0-fa041c512f14.webp?t=1765791192",
-        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-1b497047-2939-40dd-91a9-11b5b091a09b.webp?t=1769703549",
-        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-b8c430f2-4535-4f42-a342-bd05a2e3cdcf.webp?t=1765791192",
-        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-b8c430f2-4535-4f42-a342-bd05a2e3cdcf.webp?t=1765791192",
-        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-9766b0b7-3468-4769-b2c0-49adba425266.webp?t=1769703549",
-        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-d2417c67-5336-4f0d-867b-f01aa047bb36.webp?t=1769703549",
-        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-c72202f5-9fd7-48e8-9da0-fa041c512f14.webp?t=1765791192",
-        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-1b497047-2939-40dd-91a9-11b5b091a09b.webp?t=1769703549",
-        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-b8c430f2-4535-4f42-a342-bd05a2e3cdcf.webp?t=1765791192",
-        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-9766b0b7-3468-4769-b2c0-49adba425266.webp?t=1769703549"
-      ]
-    },
-    "reviews": {
-      "average_rating": null,
-      "review_count": 0
-    },
-    "scraped_at": "2026-02-09T03:04:33.045006Z"
-  },
-  {
-    "name": "ann seojin",
-    "slug": "annopano",
-    "url": "https://wedded.sg/photographers/annopano",
-    "vendor_id": "019adf6b-a991-7978-bdf7-486df3ac3b30",
-    "business_type": "photographer",
-    "contact": {
-      "email": "team@wedded.sg",
-      "whatsapp_number": null
-    },
-    "social": {
-      "website": "https://www.annopano.com/",
-      "instagram": "https://www.instagram.com/p/DUKPqI9j_s4",
-      "facebook": null
-    },
-    "description": "Founder and Lead Photographer",
-    "packages": [],
-    "portfolio": {
-      "photobook_count": 9,
-      "sample_images": [
-        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-b6ba4bca-aa56-4b77-a6b5-a36c86ccad5b.webp?t=1764685271",
-        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-afdfb7e7-02f1-4cdf-931c-698b9336cd63.webp?t=1764685142",
-        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-e8e21f1d-0204-4dd8-9635-3b232dcb5603.webp?t=1764685140",
-        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-629a5cb4-7680-40d7-af6c-5905bc5e268a.webp?t=1764685140",
-        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-0529865e-65c2-40a7-a6b9-7b15a40fbc92.webp?t=1764685140",
-        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-b271b691-2387-4673-b620-156a584a1d8a.webp?t=1764685140",
-        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-b6ba4bca-aa56-4b77-a6b5-a36c86ccad5b.webp?t=1764685271",
-        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-afdfb7e7-02f1-4cdf-931c-698b9336cd63.webp?t=1764685142",
-        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-e8e21f1d-0204-4dd8-9635-3b232dcb5603.webp?t=1764685140",
-        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-629a5cb4-7680-40d7-af6c-5905bc5e268a.webp?t=1764685140",
-        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-0529865e-65c2-40a7-a6b9-7b15a40fbc92.webp?t=1764685140",
-        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-b271b691-2387-4673-b620-156a584a1d8a.webp?t=1764685140",
-        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-b6ba4bca-aa56-4b77-a6b5-a36c86ccad5b.webp?t=1764685271"
-      ]
-    },
-    "reviews": {
-      "average_rating": null,
-      "review_count": 0
-    },
-    "scraped_at": "2026-02-09T03:04:33.779534Z"
+    "scraped_at": "2026-02-10T03:05:48.856702Z"
   },
   {
     "name": "A Merry Mayhem",
@@ -319,7 +317,141 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-09T03:04:36.091798Z"
+    "scraped_at": "2026-02-10T03:05:51.043202Z"
+  },
+  {
+    "name": "Said & Meant",
+    "slug": "said-and-meant",
+    "url": "https://wedded.sg/photographers/said-and-meant",
+    "vendor_id": "019b2159-25dc-787d-877e-695bf4ae39f9",
+    "business_type": "photographer",
+    "contact": {
+      "email": "team@wedded.sg",
+      "whatsapp_number": null
+    },
+    "social": {
+      "website": "https://www.saidandmeant.co/",
+      "instagram": "https://www.instagram.com/p/DUKPqI9j_s4",
+      "facebook": "https://www.facebook.com/saidandmeant/"
+    },
+    "description": "Lead Photographer",
+    "packages": [],
+    "portfolio": {
+      "photobook_count": 9,
+      "sample_images": [
+        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-9766b0b7-3468-4769-b2c0-49adba425266.webp?t=1769703549",
+        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-d2417c67-5336-4f0d-867b-f01aa047bb36.webp?t=1769703549",
+        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-c72202f5-9fd7-48e8-9da0-fa041c512f14.webp?t=1765791192",
+        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-1b497047-2939-40dd-91a9-11b5b091a09b.webp?t=1769703549",
+        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-b8c430f2-4535-4f42-a342-bd05a2e3cdcf.webp?t=1765791192",
+        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-b8c430f2-4535-4f42-a342-bd05a2e3cdcf.webp?t=1765791192",
+        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-9766b0b7-3468-4769-b2c0-49adba425266.webp?t=1769703549",
+        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-d2417c67-5336-4f0d-867b-f01aa047bb36.webp?t=1769703549",
+        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-c72202f5-9fd7-48e8-9da0-fa041c512f14.webp?t=1765791192",
+        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-1b497047-2939-40dd-91a9-11b5b091a09b.webp?t=1769703549",
+        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-b8c430f2-4535-4f42-a342-bd05a2e3cdcf.webp?t=1765791192",
+        "https://bucket.wedded.sg/vendors/019b2159-25dc-787d-877e-695bf4ae39f9/image-9766b0b7-3468-4769-b2c0-49adba425266.webp?t=1769703549"
+      ]
+    },
+    "reviews": {
+      "average_rating": null,
+      "review_count": 0
+    },
+    "scraped_at": "2026-02-10T03:05:52.413214Z"
+  },
+  {
+    "name": "ann seojin",
+    "slug": "annopano",
+    "url": "https://wedded.sg/photographers/annopano",
+    "vendor_id": "019adf6b-a991-7978-bdf7-486df3ac3b30",
+    "business_type": "photographer",
+    "contact": {
+      "email": "team@wedded.sg",
+      "whatsapp_number": null
+    },
+    "social": {
+      "website": "https://www.annopano.com/",
+      "instagram": "https://www.instagram.com/p/DUKPqI9j_s4",
+      "facebook": null
+    },
+    "description": "Founder and Lead Photographer",
+    "packages": [],
+    "portfolio": {
+      "photobook_count": 9,
+      "sample_images": [
+        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-b6ba4bca-aa56-4b77-a6b5-a36c86ccad5b.webp?t=1764685271",
+        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-afdfb7e7-02f1-4cdf-931c-698b9336cd63.webp?t=1764685142",
+        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-e8e21f1d-0204-4dd8-9635-3b232dcb5603.webp?t=1764685140",
+        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-629a5cb4-7680-40d7-af6c-5905bc5e268a.webp?t=1764685140",
+        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-0529865e-65c2-40a7-a6b9-7b15a40fbc92.webp?t=1764685140",
+        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-b271b691-2387-4673-b620-156a584a1d8a.webp?t=1764685140",
+        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-b6ba4bca-aa56-4b77-a6b5-a36c86ccad5b.webp?t=1764685271",
+        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-afdfb7e7-02f1-4cdf-931c-698b9336cd63.webp?t=1764685142",
+        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-e8e21f1d-0204-4dd8-9635-3b232dcb5603.webp?t=1764685140",
+        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-629a5cb4-7680-40d7-af6c-5905bc5e268a.webp?t=1764685140",
+        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-0529865e-65c2-40a7-a6b9-7b15a40fbc92.webp?t=1764685140",
+        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-b271b691-2387-4673-b620-156a584a1d8a.webp?t=1764685140",
+        "https://bucket.wedded.sg/vendors/019adf6b-a991-7978-bdf7-486df3ac3b30/image-b6ba4bca-aa56-4b77-a6b5-a36c86ccad5b.webp?t=1764685271"
+      ]
+    },
+    "reviews": {
+      "average_rating": null,
+      "review_count": 0
+    },
+    "scraped_at": "2026-02-10T03:05:52.401843Z"
+  },
+  {
+    "name": "Brandon Seah",
+    "slug": "brandon-seah",
+    "url": "https://wedded.sg/photographers/brandon-seah",
+    "vendor_id": "019a8b6d-28ef-7330-aa5a-b2751cdd2a4c",
+    "business_type": "photographer",
+    "contact": {
+      "email": "team@wedded.sg",
+      "whatsapp_number": null
+    },
+    "social": {
+      "website": "https://www.brandonseah.com/",
+      "instagram": "https://www.instagram.com/p/DUKPqI9j_s4",
+      "facebook": "https://www.facebook.com/brandonseahphotography"
+    },
+    "description": "Lead Photographer",
+    "packages": [
+      {
+        "title": "Pre Wedding",
+        "duration": "3 hours",
+        "price": "$1,180SGD",
+        "details": "Up to 3 hours pre wedding coverage"
+      },
+      {
+        "title": "Wedding Day",
+        "duration": "10 hours",
+        "price": "$2,680SGD",
+        "details": "Up to 10 hours wedding day coverage."
+      }
+    ],
+    "portfolio": {
+      "photobook_count": 9,
+      "sample_images": [
+        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-c140120d-8e5a-480b-850f-034a8bb0b544.webp?t=1765101346",
+        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-0bc1a371-060a-4035-a1d0-ee0374554a82.webp?t=1765101346",
+        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-e9324cb8-2de2-4773-8571-e08c2c36f99b.webp?t=1765101346",
+        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-3c4e3f17-d19c-4e0a-83b0-bbc6ea1183c3.webp?t=1765101346",
+        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-d472b04c-0705-45c9-9a78-4819ecc20670.webp?t=1763499499",
+        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-d472b04c-0705-45c9-9a78-4819ecc20670.webp?t=1763499499",
+        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-c140120d-8e5a-480b-850f-034a8bb0b544.webp?t=1765101346",
+        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-0bc1a371-060a-4035-a1d0-ee0374554a82.webp?t=1765101346",
+        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-e9324cb8-2de2-4773-8571-e08c2c36f99b.webp?t=1765101346",
+        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-3c4e3f17-d19c-4e0a-83b0-bbc6ea1183c3.webp?t=1765101346",
+        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-d472b04c-0705-45c9-9a78-4819ecc20670.webp?t=1763499499",
+        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-c140120d-8e5a-480b-850f-034a8bb0b544.webp?t=1765101346"
+      ]
+    },
+    "reviews": {
+      "average_rating": null,
+      "review_count": 0
+    },
+    "scraped_at": "2026-02-10T03:05:53.044850Z"
   },
   {
     "name": "TakePikChua",
@@ -384,60 +516,60 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-09T03:04:36.096644Z"
+    "scraped_at": "2026-02-10T03:05:53.644327Z"
   },
   {
-    "name": "Brandon Seah",
-    "slug": "brandon-seah",
-    "url": "https://wedded.sg/photographers/brandon-seah",
-    "vendor_id": "019a8b6d-28ef-7330-aa5a-b2751cdd2a4c",
+    "name": "peelmyprawns",
+    "slug": "peelmyprawns",
+    "url": "https://wedded.sg/photographers/peelmyprawns",
+    "vendor_id": "019b26bb-55c4-799d-b13b-be950ea50771",
     "business_type": "photographer",
     "contact": {
       "email": "team@wedded.sg",
       "whatsapp_number": null
     },
     "social": {
-      "website": "https://www.brandonseah.com/",
+      "website": "https://peelmyprawns.com/",
       "instagram": "https://www.instagram.com/p/DUKPqI9j_s4",
-      "facebook": "https://www.facebook.com/brandonseahphotography"
+      "facebook": null
     },
-    "description": "Lead Photographer",
+    "description": "Founder & Photographer",
     "packages": [
       {
-        "title": "Pre Wedding",
-        "duration": "3 hours",
-        "price": "$1,180SGD",
-        "details": "Up to 3 hours pre wedding coverage"
+        "title": "full day package",
+        "duration": "1 hour",
+        "price": "$250SGD",
+        "details": "Minimum booking of 5 hours\n$100 OFF Pre-Wed Photos if Bundled with ACTUAL DAY PHOTO (Min 5 hours)\n1x Photographer\n1x Location\n2 Rounds of Edit Revisions\n3-5 working days for each round of draft\nEdited photos will be sent via google drive"
       },
       {
-        "title": "Wedding Day",
-        "duration": "10 hours",
-        "price": "$2,680SGD",
-        "details": "Up to 10 hours wedding day coverage."
+        "title": "half day package",
+        "duration": "1 hour",
+        "price": "$280SGD",
+        "details": "For coverage between 2 - 4 hours\n1x Photographer\n1x Location\n2 Rounds of Edit Revisions\n3-5 working days for each round of draft\nEdited photos will be sent via google drive"
       }
     ],
     "portfolio": {
       "photobook_count": 9,
       "sample_images": [
-        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-c140120d-8e5a-480b-850f-034a8bb0b544.webp?t=1765101346",
-        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-0bc1a371-060a-4035-a1d0-ee0374554a82.webp?t=1765101346",
-        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-e9324cb8-2de2-4773-8571-e08c2c36f99b.webp?t=1765101346",
-        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-3c4e3f17-d19c-4e0a-83b0-bbc6ea1183c3.webp?t=1765101346",
-        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-d472b04c-0705-45c9-9a78-4819ecc20670.webp?t=1763499499",
-        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-d472b04c-0705-45c9-9a78-4819ecc20670.webp?t=1763499499",
-        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-c140120d-8e5a-480b-850f-034a8bb0b544.webp?t=1765101346",
-        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-0bc1a371-060a-4035-a1d0-ee0374554a82.webp?t=1765101346",
-        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-e9324cb8-2de2-4773-8571-e08c2c36f99b.webp?t=1765101346",
-        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-3c4e3f17-d19c-4e0a-83b0-bbc6ea1183c3.webp?t=1765101346",
-        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-d472b04c-0705-45c9-9a78-4819ecc20670.webp?t=1763499499",
-        "https://bucket.wedded.sg/vendors/019a8b6d-28ef-7330-aa5a-b2751cdd2a4c/image-c140120d-8e5a-480b-850f-034a8bb0b544.webp?t=1765101346"
+        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-0eefc15d-2de4-4935-a4cf-f611ec9b9aed.webp?t=1765882266",
+        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-67b11a84-3d95-4012-9178-60d80b8fe8dc.webp?t=1765882266",
+        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-ec1fa413-24ce-4d12-a22d-8d292819f6c3.webp?t=1765882266",
+        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-9a4f72b5-e4ac-4c0e-ad79-473c782a15c9.webp?t=1765882266",
+        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-2206f254-13ee-4814-a41b-bf9199547f6c.webp?t=1765882266",
+        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-2206f254-13ee-4814-a41b-bf9199547f6c.webp?t=1765882266",
+        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-0eefc15d-2de4-4935-a4cf-f611ec9b9aed.webp?t=1765882266",
+        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-67b11a84-3d95-4012-9178-60d80b8fe8dc.webp?t=1765882266",
+        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-ec1fa413-24ce-4d12-a22d-8d292819f6c3.webp?t=1765882266",
+        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-9a4f72b5-e4ac-4c0e-ad79-473c782a15c9.webp?t=1765882266",
+        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-2206f254-13ee-4814-a41b-bf9199547f6c.webp?t=1765882266",
+        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-0eefc15d-2de4-4935-a4cf-f611ec9b9aed.webp?t=1765882266"
       ]
     },
     "reviews": {
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-09T03:04:37.298364Z"
+    "scraped_at": "2026-02-10T03:05:54.347729Z"
   },
   {
     "name": "Nehechee Photography",
@@ -514,60 +646,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-09T03:04:37.297901Z"
-  },
-  {
-    "name": "peelmyprawns",
-    "slug": "peelmyprawns",
-    "url": "https://wedded.sg/photographers/peelmyprawns",
-    "vendor_id": "019b26bb-55c4-799d-b13b-be950ea50771",
-    "business_type": "photographer",
-    "contact": {
-      "email": "team@wedded.sg",
-      "whatsapp_number": null
-    },
-    "social": {
-      "website": "https://peelmyprawns.com/",
-      "instagram": "https://www.instagram.com/p/DUKPqI9j_s4",
-      "facebook": null
-    },
-    "description": "Founder & Photographer",
-    "packages": [
-      {
-        "title": "full day package",
-        "duration": "1 hour",
-        "price": "$250SGD",
-        "details": "Minimum booking of 5 hours\n$100 OFF Pre-Wed Photos if Bundled with ACTUAL DAY PHOTO (Min 5 hours)\n1x Photographer\n1x Location\n2 Rounds of Edit Revisions\n3-5 working days for each round of draft\nEdited photos will be sent via google drive"
-      },
-      {
-        "title": "half day package",
-        "duration": "1 hour",
-        "price": "$280SGD",
-        "details": "For coverage between 2 - 4 hours\n1x Photographer\n1x Location\n2 Rounds of Edit Revisions\n3-5 working days for each round of draft\nEdited photos will be sent via google drive"
-      }
-    ],
-    "portfolio": {
-      "photobook_count": 9,
-      "sample_images": [
-        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-0eefc15d-2de4-4935-a4cf-f611ec9b9aed.webp?t=1765882266",
-        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-67b11a84-3d95-4012-9178-60d80b8fe8dc.webp?t=1765882266",
-        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-ec1fa413-24ce-4d12-a22d-8d292819f6c3.webp?t=1765882266",
-        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-9a4f72b5-e4ac-4c0e-ad79-473c782a15c9.webp?t=1765882266",
-        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-2206f254-13ee-4814-a41b-bf9199547f6c.webp?t=1765882266",
-        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-2206f254-13ee-4814-a41b-bf9199547f6c.webp?t=1765882266",
-        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-0eefc15d-2de4-4935-a4cf-f611ec9b9aed.webp?t=1765882266",
-        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-67b11a84-3d95-4012-9178-60d80b8fe8dc.webp?t=1765882266",
-        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-ec1fa413-24ce-4d12-a22d-8d292819f6c3.webp?t=1765882266",
-        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-9a4f72b5-e4ac-4c0e-ad79-473c782a15c9.webp?t=1765882266",
-        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-2206f254-13ee-4814-a41b-bf9199547f6c.webp?t=1765882266",
-        "https://bucket.wedded.sg/vendors/019b26bb-55c4-799d-b13b-be950ea50771/image-0eefc15d-2de4-4935-a4cf-f611ec9b9aed.webp?t=1765882266"
-      ]
-    },
-    "reviews": {
-      "average_rating": null,
-      "review_count": 0
-    },
-    "scraped_at": "2026-02-09T03:04:38.893925Z"
+    "scraped_at": "2026-02-10T03:05:55.732135Z"
   },
   {
     "name": "The Curious Kind",
@@ -620,7 +699,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-09T03:04:39.294322Z"
+    "scraped_at": "2026-02-10T03:05:55.559418Z"
   },
   {
     "name": "Not Pixelated",
@@ -679,7 +758,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-09T03:04:39.578390Z"
+    "scraped_at": "2026-02-10T03:05:56.058913Z"
   },
   {
     "name": "Thomas Tan Photography",
@@ -724,7 +803,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-09T03:04:40.377702Z"
+    "scraped_at": "2026-02-10T03:05:56.951747Z"
   },
   {
     "name": "Andri Tei Photography",
@@ -788,86 +867,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-09T03:04:40.058358Z"
-  },
-  {
-    "name": "tlgraphy",
-    "slug": "tlgraphy",
-    "url": "https://wedded.sg/photographers/tlgraphy",
-    "vendor_id": "019a8c65-8c74-72be-8b42-7f6c6f27fa53",
-    "business_type": "photographer",
-    "contact": {
-      "email": "team@wedded.sg",
-      "whatsapp_number": null
-    },
-    "social": {
-      "website": "https://www.tlgraphysg.com/",
-      "instagram": "https://www.instagram.com/p/DUKPqI9j_s4",
-      "facebook": "https://www.facebook.com/TLGraphy.sg"
-    },
-    "description": "Admin | Associate",
-    "packages": [
-      {
-        "title": "Photographer",
-        "duration": "6 hours",
-        "price": "$1,488SGD",
-        "details": "300 minimum edited photos\n1-4 weeks delivery time\nUnlimited locations\nOnline delivery and storage (2 weeks)"
-      },
-      {
-        "title": "Photographer",
-        "duration": "8 hours",
-        "price": "$1,788SGD",
-        "details": "400 minimum edited photos\n1-4 weeks delivery time\nUnlimited locations\nOnline delivery and storage (2 weeks)"
-      },
-      {
-        "title": "Photographer",
-        "duration": "10 hours",
-        "price": "$2,058SGD",
-        "details": "500 minimum edited photos\n1-4 weeks delivery time\nUnlimited locations\nOnline delivery and storage (2 weeks)"
-      },
-      {
-        "title": "Videographer",
-        "duration": "6 hours",
-        "price": "$1,588SGD",
-        "details": "Express highlight video footage (3-4 minutes)\nEvent coverage footage\nUnlimited locations\nOnline delivery and storage (2 weeks)"
-      },
-      {
-        "title": "Videographer",
-        "duration": "8 hours",
-        "price": "$1,888SGD",
-        "details": "Express highlight video footage (3-4 minutes)\nEvent coverage footage\nUnlimited locations\nOnline delivery and storage (2 weeks)"
-      },
-      {
-        "title": "Videographer",
-        "duration": "10 hours",
-        "price": "$2,088SGD",
-        "details": "Express highlight video footage (3-4 minutes)\nEvent coverage footage\nUnlimited locations\nOnline delivery and storage (2 weeks)"
-      }
-    ],
-    "portfolio": {
-      "photobook_count": 9,
-      "sample_images": [
-        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-49c8cc00-a08a-4263-979f-03dd07135412.webp?t=1770548537",
-        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-519e51a2-2d69-4808-97c5-8ab4b1c0c6a4.webp?t=1770548537",
-        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-5af5c134-3517-45c5-ab5c-34188064e242.webp?t=1770548537",
-        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-36924499-1417-4440-9d8b-94fbf1e5e88b.webp?t=1770548537",
-        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-074e12ba-33a0-484f-87e0-1b2faeaa8b0e.webp?t=1770548537",
-        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-e62efc95-1e5e-4ea6-91e0-6979dbb70076.webp?t=1770548802",
-        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-49c8cc00-a08a-4263-979f-03dd07135412.webp?t=1770548537",
-        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-519e51a2-2d69-4808-97c5-8ab4b1c0c6a4.webp?t=1770548537",
-        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-5af5c134-3517-45c5-ab5c-34188064e242.webp?t=1770548537",
-        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-36924499-1417-4440-9d8b-94fbf1e5e88b.webp?t=1770548537",
-        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-074e12ba-33a0-484f-87e0-1b2faeaa8b0e.webp?t=1770548537",
-        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-95f8a548-21c5-434d-b129-282e9af67c3c.webp?t=1770548537",
-        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-e62efc95-1e5e-4ea6-91e0-6979dbb70076.webp?t=1770548802",
-        "https://bucket.wedded.sg/vendors/019a8c65-8c74-72be-8b42-7f6c6f27fa53/image-49c8cc00-a08a-4263-979f-03dd07135412.webp?t=1770548537"
-      ]
-    },
-    "reviews": {
-      "average_rating": null,
-      "review_count": 0
-    },
-    "scraped_at": "2026-02-09T03:04:42.506648Z"
+    "scraped_at": "2026-02-10T03:05:57.608471Z"
   },
   {
     "name": "Morii Space",
@@ -926,66 +926,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-09T03:04:42.512363Z"
-  },
-  {
-    "name": "Pocketful of Us",
-    "slug": "pocketful-of-us",
-    "url": "https://wedded.sg/photographers/pocketful-of-us",
-    "vendor_id": "019b216c-e07e-72b9-930b-d2d04a7a2570",
-    "business_type": "photographer",
-    "contact": {
-      "email": "team@wedded.sg",
-      "whatsapp_number": null
-    },
-    "social": {
-      "website": "https://www.pocketfulofus.com/",
-      "instagram": "https://www.instagram.com/p/DUKPqI9j_s4",
-      "facebook": null
-    },
-    "description": "Founder",
-    "packages": [
-      {
-        "title": "Wedding",
-        "duration": "6 hours",
-        "price": "$2,388SGD",
-        "details": "300 colour edited images\ncustom keepsake box with 25 photo prints"
-      },
-      {
-        "title": "Wedding",
-        "duration": "8 hours",
-        "price": "$2,888SGD",
-        "details": "500 colour edited images\ncustom keepsake box with 25 photo prints"
-      },
-      {
-        "title": "Wedding",
-        "duration": "10 hours",
-        "price": "$3,388SGD",
-        "details": "700 colour edited images\ncustom keepsake box with 25 photo prints"
-      }
-    ],
-    "portfolio": {
-      "photobook_count": 5,
-      "sample_images": [
-        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-c403e2a7-c533-4376-9683-fc6142f6bf1b.webp?t=1765792529",
-        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-922b764a-03fa-4208-a40e-25542d5cf724.webp?t=1765792529",
-        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-9c5a4ef0-6dc8-4daf-ab04-7d845a1e19eb.webp?t=1765792529",
-        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-f65f65cb-5336-424e-a984-ae7f84ae793a.webp?t=1765792529",
-        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-7d420bb1-5a7d-430c-8bf2-c2a3c06e9e34.webp?t=1765792529",
-        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-7d420bb1-5a7d-430c-8bf2-c2a3c06e9e34.webp?t=1765792529",
-        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-c403e2a7-c533-4376-9683-fc6142f6bf1b.webp?t=1765792529",
-        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-922b764a-03fa-4208-a40e-25542d5cf724.webp?t=1765792529",
-        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-9c5a4ef0-6dc8-4daf-ab04-7d845a1e19eb.webp?t=1765792529",
-        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-f65f65cb-5336-424e-a984-ae7f84ae793a.webp?t=1765792529",
-        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-7d420bb1-5a7d-430c-8bf2-c2a3c06e9e34.webp?t=1765792529",
-        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-c403e2a7-c533-4376-9683-fc6142f6bf1b.webp?t=1765792529"
-      ]
-    },
-    "reviews": {
-      "average_rating": null,
-      "review_count": 0
-    },
-    "scraped_at": "2026-02-09T03:04:44.990032Z"
+    "scraped_at": "2026-02-10T03:05:58.463095Z"
   },
   {
     "name": "Amabelle Photography",
@@ -1050,7 +991,66 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-09T03:04:44.971508Z"
+    "scraped_at": "2026-02-10T03:05:58.657843Z"
+  },
+  {
+    "name": "Pocketful of Us",
+    "slug": "pocketful-of-us",
+    "url": "https://wedded.sg/photographers/pocketful-of-us",
+    "vendor_id": "019b216c-e07e-72b9-930b-d2d04a7a2570",
+    "business_type": "photographer",
+    "contact": {
+      "email": "team@wedded.sg",
+      "whatsapp_number": null
+    },
+    "social": {
+      "website": "https://www.pocketfulofus.com/",
+      "instagram": "https://www.instagram.com/p/DUKPqI9j_s4",
+      "facebook": null
+    },
+    "description": "Founder",
+    "packages": [
+      {
+        "title": "Wedding",
+        "duration": "6 hours",
+        "price": "$2,388SGD",
+        "details": "300 colour edited images\ncustom keepsake box with 25 photo prints"
+      },
+      {
+        "title": "Wedding",
+        "duration": "8 hours",
+        "price": "$2,888SGD",
+        "details": "500 colour edited images\ncustom keepsake box with 25 photo prints"
+      },
+      {
+        "title": "Wedding",
+        "duration": "10 hours",
+        "price": "$3,388SGD",
+        "details": "700 colour edited images\ncustom keepsake box with 25 photo prints"
+      }
+    ],
+    "portfolio": {
+      "photobook_count": 5,
+      "sample_images": [
+        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-c403e2a7-c533-4376-9683-fc6142f6bf1b.webp?t=1765792529",
+        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-922b764a-03fa-4208-a40e-25542d5cf724.webp?t=1765792529",
+        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-9c5a4ef0-6dc8-4daf-ab04-7d845a1e19eb.webp?t=1765792529",
+        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-f65f65cb-5336-424e-a984-ae7f84ae793a.webp?t=1765792529",
+        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-7d420bb1-5a7d-430c-8bf2-c2a3c06e9e34.webp?t=1765792529",
+        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-7d420bb1-5a7d-430c-8bf2-c2a3c06e9e34.webp?t=1765792529",
+        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-c403e2a7-c533-4376-9683-fc6142f6bf1b.webp?t=1765792529",
+        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-922b764a-03fa-4208-a40e-25542d5cf724.webp?t=1765792529",
+        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-9c5a4ef0-6dc8-4daf-ab04-7d845a1e19eb.webp?t=1765792529",
+        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-f65f65cb-5336-424e-a984-ae7f84ae793a.webp?t=1765792529",
+        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-7d420bb1-5a7d-430c-8bf2-c2a3c06e9e34.webp?t=1765792529",
+        "https://bucket.wedded.sg/vendors/019b216c-e07e-72b9-930b-d2d04a7a2570/image-c403e2a7-c533-4376-9683-fc6142f6bf1b.webp?t=1765792529"
+      ]
+    },
+    "reviews": {
+      "average_rating": null,
+      "review_count": 0
+    },
+    "scraped_at": "2026-02-10T03:05:58.893949Z"
   },
   {
     "name": "teririum",
@@ -1110,7 +1110,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-09T03:04:45.263445Z"
+    "scraped_at": "2026-02-10T03:05:59.777234Z"
   },
   {
     "name": "Rhapsody Weddings",
@@ -1169,6 +1169,6 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-09T03:04:45.539423Z"
+    "scraped_at": "2026-02-10T03:06:00.390307Z"
   }
 ]
