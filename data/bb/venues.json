@@ -989,6 +989,16 @@
     "tables_range": "15 - 150Mon - Sun"
   },
   {
+    "venue_id": "247",
+    "source": "wedding-venues-booking",
+    "name": "Mayfair Pool",
+    "vendor_name": "Goodwood Park Hotel",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1401/Goodwood-Park-Hotel",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/goodwood-park-hotel/wedding-banquet-price-list/mj-weddings.pdf"
+    ]
+  },
+  {
     "source": "banquet-price-list",
     "name": "Mercure Singapore Bugis",
     "lunch_price": "$1305–$2144Mon - Fri$1424–$2144Sat - Sun",
@@ -1002,18 +1012,24 @@
     "source": "wedding-venues-booking",
     "name": "Min Jiang",
     "vendor_name": "Goodwood Park Hotel",
-    "profile_url": "https://www.blissfulbrides.sg/detail/1401/Goodwood-Park-Hotel"
+    "profile_url": "https://www.blissfulbrides.sg/detail/1401/Goodwood-Park-Hotel",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/goodwood-park-hotel/wedding-banquet-price-list/mj-weddings.pdf"
+    ]
   },
   {
     "source": "banquet-price-list",
-    "name": "Min Jiang at Dempsey",
-    "profile_url": "https://www.blissfulbrides.sg/detail/1416/min-jiang-at-dempsey",
+    "name": "Min Jiang Dempsey",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1416/min-jiang-dempsey",
     "rating": "0",
     "lunch_price": "$15,888++Mon - Fri$20,888++Sat - Sun",
     "dinner_price": "$16,888++Mon - Fri$23,888++Sat - Sun",
     "tables_min": "110",
     "tables_max": "170",
-    "tables_range": "110 - 170Mon - Sun"
+    "tables_range": "110 - 170Mon - Sun",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/min-jiang-dempsey/wedding-banquet-price-list/mjd-weddings.pdf"
+    ]
   },
   {
     "venue_id": "212",
@@ -1484,6 +1500,16 @@
       "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/timeless-union-a5-brochure-western.pdf",
       "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-a5-brochure-chinese.pdf",
       "https://www.blissfulbrides.sg/banquet/village-hotel-changi/wedding-banquet-price-list/eternal-vows-a5-brochure-buffet.pdf"
+    ]
+  },
+  {
+    "venue_id": "246",
+    "source": "wedding-venues-booking",
+    "name": "Poolside Terrace",
+    "vendor_name": "Goodwood Park Hotel",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1401/Goodwood-Park-Hotel",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/goodwood-park-hotel/wedding-banquet-price-list/mj-weddings.pdf"
     ]
   },
   {
@@ -2216,13 +2242,6 @@
     "location": "80 Raffles Place, #60-01 UOB Plaza 1, Singapore 048624"
   },
   {
-    "venue_id": "244",
-    "source": "wedding-venues-booking",
-    "name": "Tudor Ballroom",
-    "vendor_name": "Goodwood Park Hotel",
-    "profile_url": "https://www.blissfulbrides.sg/detail/1401/Goodwood-Park-Hotel"
-  },
-  {
     "source": "banquet-price-list",
     "name": "Tung Lok Heen",
     "lunch_price": "$1153-$1389Mon - Sun",
@@ -2423,13 +2442,6 @@
       "https://www.blissfulbrides.sg/banquet/w-singapore-sentosa-cove/wedding-banquet-price-list/bachelor-bachelorette-party-at-woobar.pdf",
       "https://www.blissfulbrides.sg/banquet/w-singapore-sentosa-cove/wedding-banquet-price-list/bachelor-bachelorette-party-at-wet-deck.pdf"
     ]
-  },
-  {
-    "venue_id": "243",
-    "source": "wedding-venues-booking",
-    "name": "Windsor Ballroom",
-    "vendor_name": "Goodwood Park Hotel",
-    "profile_url": "https://www.blissfulbrides.sg/detail/1401/Goodwood-Park-Hotel"
   },
   {
     "source": "banquet-price-list",
