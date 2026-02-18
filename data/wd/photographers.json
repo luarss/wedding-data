@@ -76,7 +76,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:19.256735Z"
+    "scraped_at": "2026-02-18T03:04:01.919142Z"
   },
   {
     "name": "De Pair",
@@ -135,7 +135,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:17.805519Z"
+    "scraped_at": "2026-02-18T03:04:01.365076Z"
   },
   {
     "name": "Bottled Groove Photography",
@@ -175,7 +175,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:17.828846Z"
+    "scraped_at": "2026-02-18T03:04:01.608069Z"
   },
   {
     "name": "Synchronal Photography",
@@ -215,7 +215,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:18.446150Z"
+    "scraped_at": "2026-02-18T03:04:02.648876Z"
   },
   {
     "name": "With Twenty Two Photography",
@@ -280,7 +280,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:18.540799Z"
+    "scraped_at": "2026-02-18T03:04:02.319731Z"
   },
   {
     "name": "A Merry Mayhem",
@@ -357,7 +357,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:22.010117Z"
+    "scraped_at": "2026-02-18T03:04:05.806682Z"
   },
   {
     "name": "Said & Meant",
@@ -397,7 +397,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:21.049240Z"
+    "scraped_at": "2026-02-18T03:04:04.853840Z"
   },
   {
     "name": "Forlover",
@@ -462,7 +462,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:21.773024Z"
+    "scraped_at": "2026-02-18T03:04:05.337125Z"
   },
   {
     "name": "ann seojin",
@@ -503,7 +503,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:21.818900Z"
+    "scraped_at": "2026-02-18T03:04:05.484903Z"
   },
   {
     "name": "Brandon Seah",
@@ -556,7 +556,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:23.300109Z"
+    "scraped_at": "2026-02-18T03:04:06.648890Z"
   },
   {
     "name": "TakePikChua",
@@ -577,27 +577,27 @@
     "packages": [
       {
         "title": "Photographer",
-        "duration": "1 hour 30 mins",
-        "price": "$730SGD",
-        "details": "Min 100 images\nAdditional duration is prorated as per package price, chargeable on a 30 min basis"
-      },
-      {
-        "title": "Photographer",
-        "duration": "5 hours",
-        "price": "$1,800SGD",
-        "details": "Min 300 images\nAdditional duration is prorated as per package price, chargeable on a 30 min basis"
+        "duration": "10 hours",
+        "price": "$2,700SGD",
+        "details": "Min 600 images\nAdditional duration is prorated as per package price, chargeable on a 30 min basis"
       },
       {
         "title": "Photographer",
         "duration": "8 hours",
-        "price": "$2,350SGD",
+        "price": "$2,750SGD",
         "details": "Min 480 images\nAdditional duration is prorated as per package price, chargeable on a 30 min basis"
       },
       {
         "title": "Photographer",
-        "duration": "10 hours",
-        "price": "$2,700SGD",
-        "details": "Min 600 images\nAdditional duration is prorated as per package price, chargeable on a 30 min basis"
+        "duration": "6 hours",
+        "price": "$2,250SGD",
+        "details": "Min 300 images\nAdditional duration is prorated as per package price, chargeable on a 30 min basis"
+      },
+      {
+        "title": "Wedding Photography",
+        "duration": "2 hours",
+        "price": "$950SGD",
+        "details": "Min 120 images\nAdditional duration is prorated as per package price, chargeable on a 30 min basis"
       }
     ],
     "portfolio": {
@@ -621,7 +621,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:24.171326Z"
+    "scraped_at": "2026-02-18T03:04:08.021800Z"
   },
   {
     "name": "peelmyprawns",
@@ -674,7 +674,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:25.151233Z"
+    "scraped_at": "2026-02-18T03:04:08.762311Z"
   },
   {
     "name": "The Curious Kind",
@@ -727,7 +727,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:25.219247Z"
+    "scraped_at": "2026-02-18T03:04:09.050095Z"
   },
   {
     "name": "Nehechee Photography",
@@ -804,7 +804,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:26.098453Z"
+    "scraped_at": "2026-02-18T03:04:09.989581Z"
   },
   {
     "name": "Not Pixelated",
@@ -863,7 +863,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:26.715051Z"
+    "scraped_at": "2026-02-18T03:04:10.135437Z"
   },
   {
     "name": "Thomas Tan Photography",
@@ -908,7 +908,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:27.718882Z"
+    "scraped_at": "2026-02-18T03:04:11.280593Z"
   },
   {
     "name": "Amabelle Photography",
@@ -973,7 +973,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:28.723704Z"
+    "scraped_at": "2026-02-18T03:04:11.824693Z"
   },
   {
     "name": "Andri Tei Photography",
@@ -1037,7 +1037,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:28.709346Z"
+    "scraped_at": "2026-02-18T03:04:12.682121Z"
   },
   {
     "name": "Morii Space",
@@ -1096,7 +1096,7 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:29.529497Z"
+    "scraped_at": "2026-02-18T03:04:13.123867Z"
   },
   {
     "name": "Pocketful of Us",
@@ -1155,6 +1155,6 @@
       "average_rating": null,
       "review_count": 0
     },
-    "scraped_at": "2026-02-17T03:03:30.034223Z"
+    "scraped_at": "2026-02-18T03:04:13.423679Z"
   }
 ]
