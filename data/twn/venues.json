@@ -676,9 +676,9 @@
     "name": "Ciao Ristorante KL",
     "slug": "ciao-ristorante-kl",
     "category": "venues",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Federal Territory of Kuala Lumpur",
     "city": "Kuala Lumpur",
-    "address": "20A, Jalan Kampung Pandan, Off, Jln Tun Razak, Kelab Golf di Raja Selangor, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "address": "20A, Jalan Kampung Pandan, Off, Jln Tun Razak, Royal Selangor Golf Club, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
     "venue": {
       "minCapacity": 2,
       "maxCapacity": 300,
