@@ -132,6 +132,17 @@
     "reviews": "74"
   },
   {
+    "recordId": "recITWukbNkhbbWxF",
+    "name": "Singapore Marriott Tang Plaza Hotel",
+    "url": "https://www.bridely.sg/venue?recordId=recITWukbNkhbbWxF",
+    "price": "$166-$238++/pax",
+    "capacity": "30-550 pax",
+    "venueRating": "4.3",
+    "serviceRating": "4.1",
+    "foodRating": "4.1",
+    "reviews": "96"
+  },
+  {
     "recordId": "recQ7C4fJjQkZGA73",
     "name": "Shangri-La Hotel",
     "url": "https://www.bridely.sg/venue?recordId=recQ7C4fJjQkZGA73",
@@ -152,17 +163,6 @@
     "serviceRating": "4.7",
     "foodRating": "4.7",
     "reviews": "46"
-  },
-  {
-    "recordId": "recITWukbNkhbbWxF",
-    "name": "Singapore Marriott Tang Plaza Hotel",
-    "url": "https://www.bridely.sg/venue?recordId=recITWukbNkhbbWxF",
-    "price": "$166-$238++/pax",
-    "capacity": "30-550 pax",
-    "venueRating": "4.3",
-    "serviceRating": "4.1",
-    "foodRating": "4.1",
-    "reviews": "95"
   },
   {
     "recordId": "recQpPPBl9LBtl9ft",
@@ -652,8 +652,8 @@
     "recordId": "recvE8e1n7b12ALmf",
     "name": "Holiday Inn Express & Suites Singapore Novena",
     "url": "https://www.bridely.sg/venue?recordId=recvE8e1n7b12ALmf",
-    "price": "$107-$131++/pax",
-    "capacity": "100-160 pax",
+    "price": "$113-$153++/pax",
+    "capacity": "30-160 pax",
     "venueRating": "5",
     "serviceRating": "5",
     "foodRating": "5",

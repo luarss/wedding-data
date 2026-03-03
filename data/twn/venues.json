@@ -538,7 +538,7 @@
     "venue": {
       "minCapacity": 50,
       "maxCapacity": 650,
-      "minPrice": "180",
+      "minPrice": "188",
       "maxPrice": "288",
       "indoorOutdoor": "Indoor___Outdoor"
     }
