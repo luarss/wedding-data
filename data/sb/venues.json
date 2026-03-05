@@ -1,0 +1,5633 @@
+[
+  {
+    "name": "Ah Yat Seafood Restaurant",
+    "phone": "6883 2112",
+    "email": "reservations@ahyat.com.sg",
+    "address": "200 Turf Club Road\n#03-01/02 Main Grandstand Turf City",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$988–$1588",
+        "dinner_price": "$988–$1588",
+        "tables": "10–40"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$988–$1588",
+        "dinner_price": "$988–$1588",
+        "tables": "10–40"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$988–$1588",
+        "dinner_price": "$988–$1588",
+        "tables": "10–40"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$988–$1588",
+        "dinner_price": "$988–$1588",
+        "tables": "10–40"
+      }
+    ],
+    "mon_thu_lunch": "$988–$1588",
+    "mon_thu_dinner": "$988–$1588",
+    "mon_thu_tables": "10–40",
+    "friday_lunch": "$988–$1588",
+    "friday_dinner": "$988–$1588",
+    "friday_tables": "10–40",
+    "saturday_lunch": "$988–$1588",
+    "saturday_dinner": "$988–$1588",
+    "saturday_tables": "10–40",
+    "sunday_lunch": "$988–$1588",
+    "sunday_dinner": "$988–$1588",
+    "sunday_tables": "10–40"
+  },
+  {
+    "name": "Aloft Singapore Novena",
+    "phone": "6808 6888",
+    "email": "events@aloftsingapore.com",
+    "address": "16 Ah Hood Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1724–$1724",
+        "dinner_price": "$1964–$1964",
+        "tables": "10–26"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1724–$1724",
+        "dinner_price": "$1964–$1964",
+        "tables": "10–26"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1724–$1724",
+        "dinner_price": "$1964–$1964",
+        "tables": "10–26"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1724–$1724",
+        "dinner_price": "$1964–$1964",
+        "tables": "10–26"
+      }
+    ],
+    "mon_thu_lunch": "$1724–$1724",
+    "mon_thu_dinner": "$1964–$1964",
+    "mon_thu_tables": "10–26",
+    "friday_lunch": "$1724–$1724",
+    "friday_dinner": "$1964–$1964",
+    "friday_tables": "10–26",
+    "saturday_lunch": "$1724–$1724",
+    "saturday_dinner": "$1964–$1964",
+    "saturday_tables": "10–26",
+    "sunday_lunch": "$1724–$1724",
+    "sunday_dinner": "$1964–$1964",
+    "sunday_tables": "10–26"
+  },
+  {
+    "name": "Amara Sanctuary Sentosa",
+    "phone": "6825 3838",
+    "email": "wedding@amarasanctuary.com",
+    "address": "1 Larkhill Road, Sentosa",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2384–$2384",
+        "dinner_price": "$2384–$2384",
+        "tables": "15–40"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2384–$2384",
+        "dinner_price": "$2743–$2743",
+        "tables": "15–40"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2384–$2384",
+        "dinner_price": "$2863–$2863",
+        "tables": "15–40"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2384–$2384",
+        "dinner_price": "$2743–$2743",
+        "tables": "15–40"
+      }
+    ],
+    "mon_thu_lunch": "$2384–$2384",
+    "mon_thu_dinner": "$2384–$2384",
+    "mon_thu_tables": "15–40",
+    "friday_lunch": "$2384–$2384",
+    "friday_dinner": "$2743–$2743",
+    "friday_tables": "15–40",
+    "saturday_lunch": "$2384–$2384",
+    "saturday_dinner": "$2863–$2863",
+    "saturday_tables": "15–40",
+    "sunday_lunch": "$2384–$2384",
+    "sunday_dinner": "$2743–$2743",
+    "sunday_tables": "15–40"
+  },
+  {
+    "name": "Amara Singapore",
+    "phone": "6879 2588",
+    "email": "weddings@amarahotels.com",
+    "address": "165 Tanjong Pagar Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2264–$2264",
+        "dinner_price": "$2264–$2264",
+        "tables": "20–40"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2264–$2264",
+        "dinner_price": "$2264–$2264",
+        "tables": "20–40"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2384–$2863",
+        "dinner_price": "$2384–$2863",
+        "tables": "20–40"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2384–$2863",
+        "dinner_price": "$2384–$2863",
+        "tables": "20–40"
+      }
+    ],
+    "mon_thu_lunch": "$2264–$2264",
+    "mon_thu_dinner": "$2264–$2264",
+    "mon_thu_tables": "20–40",
+    "friday_lunch": "$2264–$2264",
+    "friday_dinner": "$2264–$2264",
+    "friday_tables": "20–40",
+    "saturday_lunch": "$2384–$2863",
+    "saturday_dinner": "$2384–$2863",
+    "saturday_tables": "20–40",
+    "sunday_lunch": "$2384–$2863",
+    "sunday_dinner": "$2384–$2863",
+    "sunday_tables": "20–40"
+  },
+  {
+    "name": "Andaz Singapore",
+    "phone": "6408 1234",
+    "email": "GetMarried.sg@andaz.com",
+    "address": "5 Fraser Street",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2854–$2854",
+        "dinner_price": "$2854–$2854",
+        "tables": "7–28"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2854–$2854",
+        "dinner_price": "$2854–$2854",
+        "tables": "7–28"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2854–$2854",
+        "dinner_price": "$3093–$3093",
+        "tables": "7–28"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2854–$2854",
+        "dinner_price": "$2734–$2734",
+        "tables": "7–28"
+      }
+    ],
+    "mon_thu_lunch": "$2854–$2854",
+    "mon_thu_dinner": "$2854–$2854",
+    "mon_thu_tables": "7–28",
+    "friday_lunch": "$2854–$2854",
+    "friday_dinner": "$2854–$2854",
+    "friday_tables": "7–28",
+    "saturday_lunch": "$2854–$2854",
+    "saturday_dinner": "$3093–$3093",
+    "saturday_tables": "7–28",
+    "sunday_lunch": "$2854–$2854",
+    "sunday_dinner": "$2734–$2734",
+    "sunday_tables": "7–28"
+  },
+  {
+    "name": "Artyzen Singapore",
+    "phone": "6363 6000",
+    "email": "sales.sg@artyzenhotels.com",
+    "address": "9 Cuscaden Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$3453–$4412",
+        "dinner_price": "$3453–$4412",
+        "tables": "3–7"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$3453–$4412",
+        "dinner_price": "$3453–$4412",
+        "tables": "3–7"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$3453–$4412",
+        "dinner_price": "$3453–$4412",
+        "tables": "3–7"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$3453–$4412",
+        "dinner_price": "$3453–$4412",
+        "tables": "3–7"
+      }
+    ],
+    "mon_thu_lunch": "$3453–$4412",
+    "mon_thu_dinner": "$3453–$4412",
+    "mon_thu_tables": "3–7",
+    "friday_lunch": "$3453–$4412",
+    "friday_dinner": "$3453–$4412",
+    "friday_tables": "3–7",
+    "saturday_lunch": "$3453–$4412",
+    "saturday_dinner": "$3453–$4412",
+    "saturday_tables": "3–7",
+    "sunday_lunch": "$3453–$4412",
+    "sunday_dinner": "$3453–$4412",
+    "sunday_tables": "3–7"
+  },
+  {
+    "name": "Ban Heng @ Orchid Country Club",
+    "phone": "6732 7888",
+    "email": "occ@banheng.com.sg",
+    "address": "1 Orchid Club Rd, #02-35 Social Club House",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$838–$1538",
+        "dinner_price": "$838–$1538",
+        "tables": "10–100"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1088–$1738",
+        "dinner_price": "$1088–$1738",
+        "tables": "10–100"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1088–$1738",
+        "dinner_price": "$1088–$1738",
+        "tables": "10–100"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1088–$1738",
+        "dinner_price": "$1088–$1738",
+        "tables": "10–100"
+      }
+    ],
+    "mon_thu_lunch": "$838–$1538",
+    "mon_thu_dinner": "$838–$1538",
+    "mon_thu_tables": "10–100",
+    "friday_lunch": "$1088–$1738",
+    "friday_dinner": "$1088–$1738",
+    "friday_tables": "10–100",
+    "saturday_lunch": "$1088–$1738",
+    "saturday_dinner": "$1088–$1738",
+    "saturday_tables": "10–100",
+    "sunday_lunch": "$1088–$1738",
+    "sunday_dinner": "$1088–$1738",
+    "sunday_tables": "10–100"
+  },
+  {
+    "name": "Capella Singapore",
+    "phone": "6377 8888",
+    "email": "cateringsales.singapore@capellahotels.com",
+    "address": "1 Knolls Sentosa Island",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$3453–$4292",
+        "dinner_price": "$3573–$4292",
+        "tables": "15–40"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$3453–$4292",
+        "dinner_price": "$3573–$4292",
+        "tables": "15–40"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$3453–$4292",
+        "dinner_price": "$3813–$4292",
+        "tables": "15–40"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$3453–$4292",
+        "dinner_price": "$3573–$4292",
+        "tables": "15–40"
+      }
+    ],
+    "mon_thu_lunch": "$3453–$4292",
+    "mon_thu_dinner": "$3573–$4292",
+    "mon_thu_tables": "15–40",
+    "friday_lunch": "$3453–$4292",
+    "friday_dinner": "$3573–$4292",
+    "friday_tables": "15–40",
+    "saturday_lunch": "$3453–$4292",
+    "saturday_dinner": "$3813–$4292",
+    "saturday_tables": "15–40",
+    "sunday_lunch": "$3453–$4292",
+    "sunday_dinner": "$3573–$4292",
+    "sunday_tables": "15–40"
+  },
+  {
+    "name": "Carlton Hotel Singapore",
+    "phone": "6311 8181",
+    "email": "banquet@carltonhotel.sg",
+    "address": "76 Bras Basah Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1760–$2396",
+        "dinner_price": "$2036–$2396",
+        "tables": "10–32"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1760–$2396",
+        "dinner_price": "$2036–$2396",
+        "tables": "10–32"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1760–$2396",
+        "dinner_price": "$2036–$2396",
+        "tables": "10–32"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1760–$2396",
+        "dinner_price": "$2036–$2396",
+        "tables": "10–32"
+      }
+    ],
+    "mon_thu_lunch": "$1760–$2396",
+    "mon_thu_dinner": "$2036–$2396",
+    "mon_thu_tables": "10–32",
+    "friday_lunch": "$1760–$2396",
+    "friday_dinner": "$2036–$2396",
+    "friday_tables": "10–32",
+    "saturday_lunch": "$1760–$2396",
+    "saturday_dinner": "$2036–$2396",
+    "saturday_tables": "10–32",
+    "sunday_lunch": "$1760–$2396",
+    "sunday_dinner": "$2036–$2396",
+    "sunday_tables": "10–32"
+  },
+  {
+    "name": "Changi Cove",
+    "phone": "6922 6108",
+    "email": "cc.enquiry@changicove.com",
+    "address": "351 Cranwell Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1484–$1858",
+        "dinner_price": "$1484–$2254",
+        "tables": "13–22"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1484–$1858",
+        "dinner_price": "$1724–$2254",
+        "tables": "13–22"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1484–$1858",
+        "dinner_price": "$1724–$2254",
+        "tables": "13–22"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1484–$1858",
+        "dinner_price": "$1724–$2254",
+        "tables": "13–22"
+      }
+    ],
+    "mon_thu_lunch": "$1484–$1858",
+    "mon_thu_dinner": "$1484–$2254",
+    "mon_thu_tables": "13–22",
+    "friday_lunch": "$1484–$1858",
+    "friday_dinner": "$1724–$2254",
+    "friday_tables": "13–22",
+    "saturday_lunch": "$1484–$1858",
+    "saturday_dinner": "$1724–$2254",
+    "saturday_tables": "13–22",
+    "sunday_lunch": "$1484–$1858",
+    "sunday_dinner": "$1724–$2254",
+    "sunday_tables": "13–22"
+  },
+  {
+    "name": "CHIJMES Hall Singapore",
+    "phone": "6336 5320",
+    "email": "chijmes@watabe-wedding.com.sg",
+    "address": "30 Victoria Street #01-28 (Chijmes Hall) CHIJMES",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2036–$2551",
+        "dinner_price": "$2036–$2551",
+        "tables": "12–30"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2156–$2551",
+        "dinner_price": "$2156–$2551",
+        "tables": "12–30"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2396–$2671",
+        "dinner_price": "$2396–$2671",
+        "tables": "16–30"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2276–$2551",
+        "dinner_price": "$2276–$2551",
+        "tables": "16–30"
+      }
+    ],
+    "mon_thu_lunch": "$2036–$2551",
+    "mon_thu_dinner": "$2036–$2551",
+    "mon_thu_tables": "12–30",
+    "friday_lunch": "$2156–$2551",
+    "friday_dinner": "$2156–$2551",
+    "friday_tables": "12–30",
+    "saturday_lunch": "$2396–$2671",
+    "saturday_dinner": "$2396–$2671",
+    "saturday_tables": "16–30",
+    "sunday_lunch": "$2276–$2551",
+    "sunday_dinner": "$2276–$2551",
+    "sunday_tables": "16–30"
+  },
+  {
+    "name": "Chui Huay Lim Teochew Cuisine",
+    "phone": "6265 8121",
+    "email": "events@jumbogroup.com.sg",
+    "address": "190 Keng Lee Rd, #01-03 Chui Huay Lim Club",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1198–$2157",
+        "dinner_price": "$1198–$2157",
+        "tables": "10–40"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1198–$2157",
+        "dinner_price": "$1198–$2157",
+        "tables": "10–40"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1198–$2157",
+        "dinner_price": "$1198–$2157",
+        "tables": "10–40"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1198–$2157",
+        "dinner_price": "$1198–$2157",
+        "tables": "10–40"
+      }
+    ],
+    "mon_thu_lunch": "$1198–$2157",
+    "mon_thu_dinner": "$1198–$2157",
+    "mon_thu_tables": "10–40",
+    "friday_lunch": "$1198–$2157",
+    "friday_dinner": "$1198–$2157",
+    "friday_tables": "10–40",
+    "saturday_lunch": "$1198–$2157",
+    "saturday_dinner": "$1198–$2157",
+    "saturday_tables": "10–40",
+    "sunday_lunch": "$1198–$2157",
+    "sunday_dinner": "$1198–$2157",
+    "sunday_tables": "10–40"
+  },
+  {
+    "name": "Concorde Hotel Singapore",
+    "phone": "6739 8356",
+    "email": "cateringsales.chs@concorde.net",
+    "address": "100 Orchard Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1676–$1676",
+        "dinner_price": "$1916–$1916",
+        "tables": "8–44"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1676–$1676",
+        "dinner_price": "$1916–$1916",
+        "tables": "8–44"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1676–$1676",
+        "dinner_price": "$1916–$1916",
+        "tables": "8–44"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1676–$1676",
+        "dinner_price": "$1916–$1916",
+        "tables": "8–44"
+      }
+    ],
+    "mon_thu_lunch": "$1676–$1676",
+    "mon_thu_dinner": "$1916–$1916",
+    "mon_thu_tables": "8–44",
+    "friday_lunch": "$1676–$1676",
+    "friday_dinner": "$1916–$1916",
+    "friday_tables": "8–44",
+    "saturday_lunch": "$1676–$1676",
+    "saturday_dinner": "$1916–$1916",
+    "saturday_tables": "8–44",
+    "sunday_lunch": "$1676–$1676",
+    "sunday_dinner": "$1916–$1916",
+    "sunday_tables": "8–44"
+  },
+  {
+    "name": "Conrad Singapore Marina Bay",
+    "phone": "+65 6432 7159/7166",
+    "email": "sinci.weddings@conradhotels.com",
+    "address": "2 Temasek Boulevard",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2671–$2911",
+        "dinner_price": "$2791–$3151",
+        "tables": "11–40"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2671–$2911",
+        "dinner_price": "$2791–$3151",
+        "tables": "11–40"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2671–$2911",
+        "dinner_price": "$3151–$3391",
+        "tables": "11–40"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2671–$2911",
+        "dinner_price": "$2791–$3151",
+        "tables": "11–40"
+      }
+    ],
+    "mon_thu_lunch": "$2671–$2911",
+    "mon_thu_dinner": "$2791–$3151",
+    "mon_thu_tables": "11–40",
+    "friday_lunch": "$2671–$2911",
+    "friday_dinner": "$2791–$3151",
+    "friday_tables": "11–40",
+    "saturday_lunch": "$2671–$2911",
+    "saturday_dinner": "$3151–$3391",
+    "saturday_tables": "11–40",
+    "sunday_lunch": "$2671–$2911",
+    "sunday_dinner": "$2791–$3151",
+    "sunday_tables": "11–40"
+  },
+  {
+    "name": "Conrad Singapore Orchard",
+    "phone": "6725 3333",
+    "email": "sinod.events@conradhotels.com",
+    "address": "1 Cuscaden Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2324–$3103",
+        "dinner_price": "$2384–$3103",
+        "tables": "10–50"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2324–$3103",
+        "dinner_price": "$2384–$3103",
+        "tables": "10–50"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2324–$3103",
+        "dinner_price": "$2504–$3103",
+        "tables": "10–50"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2324–$3103",
+        "dinner_price": "$2384–$3103",
+        "tables": "10–50"
+      }
+    ],
+    "mon_thu_lunch": "$2324–$3103",
+    "mon_thu_dinner": "$2384–$3103",
+    "mon_thu_tables": "10–50",
+    "friday_lunch": "$2324–$3103",
+    "friday_dinner": "$2384–$3103",
+    "friday_tables": "10–50",
+    "saturday_lunch": "$2324–$3103",
+    "saturday_dinner": "$2504–$3103",
+    "saturday_tables": "10–50",
+    "sunday_lunch": "$2324–$3103",
+    "sunday_dinner": "$2384–$3103",
+    "sunday_tables": "10–50"
+  },
+  {
+    "name": "Copthorne King's Hotel Singapore",
+    "phone": "6733 0011",
+    "email": "catering.cks@millenniumhotels.com",
+    "address": "403 Havelock Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1364–$1364",
+        "dinner_price": "$1364–$1364",
+        "tables": "15–30"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1664–$1664",
+        "dinner_price": "$1784–$1784",
+        "tables": "15–30"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1664–$1664",
+        "dinner_price": "$1784–$1784",
+        "tables": "15–30"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1664–$1664",
+        "dinner_price": "$1784–$1784",
+        "tables": "15–30"
+      }
+    ],
+    "mon_thu_lunch": "$1364–$1364",
+    "mon_thu_dinner": "$1364–$1364",
+    "mon_thu_tables": "15–30",
+    "friday_lunch": "$1664–$1664",
+    "friday_dinner": "$1784–$1784",
+    "friday_tables": "15–30",
+    "saturday_lunch": "$1664–$1664",
+    "saturday_dinner": "$1784–$1784",
+    "saturday_tables": "15–30",
+    "sunday_lunch": "$1664–$1664",
+    "sunday_dinner": "$1784–$1784",
+    "sunday_tables": "15–30"
+  },
+  {
+    "name": "Crowne Plaza Changi Airport",
+    "phone": "6823 5339",
+    "email": "weddings.cpca@ihg.com",
+    "address": "75 Airport Boulevard",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2024–$2374",
+        "dinner_price": "$2024–$2374",
+        "tables": "8–30"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2024–$2374",
+        "dinner_price": "$2024–$2374",
+        "tables": "8–30"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2024–$2374",
+        "dinner_price": "$2024–$2374",
+        "tables": "8–30"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2024–$2374",
+        "dinner_price": "$2024–$2374",
+        "tables": "8–30"
+      }
+    ],
+    "mon_thu_lunch": "$2024–$2374",
+    "mon_thu_dinner": "$2024–$2374",
+    "mon_thu_tables": "8–30",
+    "friday_lunch": "$2024–$2374",
+    "friday_dinner": "$2024–$2374",
+    "friday_tables": "8–30",
+    "saturday_lunch": "$2024–$2374",
+    "saturday_dinner": "$2024–$2374",
+    "saturday_tables": "8–30",
+    "sunday_lunch": "$2024–$2374",
+    "sunday_dinner": "$2024–$2374",
+    "sunday_tables": "8–30"
+  },
+  {
+    "name": "Dusit Thani Laguna Singapore",
+    "phone": "6841 8888",
+    "email": "weddingsdtls@dusit.com",
+    "address": "11 Laguna Golf Green",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2384–$2504",
+        "dinner_price": "$2384–$2504",
+        "tables": "25–38"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2384–$2504",
+        "dinner_price": "$2384–$2504",
+        "tables": "25–38"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2384–$2504",
+        "dinner_price": "$2384–$2504",
+        "tables": "25–38"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2384–$2504",
+        "dinner_price": "$2384–$2504",
+        "tables": "25–38"
+      }
+    ],
+    "mon_thu_lunch": "$2384–$2504",
+    "mon_thu_dinner": "$2384–$2504",
+    "mon_thu_tables": "25–38",
+    "friday_lunch": "$2384–$2504",
+    "friday_dinner": "$2384–$2504",
+    "friday_tables": "25–38",
+    "saturday_lunch": "$2384–$2504",
+    "saturday_dinner": "$2384–$2504",
+    "saturday_tables": "25–38",
+    "sunday_lunch": "$2384–$2504",
+    "sunday_dinner": "$2384–$2504",
+    "sunday_tables": "25–38"
+  },
+  {
+    "name": "Fairmont Singapore and Swissôtel The Stamford",
+    "phone": "6431 5138",
+    "email": "weddings.singapore@fairmont.com",
+    "address": "80 Bras Basah Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2192–$2384",
+        "dinner_price": "$2312–$2743",
+        "tables": "15–140"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2192–$2384",
+        "dinner_price": "$2312–$2743",
+        "tables": "15–140"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2192–$2384",
+        "dinner_price": "$2312–$2743",
+        "tables": "15–140"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2192–$2384",
+        "dinner_price": "$2312–$2743",
+        "tables": "15–140"
+      }
+    ],
+    "mon_thu_lunch": "$2192–$2384",
+    "mon_thu_dinner": "$2312–$2743",
+    "mon_thu_tables": "15–140",
+    "friday_lunch": "$2192–$2384",
+    "friday_dinner": "$2312–$2743",
+    "friday_tables": "15–140",
+    "saturday_lunch": "$2192–$2384",
+    "saturday_dinner": "$2312–$2743",
+    "saturday_tables": "15–140",
+    "sunday_lunch": "$2192–$2384",
+    "sunday_dinner": "$2312–$2743",
+    "sunday_tables": "15–140"
+  },
+  {
+    "name": "Four Points by Sheraton Singapore, Riverview",
+    "phone": "6349 4857",
+    "email": "catering@fourpointssingaporeriverview.com",
+    "address": "382 Havelock Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1724–$1964",
+        "dinner_price": "$1724–$1964",
+        "tables": "6–25"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1784–$2024",
+        "dinner_price": "$1784–$2024",
+        "tables": "6–25"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1784–$2024",
+        "dinner_price": "$1784–$2024",
+        "tables": "6–25"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1784–$2024",
+        "dinner_price": "$1784–$2024",
+        "tables": "6–25"
+      }
+    ],
+    "mon_thu_lunch": "$1724–$1964",
+    "mon_thu_dinner": "$1724–$1964",
+    "mon_thu_tables": "6–25",
+    "friday_lunch": "$1784–$2024",
+    "friday_dinner": "$1784–$2024",
+    "friday_tables": "6–25",
+    "saturday_lunch": "$1784–$2024",
+    "saturday_dinner": "$1784–$2024",
+    "saturday_tables": "6–25",
+    "sunday_lunch": "$1784–$2024",
+    "sunday_dinner": "$1784–$2024",
+    "sunday_tables": "6–25"
+  },
+  {
+    "name": "Four Seasons Hotel Singapore",
+    "phone": "6831 7005",
+    "email": "catering.sin.dst@fourseasons.com",
+    "address": "190 Orchard Boulevard",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2734–$2854",
+        "dinner_price": "$2734–$3093",
+        "tables": "3–30"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2734–$2854",
+        "dinner_price": "$2734–$3093",
+        "tables": "3–30"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2734–$2854",
+        "dinner_price": "$2974–$3093",
+        "tables": "3–30"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2734–$2854",
+        "dinner_price": "$2854–$3093",
+        "tables": "3–30"
+      }
+    ],
+    "mon_thu_lunch": "$2734–$2854",
+    "mon_thu_dinner": "$2734–$3093",
+    "mon_thu_tables": "3–30",
+    "friday_lunch": "$2734–$2854",
+    "friday_dinner": "$2734–$3093",
+    "friday_tables": "3–30",
+    "saturday_lunch": "$2734–$2854",
+    "saturday_dinner": "$2974–$3093",
+    "saturday_tables": "3–30",
+    "sunday_lunch": "$2734–$2854",
+    "sunday_dinner": "$2854–$3093",
+    "sunday_tables": "3–30"
+  },
+  {
+    "name": "Frasers House, a Luxury Collection Hotel, Singapore",
+    "phone": "6338 7600",
+    "email": "tlc.sinlb.weddings@luxurycollection.com",
+    "address": "80 Middle Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2134–$2134",
+        "dinner_price": "$2134–$2134",
+        "tables": "16–40"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2134–$2134",
+        "dinner_price": "$2504–$2504",
+        "tables": "16–40"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2623–$2623",
+        "dinner_price": "$2983–$2983",
+        "tables": "22–40"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2623–$2623",
+        "dinner_price": "$2743–$2743",
+        "tables": "22–40"
+      }
+    ],
+    "mon_thu_lunch": "$2134–$2134",
+    "mon_thu_dinner": "$2134–$2134",
+    "mon_thu_tables": "16–40",
+    "friday_lunch": "$2134–$2134",
+    "friday_dinner": "$2504–$2504",
+    "friday_tables": "16–40",
+    "saturday_lunch": "$2623–$2623",
+    "saturday_dinner": "$2983–$2983",
+    "saturday_tables": "22–40",
+    "sunday_lunch": "$2623–$2623",
+    "sunday_dinner": "$2743–$2743",
+    "sunday_tables": "22–40"
+  },
+  {
+    "name": "Fu Lin Men (Chinese Swimming Club)",
+    "phone": "8611 1004",
+    "email": "event@passion-restaurant.com",
+    "address": "21 Amber Road, Chinese Swimming Club #03-01",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1005–$1844",
+        "dinner_price": "$1005–$1844",
+        "tables": "12–25"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1125–$2024",
+        "dinner_price": "$1197–$2084",
+        "tables": "12–25"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1125–$2024",
+        "dinner_price": "$1197–$2084",
+        "tables": "12–25"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1125–$2024",
+        "dinner_price": "$1197–$2084",
+        "tables": "12–25"
+      }
+    ],
+    "mon_thu_lunch": "$1005–$1844",
+    "mon_thu_dinner": "$1005–$1844",
+    "mon_thu_tables": "12–25",
+    "friday_lunch": "$1125–$2024",
+    "friday_dinner": "$1197–$2084",
+    "friday_tables": "12–25",
+    "saturday_lunch": "$1125–$2024",
+    "saturday_dinner": "$1197–$2084",
+    "saturday_tables": "12–25",
+    "sunday_lunch": "$1125–$2024",
+    "sunday_dinner": "$1197–$2084",
+    "sunday_tables": "12–25"
+  },
+  {
+    "name": "Fu Lin Men Grandeur",
+    "phone": "8852 9986",
+    "email": "nsk@fulinmen.com.sg",
+    "address": "#03-00, 181 Kitchener Road, Novotel Singapore on Kitchener",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1161–$1760",
+        "dinner_price": "$1161–$1760",
+        "tables": "12–36"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1436–$2036",
+        "dinner_price": "$1520–$2120",
+        "tables": "12–36"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1436–$2036",
+        "dinner_price": "$1520–$2120",
+        "tables": "12–36"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1436–$2036",
+        "dinner_price": "$1520–$2120",
+        "tables": "12–36"
+      }
+    ],
+    "mon_thu_lunch": "$1161–$1760",
+    "mon_thu_dinner": "$1161–$1760",
+    "mon_thu_tables": "12–36",
+    "friday_lunch": "$1436–$2036",
+    "friday_dinner": "$1520–$2120",
+    "friday_tables": "12–36",
+    "saturday_lunch": "$1436–$2036",
+    "saturday_dinner": "$1520–$2120",
+    "saturday_tables": "12–36",
+    "sunday_lunch": "$1436–$2036",
+    "sunday_dinner": "$1520–$2120",
+    "sunday_tables": "12–36"
+  },
+  {
+    "name": "Fu Lin Men (Temasek Club)",
+    "phone": "6235 5026",
+    "email": "event@passion-restaurant.com",
+    "address": "131 Rifle Range Rd, #02-03",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1005–$1844",
+        "dinner_price": "$1005–$1844",
+        "tables": "12–21"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1125–$2024",
+        "dinner_price": "$1197–$2084",
+        "tables": "12–21"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1125–$2024",
+        "dinner_price": "$1197–$2084",
+        "tables": "12–21"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1125–$2024",
+        "dinner_price": "$1197–$2084",
+        "tables": "12–21"
+      }
+    ],
+    "mon_thu_lunch": "$1005–$1844",
+    "mon_thu_dinner": "$1005–$1844",
+    "mon_thu_tables": "12–21",
+    "friday_lunch": "$1125–$2024",
+    "friday_dinner": "$1197–$2084",
+    "friday_tables": "12–21",
+    "saturday_lunch": "$1125–$2024",
+    "saturday_dinner": "$1197–$2084",
+    "saturday_tables": "12–21",
+    "sunday_lunch": "$1125–$2024",
+    "sunday_dinner": "$1197–$2084",
+    "sunday_tables": "12–21"
+  },
+  {
+    "name": "Furama City Centre Singapore",
+    "phone": "6531 5356",
+    "email": "banquet.citycentre@furama.com",
+    "address": "60 Eu Tong Sen Street",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1640–$1640",
+        "dinner_price": "$1652–$1652",
+        "tables": "14–45"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1640–$1640",
+        "dinner_price": "$1652–$1652",
+        "tables": "14–45"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1640–$1640",
+        "dinner_price": "$1748–$1748",
+        "tables": "14–45"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1640–$1640",
+        "dinner_price": "$1652–$1652",
+        "tables": "14–45"
+      }
+    ],
+    "mon_thu_lunch": "$1640–$1640",
+    "mon_thu_dinner": "$1652–$1652",
+    "mon_thu_tables": "14–45",
+    "friday_lunch": "$1640–$1640",
+    "friday_dinner": "$1652–$1652",
+    "friday_tables": "14–45",
+    "saturday_lunch": "$1640–$1640",
+    "saturday_dinner": "$1748–$1748",
+    "saturday_tables": "14–45",
+    "sunday_lunch": "$1640–$1640",
+    "sunday_dinner": "$1652–$1652",
+    "sunday_tables": "14–45"
+  },
+  {
+    "name": "Furama RiverFront, Singapore",
+    "phone": "6739 6452",
+    "email": "banquet.riverfront@furama.com",
+    "address": "405 Havelock Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1544–$1760",
+        "dinner_price": "$1532–$1784",
+        "tables": "10–48"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1544–$1760",
+        "dinner_price": "$1532–$1784",
+        "tables": "10–48"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1544–$1760",
+        "dinner_price": "$1652–$1868",
+        "tables": "10–48"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1544–$1760",
+        "dinner_price": "$1532–$1784",
+        "tables": "10–48"
+      }
+    ],
+    "mon_thu_lunch": "$1544–$1760",
+    "mon_thu_dinner": "$1532–$1784",
+    "mon_thu_tables": "10–48",
+    "friday_lunch": "$1544–$1760",
+    "friday_dinner": "$1532–$1784",
+    "friday_tables": "10–48",
+    "saturday_lunch": "$1544–$1760",
+    "saturday_dinner": "$1652–$1868",
+    "saturday_tables": "10–48",
+    "sunday_lunch": "$1544–$1760",
+    "sunday_dinner": "$1532–$1784",
+    "sunday_tables": "10–48"
+  },
+  {
+    "name": "Genting Hotel Jurong",
+    "phone": "6577 9530/9531",
+    "email": "ghjsales@RWSentosa.com",
+    "address": "2 Town Hall Link",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1544–$1544",
+        "dinner_price": "$1544–$1544",
+        "tables": "15–33"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1664–$1664",
+        "dinner_price": "$1664–$1664",
+        "tables": "15–33"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1664–$1664",
+        "dinner_price": "$1664–$1664",
+        "tables": "15–33"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1664–$1664",
+        "dinner_price": "$1664–$1664",
+        "tables": "15–33"
+      }
+    ],
+    "mon_thu_lunch": "$1544–$1544",
+    "mon_thu_dinner": "$1544–$1544",
+    "mon_thu_tables": "15–33",
+    "friday_lunch": "$1664–$1664",
+    "friday_dinner": "$1664–$1664",
+    "friday_tables": "15–33",
+    "saturday_lunch": "$1664–$1664",
+    "saturday_dinner": "$1664–$1664",
+    "saturday_tables": "15–33",
+    "sunday_lunch": "$1664–$1664",
+    "sunday_dinner": "$1664–$1664",
+    "sunday_tables": "15–33"
+  },
+  {
+    "name": "Goodwood Park Hotel",
+    "phone": "6730 1821",
+    "email": "banquet@goodwoodparkhotel.com",
+    "address": "22 Scotts Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2120–$2120",
+        "dinner_price": "$2120–$2120",
+        "tables": "12–35"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2120–$2120",
+        "dinner_price": "$2360–$2360",
+        "tables": "12–35"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2120–$2120",
+        "dinner_price": "$2396–$2396",
+        "tables": "12–35"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2120–$2120",
+        "dinner_price": "$2360–$2360",
+        "tables": "12–35"
+      }
+    ],
+    "mon_thu_lunch": "$2120–$2120",
+    "mon_thu_dinner": "$2120–$2120",
+    "mon_thu_tables": "12–35",
+    "friday_lunch": "$2120–$2120",
+    "friday_dinner": "$2360–$2360",
+    "friday_tables": "12–35",
+    "saturday_lunch": "$2120–$2120",
+    "saturday_dinner": "$2396–$2396",
+    "saturday_tables": "12–35",
+    "sunday_lunch": "$2120–$2120",
+    "sunday_dinner": "$2360–$2360",
+    "sunday_tables": "12–35"
+  },
+  {
+    "name": "Grand Copthorne Waterfront Hotel Singapore",
+    "phone": "6233 1199",
+    "email": "weddings.gcw@millenniumhotels.com",
+    "address": "392 Havelock Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2288–$2408",
+        "dinner_price": "$2288–$2408",
+        "tables": "10–65"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2288–$2408",
+        "dinner_price": "$2743–$2863",
+        "tables": "10–65"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2288–$2408",
+        "dinner_price": "$2743–$2863",
+        "tables": "10–65"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2288–$2408",
+        "dinner_price": "$2743–$2863",
+        "tables": "10–65"
+      }
+    ],
+    "mon_thu_lunch": "$2288–$2408",
+    "mon_thu_dinner": "$2288–$2408",
+    "mon_thu_tables": "10–65",
+    "friday_lunch": "$2288–$2408",
+    "friday_dinner": "$2743–$2863",
+    "friday_tables": "10–65",
+    "saturday_lunch": "$2288–$2408",
+    "saturday_dinner": "$2743–$2863",
+    "saturday_tables": "10–65",
+    "sunday_lunch": "$2288–$2408",
+    "sunday_dinner": "$2743–$2863",
+    "sunday_tables": "10–65"
+  },
+  {
+    "name": "Grand Hyatt Singapore",
+    "phone": "6416 7373",
+    "email": "weddings.sg@hyatt.com",
+    "address": "10 Scotts Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2384–$2743",
+        "dinner_price": "$2384–$2743",
+        "tables": "15–36"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2384–$2743",
+        "dinner_price": "$2384–$2743",
+        "tables": "15–36"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2384–$2743",
+        "dinner_price": "$2743–$2983",
+        "tables": "15–36"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2384–$2743",
+        "dinner_price": "$2504–$2863",
+        "tables": "15–36"
+      }
+    ],
+    "mon_thu_lunch": "$2384–$2743",
+    "mon_thu_dinner": "$2384–$2743",
+    "mon_thu_tables": "15–36",
+    "friday_lunch": "$2384–$2743",
+    "friday_dinner": "$2384–$2743",
+    "friday_tables": "15–36",
+    "saturday_lunch": "$2384–$2743",
+    "saturday_dinner": "$2743–$2983",
+    "saturday_tables": "15–36",
+    "sunday_lunch": "$2384–$2743",
+    "sunday_dinner": "$2504–$2863",
+    "sunday_tables": "15–36"
+  },
+  {
+    "name": "Grand Mercure Singapore Roxy",
+    "phone": "6340 5640",
+    "email": "H3610-FB7@accor.com",
+    "address": "50 East Coast Road, Roxy Square",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1664–$1784",
+        "dinner_price": "$1664–$1784",
+        "tables": "3–32"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1664–$1784",
+        "dinner_price": "$1664–$1784",
+        "tables": "3–32"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1664–$1784",
+        "dinner_price": "$1664–$1784",
+        "tables": "3–32"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1664–$1784",
+        "dinner_price": "$1664–$1784",
+        "tables": "3–32"
+      }
+    ],
+    "mon_thu_lunch": "$1664–$1784",
+    "mon_thu_dinner": "$1664–$1784",
+    "mon_thu_tables": "3–32",
+    "friday_lunch": "$1664–$1784",
+    "friday_dinner": "$1664–$1784",
+    "friday_tables": "3–32",
+    "saturday_lunch": "$1664–$1784",
+    "saturday_dinner": "$1664–$1784",
+    "saturday_tables": "3–32",
+    "sunday_lunch": "$1664–$1784",
+    "sunday_dinner": "$1664–$1784",
+    "sunday_tables": "3–32"
+  },
+  {
+    "name": "Grand Park City Hall",
+    "phone": "6336 3456",
+    "email": "sales.gpch@parkhotelgroup.com",
+    "address": "10 Coleman Street",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1894–$2134",
+        "dinner_price": "$1894–$2134",
+        "tables": "3–9"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1894–$2134",
+        "dinner_price": "$1894–$2134",
+        "tables": "3–9"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1894–$2134",
+        "dinner_price": "$1894–$2134",
+        "tables": "3–9"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1894–$2134",
+        "dinner_price": "$1894–$2134",
+        "tables": "3–9"
+      }
+    ],
+    "mon_thu_lunch": "$1894–$2134",
+    "mon_thu_dinner": "$1894–$2134",
+    "mon_thu_tables": "3–9",
+    "friday_lunch": "$1894–$2134",
+    "friday_dinner": "$1894–$2134",
+    "friday_tables": "3–9",
+    "saturday_lunch": "$1894–$2134",
+    "saturday_dinner": "$1894–$2134",
+    "saturday_tables": "3–9",
+    "sunday_lunch": "$1894–$2134",
+    "sunday_dinner": "$1894–$2134",
+    "sunday_tables": "3–9"
+  },
+  {
+    "name": "Grand Shanghai",
+    "phone": "6836 6866",
+    "email": "restaurant@grandshanghai.com.sg",
+    "address": "390 Havelock Road, King's Centre\nLevel 1",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2120–$3096",
+        "dinner_price": "$2120–$3096",
+        "tables": "15–25"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2120–$3096",
+        "dinner_price": "$2120–$3096",
+        "tables": "15–25"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2120–$3096",
+        "dinner_price": "$2120–$3096",
+        "tables": "15–25"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2120–$3096",
+        "dinner_price": "$2120–$3096",
+        "tables": "15–25"
+      }
+    ],
+    "mon_thu_lunch": "$2120–$3096",
+    "mon_thu_dinner": "$2120–$3096",
+    "mon_thu_tables": "15–25",
+    "friday_lunch": "$2120–$3096",
+    "friday_dinner": "$2120–$3096",
+    "friday_tables": "15–25",
+    "saturday_lunch": "$2120–$3096",
+    "saturday_dinner": "$2120–$3096",
+    "saturday_tables": "15–25",
+    "sunday_lunch": "$2120–$3096",
+    "sunday_dinner": "$2120–$3096",
+    "sunday_tables": "15–25"
+  },
+  {
+    "name": "Hilton Singapore Orchard",
+    "phone": "6737 4411",
+    "email": "hiltonsingaporeorchard.weddings@hilton.com",
+    "address": "333 Orchard Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2504–$2504",
+        "dinner_price": "$2504–$2504",
+        "tables": "12–80"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2504–$2504",
+        "dinner_price": "$2504–$2504",
+        "tables": "12–80"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2504–$2504",
+        "dinner_price": "$2863–$2863",
+        "tables": "12–80"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2504–$2504",
+        "dinner_price": "$2504–$2504",
+        "tables": "12–80"
+      }
+    ],
+    "mon_thu_lunch": "$2504–$2504",
+    "mon_thu_dinner": "$2504–$2504",
+    "mon_thu_tables": "12–80",
+    "friday_lunch": "$2504–$2504",
+    "friday_dinner": "$2504–$2504",
+    "friday_tables": "12–80",
+    "saturday_lunch": "$2504–$2504",
+    "saturday_dinner": "$2863–$2863",
+    "saturday_tables": "12–80",
+    "sunday_lunch": "$2504–$2504",
+    "sunday_dinner": "$2504–$2504",
+    "sunday_tables": "12–80"
+  },
+  {
+    "name": "Holiday Inn Express & Suites Singapore Novena",
+    "phone": "6355 9988",
+    "email": "contact@hiexsnovena.com",
+    "address": "201 Balestier Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1352–$1352",
+        "dinner_price": "$1352–$1352",
+        "tables": "10–16"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1352–$1352",
+        "dinner_price": "$1352–$1352",
+        "tables": "10–16"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1352–$1352",
+        "dinner_price": "$1592–$1592",
+        "tables": "10–16"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1352–$1352",
+        "dinner_price": "$1592–$1592",
+        "tables": "10–16"
+      }
+    ],
+    "mon_thu_lunch": "$1352–$1352",
+    "mon_thu_dinner": "$1352–$1352",
+    "mon_thu_tables": "10–16",
+    "friday_lunch": "$1352–$1352",
+    "friday_dinner": "$1352–$1352",
+    "friday_tables": "10–16",
+    "saturday_lunch": "$1352–$1352",
+    "saturday_dinner": "$1592–$1592",
+    "saturday_tables": "10–16",
+    "sunday_lunch": "$1352–$1352",
+    "sunday_dinner": "$1592–$1592",
+    "sunday_tables": "10–16"
+  },
+  {
+    "name": "Holiday Inn Singapore Atrium",
+    "phone": "6731 7159",
+    "email": "weddings.sinhi@ihg.com",
+    "address": "317 Outram Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1758–$1758",
+        "dinner_price": "$1758–$1758",
+        "tables": "8–40"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1758–$1758",
+        "dinner_price": "$1758–$1758",
+        "tables": "8–40"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1758–$1758",
+        "dinner_price": "$1958–$1958",
+        "tables": "8–40"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1758–$1758",
+        "dinner_price": "$1958–$1958",
+        "tables": "8–40"
+      }
+    ],
+    "mon_thu_lunch": "$1758–$1758",
+    "mon_thu_dinner": "$1758–$1758",
+    "mon_thu_tables": "8–40",
+    "friday_lunch": "$1758–$1758",
+    "friday_dinner": "$1758–$1758",
+    "friday_tables": "8–40",
+    "saturday_lunch": "$1758–$1758",
+    "saturday_dinner": "$1958–$1958",
+    "saturday_tables": "8–40",
+    "sunday_lunch": "$1758–$1758",
+    "sunday_dinner": "$1958–$1958",
+    "sunday_tables": "8–40"
+  },
+  {
+    "name": "Holiday Inn Singapore Orchard City Centre",
+    "phone": "6730 0122",
+    "email": "weddings.hisinorchard@ihg.com",
+    "address": "11 Cavenagh Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1784–$1784",
+        "dinner_price": "$1784–$1784",
+        "tables": "10–35"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1784–$1784",
+        "dinner_price": "$1784–$1784",
+        "tables": "10–35"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1784–$1784",
+        "dinner_price": "$1964–$1964",
+        "tables": "10–35"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1784–$1784",
+        "dinner_price": "$1964–$1964",
+        "tables": "10–35"
+      }
+    ],
+    "mon_thu_lunch": "$1784–$1784",
+    "mon_thu_dinner": "$1784–$1784",
+    "mon_thu_tables": "10–35",
+    "friday_lunch": "$1784–$1784",
+    "friday_dinner": "$1784–$1784",
+    "friday_tables": "10–35",
+    "saturday_lunch": "$1784–$1784",
+    "saturday_dinner": "$1964–$1964",
+    "saturday_tables": "10–35",
+    "sunday_lunch": "$1784–$1784",
+    "sunday_dinner": "$1964–$1964",
+    "sunday_tables": "10–35"
+  },
+  {
+    "name": "Jade @ The Fullerton Hotel Singapore",
+    "phone": "6877 8188",
+    "email": "weddings@fullertonhotel.com",
+    "address": "1 Fullerton Square, Singapore 049178",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2254–$2254",
+        "dinner_price": "$2374–$2374",
+        "tables": "10–12"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2254–$2254",
+        "dinner_price": "$2374–$2374",
+        "tables": "10–12"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2254–$2254",
+        "dinner_price": "$2494–$2494",
+        "tables": "10–12"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2254–$2254",
+        "dinner_price": "$2374–$2374",
+        "tables": "10–12"
+      }
+    ],
+    "mon_thu_lunch": "$2254–$2254",
+    "mon_thu_dinner": "$2374–$2374",
+    "mon_thu_tables": "10–12",
+    "friday_lunch": "$2254–$2254",
+    "friday_dinner": "$2374–$2374",
+    "friday_tables": "10–12",
+    "saturday_lunch": "$2254–$2254",
+    "saturday_dinner": "$2494–$2494",
+    "saturday_tables": "10–12",
+    "sunday_lunch": "$2254–$2254",
+    "sunday_dinner": "$2374–$2374",
+    "sunday_tables": "10–12"
+  },
+  {
+    "name": "JEN Singapore Tanglin by Shangri-La",
+    "phone": "6831 4315",
+    "email": "events.hjts@hoteljen.com",
+    "address": "1A Cuscaden Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1724–$2144",
+        "dinner_price": "$1904–$2144",
+        "tables": "15–28"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1724–$2144",
+        "dinner_price": "$1904–$2144",
+        "tables": "15–28"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1724–$2144",
+        "dinner_price": "$1904–$2144",
+        "tables": "15–28"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1724–$2144",
+        "dinner_price": "$1904–$2144",
+        "tables": "15–28"
+      }
+    ],
+    "mon_thu_lunch": "$1724–$2144",
+    "mon_thu_dinner": "$1904–$2144",
+    "mon_thu_tables": "15–28",
+    "friday_lunch": "$1724–$2144",
+    "friday_dinner": "$1904–$2144",
+    "friday_tables": "15–28",
+    "saturday_lunch": "$1724–$2144",
+    "saturday_dinner": "$1904–$2144",
+    "saturday_tables": "15–28",
+    "sunday_lunch": "$1724–$2144",
+    "sunday_dinner": "$1904–$2144",
+    "sunday_tables": "15–28"
+  },
+  {
+    "name": "JW Marriott Hotel Singapore South Beach",
+    "phone": "6818 1900",
+    "email": "jw.sinjw.weddings@marriott.com",
+    "address": "30 Beach Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2854–$2854",
+        "dinner_price": "$2974–$2974",
+        "tables": "22–33"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2854–$2854",
+        "dinner_price": "$3093–$3093",
+        "tables": "22–33"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$3093–$3093",
+        "dinner_price": "$3333–$3333",
+        "tables": "22–33"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$3093–$3093",
+        "dinner_price": "$3093–$3093",
+        "tables": "22–33"
+      }
+    ],
+    "mon_thu_lunch": "$2854–$2854",
+    "mon_thu_dinner": "$2974–$2974",
+    "mon_thu_tables": "22–33",
+    "friday_lunch": "$2854–$2854",
+    "friday_dinner": "$3093–$3093",
+    "friday_tables": "22–33",
+    "saturday_lunch": "$3093–$3093",
+    "saturday_dinner": "$3333–$3333",
+    "saturday_tables": "22–33",
+    "sunday_lunch": "$3093–$3093",
+    "sunday_dinner": "$3093–$3093",
+    "sunday_tables": "22–33"
+  },
+  {
+    "name": "LingZhi Vegetarian (Liat Towers)",
+    "phone": "6337 2055",
+    "email": "banquet@tunglok.com",
+    "address": "541 Orchard Road, \n#05-01",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$597–$837",
+        "dinner_price": "$597–$837",
+        "tables": "9–13"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$597–$837",
+        "dinner_price": "$597–$837",
+        "tables": "9–13"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$597–$837",
+        "dinner_price": "$597–$837",
+        "tables": "9–13"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$597–$837",
+        "dinner_price": "$597–$837",
+        "tables": "9–13"
+      }
+    ],
+    "mon_thu_lunch": "$597–$837",
+    "mon_thu_dinner": "$597–$837",
+    "mon_thu_tables": "9–13",
+    "friday_lunch": "$597–$837",
+    "friday_dinner": "$597–$837",
+    "friday_tables": "9–13",
+    "saturday_lunch": "$597–$837",
+    "saturday_dinner": "$597–$837",
+    "saturday_tables": "9–13",
+    "sunday_lunch": "$597–$837",
+    "sunday_dinner": "$597–$837",
+    "sunday_tables": "9–13"
+  },
+  {
+    "name": "Mandai Rainforest Resort by Banyan Tree",
+    "phone": "6038 3939",
+    "email": "events-mandairainforest@banyantree.com",
+    "address": "60 Mandai Lake Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2743–$2983",
+        "dinner_price": "$2863–$2863",
+        "tables": "15–30"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2743–$3103",
+        "dinner_price": "$2863–$3103",
+        "tables": "15–30"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2743–$3223",
+        "dinner_price": "$2983–$3223",
+        "tables": "15–30"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2743–$3103",
+        "dinner_price": "$2863–$3103",
+        "tables": "15–30"
+      }
+    ],
+    "mon_thu_lunch": "$2743–$2983",
+    "mon_thu_dinner": "$2863–$2863",
+    "mon_thu_tables": "15–30",
+    "friday_lunch": "$2743–$3103",
+    "friday_dinner": "$2863–$3103",
+    "friday_tables": "15–30",
+    "saturday_lunch": "$2743–$3223",
+    "saturday_dinner": "$2983–$3223",
+    "saturday_tables": "15–30",
+    "sunday_lunch": "$2743–$3103",
+    "sunday_dinner": "$2863–$3103",
+    "sunday_tables": "15–30"
+  },
+  {
+    "name": "Mandarin Oriental Singapore",
+    "phone": "6885 3488",
+    "email": "mosin-weddings@mohg.com",
+    "address": "5 Raffles Avenue",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2504–$2504",
+        "dinner_price": "$2743–$2743",
+        "tables": "10–35"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2504–$2504",
+        "dinner_price": "$2743–$2743",
+        "tables": "10–35"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2623–$2623",
+        "dinner_price": "$2983–$2983",
+        "tables": "10–35"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2504–$2504",
+        "dinner_price": "$2743–$2743",
+        "tables": "10–35"
+      }
+    ],
+    "mon_thu_lunch": "$2504–$2504",
+    "mon_thu_dinner": "$2743–$2743",
+    "mon_thu_tables": "10–35",
+    "friday_lunch": "$2504–$2504",
+    "friday_dinner": "$2743–$2743",
+    "friday_tables": "10–35",
+    "saturday_lunch": "$2623–$2623",
+    "saturday_dinner": "$2983–$2983",
+    "saturday_tables": "10–35",
+    "sunday_lunch": "$2504–$2504",
+    "sunday_dinner": "$2743–$2743",
+    "sunday_tables": "10–35"
+  },
+  {
+    "name": "Marina Bay Sands",
+    "phone": "6688 3133",
+    "email": "celebrations@marinabaysands.com",
+    "address": "10 Bayfront Avenue",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2854–$2854",
+        "dinner_price": "$3453–$3453",
+        "tables": "5–150"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2854–$2854",
+        "dinner_price": "$3453–$3453",
+        "tables": "5–150"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2854–$2854",
+        "dinner_price": "$3453–$3453",
+        "tables": "5–150"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2854–$2854",
+        "dinner_price": "$3453–$3453",
+        "tables": "5–150"
+      }
+    ],
+    "mon_thu_lunch": "$2854–$2854",
+    "mon_thu_dinner": "$3453–$3453",
+    "mon_thu_tables": "5–150",
+    "friday_lunch": "$2854–$2854",
+    "friday_dinner": "$3453–$3453",
+    "friday_tables": "5–150",
+    "saturday_lunch": "$2854–$2854",
+    "saturday_dinner": "$3453–$3453",
+    "saturday_tables": "5–150",
+    "sunday_lunch": "$2854–$2854",
+    "sunday_dinner": "$3453–$3453",
+    "sunday_tables": "5–150"
+  },
+  {
+    "name": "Mercure Singapore Bugis",
+    "phone": "6521 6088",
+    "email": "Priscilla.TOH@accor.com",
+    "address": "122 Middle Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1520–$1520",
+        "dinner_price": "$1520–$1520",
+        "tables": "3–12"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1520–$1520",
+        "dinner_price": "$1760–$1760",
+        "tables": "3–12"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1640–$1640",
+        "dinner_price": "$1760–$1760",
+        "tables": "3–12"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1640–$1640",
+        "dinner_price": "$1760–$1760",
+        "tables": "3–12"
+      }
+    ],
+    "mon_thu_lunch": "$1520–$1520",
+    "mon_thu_dinner": "$1520–$1520",
+    "mon_thu_tables": "3–12",
+    "friday_lunch": "$1520–$1520",
+    "friday_dinner": "$1760–$1760",
+    "friday_tables": "3–12",
+    "saturday_lunch": "$1640–$1640",
+    "saturday_dinner": "$1760–$1760",
+    "saturday_tables": "3–12",
+    "sunday_lunch": "$1640–$1640",
+    "sunday_dinner": "$1760–$1760",
+    "sunday_tables": "3–12"
+  },
+  {
+    "name": "METT Singapore",
+    "phone": "6799 8800",
+    "email": "events.singapore@metthotelsandresorts.com",
+    "address": "11 Canning Walk",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2144–$4422",
+        "dinner_price": "$2264–$4662",
+        "tables": "12–40"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2144–$4422",
+        "dinner_price": "$2264–$4662",
+        "tables": "12–40"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2384–$4422",
+        "dinner_price": "$2623–$4662",
+        "tables": "12–40"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2384–$4422",
+        "dinner_price": "$2623–$4662",
+        "tables": "12–40"
+      }
+    ],
+    "mon_thu_lunch": "$2144–$4422",
+    "mon_thu_dinner": "$2264–$4662",
+    "mon_thu_tables": "12–40",
+    "friday_lunch": "$2144–$4422",
+    "friday_dinner": "$2264–$4662",
+    "friday_tables": "12–40",
+    "saturday_lunch": "$2384–$4422",
+    "saturday_dinner": "$2623–$4662",
+    "saturday_tables": "12–40",
+    "sunday_lunch": "$2384–$4422",
+    "sunday_dinner": "$2623–$4662",
+    "sunday_tables": "12–40"
+  },
+  {
+    "name": "M Hotel Singapore City Centre",
+    "phone": "6500 6211",
+    "email": "mywedding.mhs@millenniumhotels.com",
+    "address": "81 Anson Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1784–$1904",
+        "dinner_price": "$1904–$2024",
+        "tables": "12–32"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1784–$1904",
+        "dinner_price": "$1904–$2024",
+        "tables": "12–32"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1904–$2024",
+        "dinner_price": "$2024–$2144",
+        "tables": "12–32"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1904–$2024",
+        "dinner_price": "$2024–$2144",
+        "tables": "12–32"
+      }
+    ],
+    "mon_thu_lunch": "$1784–$1904",
+    "mon_thu_dinner": "$1904–$2024",
+    "mon_thu_tables": "12–32",
+    "friday_lunch": "$1784–$1904",
+    "friday_dinner": "$1904–$2024",
+    "friday_tables": "12–32",
+    "saturday_lunch": "$1904–$2024",
+    "saturday_dinner": "$2024–$2144",
+    "saturday_tables": "12–32",
+    "sunday_lunch": "$1904–$2024",
+    "sunday_dinner": "$2024–$2144",
+    "sunday_tables": "12–32"
+  },
+  {
+    "name": "Momentus Hotel Alexandra",
+    "phone": "6828 8888",
+    "email": "askme.mhas@momentushotels.com",
+    "address": "323 Alexandra Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1535–$1664",
+        "dinner_price": "$1535–$1664",
+        "tables": "3–10"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1535–$1664",
+        "dinner_price": "$1535–$1904",
+        "tables": "3–10"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1535–$1664",
+        "dinner_price": "$1535–$1904",
+        "tables": "3–10"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1535–$1664",
+        "dinner_price": "$1535–$1904",
+        "tables": "3–10"
+      }
+    ],
+    "mon_thu_lunch": "$1535–$1664",
+    "mon_thu_dinner": "$1535–$1664",
+    "mon_thu_tables": "3–10",
+    "friday_lunch": "$1535–$1664",
+    "friday_dinner": "$1535–$1904",
+    "friday_tables": "3–10",
+    "saturday_lunch": "$1535–$1664",
+    "saturday_dinner": "$1535–$1904",
+    "saturday_tables": "3–10",
+    "sunday_lunch": "$1535–$1664",
+    "sunday_dinner": "$1535–$1904",
+    "sunday_tables": "3–10"
+  },
+  {
+    "name": "Mount Faber Peak",
+    "phone": "6377 9688",
+    "email": "events@mflg.com.sg",
+    "address": "109 Mount Faber Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1775–$1775",
+        "dinner_price": "$2014–$2014",
+        "tables": "4–20"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1775–$1775",
+        "dinner_price": "$2014–$2014",
+        "tables": "4–20"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1775–$1775",
+        "dinner_price": "$2014–$2014",
+        "tables": "4–20"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1775–$1775",
+        "dinner_price": "$2014–$2014",
+        "tables": "4–20"
+      }
+    ],
+    "mon_thu_lunch": "$1775–$1775",
+    "mon_thu_dinner": "$2014–$2014",
+    "mon_thu_tables": "4–20",
+    "friday_lunch": "$1775–$1775",
+    "friday_dinner": "$2014–$2014",
+    "friday_tables": "4–20",
+    "saturday_lunch": "$1775–$1775",
+    "saturday_dinner": "$2014–$2014",
+    "saturday_tables": "4–20",
+    "sunday_lunch": "$1775–$1775",
+    "sunday_dinner": "$2014–$2014",
+    "sunday_tables": "4–20"
+  },
+  {
+    "name": "Novotel Singapore on Stevens",
+    "phone": "6491 6100",
+    "email": "H9543-SC3@accor.com",
+    "address": "28 Stevens Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1424–$1904",
+        "dinner_price": "$1644–$2144",
+        "tables": "10–32"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1424–$1904",
+        "dinner_price": "$2084–$2623",
+        "tables": "10–32"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1844–$2384",
+        "dinner_price": "$2084–$2623",
+        "tables": "10–32"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1844–$2384",
+        "dinner_price": "$2084–$2623",
+        "tables": "10–32"
+      }
+    ],
+    "mon_thu_lunch": "$1424–$1904",
+    "mon_thu_dinner": "$1644–$2144",
+    "mon_thu_tables": "10–32",
+    "friday_lunch": "$1424–$1904",
+    "friday_dinner": "$2084–$2623",
+    "friday_tables": "10–32",
+    "saturday_lunch": "$1844–$2384",
+    "saturday_dinner": "$2084–$2623",
+    "saturday_tables": "10–32",
+    "sunday_lunch": "$1844–$2384",
+    "sunday_dinner": "$2084–$2623",
+    "sunday_tables": "10–32"
+  },
+  {
+    "name": "Oasia Hotel Downtown",
+    "phone": "6812 6991",
+    "email": "sales.ohd@fareast.com.sg",
+    "address": "100 Peck Seah Street",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1880–$1880",
+        "dinner_price": "$2080–$2080",
+        "tables": "3–6"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1880–$1880",
+        "dinner_price": "$2080–$2080",
+        "tables": "3–6"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1880–$1880",
+        "dinner_price": "$2080–$2080",
+        "tables": "3–6"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1880–$1880",
+        "dinner_price": "$2080–$2080",
+        "tables": "3–6"
+      }
+    ],
+    "mon_thu_lunch": "$1880–$1880",
+    "mon_thu_dinner": "$2080–$2080",
+    "mon_thu_tables": "3–6",
+    "friday_lunch": "$1880–$1880",
+    "friday_dinner": "$2080–$2080",
+    "friday_tables": "3–6",
+    "saturday_lunch": "$1880–$1880",
+    "saturday_dinner": "$2080–$2080",
+    "saturday_tables": "3–6",
+    "sunday_lunch": "$1880–$1880",
+    "sunday_dinner": "$2080–$2080",
+    "sunday_tables": "3–6"
+  },
+  {
+    "name": "Oasia Hotel Novena, Singapore",
+    "phone": "6812 6991",
+    "email": "sales.ohs@fareast.com.sg",
+    "address": "8 Sinaran Drive",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1880–$1880",
+        "dinner_price": "$1980–$1980",
+        "tables": "5–10"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1880–$1880",
+        "dinner_price": "$1980–$1980",
+        "tables": "5–10"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1880–$1880",
+        "dinner_price": "$1980–$1980",
+        "tables": "5–10"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1880–$1880",
+        "dinner_price": "$1980–$1980",
+        "tables": "5–10"
+      }
+    ],
+    "mon_thu_lunch": "$1880–$1880",
+    "mon_thu_dinner": "$1980–$1980",
+    "mon_thu_tables": "5–10",
+    "friday_lunch": "$1880–$1880",
+    "friday_dinner": "$1980–$1980",
+    "friday_tables": "5–10",
+    "saturday_lunch": "$1880–$1880",
+    "saturday_dinner": "$1980–$1980",
+    "saturday_tables": "5–10",
+    "sunday_lunch": "$1880–$1880",
+    "sunday_dinner": "$1980–$1980",
+    "sunday_tables": "5–10"
+  },
+  {
+    "name": "Oasia Resort Sentosa",
+    "phone": "6512 2202",
+    "email": "events.sentosa@fareast.com.sg",
+    "address": "23 Beach View, Palawan Ridge, #01-01, Sentosa Island",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2180–$2180",
+        "dinner_price": "$2180–$2180",
+        "tables": "12–14"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2180–$2180",
+        "dinner_price": "$2180–$2180",
+        "tables": "12–14"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2480–$2480",
+        "dinner_price": "$2480–$2480",
+        "tables": "12–14"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2480–$2480",
+        "dinner_price": "$2480–$2480",
+        "tables": "12–14"
+      }
+    ],
+    "mon_thu_lunch": "$2180–$2180",
+    "mon_thu_dinner": "$2180–$2180",
+    "mon_thu_tables": "12–14",
+    "friday_lunch": "$2180–$2180",
+    "friday_dinner": "$2180–$2180",
+    "friday_tables": "12–14",
+    "saturday_lunch": "$2480–$2480",
+    "saturday_dinner": "$2480–$2480",
+    "saturday_tables": "12–14",
+    "sunday_lunch": "$2480–$2480",
+    "sunday_dinner": "$2480–$2480",
+    "sunday_tables": "12–14"
+  },
+  {
+    "name": "ONE°15 Marina Sentosa Cove",
+    "phone": "6305 6990",
+    "email": "weddings.sc@one15marina.com",
+    "address": "11 Cove Drive #01-01 Sentosa Cove",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2024–$2734",
+        "dinner_price": "$2024–$2734",
+        "tables": "3–36"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2024–$2734",
+        "dinner_price": "$2024–$2734",
+        "tables": "3–36"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2144–$2734",
+        "dinner_price": "$2144–$2734",
+        "tables": "3–36"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2024–$2734",
+        "dinner_price": "$2024–$2734",
+        "tables": "3–36"
+      }
+    ],
+    "mon_thu_lunch": "$2024–$2734",
+    "mon_thu_dinner": "$2024–$2734",
+    "mon_thu_tables": "3–36",
+    "friday_lunch": "$2024–$2734",
+    "friday_dinner": "$2024–$2734",
+    "friday_tables": "3–36",
+    "saturday_lunch": "$2144–$2734",
+    "saturday_dinner": "$2144–$2734",
+    "saturday_tables": "3–36",
+    "sunday_lunch": "$2024–$2734",
+    "sunday_dinner": "$2024–$2734",
+    "sunday_tables": "3–36"
+  },
+  {
+    "name": "One Farrer Hotel",
+    "phone": "6363 0101",
+    "email": "events@onefarrer.com",
+    "address": "1 Farrer Park Station Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2036–$2036",
+        "dinner_price": "$2264–$2264",
+        "tables": "16–45"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2036–$2036",
+        "dinner_price": "$2264–$2264",
+        "tables": "16–45"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2144–$2144",
+        "dinner_price": "$2384–$2384",
+        "tables": "16–45"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2144–$2144",
+        "dinner_price": "$2264–$2264",
+        "tables": "16–45"
+      }
+    ],
+    "mon_thu_lunch": "$2036–$2036",
+    "mon_thu_dinner": "$2264–$2264",
+    "mon_thu_tables": "16–45",
+    "friday_lunch": "$2036–$2036",
+    "friday_dinner": "$2264–$2264",
+    "friday_tables": "16–45",
+    "saturday_lunch": "$2144–$2144",
+    "saturday_dinner": "$2384–$2384",
+    "saturday_tables": "16–45",
+    "sunday_lunch": "$2144–$2144",
+    "sunday_dinner": "$2264–$2264",
+    "sunday_tables": "16–45"
+  },
+  {
+    "name": "Orchard Hotel Singapore",
+    "phone": "6739 6582",
+    "email": "PicturePerfectWeddings.OHS@millenniumhotels.com",
+    "address": "442 Orchard Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2024–$2024",
+        "dinner_price": "$2264–$2264",
+        "tables": "18–100"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2024–$2024",
+        "dinner_price": "$2384–$2743",
+        "tables": "18–100"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2144–$2144",
+        "dinner_price": "$2384–$2743",
+        "tables": "18–100"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2144–$2144",
+        "dinner_price": "$2264–$2264",
+        "tables": "18–100"
+      }
+    ],
+    "mon_thu_lunch": "$2024–$2024",
+    "mon_thu_dinner": "$2264–$2264",
+    "mon_thu_tables": "18–100",
+    "friday_lunch": "$2024–$2024",
+    "friday_dinner": "$2384–$2743",
+    "friday_tables": "18–100",
+    "saturday_lunch": "$2144–$2144",
+    "saturday_dinner": "$2384–$2743",
+    "saturday_tables": "18–100",
+    "sunday_lunch": "$2144–$2144",
+    "sunday_dinner": "$2264–$2264",
+    "sunday_tables": "18–100"
+  },
+  {
+    "name": "Orchid Country Club",
+    "phone": "6750 2166",
+    "email": "banquetsales@orchidclub.com",
+    "address": "No 1 Orchid Club Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1460–$1796",
+        "dinner_price": "$1460–$1796",
+        "tables": "10–100"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1460–$1796",
+        "dinner_price": "$1616–$1796",
+        "tables": "10–100"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1460–$1796",
+        "dinner_price": "$1616–$1796",
+        "tables": "10–100"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1460–$1796",
+        "dinner_price": "$1616–$1796",
+        "tables": "10–100"
+      }
+    ],
+    "mon_thu_lunch": "$1460–$1796",
+    "mon_thu_dinner": "$1460–$1796",
+    "mon_thu_tables": "10–100",
+    "friday_lunch": "$1460–$1796",
+    "friday_dinner": "$1616–$1796",
+    "friday_tables": "10–100",
+    "saturday_lunch": "$1460–$1796",
+    "saturday_dinner": "$1616–$1796",
+    "saturday_tables": "10–100",
+    "sunday_lunch": "$1460–$1796",
+    "sunday_dinner": "$1616–$1796",
+    "sunday_tables": "10–100"
+  },
+  {
+    "name": "Pan Pacific Orchard",
+    "phone": "6991 6888",
+    "email": "celebrate.ppsor@panpacific.com",
+    "address": "10 Claymore Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2504–$3583",
+        "dinner_price": "$2623–$3583",
+        "tables": "20–43"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2504–$3583",
+        "dinner_price": "$2623–$3583",
+        "tables": "20–43"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2623–$3583",
+        "dinner_price": "$2743–$3583",
+        "tables": "23–43"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2504–$3583",
+        "dinner_price": "$2623–$3583",
+        "tables": "20–43"
+      }
+    ],
+    "mon_thu_lunch": "$2504–$3583",
+    "mon_thu_dinner": "$2623–$3583",
+    "mon_thu_tables": "20–43",
+    "friday_lunch": "$2504–$3583",
+    "friday_dinner": "$2623–$3583",
+    "friday_tables": "20–43",
+    "saturday_lunch": "$2623–$3583",
+    "saturday_dinner": "$2743–$3583",
+    "saturday_tables": "23–43",
+    "sunday_lunch": "$2504–$3583",
+    "sunday_dinner": "$2623–$3583",
+    "sunday_tables": "20–43"
+  },
+  {
+    "name": "Pan Pacific Singapore",
+    "phone": "6826 8055",
+    "email": "celebrate.ppsin@panpacific.com",
+    "address": "7 Raffles Boulevard, Marina Square",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2264–$2396",
+        "dinner_price": "$2312–$2312",
+        "tables": "18–50"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2264–$2396",
+        "dinner_price": "$2635–$2635",
+        "tables": "18–50"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2264–$2396",
+        "dinner_price": "$2767–$2767",
+        "tables": "18–50"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2264–$2396",
+        "dinner_price": "$2767–$2767",
+        "tables": "18–50"
+      }
+    ],
+    "mon_thu_lunch": "$2264–$2396",
+    "mon_thu_dinner": "$2312–$2312",
+    "mon_thu_tables": "18–50",
+    "friday_lunch": "$2264–$2396",
+    "friday_dinner": "$2635–$2635",
+    "friday_tables": "18–50",
+    "saturday_lunch": "$2264–$2396",
+    "saturday_dinner": "$2767–$2767",
+    "saturday_tables": "18–50",
+    "sunday_lunch": "$2264–$2396",
+    "sunday_dinner": "$2767–$2767",
+    "sunday_tables": "18–50"
+  },
+  {
+    "name": "Paradox Singapore",
+    "phone": "6239 1752",
+    "email": "weddings@paradoxsingapore.com",
+    "address": "20 Merchant Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2024–$2024",
+        "dinner_price": "$2024–$2024",
+        "tables": "12–42"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2024–$2024",
+        "dinner_price": "$2024–$2024",
+        "tables": "12–42"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2024–$2024",
+        "dinner_price": "$2384–$2384",
+        "tables": "12–42"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2024–$2024",
+        "dinner_price": "$2264–$2264",
+        "tables": "12–42"
+      }
+    ],
+    "mon_thu_lunch": "$2024–$2024",
+    "mon_thu_dinner": "$2024–$2024",
+    "mon_thu_tables": "12–42",
+    "friday_lunch": "$2024–$2024",
+    "friday_dinner": "$2024–$2024",
+    "friday_tables": "12–42",
+    "saturday_lunch": "$2024–$2024",
+    "saturday_dinner": "$2384–$2384",
+    "saturday_tables": "12–42",
+    "sunday_lunch": "$2024–$2024",
+    "sunday_dinner": "$2264–$2264",
+    "sunday_tables": "12–42"
+  },
+  {
+    "name": "PARKROYAL COLLECTION Marina Bay, Singapore",
+    "phone": "6845 1018",
+    "email": "celebrate.prsmb@parkroyalcollection.com",
+    "address": "6 Raffles Boulevard",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2144–$2144",
+        "dinner_price": "$2144–$2144",
+        "tables": "15–50"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2144–$2144",
+        "dinner_price": "$2144–$2144",
+        "tables": "15–50"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2384–$2384",
+        "dinner_price": "$2743–$2743",
+        "tables": "15–50"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2384–$2384",
+        "dinner_price": "$2743–$2743",
+        "tables": "15–50"
+      }
+    ],
+    "mon_thu_lunch": "$2144–$2144",
+    "mon_thu_dinner": "$2144–$2144",
+    "mon_thu_tables": "15–50",
+    "friday_lunch": "$2144–$2144",
+    "friday_dinner": "$2144–$2144",
+    "friday_tables": "15–50",
+    "saturday_lunch": "$2384–$2384",
+    "saturday_dinner": "$2743–$2743",
+    "saturday_tables": "15–50",
+    "sunday_lunch": "$2384–$2384",
+    "sunday_dinner": "$2743–$2743",
+    "sunday_tables": "15–50"
+  },
+  {
+    "name": "PARKROYAL COLLECTION Pickering",
+    "phone": "6809 8849",
+    "email": "celebrate.prsps@parkroyalcollection.com",
+    "address": "3 Upper Pickering Street",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2264–$2264",
+        "dinner_price": "$2264–$2264",
+        "tables": "8–30"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2264–$2264",
+        "dinner_price": "$2264–$2264",
+        "tables": "8–30"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2635–$2635",
+        "dinner_price": "$2875–$2875",
+        "tables": "8–30"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2516–$2516",
+        "dinner_price": "$2516–$2516",
+        "tables": "8–30"
+      }
+    ],
+    "mon_thu_lunch": "$2264–$2264",
+    "mon_thu_dinner": "$2264–$2264",
+    "mon_thu_tables": "8–30",
+    "friday_lunch": "$2264–$2264",
+    "friday_dinner": "$2264–$2264",
+    "friday_tables": "8–30",
+    "saturday_lunch": "$2635–$2635",
+    "saturday_dinner": "$2875–$2875",
+    "saturday_tables": "8–30",
+    "sunday_lunch": "$2516–$2516",
+    "sunday_dinner": "$2516–$2516",
+    "sunday_tables": "8–30"
+  },
+  {
+    "name": "PARKROYAL on Beach Road",
+    "phone": "6505 5697",
+    "email": "celebrate.prsin@parkroyalhotels.com",
+    "address": "7500 Beach Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2000–$2000",
+        "dinner_price": "$2000–$2000",
+        "tables": "16–40"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2000–$2000",
+        "dinner_price": "$2120–$2120",
+        "tables": "16–40"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2240–$2240",
+        "dinner_price": "$2480–$2480",
+        "tables": "16–40"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2240–$2240",
+        "dinner_price": "$2240–$2240",
+        "tables": "16–40"
+      }
+    ],
+    "mon_thu_lunch": "$2000–$2000",
+    "mon_thu_dinner": "$2000–$2000",
+    "mon_thu_tables": "16–40",
+    "friday_lunch": "$2000–$2000",
+    "friday_dinner": "$2120–$2120",
+    "friday_tables": "16–40",
+    "saturday_lunch": "$2240–$2240",
+    "saturday_dinner": "$2480–$2480",
+    "saturday_tables": "16–40",
+    "sunday_lunch": "$2240–$2240",
+    "sunday_dinner": "$2240–$2240",
+    "sunday_tables": "16–40"
+  },
+  {
+    "name": "Peach Garden @ OCBC Centre",
+    "phone": "6252 9833",
+    "email": "banquet@peachgarden.com.sg",
+    "address": "65 Chulia Street #33-01 OCBC Centre",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1340–$2144",
+        "dinner_price": "$1340–$2144",
+        "tables": "10–36"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1724–$2144",
+        "dinner_price": "$1724–$2144",
+        "tables": "10–36"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1724–$2144",
+        "dinner_price": "$1724–$2144",
+        "tables": "10–36"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1724–$2144",
+        "dinner_price": "$1724–$2144",
+        "tables": "10–36"
+      }
+    ],
+    "mon_thu_lunch": "$1340–$2144",
+    "mon_thu_dinner": "$1340–$2144",
+    "mon_thu_tables": "10–36",
+    "friday_lunch": "$1724–$2144",
+    "friday_dinner": "$1724–$2144",
+    "friday_tables": "10–36",
+    "saturday_lunch": "$1724–$2144",
+    "saturday_dinner": "$1724–$2144",
+    "saturday_tables": "10–36",
+    "sunday_lunch": "$1724–$2144",
+    "sunday_dinner": "$1724–$2144",
+    "sunday_tables": "10–36"
+  },
+  {
+    "name": "Peach Garden @ The Heeren",
+    "phone": "6252 9833",
+    "email": "banquet@peachgarden.com.sg",
+    "address": "260 Orchard Rd, #05-02 The Heeren",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1400–$2180",
+        "dinner_price": "$1400–$2180",
+        "tables": "15–20"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1760–$2180",
+        "dinner_price": "$1760–$2180",
+        "tables": "15–20"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1760–$2180",
+        "dinner_price": "$1760–$2180",
+        "tables": "15–20"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1760–$2180",
+        "dinner_price": "$1760–$2180",
+        "tables": "15–20"
+      }
+    ],
+    "mon_thu_lunch": "$1400–$2180",
+    "mon_thu_dinner": "$1400–$2180",
+    "mon_thu_tables": "15–20",
+    "friday_lunch": "$1760–$2180",
+    "friday_dinner": "$1760–$2180",
+    "friday_tables": "15–20",
+    "saturday_lunch": "$1760–$2180",
+    "saturday_dinner": "$1760–$2180",
+    "saturday_tables": "15–20",
+    "sunday_lunch": "$1760–$2180",
+    "sunday_dinner": "$1760–$2180",
+    "sunday_tables": "15–20"
+  },
+  {
+    "name": "Peach Garden @ The Metropolis",
+    "phone": "8448 6198",
+    "email": "banquet@peachgarden.com.sg",
+    "address": "9 North Buona Vista Drive ,#02-02 The Metropolis Tower 1",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1340–$2024",
+        "dinner_price": "$1340–$2024",
+        "tables": "8–12"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1592–$2024",
+        "dinner_price": "$1592–$2024",
+        "tables": "8–12"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1592–$2024",
+        "dinner_price": "$1592–$2024",
+        "tables": "8–12"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1592–$2024",
+        "dinner_price": "$1592–$2024",
+        "tables": "8–12"
+      }
+    ],
+    "mon_thu_lunch": "$1340–$2024",
+    "mon_thu_dinner": "$1340–$2024",
+    "mon_thu_tables": "8–12",
+    "friday_lunch": "$1592–$2024",
+    "friday_dinner": "$1592–$2024",
+    "friday_tables": "8–12",
+    "saturday_lunch": "$1592–$2024",
+    "saturday_dinner": "$1592–$2024",
+    "saturday_tables": "8–12",
+    "sunday_lunch": "$1592–$2024",
+    "sunday_dinner": "$1592–$2024",
+    "sunday_tables": "8–12"
+  },
+  {
+    "name": "Peach Garden @ Thomson Plaza",
+    "phone": "8448 6198",
+    "email": "banquet@peachgarden.com.sg",
+    "address": "301 Upper Thomson Road\n#01-88, Thomson Plaza",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1340–$2024",
+        "dinner_price": "$1340–$2024",
+        "tables": "9–30"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1592–$2024",
+        "dinner_price": "$1592–$2024",
+        "tables": "9–30"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1592–$2024",
+        "dinner_price": "$1592–$2024",
+        "tables": "9–30"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1592–$2024",
+        "dinner_price": "$1592–$2024",
+        "tables": "9–30"
+      }
+    ],
+    "mon_thu_lunch": "$1340–$2024",
+    "mon_thu_dinner": "$1340–$2024",
+    "mon_thu_tables": "9–30",
+    "friday_lunch": "$1592–$2024",
+    "friday_dinner": "$1592–$2024",
+    "friday_tables": "9–30",
+    "saturday_lunch": "$1592–$2024",
+    "saturday_dinner": "$1592–$2024",
+    "saturday_tables": "9–30",
+    "sunday_lunch": "$1592–$2024",
+    "sunday_dinner": "$1592–$2024",
+    "sunday_tables": "9–30"
+  },
+  {
+    "name": "Peony Jade @ Amara Singapore",
+    "phone": "6276 8327",
+    "email": "hanrobert@quaysidedining.com",
+    "address": "165 Tg Pagar Rd, #2F AMARA Singapore, Singapore 088539",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1544–$1544",
+        "dinner_price": "$1544–$1544",
+        "tables": "12–20"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1664–$1664",
+        "dinner_price": "$1784–$1784",
+        "tables": "15–20"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1664–$1664",
+        "dinner_price": "$1784–$1784",
+        "tables": "15–20"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1664–$1664",
+        "dinner_price": "$1784–$1784",
+        "tables": "15–20"
+      }
+    ],
+    "mon_thu_lunch": "$1544–$1544",
+    "mon_thu_dinner": "$1544–$1544",
+    "mon_thu_tables": "12–20",
+    "friday_lunch": "$1664–$1664",
+    "friday_dinner": "$1784–$1784",
+    "friday_tables": "15–20",
+    "saturday_lunch": "$1664–$1664",
+    "saturday_dinner": "$1784–$1784",
+    "saturday_tables": "15–20",
+    "sunday_lunch": "$1664–$1664",
+    "sunday_dinner": "$1784–$1784",
+    "sunday_tables": "15–20"
+  },
+  {
+    "name": "Pullman Singapore Hill Street",
+    "phone": "6019 7888",
+    "email": "HB5L7-SM@accor.com",
+    "address": "1 Hill Street, Singapore 179949",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2384–$2623",
+        "dinner_price": "$2384–$2623",
+        "tables": "8–13"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2384–$2623",
+        "dinner_price": "$2384–$2623",
+        "tables": "8–13"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2623–$2863",
+        "dinner_price": "$2623–$2863",
+        "tables": "8–13"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2384–$2623",
+        "dinner_price": "$2384–$2623",
+        "tables": "8–13"
+      }
+    ],
+    "mon_thu_lunch": "$2384–$2623",
+    "mon_thu_dinner": "$2384–$2623",
+    "mon_thu_tables": "8–13",
+    "friday_lunch": "$2384–$2623",
+    "friday_dinner": "$2384–$2623",
+    "friday_tables": "8–13",
+    "saturday_lunch": "$2623–$2863",
+    "saturday_dinner": "$2623–$2863",
+    "saturday_tables": "8–13",
+    "sunday_lunch": "$2384–$2623",
+    "sunday_dinner": "$2384–$2623",
+    "sunday_tables": "8–13"
+  },
+  {
+    "name": "Qian Xi Bliss Garden",
+    "phone": "6789 1313",
+    "email": "Torrance.foo@qianxi.com.sg",
+    "address": "1 Expo Drive Singapore Expo #02-01, Singapore 486150",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "25–85"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "25–85"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "25–85"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "25–85"
+      }
+    ],
+    "mon_thu_lunch": "$1168–$1788",
+    "mon_thu_dinner": "$1168–$1788",
+    "mon_thu_tables": "25–85",
+    "friday_lunch": "$1168–$1788",
+    "friday_dinner": "$1168–$1788",
+    "friday_tables": "25–85",
+    "saturday_lunch": "$1168–$1788",
+    "saturday_dinner": "$1168–$1788",
+    "saturday_tables": "25–85",
+    "sunday_lunch": "$1168–$1788",
+    "sunday_dinner": "$1168–$1788",
+    "sunday_tables": "25–85"
+  },
+  {
+    "name": "Qian Xi Eternal Garden",
+    "phone": "6970 0002",
+    "email": "Torrance.foo@qianxi.com.sg",
+    "address": "190 Ang Mo Kio Ave 8 # 03-01",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "10–40"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "10–40"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "10–40"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "10–40"
+      }
+    ],
+    "mon_thu_lunch": "$1168–$1788",
+    "mon_thu_dinner": "$1168–$1788",
+    "mon_thu_tables": "10–40",
+    "friday_lunch": "$1168–$1788",
+    "friday_dinner": "$1168–$1788",
+    "friday_tables": "10–40",
+    "saturday_lunch": "$1168–$1788",
+    "saturday_dinner": "$1168–$1788",
+    "saturday_tables": "10–40",
+    "sunday_lunch": "$1168–$1788",
+    "sunday_dinner": "$1168–$1788",
+    "sunday_tables": "10–40"
+  },
+  {
+    "name": "Qian Xi Farrer Park",
+    "phone": "6295 1155",
+    "email": "Torrance.foo@qianxi.com.sg",
+    "address": "60 Tessensohn Road Civil Service Club",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "21–57"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "21–57"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "21–57"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "21–57"
+      }
+    ],
+    "mon_thu_lunch": "$1168–$1788",
+    "mon_thu_dinner": "$1168–$1788",
+    "mon_thu_tables": "21–57",
+    "friday_lunch": "$1168–$1788",
+    "friday_dinner": "$1168–$1788",
+    "friday_tables": "21–57",
+    "saturday_lunch": "$1168–$1788",
+    "saturday_dinner": "$1168–$1788",
+    "saturday_tables": "21–57",
+    "sunday_lunch": "$1168–$1788",
+    "sunday_dinner": "$1168–$1788",
+    "sunday_tables": "21–57"
+  },
+  {
+    "name": "Qian Xi Hilltop Garden",
+    "phone": "6316 5500",
+    "email": "Torrance.foo@qianxi.com.sg",
+    "address": "91 Bukit Batok West Ave 2 Civil Service Club",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "8–62"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "8–62"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "8–62"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "8–62"
+      }
+    ],
+    "mon_thu_lunch": "$1168–$1788",
+    "mon_thu_dinner": "$1168–$1788",
+    "mon_thu_tables": "8–62",
+    "friday_lunch": "$1168–$1788",
+    "friday_dinner": "$1168–$1788",
+    "friday_tables": "8–62",
+    "saturday_lunch": "$1168–$1788",
+    "saturday_dinner": "$1168–$1788",
+    "saturday_tables": "8–62",
+    "sunday_lunch": "$1168–$1788",
+    "sunday_dinner": "$1168–$1788",
+    "sunday_tables": "8–62"
+  },
+  {
+    "name": "Qian Xi Jubilee Garden",
+    "phone": "67458822",
+    "email": "Torrance.foo@qianxi.com.sg",
+    "address": "SAFRA Toa Payoh 293 Lor 6 Toa Payoh #03-01",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "22–116"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "22–116"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "22–116"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "22–116"
+      }
+    ],
+    "mon_thu_lunch": "$1168–$1788",
+    "mon_thu_dinner": "$1168–$1788",
+    "mon_thu_tables": "22–116",
+    "friday_lunch": "$1168–$1788",
+    "friday_dinner": "$1168–$1788",
+    "friday_tables": "22–116",
+    "saturday_lunch": "$1168–$1788",
+    "saturday_dinner": "$1168–$1788",
+    "saturday_tables": "22–116",
+    "sunday_lunch": "$1168–$1788",
+    "sunday_dinner": "$1168–$1788",
+    "sunday_tables": "22–116"
+  },
+  {
+    "name": "Qian Xi Pearl Garden",
+    "phone": "6316 9595",
+    "email": "Torrance.foo@qianxi.com.sg",
+    "address": "333 Boon Lay Way SAFRA Jurong",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "17–120"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "17–120"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "17–120"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "17–120"
+      }
+    ],
+    "mon_thu_lunch": "$1168–$1788",
+    "mon_thu_dinner": "$1168–$1788",
+    "mon_thu_tables": "17–120",
+    "friday_lunch": "$1168–$1788",
+    "friday_dinner": "$1168–$1788",
+    "friday_tables": "17–120",
+    "saturday_lunch": "$1168–$1788",
+    "saturday_dinner": "$1168–$1788",
+    "saturday_tables": "17–120",
+    "sunday_lunch": "$1168–$1788",
+    "sunday_dinner": "$1168–$1788",
+    "sunday_tables": "17–120"
+  },
+  {
+    "name": "Qian Xi Summer Garden",
+    "phone": "6276 9119",
+    "email": "Torrance.foo@qianxi.com.sg",
+    "address": "2 Telok Blangah Way SAFRA Mount Faber Club #02-05",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "10–90"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "10–90"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "10–90"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1168–$1788",
+        "dinner_price": "$1168–$1788",
+        "tables": "10–90"
+      }
+    ],
+    "mon_thu_lunch": "$1168–$1788",
+    "mon_thu_dinner": "$1168–$1788",
+    "mon_thu_tables": "10–90",
+    "friday_lunch": "$1168–$1788",
+    "friday_dinner": "$1168–$1788",
+    "friday_tables": "10–90",
+    "saturday_lunch": "$1168–$1788",
+    "saturday_dinner": "$1168–$1788",
+    "saturday_tables": "10–90",
+    "sunday_lunch": "$1168–$1788",
+    "sunday_dinner": "$1168–$1788",
+    "sunday_tables": "10–90"
+  },
+  {
+    "name": "Raffles Marina",
+    "phone": "6869 1880",
+    "email": "sales@rafflesmarina.com.sg",
+    "address": "10 Tuas West Drive",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1424–$1544",
+        "dinner_price": "$1424–$1544",
+        "tables": "5–36"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1424–$1544",
+        "dinner_price": "$1424–$1544",
+        "tables": "5–36"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1424–$1544",
+        "dinner_price": "$1424–$1544",
+        "tables": "5–36"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1424–$1544",
+        "dinner_price": "$1424–$1544",
+        "tables": "5–36"
+      }
+    ],
+    "mon_thu_lunch": "$1424–$1544",
+    "mon_thu_dinner": "$1424–$1544",
+    "mon_thu_tables": "5–36",
+    "friday_lunch": "$1424–$1544",
+    "friday_dinner": "$1424–$1544",
+    "friday_tables": "5–36",
+    "saturday_lunch": "$1424–$1544",
+    "saturday_dinner": "$1424–$1544",
+    "saturday_tables": "5–36",
+    "sunday_lunch": "$1424–$1544",
+    "sunday_dinner": "$1424–$1544",
+    "sunday_tables": "5–36"
+  },
+  {
+    "name": "Raffles Sentosa Singapore",
+    "phone": "6032 4618",
+    "email": "HB5Q2@raffles.com",
+    "address": "4 Bukit Manis Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$3933–$4412",
+        "dinner_price": "$3933–$4412",
+        "tables": "25–40"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$3933–$4412",
+        "dinner_price": "$3933–$4412",
+        "tables": "25–40"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$3933–$4412",
+        "dinner_price": "$3933–$4412",
+        "tables": "25–40"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$3933–$4412",
+        "dinner_price": "$3933–$4412",
+        "tables": "25–40"
+      }
+    ],
+    "mon_thu_lunch": "$3933–$4412",
+    "mon_thu_dinner": "$3933–$4412",
+    "mon_thu_tables": "25–40",
+    "friday_lunch": "$3933–$4412",
+    "friday_dinner": "$3933–$4412",
+    "friday_tables": "25–40",
+    "saturday_lunch": "$3933–$4412",
+    "saturday_dinner": "$3933–$4412",
+    "saturday_tables": "25–40",
+    "sunday_lunch": "$3933–$4412",
+    "sunday_dinner": "$3933–$4412",
+    "sunday_tables": "25–40"
+  },
+  {
+    "name": "Raffles Singapore",
+    "phone": "6412 1335",
+    "email": "weddings.singapore@raffles.com",
+    "address": "1 Beach Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$3093–$3333",
+        "dinner_price": "$3093–$3333",
+        "tables": "8–27"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$3093–$3333",
+        "dinner_price": "$3093–$3333",
+        "tables": "8–27"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$3093–$3333",
+        "dinner_price": "$3333–$3693",
+        "tables": "8–27"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$3093–$3333",
+        "dinner_price": "$3093–$3333",
+        "tables": "8–27"
+      }
+    ],
+    "mon_thu_lunch": "$3093–$3333",
+    "mon_thu_dinner": "$3093–$3333",
+    "mon_thu_tables": "8–27",
+    "friday_lunch": "$3093–$3333",
+    "friday_dinner": "$3093–$3333",
+    "friday_tables": "8–27",
+    "saturday_lunch": "$3093–$3333",
+    "saturday_dinner": "$3333–$3693",
+    "saturday_tables": "8–27",
+    "sunday_lunch": "$3093–$3333",
+    "sunday_dinner": "$3093–$3333",
+    "sunday_tables": "8–27"
+  },
+  {
+    "name": "Red House Seafood",
+    "phone": "6735 7666",
+    "email": "events@redhouseseafood.com",
+    "address": "392 Havelock Rd, Level 2 Grand Copthorne Waterfront, Singapore 169663",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2024–$2734",
+        "dinner_price": "$2024–$2734",
+        "tables": "1–14"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2024–$2734",
+        "dinner_price": "$2024–$2734",
+        "tables": "1–14"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2024–$2734",
+        "dinner_price": "$2024–$2734",
+        "tables": "1–14"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2024–$2734",
+        "dinner_price": "$2024–$2734",
+        "tables": "1–14"
+      }
+    ],
+    "mon_thu_lunch": "$2024–$2734",
+    "mon_thu_dinner": "$2024–$2734",
+    "mon_thu_tables": "1–14",
+    "friday_lunch": "$2024–$2734",
+    "friday_dinner": "$2024–$2734",
+    "friday_tables": "1–14",
+    "saturday_lunch": "$2024–$2734",
+    "saturday_dinner": "$2024–$2734",
+    "saturday_tables": "1–14",
+    "sunday_lunch": "$2024–$2734",
+    "sunday_dinner": "$2024–$2734",
+    "sunday_tables": "1–14"
+  },
+  {
+    "name": "Rendezvous Hotel Singapore at Bras Basah",
+    "phone": "6708 7728",
+    "email": "sales.rhs@fareast.com.sg",
+    "address": "9 Bras Basah Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1725–$1725",
+        "dinner_price": "$1725–$1725",
+        "tables": "10–15"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1725–$1725",
+        "dinner_price": "$1905–$1905",
+        "tables": "10–15"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1725–$1725",
+        "dinner_price": "$1905–$1905",
+        "tables": "10–15"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1725–$1725",
+        "dinner_price": "$1905–$1905",
+        "tables": "10–15"
+      }
+    ],
+    "mon_thu_lunch": "$1725–$1725",
+    "mon_thu_dinner": "$1725–$1725",
+    "mon_thu_tables": "10–15",
+    "friday_lunch": "$1725–$1725",
+    "friday_dinner": "$1905–$1905",
+    "friday_tables": "10–15",
+    "saturday_lunch": "$1725–$1725",
+    "saturday_dinner": "$1905–$1905",
+    "saturday_tables": "10–15",
+    "sunday_lunch": "$1725–$1725",
+    "sunday_dinner": "$1905–$1905",
+    "sunday_tables": "10–15"
+  },
+  {
+    "name": "Resorts World Sentosa, Convention Centre",
+    "phone": "6577 6868",
+    "email": "weddings@RWSentosa.com",
+    "address": "8 Sentosa Gateway, Sentosa",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2264–$2384",
+        "dinner_price": "$2264–$2504",
+        "tables": "15–196"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2264–$2384",
+        "dinner_price": "$2384–$2504",
+        "tables": "15–196"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2264–$2384",
+        "dinner_price": "$2384–$2504",
+        "tables": "15–196"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2264–$2384",
+        "dinner_price": "$2264–$2504",
+        "tables": "15–196"
+      }
+    ],
+    "mon_thu_lunch": "$2264–$2384",
+    "mon_thu_dinner": "$2264–$2504",
+    "mon_thu_tables": "15–196",
+    "friday_lunch": "$2264–$2384",
+    "friday_dinner": "$2384–$2504",
+    "friday_tables": "15–196",
+    "saturday_lunch": "$2264–$2384",
+    "saturday_dinner": "$2384–$2504",
+    "saturday_tables": "15–196",
+    "sunday_lunch": "$2264–$2384",
+    "sunday_dinner": "$2264–$2504",
+    "sunday_tables": "15–196"
+  },
+  {
+    "name": "Resorts World Sentosa, Equarius Hotel",
+    "phone": "6577 6868",
+    "email": "weddings@RWSentosa.com",
+    "address": "8 Sentosa Gateway, Sentosa",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2264–$2504",
+        "dinner_price": "$2504–$2743",
+        "tables": "8–52"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2384–$2504",
+        "dinner_price": "$2623–$2743",
+        "tables": "8–52"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2384–$2504",
+        "dinner_price": "$2623–$2743",
+        "tables": "8–52"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2264–$2504",
+        "dinner_price": "$2504–$2743",
+        "tables": "8–52"
+      }
+    ],
+    "mon_thu_lunch": "$2264–$2504",
+    "mon_thu_dinner": "$2504–$2743",
+    "mon_thu_tables": "8–52",
+    "friday_lunch": "$2384–$2504",
+    "friday_dinner": "$2623–$2743",
+    "friday_tables": "8–52",
+    "saturday_lunch": "$2384–$2504",
+    "saturday_dinner": "$2623–$2743",
+    "saturday_tables": "8–52",
+    "sunday_lunch": "$2264–$2504",
+    "sunday_dinner": "$2504–$2743",
+    "sunday_tables": "8–52"
+  },
+  {
+    "name": "Resorts World Sentosa, S.E.A. Aquarium",
+    "phone": "6577 6868",
+    "email": "weddings@RWSentosa.com",
+    "address": "8 Sentosa Gateway, Sentosa",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "",
+        "dinner_price": "$3573–$3813",
+        "tables": "15–26"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "",
+        "dinner_price": "$3693–$3813",
+        "tables": "20–26"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "",
+        "dinner_price": "$3693–$3813",
+        "tables": "20–26"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "",
+        "dinner_price": "$3573–$3813",
+        "tables": "15–26"
+      }
+    ],
+    "mon_thu_lunch": "",
+    "mon_thu_dinner": "$3573–$3813",
+    "mon_thu_tables": "15–26",
+    "friday_lunch": "",
+    "friday_dinner": "$3693–$3813",
+    "friday_tables": "20–26",
+    "saturday_lunch": "",
+    "saturday_dinner": "$3693–$3813",
+    "saturday_tables": "20–26",
+    "sunday_lunch": "",
+    "sunday_dinner": "$3573–$3813",
+    "sunday_tables": "15–26"
+  },
+  {
+    "name": "Royal Plaza on Scotts",
+    "phone": "6589 7714",
+    "email": "bqt@royalplaza.com.sg",
+    "address": "25 Scotts Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1655–$1904",
+        "dinner_price": "$1655–$1904",
+        "tables": "6–11"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1655–$1904",
+        "dinner_price": "$2254–$2384",
+        "tables": "6–11"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2254–$2384",
+        "dinner_price": "$2254–$2384",
+        "tables": "6–11"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2254–$2384",
+        "dinner_price": "$2014–$2144",
+        "tables": "6–11"
+      }
+    ],
+    "mon_thu_lunch": "$1655–$1904",
+    "mon_thu_dinner": "$1655–$1904",
+    "mon_thu_tables": "6–11",
+    "friday_lunch": "$1655–$1904",
+    "friday_dinner": "$2254–$2384",
+    "friday_tables": "6–11",
+    "saturday_lunch": "$2254–$2384",
+    "saturday_dinner": "$2254–$2384",
+    "saturday_tables": "6–11",
+    "sunday_lunch": "$2254–$2384",
+    "sunday_dinner": "$2014–$2144",
+    "sunday_tables": "6–11"
+  },
+  {
+    "name": "Seletar Country Club",
+    "phone": "6486 0872",
+    "email": "banquets@seletarclub.com.sg",
+    "address": "101 Seletar Club Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1185–$1185",
+        "dinner_price": "$1424–$1424",
+        "tables": "8–24"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1305–$1305",
+        "dinner_price": "$1664–$1664",
+        "tables": "8–24"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1305–$1305",
+        "dinner_price": "$1664–$1664",
+        "tables": "8–24"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1305–$1305",
+        "dinner_price": "$1664–$1664",
+        "tables": "8–24"
+      }
+    ],
+    "mon_thu_lunch": "$1185–$1185",
+    "mon_thu_dinner": "$1424–$1424",
+    "mon_thu_tables": "8–24",
+    "friday_lunch": "$1305–$1305",
+    "friday_dinner": "$1664–$1664",
+    "friday_tables": "8–24",
+    "saturday_lunch": "$1305–$1305",
+    "saturday_dinner": "$1664–$1664",
+    "saturday_tables": "8–24",
+    "sunday_lunch": "$1305–$1305",
+    "sunday_dinner": "$1664–$1664",
+    "sunday_tables": "8–24"
+  },
+  {
+    "name": "Sentosa Golf Club",
+    "phone": "6373 7135 / 6373 7155",
+    "email": "sgc_sales@sentosagolf.com",
+    "address": "27 Bukit Manis Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1664–$1904",
+        "dinner_price": "$1964–$2563",
+        "tables": "10–23"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1664–$1904",
+        "dinner_price": "$1964–$2563",
+        "tables": "10–23"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1784–$2024",
+        "dinner_price": "$2084–$2683",
+        "tables": "10–23"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1724–$1964",
+        "dinner_price": "$2024–$2623",
+        "tables": "10–23"
+      }
+    ],
+    "mon_thu_lunch": "$1664–$1904",
+    "mon_thu_dinner": "$1964–$2563",
+    "mon_thu_tables": "10–23",
+    "friday_lunch": "$1664–$1904",
+    "friday_dinner": "$1964–$2563",
+    "friday_tables": "10–23",
+    "saturday_lunch": "$1784–$2024",
+    "saturday_dinner": "$2084–$2683",
+    "saturday_tables": "10–23",
+    "sunday_lunch": "$1724–$1964",
+    "sunday_dinner": "$2024–$2623",
+    "sunday_tables": "10–23"
+  },
+  {
+    "name": "Serangoon Gardens Country Club",
+    "phone": "6398 5365",
+    "email": "banquetsales@sgcc.com.sg",
+    "address": "22 Kensington Park Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1424–$1424",
+        "dinner_price": "$1424–$1424",
+        "tables": "12–50"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1664–$1664",
+        "dinner_price": "$1664–$1664",
+        "tables": "12–50"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1664–$1664",
+        "dinner_price": "$1664–$1664",
+        "tables": "12–50"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1664–$1664",
+        "dinner_price": "$1664–$1664",
+        "tables": "12–50"
+      }
+    ],
+    "mon_thu_lunch": "$1424–$1424",
+    "mon_thu_dinner": "$1424–$1424",
+    "mon_thu_tables": "12–50",
+    "friday_lunch": "$1664–$1664",
+    "friday_dinner": "$1664–$1664",
+    "friday_tables": "12–50",
+    "saturday_lunch": "$1664–$1664",
+    "saturday_dinner": "$1664–$1664",
+    "saturday_tables": "12–50",
+    "sunday_lunch": "$1664–$1664",
+    "sunday_dinner": "$1664–$1664",
+    "sunday_tables": "12–50"
+  },
+  {
+    "name": "Shangri-La Rasa Sentosa, Singapore",
+    "phone": "6371 2985",
+    "email": "weddings.sen@shangri-la.com",
+    "address": "101 Siloso Road, Sentosa",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2494–$2734",
+        "dinner_price": "$2614–$2974",
+        "tables": "8–36"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2494–$2734",
+        "dinner_price": "$2614–$2974",
+        "tables": "8–36"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2494–$2734",
+        "dinner_price": "$2614–$2974",
+        "tables": "8–36"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2494–$2734",
+        "dinner_price": "$2614–$2974",
+        "tables": "8–36"
+      }
+    ],
+    "mon_thu_lunch": "$2494–$2734",
+    "mon_thu_dinner": "$2614–$2974",
+    "mon_thu_tables": "8–36",
+    "friday_lunch": "$2494–$2734",
+    "friday_dinner": "$2614–$2974",
+    "friday_tables": "8–36",
+    "saturday_lunch": "$2494–$2734",
+    "saturday_dinner": "$2614–$2974",
+    "saturday_tables": "8–36",
+    "sunday_lunch": "$2494–$2734",
+    "sunday_dinner": "$2614–$2974",
+    "sunday_tables": "8–36"
+  },
+  {
+    "name": "Shangri-La Singapore",
+    "phone": "6213 4339",
+    "email": "perfectcelebrations.sls@shangri-la.com",
+    "address": "22 Orange Grove Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2384–$2623",
+        "dinner_price": "$2623–$3223",
+        "tables": "6–100"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2384–$2623",
+        "dinner_price": "$2623–$3223",
+        "tables": "6–100"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2384–$2623",
+        "dinner_price": "$2623–$3223",
+        "tables": "6–100"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2384–$2623",
+        "dinner_price": "$2623–$3223",
+        "tables": "6–100"
+      }
+    ],
+    "mon_thu_lunch": "$2384–$2623",
+    "mon_thu_dinner": "$2623–$3223",
+    "mon_thu_tables": "6–100",
+    "friday_lunch": "$2384–$2623",
+    "friday_dinner": "$2623–$3223",
+    "friday_tables": "6–100",
+    "saturday_lunch": "$2384–$2623",
+    "saturday_dinner": "$2623–$3223",
+    "saturday_tables": "6–100",
+    "sunday_lunch": "$2384–$2623",
+    "sunday_dinner": "$2623–$3223",
+    "sunday_tables": "6–100"
+  },
+  {
+    "name": "Sheraton Towers Singapore",
+    "phone": "6839 5832",
+    "email": "weddings@sheratonsingapore.com",
+    "address": "39 Scotts Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2144–$2144",
+        "dinner_price": "$2144–$2144",
+        "tables": "10–40"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2144–$2144",
+        "dinner_price": "$2444–$2444",
+        "tables": "10–40"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2144–$2144",
+        "dinner_price": "$2444–$2444",
+        "tables": "10–40"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2144–$2144",
+        "dinner_price": "$2444–$2444",
+        "tables": "10–40"
+      }
+    ],
+    "mon_thu_lunch": "$2144–$2144",
+    "mon_thu_dinner": "$2144–$2144",
+    "mon_thu_tables": "10–40",
+    "friday_lunch": "$2144–$2144",
+    "friday_dinner": "$2444–$2444",
+    "friday_tables": "10–40",
+    "saturday_lunch": "$2144–$2144",
+    "saturday_dinner": "$2444–$2444",
+    "saturday_tables": "10–40",
+    "sunday_lunch": "$2144–$2144",
+    "sunday_dinner": "$2444–$2444",
+    "sunday_tables": "10–40"
+  },
+  {
+    "name": "Shisen Hanten",
+    "phone": "6831 6262",
+    "email": "shisenhanten@ouerestaurants.com",
+    "address": "Level 35, 333 Orchard Road, Hilton Singapore Orchard, Singapore 238867",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2374–$2374",
+        "dinner_price": "$2734–$2734",
+        "tables": "10–12"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2374–$2374",
+        "dinner_price": "$2734–$2734",
+        "tables": "10–12"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2374–$2374",
+        "dinner_price": "$2734–$2734",
+        "tables": "10–12"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2374–$2374",
+        "dinner_price": "$2734–$2734",
+        "tables": "10–12"
+      }
+    ],
+    "mon_thu_lunch": "$2374–$2374",
+    "mon_thu_dinner": "$2734–$2734",
+    "mon_thu_tables": "10–12",
+    "friday_lunch": "$2374–$2374",
+    "friday_dinner": "$2734–$2734",
+    "friday_tables": "10–12",
+    "saturday_lunch": "$2374–$2374",
+    "saturday_dinner": "$2734–$2734",
+    "saturday_tables": "10–12",
+    "sunday_lunch": "$2374–$2374",
+    "sunday_dinner": "$2734–$2734",
+    "sunday_tables": "10–12"
+  },
+  {
+    "name": "Si Chuan Dou Hua Restaurant at Top of UOB Plaza",
+    "phone": "6535 6006",
+    "email": "top@sichuandouhua.com",
+    "address": "80 Raffles Place, #60-01 UOB Plaza 1",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1784–$2374",
+        "dinner_price": "$1784–$2374",
+        "tables": "10–24"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1784–$2374",
+        "dinner_price": "$1784–$2374",
+        "tables": "10–24"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1784–$2374",
+        "dinner_price": "$1784–$2374",
+        "tables": "10–24"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1784–$2374",
+        "dinner_price": "$1784–$2374",
+        "tables": "10–24"
+      }
+    ],
+    "mon_thu_lunch": "$1784–$2374",
+    "mon_thu_dinner": "$1784–$2374",
+    "mon_thu_tables": "10–24",
+    "friday_lunch": "$1784–$2374",
+    "friday_dinner": "$1784–$2374",
+    "friday_tables": "10–24",
+    "saturday_lunch": "$1784–$2374",
+    "saturday_dinner": "$1784–$2374",
+    "saturday_tables": "10–24",
+    "sunday_lunch": "$1784–$2374",
+    "sunday_dinner": "$1784–$2374",
+    "sunday_tables": "10–24"
+  },
+  {
+    "name": "Singapore Marriott Tang Plaza Hotel",
+    "phone": "6831 4769",
+    "email": "mhrs.sindt.sales@marriotthotels.com",
+    "address": "320 Orchard Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "",
+        "dinner_price": "",
+        "tables": "–"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "",
+        "dinner_price": "$2384–$2839",
+        "tables": "25–45"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2084–$2839",
+        "dinner_price": "$2384–$2839",
+        "tables": "25–45"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2084–$2839",
+        "dinner_price": "$2384–$2839",
+        "tables": "25–45"
+      }
+    ],
+    "mon_thu_lunch": "",
+    "mon_thu_dinner": "",
+    "mon_thu_tables": "–",
+    "friday_lunch": "",
+    "friday_dinner": "$2384–$2839",
+    "friday_tables": "25–45",
+    "saturday_lunch": "$2084–$2839",
+    "saturday_dinner": "$2384–$2839",
+    "saturday_tables": "25–45",
+    "sunday_lunch": "$2084–$2839",
+    "sunday_dinner": "$2384–$2839",
+    "sunday_tables": "25–45"
+  },
+  {
+    "name": "Singapore Recreation Club",
+    "phone": "6595 0500",
+    "email": "banquet.fnb@src.org.sg",
+    "address": "Connaught Dr, B",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1424–$1904",
+        "dinner_price": "$1424–$1904",
+        "tables": "9–22"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1424–$1904",
+        "dinner_price": "$1424–$1904",
+        "tables": "9–22"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1424–$1904",
+        "dinner_price": "$1424–$1904",
+        "tables": "9–22"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1424–$1904",
+        "dinner_price": "$1424–$1904",
+        "tables": "9–22"
+      }
+    ],
+    "mon_thu_lunch": "$1424–$1904",
+    "mon_thu_dinner": "$1424–$1904",
+    "mon_thu_tables": "9–22",
+    "friday_lunch": "$1424–$1904",
+    "friday_dinner": "$1424–$1904",
+    "friday_tables": "9–22",
+    "saturday_lunch": "$1424–$1904",
+    "saturday_dinner": "$1424–$1904",
+    "saturday_tables": "9–22",
+    "sunday_lunch": "$1424–$1904",
+    "sunday_dinner": "$1424–$1904",
+    "sunday_tables": "9–22"
+  },
+  {
+    "name": "Singapore Swimming Club",
+    "phone": "6916 4031 | 6342 3675",
+    "email": "banquet@sswimclub.org.sg",
+    "address": "45 Tanjong Rhu Rd",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1077–$1424",
+        "dinner_price": "$1077–$1424",
+        "tables": "20–40"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1077–$1424",
+        "dinner_price": "$1415–$1424",
+        "tables": "20–40"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1077–$1424",
+        "dinner_price": "$1415–$1424",
+        "tables": "20–40"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1077–$1424",
+        "dinner_price": "$1415–$1424",
+        "tables": "20–40"
+      }
+    ],
+    "mon_thu_lunch": "$1077–$1424",
+    "mon_thu_dinner": "$1077–$1424",
+    "mon_thu_tables": "20–40",
+    "friday_lunch": "$1077–$1424",
+    "friday_dinner": "$1415–$1424",
+    "friday_tables": "20–40",
+    "saturday_lunch": "$1077–$1424",
+    "saturday_dinner": "$1415–$1424",
+    "saturday_tables": "20–40",
+    "sunday_lunch": "$1077–$1424",
+    "sunday_dinner": "$1415–$1424",
+    "sunday_tables": "20–40"
+  },
+  {
+    "name": "Sky Garden Sentosa",
+    "phone": "6571 0002",
+    "email": "info@skygardensentosa.com",
+    "address": "43 Siloso Beach Walk",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1894–$2374",
+        "dinner_price": "$2014–$2494",
+        "tables": "10–16"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2134–$2614",
+        "dinner_price": "$2134–$2614",
+        "tables": "12–16"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2254–$2734",
+        "dinner_price": "$2254–$2734",
+        "tables": "12–16"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2134–$2614",
+        "dinner_price": "$2134–$2614",
+        "tables": "12–16"
+      }
+    ],
+    "mon_thu_lunch": "$1894–$2374",
+    "mon_thu_dinner": "$2014–$2494",
+    "mon_thu_tables": "10–16",
+    "friday_lunch": "$2134–$2614",
+    "friday_dinner": "$2134–$2614",
+    "friday_tables": "12–16",
+    "saturday_lunch": "$2254–$2734",
+    "saturday_dinner": "$2254–$2734",
+    "saturday_tables": "12–16",
+    "sunday_lunch": "$2134–$2614",
+    "sunday_dinner": "$2134–$2614",
+    "sunday_tables": "12–16"
+  },
+  {
+    "name": "Sofitel Singapore City Centre",
+    "phone": "6428 5049",
+    "email": "beverly.goh@sofitel.com",
+    "address": "9 Wallich Street",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "",
+        "dinner_price": "",
+        "tables": "–"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2084–$2254",
+        "dinner_price": "$2204–$2254",
+        "tables": "8–32"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2324–$2494",
+        "dinner_price": "$2444–$2494",
+        "tables": "8–32"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2084–$2254",
+        "dinner_price": "$2204–$2254",
+        "tables": "8–32"
+      }
+    ],
+    "mon_thu_lunch": "",
+    "mon_thu_dinner": "",
+    "mon_thu_tables": "–",
+    "friday_lunch": "$2084–$2254",
+    "friday_dinner": "$2204–$2254",
+    "friday_tables": "8–32",
+    "saturday_lunch": "$2324–$2494",
+    "saturday_dinner": "$2444–$2494",
+    "saturday_tables": "8–32",
+    "sunday_lunch": "$2084–$2254",
+    "sunday_dinner": "$2204–$2254",
+    "sunday_tables": "8–32"
+  },
+  {
+    "name": "Sofitel Singapore Sentosa Resort & Spa",
+    "phone": "6708 8310",
+    "email": "h9474@sofitel.com",
+    "address": "2 Bukit Manis Road Sentosa",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2144–$2974",
+        "dinner_price": "$2192–$3213",
+        "tables": "5–24"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2144–$2974",
+        "dinner_price": "$2324–$3213",
+        "tables": "5–24"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2144–$2974",
+        "dinner_price": "$2384–$3213",
+        "tables": "5–24"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2144–$2974",
+        "dinner_price": "$2324–$3213",
+        "tables": "5–24"
+      }
+    ],
+    "mon_thu_lunch": "$2144–$2974",
+    "mon_thu_dinner": "$2192–$3213",
+    "mon_thu_tables": "5–24",
+    "friday_lunch": "$2144–$2974",
+    "friday_dinner": "$2324–$3213",
+    "friday_tables": "5–24",
+    "saturday_lunch": "$2144–$2974",
+    "saturday_dinner": "$2384–$3213",
+    "saturday_tables": "5–24",
+    "sunday_lunch": "$2144–$2974",
+    "sunday_dinner": "$2324–$3213",
+    "sunday_tables": "5–24"
+  },
+  {
+    "name": "Spring Court",
+    "phone": "6449 5030",
+    "email": "resevations@springcourt.com.sg",
+    "address": "52-56 Upper Cross St, Singapore 058348",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1065–$1664",
+        "dinner_price": "$1065–$1664",
+        "tables": "12–18"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1065–$1664",
+        "dinner_price": "$1065–$1664",
+        "tables": "12–18"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1065–$1664",
+        "dinner_price": "$1065–$1664",
+        "tables": "12–18"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1065–$1664",
+        "dinner_price": "$1065–$1664",
+        "tables": "12–18"
+      }
+    ],
+    "mon_thu_lunch": "$1065–$1664",
+    "mon_thu_dinner": "$1065–$1664",
+    "mon_thu_tables": "12–18",
+    "friday_lunch": "$1065–$1664",
+    "friday_dinner": "$1065–$1664",
+    "friday_tables": "12–18",
+    "saturday_lunch": "$1065–$1664",
+    "saturday_dinner": "$1065–$1664",
+    "saturday_tables": "12–18",
+    "sunday_lunch": "$1065–$1664",
+    "sunday_dinner": "$1065–$1664",
+    "sunday_tables": "12–18"
+  },
+  {
+    "name": "The Barracks Hotel Sentosa",
+    "phone": "6722 0802",
+    "email": "info.tbh@fareast.com.sg",
+    "address": "2 Gunner Lane, Palawan Ridge",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "",
+        "dinner_price": "$7794–$7794",
+        "tables": "20–26"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "",
+        "dinner_price": "$7794–$7794",
+        "tables": "20–26"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "",
+        "dinner_price": "$7794–$7794",
+        "tables": "20–26"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "",
+        "dinner_price": "$7794–$7794",
+        "tables": "20–26"
+      }
+    ],
+    "mon_thu_lunch": "",
+    "mon_thu_dinner": "$7794–$7794",
+    "mon_thu_tables": "20–26",
+    "friday_lunch": "",
+    "friday_dinner": "$7794–$7794",
+    "friday_tables": "20–26",
+    "saturday_lunch": "",
+    "saturday_dinner": "$7794–$7794",
+    "saturday_tables": "20–26",
+    "sunday_lunch": "",
+    "sunday_dinner": "$7794–$7794",
+    "sunday_tables": "20–26"
+  },
+  {
+    "name": "The Capitol Kempinski Hotel Singapore",
+    "phone": "6715 6824",
+    "email": "weddings.singapore@kempinski.com",
+    "address": "15 Stamford Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$3093–$4652",
+        "dinner_price": "$3453–$4652",
+        "tables": "8–30"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$3093–$4652",
+        "dinner_price": "$3453–$4652",
+        "tables": "8–30"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$3093–$4652",
+        "dinner_price": "$3453–$4652",
+        "tables": "8–30"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$3093–$4652",
+        "dinner_price": "$3453–$4652",
+        "tables": "8–30"
+      }
+    ],
+    "mon_thu_lunch": "$3093–$4652",
+    "mon_thu_dinner": "$3453–$4652",
+    "mon_thu_tables": "8–30",
+    "friday_lunch": "$3093–$4652",
+    "friday_dinner": "$3453–$4652",
+    "friday_tables": "8–30",
+    "saturday_lunch": "$3093–$4652",
+    "saturday_dinner": "$3453–$4652",
+    "saturday_tables": "8–30",
+    "sunday_lunch": "$3093–$4652",
+    "sunday_dinner": "$3453–$4652",
+    "sunday_tables": "8–30"
+  },
+  {
+    "name": "The Chevrons @ Jurong East",
+    "phone": "6668 8865",
+    "email": "sales@chevrons.org.sg",
+    "address": "48 Boon Lay Way",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1233–$1424",
+        "dinner_price": "$1233–$1424",
+        "tables": "5–48"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1233–$1424",
+        "dinner_price": "$1233–$1424",
+        "tables": "5–48"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1233–$1424",
+        "dinner_price": "$1233–$1424",
+        "tables": "5–48"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1233–$1424",
+        "dinner_price": "$1233–$1424",
+        "tables": "5–48"
+      }
+    ],
+    "mon_thu_lunch": "$1233–$1424",
+    "mon_thu_dinner": "$1233–$1424",
+    "mon_thu_tables": "5–48",
+    "friday_lunch": "$1233–$1424",
+    "friday_dinner": "$1233–$1424",
+    "friday_tables": "5–48",
+    "saturday_lunch": "$1233–$1424",
+    "saturday_dinner": "$1233–$1424",
+    "saturday_tables": "5–48",
+    "sunday_lunch": "$1233–$1424",
+    "sunday_dinner": "$1233–$1424",
+    "sunday_tables": "5–48"
+  },
+  {
+    "name": "The Clifford Pier @ The Fullerton Bay Hotel",
+    "phone": "6877 8968",
+    "email": "weddings@fullertonhotels.com",
+    "address": "80 Collyer Quay",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$3333–$3333",
+        "dinner_price": "$3573–$3573",
+        "tables": "15–28"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$3333–$3333",
+        "dinner_price": "$3573–$3573",
+        "tables": "15–28"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$3333–$3333",
+        "dinner_price": "$3573–$3573",
+        "tables": "15–28"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$3333–$3333",
+        "dinner_price": "$3573–$3573",
+        "tables": "15–28"
+      }
+    ],
+    "mon_thu_lunch": "$3333–$3333",
+    "mon_thu_dinner": "$3573–$3573",
+    "mon_thu_tables": "15–28",
+    "friday_lunch": "$3333–$3333",
+    "friday_dinner": "$3573–$3573",
+    "friday_tables": "15–28",
+    "saturday_lunch": "$3333–$3333",
+    "saturday_dinner": "$3573–$3573",
+    "saturday_tables": "15–28",
+    "sunday_lunch": "$3333–$3333",
+    "sunday_dinner": "$3573–$3573",
+    "sunday_tables": "15–28"
+  },
+  {
+    "name": "The Fullerton Hotel Singapore",
+    "phone": "6877 8968",
+    "email": "weddings@fullertonhotels.com",
+    "address": "1 Fullerton Square",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2734–$2734",
+        "dinner_price": "$2734–$2734",
+        "tables": "10–48"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2734–$2734",
+        "dinner_price": "$2854–$2854",
+        "tables": "10–48"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2734–$2734",
+        "dinner_price": "$2974–$2974",
+        "tables": "10–48"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2734–$2734",
+        "dinner_price": "$2854–$2854",
+        "tables": "10–48"
+      }
+    ],
+    "mon_thu_lunch": "$2734–$2734",
+    "mon_thu_dinner": "$2734–$2734",
+    "mon_thu_tables": "10–48",
+    "friday_lunch": "$2734–$2734",
+    "friday_dinner": "$2854–$2854",
+    "friday_tables": "10–48",
+    "saturday_lunch": "$2734–$2734",
+    "saturday_dinner": "$2974–$2974",
+    "saturday_tables": "10–48",
+    "sunday_lunch": "$2734–$2734",
+    "sunday_dinner": "$2854–$2854",
+    "sunday_tables": "10–48"
+  },
+  {
+    "name": "The Outpost Hotel Sentosa",
+    "phone": "6512 2202",
+    "email": "events.sentosa@fareast.com.sg",
+    "address": "10 Artillery Avenue, Palawan Ridge",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2180–$2180",
+        "dinner_price": "$2180–$2180",
+        "tables": "12–16"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2180–$2180",
+        "dinner_price": "$2180–$2180",
+        "tables": "12–16"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2623–$2623",
+        "dinner_price": "$2623–$2623",
+        "tables": "12–16"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2623–$2623",
+        "dinner_price": "$2623–$2623",
+        "tables": "12–16"
+      }
+    ],
+    "mon_thu_lunch": "$2180–$2180",
+    "mon_thu_dinner": "$2180–$2180",
+    "mon_thu_tables": "12–16",
+    "friday_lunch": "$2180–$2180",
+    "friday_dinner": "$2180–$2180",
+    "friday_tables": "12–16",
+    "saturday_lunch": "$2623–$2623",
+    "saturday_dinner": "$2623–$2623",
+    "saturday_tables": "12–16",
+    "sunday_lunch": "$2623–$2623",
+    "sunday_dinner": "$2623–$2623",
+    "sunday_tables": "12–16"
+  },
+  {
+    "name": "The Ritz Carlton, Millenia Singapore",
+    "phone": "6434 5021",
+    "email": "lixian.neo@ritzcarlton.com",
+    "address": "7 Raffles Avenue",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2494–$2734",
+        "dinner_price": "$2854–$3573",
+        "tables": "6–90"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2494–$2734",
+        "dinner_price": "$2854–$3573",
+        "tables": "6–90"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2494–$2734",
+        "dinner_price": "$2854–$3573",
+        "tables": "6–90"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2494–$2734",
+        "dinner_price": "$2854–$3573",
+        "tables": "6–90"
+      }
+    ],
+    "mon_thu_lunch": "$2494–$2734",
+    "mon_thu_dinner": "$2854–$3573",
+    "mon_thu_tables": "6–90",
+    "friday_lunch": "$2494–$2734",
+    "friday_dinner": "$2854–$3573",
+    "friday_tables": "6–90",
+    "saturday_lunch": "$2494–$2734",
+    "saturday_dinner": "$2854–$3573",
+    "saturday_tables": "6–90",
+    "sunday_lunch": "$2494–$2734",
+    "sunday_dinner": "$2854–$3573",
+    "sunday_tables": "6–90"
+  },
+  {
+    "name": "The Robertson House by The Crest Collection",
+    "phone": "6593 8888",
+    "email": "sales.therobertsonhouse@the-ascott.com",
+    "address": "1 Unity Street",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2134–$2614",
+        "dinner_price": "$2134–$2614",
+        "tables": "4–5"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2134–$2614",
+        "dinner_price": "$2134–$2614",
+        "tables": "4–5"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2134–$2614",
+        "dinner_price": "$2134–$2614",
+        "tables": "4–5"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2134–$2614",
+        "dinner_price": "$2134–$2614",
+        "tables": "4–5"
+      }
+    ],
+    "mon_thu_lunch": "$2134–$2614",
+    "mon_thu_dinner": "$2134–$2614",
+    "mon_thu_tables": "4–5",
+    "friday_lunch": "$2134–$2614",
+    "friday_dinner": "$2134–$2614",
+    "friday_tables": "4–5",
+    "saturday_lunch": "$2134–$2614",
+    "saturday_dinner": "$2134–$2614",
+    "saturday_tables": "4–5",
+    "sunday_lunch": "$2134–$2614",
+    "sunday_dinner": "$2134–$2614",
+    "sunday_tables": "4–5"
+  },
+  {
+    "name": "The Singapore EDITION",
+    "email": "weddings.sgedition@editionhotels.com",
+    "address": "38 Cuscaden Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$3213–$3933",
+        "dinner_price": "$3453–$3933",
+        "tables": "3–34"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$3213–$3933",
+        "dinner_price": "$3453–$3933",
+        "tables": "3–34"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$3213–$3933",
+        "dinner_price": "$3453–$3933",
+        "tables": "3–34"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$3213–$3933",
+        "dinner_price": "$3453–$3933",
+        "tables": "3–34"
+      }
+    ],
+    "mon_thu_lunch": "$3213–$3933",
+    "mon_thu_dinner": "$3453–$3933",
+    "mon_thu_tables": "3–34",
+    "friday_lunch": "$3213–$3933",
+    "friday_dinner": "$3453–$3933",
+    "friday_tables": "3–34",
+    "saturday_lunch": "$3213–$3933",
+    "saturday_dinner": "$3453–$3933",
+    "saturday_tables": "3–34",
+    "sunday_lunch": "$3213–$3933",
+    "sunday_dinner": "$3453–$3933",
+    "sunday_tables": "3–34"
+  },
+  {
+    "name": "The Singapore Island Country Club",
+    "phone": "6553 0214",
+    "email": "events@sicc.org.sg",
+    "address": "180 Island Club Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1571–$2029",
+        "dinner_price": "$1571–$2029",
+        "tables": "3–45"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1571–$2029",
+        "dinner_price": "$1571–$2029",
+        "tables": "3–45"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1571–$2029",
+        "dinner_price": "$1571–$2029",
+        "tables": "3–45"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1571–$2029",
+        "dinner_price": "$1571–$2029",
+        "tables": "3–45"
+      }
+    ],
+    "mon_thu_lunch": "$1571–$2029",
+    "mon_thu_dinner": "$1571–$2029",
+    "mon_thu_tables": "3–45",
+    "friday_lunch": "$1571–$2029",
+    "friday_dinner": "$1571–$2029",
+    "friday_tables": "3–45",
+    "saturday_lunch": "$1571–$2029",
+    "saturday_dinner": "$1571–$2029",
+    "saturday_tables": "3–45",
+    "sunday_lunch": "$1571–$2029",
+    "sunday_dinner": "$1571–$2029",
+    "sunday_tables": "3–45"
+  },
+  {
+    "name": "The St. Regis Singapore",
+    "phone": "6506 6817",
+    "email": "wedding.singapore@stregis.com",
+    "address": "29 Tanglin Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$3103–$3463",
+        "dinner_price": "$3103–$3703",
+        "tables": "12–42"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$3103–$3463",
+        "dinner_price": "$3103–$3703",
+        "tables": "12–42"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$3103–$3463",
+        "dinner_price": "$3463–$3703",
+        "tables": "12–42"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$3103–$3463",
+        "dinner_price": "$3463–$3703",
+        "tables": "12–42"
+      }
+    ],
+    "mon_thu_lunch": "$3103–$3463",
+    "mon_thu_dinner": "$3103–$3703",
+    "mon_thu_tables": "12–42",
+    "friday_lunch": "$3103–$3463",
+    "friday_dinner": "$3103–$3703",
+    "friday_tables": "12–42",
+    "saturday_lunch": "$3103–$3463",
+    "saturday_dinner": "$3463–$3703",
+    "saturday_tables": "12–42",
+    "sunday_lunch": "$3103–$3463",
+    "sunday_dinner": "$3463–$3703",
+    "sunday_tables": "12–42"
+  },
+  {
+    "name": "The Westin Singapore",
+    "phone": "6922 6892",
+    "email": "weddings.singapore@westin.com",
+    "address": "12 Marina View\nAsia Square Tower 2",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2384–$2384",
+        "dinner_price": "$2192–$2192",
+        "tables": "16–30"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2384–$2384",
+        "dinner_price": "$2192–$2192",
+        "tables": "18–30"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2384–$2384",
+        "dinner_price": "$2671–$2671",
+        "tables": "20–30"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2384–$2384",
+        "dinner_price": "$2432–$2432",
+        "tables": "20–30"
+      }
+    ],
+    "mon_thu_lunch": "$2384–$2384",
+    "mon_thu_dinner": "$2192–$2192",
+    "mon_thu_tables": "16–30",
+    "friday_lunch": "$2384–$2384",
+    "friday_dinner": "$2192–$2192",
+    "friday_tables": "18–30",
+    "saturday_lunch": "$2384–$2384",
+    "saturday_dinner": "$2671–$2671",
+    "saturday_tables": "20–30",
+    "sunday_lunch": "$2384–$2384",
+    "sunday_dinner": "$2432–$2432",
+    "sunday_tables": "20–30"
+  },
+  {
+    "name": "TungLok Heen",
+    "phone": "6884 7888",
+    "email": "banquet@tunglok.com",
+    "address": "Resorts World Sentosa, Hotel Michael, Lobby Level, 26 Sentosa Gateway, #02-142/143",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2134–$2623",
+        "dinner_price": "$2134–$2623",
+        "tables": "8–16"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2254–$2743",
+        "dinner_price": "$2254–$2743",
+        "tables": "8–16"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2254–$2743",
+        "dinner_price": "$2254–$2743",
+        "tables": "8–16"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2254–$2743",
+        "dinner_price": "$2254–$2743",
+        "tables": "8–16"
+      }
+    ],
+    "mon_thu_lunch": "$2134–$2623",
+    "mon_thu_dinner": "$2134–$2623",
+    "mon_thu_tables": "8–16",
+    "friday_lunch": "$2254–$2743",
+    "friday_dinner": "$2254–$2743",
+    "friday_tables": "8–16",
+    "saturday_lunch": "$2254–$2743",
+    "saturday_dinner": "$2254–$2743",
+    "saturday_tables": "8–16",
+    "sunday_lunch": "$2254–$2743",
+    "sunday_dinner": "$2254–$2743",
+    "sunday_tables": "8–16"
+  },
+  {
+    "name": "TungLok Seafood (Gardens by the Bay)",
+    "phone": "6022 0188",
+    "email": "banquet@tunglok.com",
+    "address": "18 Marina Gardens Drive, #01-10, Gardens by the Bay (Below Flower Dome)",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$968–$1513",
+        "dinner_price": "$968–$1513",
+        "tables": "16–18"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$968–$1513",
+        "dinner_price": "$968–$1513",
+        "tables": "16–18"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$968–$1513",
+        "dinner_price": "$968–$1513",
+        "tables": "16–18"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$968–$1513",
+        "dinner_price": "$968–$1513",
+        "tables": "16–18"
+      }
+    ],
+    "mon_thu_lunch": "$968–$1513",
+    "mon_thu_dinner": "$968–$1513",
+    "mon_thu_tables": "16–18",
+    "friday_lunch": "$968–$1513",
+    "friday_dinner": "$968–$1513",
+    "friday_tables": "16–18",
+    "saturday_lunch": "$968–$1513",
+    "saturday_dinner": "$968–$1513",
+    "saturday_tables": "16–18",
+    "sunday_lunch": "$968–$1513",
+    "sunday_dinner": "$968–$1513",
+    "sunday_tables": "16–18"
+  },
+  {
+    "name": "TungLok Seafood (Orchard Central)",
+    "phone": "6337 2055",
+    "email": "banquet@tunglok.com",
+    "address": "181, Orchard Road #11-05",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$859–$1295",
+        "dinner_price": "$859–$1295",
+        "tables": "15–18"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$859–$1295",
+        "dinner_price": "$859–$1295",
+        "tables": "15–18"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$859–$1295",
+        "dinner_price": "$859–$1295",
+        "tables": "15–18"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$859–$1295",
+        "dinner_price": "$859–$1295",
+        "tables": "15–18"
+      }
+    ],
+    "mon_thu_lunch": "$859–$1295",
+    "mon_thu_dinner": "$859–$1295",
+    "mon_thu_tables": "15–18",
+    "friday_lunch": "$859–$1295",
+    "friday_dinner": "$859–$1295",
+    "friday_tables": "15–18",
+    "saturday_lunch": "$859–$1295",
+    "saturday_dinner": "$859–$1295",
+    "saturday_tables": "15–18",
+    "sunday_lunch": "$859–$1295",
+    "sunday_dinner": "$859–$1295",
+    "sunday_tables": "15–18"
+  },
+  {
+    "name": "TungLok Seafood (Park Regis Singapore)",
+    "phone": "6721 9118",
+    "email": "banquet@tunglok.com",
+    "address": "23 Merchant Road, Lobby Level, Park Regis Singapore, Singapore 058268",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1055–$2014",
+        "dinner_price": "$1055–$2014",
+        "tables": "14–16"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1055–$2014",
+        "dinner_price": "$1055–$2014",
+        "tables": "14–16"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1055–$2014",
+        "dinner_price": "$1175–$2134",
+        "tables": "14–16"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1055–$2014",
+        "dinner_price": "$1175–$2134",
+        "tables": "14–16"
+      }
+    ],
+    "mon_thu_lunch": "$1055–$2014",
+    "mon_thu_dinner": "$1055–$2014",
+    "mon_thu_tables": "14–16",
+    "friday_lunch": "$1055–$2014",
+    "friday_dinner": "$1055–$2014",
+    "friday_tables": "14–16",
+    "saturday_lunch": "$1055–$2014",
+    "saturday_dinner": "$1175–$2134",
+    "saturday_tables": "14–16",
+    "sunday_lunch": "$1055–$2014",
+    "sunday_dinner": "$1175–$2134",
+    "sunday_tables": "14–16"
+  },
+  {
+    "name": "TungLok Seafood (PLQ Mall)",
+    "phone": "6235 8998",
+    "email": "banquet@tunglok.com",
+    "address": "10 Paya Lebar Road, #03-09/10 PLQ Mall",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$859–$1295",
+        "dinner_price": "$859–$1295",
+        "tables": "15–18"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$859–$1295",
+        "dinner_price": "$859–$1295",
+        "tables": "15–18"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$859–$1295",
+        "dinner_price": "$859–$1295",
+        "tables": "15–18"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$859–$1295",
+        "dinner_price": "$859–$1295",
+        "tables": "15–18"
+      }
+    ],
+    "mon_thu_lunch": "$859–$1295",
+    "mon_thu_dinner": "$859–$1295",
+    "mon_thu_tables": "15–18",
+    "friday_lunch": "$859–$1295",
+    "friday_dinner": "$859–$1295",
+    "friday_tables": "15–18",
+    "saturday_lunch": "$859–$1295",
+    "saturday_dinner": "$859–$1295",
+    "saturday_tables": "15–18",
+    "sunday_lunch": "$859–$1295",
+    "sunday_dinner": "$859–$1295",
+    "sunday_tables": "15–18"
+  },
+  {
+    "name": "TungLok Seafood (Upper Jurong)",
+    "phone": "6337 2055",
+    "email": "banquet@tunglok.com",
+    "address": "The Arena Country Club, 511 Upper Jurong Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$825–$1664",
+        "dinner_price": "$825–$1664",
+        "tables": "24–29"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$825–$1664",
+        "dinner_price": "$825–$1664",
+        "tables": "24–29"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$825–$1664",
+        "dinner_price": "$825–$1664",
+        "tables": "24–29"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$825–$1664",
+        "dinner_price": "$825–$1664",
+        "tables": "24–29"
+      }
+    ],
+    "mon_thu_lunch": "$825–$1664",
+    "mon_thu_dinner": "$825–$1664",
+    "mon_thu_tables": "24–29",
+    "friday_lunch": "$825–$1664",
+    "friday_dinner": "$825–$1664",
+    "friday_tables": "24–29",
+    "saturday_lunch": "$825–$1664",
+    "saturday_dinner": "$825–$1664",
+    "saturday_tables": "24–29",
+    "sunday_lunch": "$825–$1664",
+    "sunday_dinner": "$825–$1664",
+    "sunday_tables": "24–29"
+  },
+  {
+    "name": "TungLok Signatures, Antica Ballroom @ Orchard Rendezvous Hotel*",
+    "phone": "6836 0984",
+    "email": "jasminehuang@tunglok.com",
+    "address": "1 Tanglin Road, #02-18",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1415–$1622",
+        "dinner_price": "$1415–$1622",
+        "tables": "15–25"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1415–$1622",
+        "dinner_price": "$1415–$1622",
+        "tables": "15–25"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1415–$1622",
+        "dinner_price": "$1469–$1676",
+        "tables": "18–25"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1415–$1622",
+        "dinner_price": "$1469–$1676",
+        "tables": "18–25"
+      }
+    ],
+    "mon_thu_lunch": "$1415–$1622",
+    "mon_thu_dinner": "$1415–$1622",
+    "mon_thu_tables": "15–25",
+    "friday_lunch": "$1415–$1622",
+    "friday_dinner": "$1415–$1622",
+    "friday_tables": "15–25",
+    "saturday_lunch": "$1415–$1622",
+    "saturday_dinner": "$1469–$1676",
+    "saturday_tables": "18–25",
+    "sunday_lunch": "$1415–$1622",
+    "sunday_dinner": "$1469–$1676",
+    "sunday_tables": "18–25"
+  },
+  {
+    "name": "Village Hotel Changi",
+    "phone": "6379 7179",
+    "email": "catering.vhc@fareast.com",
+    "address": "1 Netheravon Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1556–$1700",
+        "dinner_price": "$1676–$1820",
+        "tables": "5–25"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1556–$1700",
+        "dinner_price": "$1676–$1820",
+        "tables": "5–25"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1556–$1700",
+        "dinner_price": "$1676–$1820",
+        "tables": "5–25"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1556–$1700",
+        "dinner_price": "$1676–$1820",
+        "tables": "5–25"
+      }
+    ],
+    "mon_thu_lunch": "$1556–$1700",
+    "mon_thu_dinner": "$1676–$1820",
+    "mon_thu_tables": "5–25",
+    "friday_lunch": "$1556–$1700",
+    "friday_dinner": "$1676–$1820",
+    "friday_tables": "5–25",
+    "saturday_lunch": "$1556–$1700",
+    "saturday_dinner": "$1676–$1820",
+    "saturday_tables": "5–25",
+    "sunday_lunch": "$1556–$1700",
+    "sunday_dinner": "$1676–$1820",
+    "sunday_tables": "5–25"
+  },
+  {
+    "name": "Village Hotel Katong",
+    "phone": "6379 7179",
+    "email": "cateringvhk@fareast.com",
+    "address": "25 Marine Parade",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1556–$1700",
+        "dinner_price": "$1676–$1820",
+        "tables": "8–15"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1556–$1700",
+        "dinner_price": "$1676–$1820",
+        "tables": "8–15"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1556–$1700",
+        "dinner_price": "$1676–$1820",
+        "tables": "8–15"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1556–$1700",
+        "dinner_price": "$1676–$1820",
+        "tables": "8–15"
+      }
+    ],
+    "mon_thu_lunch": "$1556–$1700",
+    "mon_thu_dinner": "$1676–$1820",
+    "mon_thu_tables": "8–15",
+    "friday_lunch": "$1556–$1700",
+    "friday_dinner": "$1676–$1820",
+    "friday_tables": "8–15",
+    "saturday_lunch": "$1556–$1700",
+    "saturday_dinner": "$1676–$1820",
+    "saturday_tables": "8–15",
+    "sunday_lunch": "$1556–$1700",
+    "sunday_dinner": "$1676–$1820",
+    "sunday_tables": "8–15"
+  },
+  {
+    "name": "Village Hotel Sentosa",
+    "phone": "6512 2202",
+    "email": "events.sentosa@fareast.com.sg",
+    "address": "10 Artillery Ave, Sentosa",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "",
+        "dinner_price": "$1940–$1940",
+        "tables": "20–32"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "",
+        "dinner_price": "$1940–$1940",
+        "tables": "20–32"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "",
+        "dinner_price": "$2300–$2300",
+        "tables": "20–32"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "",
+        "dinner_price": "$2300–$2300",
+        "tables": "20–32"
+      }
+    ],
+    "mon_thu_lunch": "",
+    "mon_thu_dinner": "$1940–$1940",
+    "mon_thu_tables": "20–32",
+    "friday_lunch": "",
+    "friday_dinner": "$1940–$1940",
+    "friday_tables": "20–32",
+    "saturday_lunch": "",
+    "saturday_dinner": "$2300–$2300",
+    "saturday_tables": "20–32",
+    "sunday_lunch": "",
+    "sunday_dinner": "$2300–$2300",
+    "sunday_tables": "20–32"
+  },
+  {
+    "name": "voco Orchard Singapore",
+    "phone": "6737 2233",
+    "email": "vocosg.weddings@ihg.com",
+    "address": "581 Orchard Road",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2024–$2024",
+        "dinner_price": "$1904–$1904",
+        "tables": "10–42"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2024–$2024",
+        "dinner_price": "$2144–$2144",
+        "tables": "10–42"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2024–$2024",
+        "dinner_price": "$2264–$2264",
+        "tables": "10–42"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2024–$2024",
+        "dinner_price": "$2144–$2144",
+        "tables": "10–42"
+      }
+    ],
+    "mon_thu_lunch": "$2024–$2024",
+    "mon_thu_dinner": "$1904–$1904",
+    "mon_thu_tables": "10–42",
+    "friday_lunch": "$2024–$2024",
+    "friday_dinner": "$2144–$2144",
+    "friday_tables": "10–42",
+    "saturday_lunch": "$2024–$2024",
+    "saturday_dinner": "$2264–$2264",
+    "saturday_tables": "10–42",
+    "sunday_lunch": "$2024–$2024",
+    "sunday_dinner": "$2144–$2144",
+    "sunday_tables": "10–42"
+  },
+  {
+    "name": "W Singapore - Sentosa Cove",
+    "phone": "6808 7236",
+    "email": "ido.singapore@whotels.com",
+    "address": "21 Ocean Way",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2374–$2734",
+        "dinner_price": "$2614–$2734",
+        "tables": "10–48"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2374–$2734",
+        "dinner_price": "$2614–$2734",
+        "tables": "10–48"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2374–$2734",
+        "dinner_price": "$2854–$2974",
+        "tables": "10–48"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2374–$2734",
+        "dinner_price": "$2614–$2734",
+        "tables": "10–48"
+      }
+    ],
+    "mon_thu_lunch": "$2374–$2734",
+    "mon_thu_dinner": "$2614–$2734",
+    "mon_thu_tables": "10–48",
+    "friday_lunch": "$2374–$2734",
+    "friday_dinner": "$2614–$2734",
+    "friday_tables": "10–48",
+    "saturday_lunch": "$2374–$2734",
+    "saturday_dinner": "$2854–$2974",
+    "saturday_tables": "10–48",
+    "sunday_lunch": "$2374–$2734",
+    "sunday_dinner": "$2614–$2734",
+    "sunday_tables": "10–48"
+  },
+  {
+    "name": "Wyndham Singapore Hotel",
+    "phone": "6337 2200",
+    "email": "sales@wyndhamsingapore.com",
+    "address": "3 Coleman Street",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$2024–$2024",
+        "dinner_price": "$2024–$2024",
+        "tables": "10–30"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$2144–$2144",
+        "dinner_price": "$2264–$2264",
+        "tables": "10–30"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$2144–$2144",
+        "dinner_price": "$2264–$2264",
+        "tables": "10–30"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$2144–$2144",
+        "dinner_price": "$2264–$2264",
+        "tables": "10–30"
+      }
+    ],
+    "mon_thu_lunch": "$2024–$2024",
+    "mon_thu_dinner": "$2024–$2024",
+    "mon_thu_tables": "10–30",
+    "friday_lunch": "$2144–$2144",
+    "friday_dinner": "$2264–$2264",
+    "friday_tables": "10–30",
+    "saturday_lunch": "$2144–$2144",
+    "saturday_dinner": "$2264–$2264",
+    "saturday_tables": "10–30",
+    "sunday_lunch": "$2144–$2144",
+    "sunday_dinner": "$2264–$2264",
+    "sunday_tables": "10–30"
+  },
+  {
+    "name": "Ya Ge @ Orchid Hotel",
+    "phone": "6818 6864",
+    "email": "yage@orchidhotel.com.sg",
+    "address": "1 Tras Link, Orchid Hotel Level 3",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1424–$2863",
+        "dinner_price": "$1424–$2863",
+        "tables": "5–12"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1424–$2863",
+        "dinner_price": "$1424–$2863",
+        "tables": "5–12"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1424–$2863",
+        "dinner_price": "$1424–$2863",
+        "tables": "5–12"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1424–$2863",
+        "dinner_price": "$1424–$2863",
+        "tables": "5–12"
+      }
+    ],
+    "mon_thu_lunch": "$1424–$2863",
+    "mon_thu_dinner": "$1424–$2863",
+    "mon_thu_tables": "5–12",
+    "friday_lunch": "$1424–$2863",
+    "friday_dinner": "$1424–$2863",
+    "friday_tables": "5–12",
+    "saturday_lunch": "$1424–$2863",
+    "saturday_dinner": "$1424–$2863",
+    "saturday_tables": "5–12",
+    "sunday_lunch": "$1424–$2863",
+    "sunday_dinner": "$1424–$2863",
+    "sunday_tables": "5–12"
+  },
+  {
+    "name": "York Hotel",
+    "phone": "6830 1121",
+    "email": "events@yorkhotel.com.sg",
+    "address": "21 Mount Elizabeth",
+    "pricing": [
+      {
+        "day": "Mon–Thu",
+        "lunch_price": "$1412–$1954",
+        "dinner_price": "$1412–$1954",
+        "tables": "10–42"
+      },
+      {
+        "day": "Friday",
+        "lunch_price": "$1484–$2194",
+        "dinner_price": "$1484–$2194",
+        "tables": "10–42"
+      },
+      {
+        "day": "Saturday",
+        "lunch_price": "$1484–$2194",
+        "dinner_price": "$1484–$2134",
+        "tables": "10–42"
+      },
+      {
+        "day": "Sunday",
+        "lunch_price": "$1484–$2194",
+        "dinner_price": "$1484–$2194",
+        "tables": "10–42"
+      }
+    ],
+    "mon_thu_lunch": "$1412–$1954",
+    "mon_thu_dinner": "$1412–$1954",
+    "mon_thu_tables": "10–42",
+    "friday_lunch": "$1484–$2194",
+    "friday_dinner": "$1484–$2194",
+    "friday_tables": "10–42",
+    "saturday_lunch": "$1484–$2194",
+    "saturday_dinner": "$1484–$2134",
+    "saturday_tables": "10–42",
+    "sunday_lunch": "$1484–$2194",
+    "sunday_dinner": "$1484–$2194",
+    "sunday_tables": "10–42"
+  }
+]
