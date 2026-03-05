@@ -34,7 +34,6 @@ async def get_browser_page(headless=True):
 
 async def extract_venues_from_page(page) -> list[dict[str, Any]]:
     """Extract all venue data from the price list page using JavaScript"""
-    print("Extracting venue data from page...")
 
     venues = await page.evaluate(r"""() => {
         const venues = [];
@@ -95,7 +94,7 @@ async def extract_venues_from_page(page) -> list[dict[str, Any]]:
                 const cells = row.querySelectorAll('td');
                 if (cells.length >= 4) {
                     // Based on the actual HTML, columns are:
-                    // cells[0] = Day (Mon–Thu, Friday, etc.)
+                    // cells[0] = Day (Mon-Thu, Friday, etc.)
                     // cells[1] = Lunch price
                     // cells[2] = Dinner price
                     // cells[3] = Tables range
@@ -148,14 +147,11 @@ async def extract_venues_from_page(page) -> list[dict[str, Any]]:
         return venues;
     }""")
 
-    print(f"Extracted {len(venues)} venues")
     return venues
 
 
 async def scrape_price_list_async(headless: bool = True) -> list[dict[str, Any]]:
     """Scrape the wedding banquet price list page"""
-    print(f"Navigating to {PRICE_LIST_URL}...")
-
     async with get_browser_page(headless=headless) as page:
         await page.goto(PRICE_LIST_URL, wait_until="load", timeout=60000)
         await page.wait_for_timeout(3000)  # Wait for dynamic content
@@ -169,7 +165,6 @@ async def download_pdf(client: httpx.AsyncClient, url: str, save_path: Path) -> 
     """Download a PDF file to the specified path"""
     try:
         if save_path.exists():
-            print(f"  Skipping {save_path.name} (already exists)")
             return True
 
         response = await client.get(url, timeout=30, follow_redirects=True)
@@ -180,10 +175,9 @@ async def download_pdf(client: httpx.AsyncClient, url: str, save_path: Path) -> 
         with open(save_path, "wb") as f:
             f.write(response.content)
 
-        print(f"  Downloaded {save_path.name}")
         return True
     except Exception as e:
-        print(f"  Error downloading PDF {url}: {e}")
+        print(f"    ! Failed to download {save_path.name}: {e}")
         return False
 
 
@@ -257,14 +251,12 @@ async def scrape_venue_details(client: httpx.AsyncClient, slug: str) -> dict[str
         return details
 
     except Exception as e:
-        print(f"  Error fetching details for {slug}: {e}")
+        print(f"    ! Error fetching details for {slug}: {e}")
         return {}
 
 
 async def enrich_venues_with_details(venues: list[dict[str, Any]], download_pdfs: bool = True) -> list[dict[str, Any]]:
     """Enrich venue data with details from individual venue pages"""
-    print("\nEnriching venues with detailed information...")
-
     async with httpx.AsyncClient(timeout=60) as client:
         for idx, venue in enumerate(venues, 1):
             slug = venue.get("slug")
@@ -283,7 +275,7 @@ async def enrich_venues_with_details(venues: list[dict[str, Any]], download_pdfs
                 slug = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
                 venue["slug"] = slug
 
-            print(f"  [{idx}/{len(venues)}] Fetching details for {venue.get('name', 'N/A')}...")
+            print(f"[{idx}/{len(venues)}] Fetching details for {venue.get('name', 'N/A')}")
 
             details = await scrape_venue_details(client, slug)
 
@@ -316,7 +308,6 @@ async def enrich_venues_with_details(venues: list[dict[str, Any]], download_pdfs
 def save_to_files(data: list[dict[str, Any]], output_path: str):
     """Save data to JSON and CSV files"""
     if not data:
-        print("No data to save")
         return
 
     output_file = Path(output_path)
@@ -328,27 +319,24 @@ def save_to_files(data: list[dict[str, Any]], output_path: str):
     with open(json_file, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-    if data:
-        all_keys = set()
+    all_keys = set()
+    for item in data:
+        all_keys.update(item.keys())
+
+    # Exclude nested pricing from CSV
+    csv_keys = sorted([k for k in all_keys if k != "pricing"])
+
+    with open(csv_file, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=csv_keys, extrasaction="ignore")
+        writer.writeheader()
         for item in data:
-            all_keys.update(item.keys())
+            row = item.copy()
+            for key, value in row.items():
+                if isinstance(value, list):
+                    row[key] = json.dumps(value)
+            writer.writerow(row)
 
-        # Exclude nested pricing from CSV
-        csv_keys = sorted([k for k in all_keys if k != "pricing"])
-
-        with open(csv_file, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=csv_keys, extrasaction="ignore")
-            writer.writeheader()
-            for item in data:
-                row = item.copy()
-                for key, value in row.items():
-                    if isinstance(value, list):
-                        row[key] = json.dumps(value)
-                writer.writerow(row)
-
-    print(f"Saved {len(data)} items to:")
-    print(f"   - {json_file}")
-    print(f"   - {csv_file}")
+    print(f"Saved {len(data)} venues to {json_file} and {csv_file}")
 
 
 def scrape_price_list(headless: bool = True) -> list[dict[str, Any]]:
@@ -360,11 +348,10 @@ async def scrape_all_async(
     headless: bool = True, fetch_details: bool = True, download_pdfs: bool = True
 ) -> list[dict[str, Any]]:
     """Main async function to scrape all data"""
-    print("=" * 60)
-    print("SCRAPING SINGAPOREBRIDES.COM WEDDING BANQUET PRICE LIST")
-    print("=" * 60 + "\n")
+    print("Scraping SingaporeBrides.com wedding venues...")
 
     venues = await scrape_price_list_async(headless=headless)
+    print(f"Found {len(venues)} venues")
 
     if fetch_details and venues:
         venues = await enrich_venues_with_details(venues, download_pdfs=download_pdfs)
@@ -392,31 +379,9 @@ def main():
     save_to_files(venues, args.output)
 
     if venues:
-        print("\n" + "=" * 60)
-        print("SCRAPING COMPLETE")
-        print("=" * 60)
-        print(f"\nTotal venues: {len(venues)}")
-
-        # Count stats
         with_details = sum(1 for v in venues if v.get("about"))
         with_pdfs = sum(1 for v in venues if v.get("pdf_urls"))
-        downloaded = sum(1 for v in venues if v.get("downloaded_pdfs"))
-
-        print(f"Venues with details: {with_details}")
-        print(f"Venues with PDF links: {with_pdfs}")
-        print(f"Venues with downloaded PDFs: {downloaded}")
-
-        print("\nSample venues:")
-        for idx, venue in enumerate(venues[:5], 1):
-            print(f"\n{idx}. {venue.get('name', 'N/A')}")
-            if venue.get("phone"):
-                print(f"   Phone: {venue['phone']}")
-            if venue.get("address"):
-                print(f"   Address: {venue['address'][:60]}...")
-            if venue.get("mon_thu_dinner"):
-                print(f"   Mon-Thu Dinner: {venue['mon_thu_dinner']}")
-            if venue.get("saturday_dinner"):
-                print(f"   Saturday Dinner: {venue['saturday_dinner']}")
+        print(f"\nTotal: {len(venues)} venues ({with_details} with details, {with_pdfs} with PDFs)")
 
 
 if __name__ == "__main__":
