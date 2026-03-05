@@ -64,6 +64,9 @@ jobs:
       - name: Run Wedded.sg photographers scraper
         run: uv run python -m src.wd.photographers
 
+      - name: Run SingaporeBrides scraper
+        run: uv run python -m src.sb.main
+
       - name: Commit and push data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

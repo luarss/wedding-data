@@ -10,3 +10,7 @@ format:
 .PHONY: check
 check:
 	@ruff check .
+
+.PHONY: sb
+sb:
+	@uv run python -m src.sb.main
