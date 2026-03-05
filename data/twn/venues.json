@@ -6,12 +6,12 @@
     "category": "venues",
     "state": "Wilayah Persekutuan Kuala Lumpur",
     "city": "Kuala Lumpur",
-    "address": "Jalan Strachan, Sentul West, 51200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "address": "Jalan Strachan, Sentul West, 51100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
     "venue": {
       "minCapacity": 1,
       "maxCapacity": 300,
-      "minPrice": "15000",
-      "maxPrice": "45000",
+      "minPrice": "0",
+      "maxPrice": "0",
       "indoorOutdoor": "Covered_Outdoor_Only"
     }
   },
@@ -102,7 +102,7 @@
     "category": "venues",
     "state": "Wilayah Persekutuan Kuala Lumpur",
     "city": "Kuala Lumpur",
-    "address": "168, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "address": "170, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
     "venue": {
       "minCapacity": 10,
       "maxCapacity": 300,
@@ -597,8 +597,8 @@
     "slug": "palm-garden-hotel-putrajaya",
     "category": "venues",
     "state": "Selangor",
-    "city": "Putrajaya",
-    "address": "Palm Garden Hotel, Ioi Resort, 62502 Putrajaya, Selangor, Malaysia",
+    "city": "Serdang",
+    "address": "Palm Garden Hotel, Ioi Resort, 62502 Serdang, Selangor, Malaysia",
     "venue": {
       "minCapacity": 30,
       "maxCapacity": 350,
@@ -758,7 +758,7 @@
     "category": "venues",
     "state": "Selangor",
     "city": "Ampang",
-    "address": "Jalan Kelab Ukay Utama, Taman Kelab Ukay, 68000 Ampang, Selangor, Malaysia",
+    "address": "Jalan Kelab Ukay Utama, Bukit Antarabangsa, 68000 Ampang, Selangor, Malaysia",
     "venue": {
       "minCapacity": 1,
       "maxCapacity": 550,
@@ -1302,7 +1302,7 @@
     "category": "venues",
     "state": "Selangor",
     "city": "Ampang",
-    "address": "22, Jalan Cempaka 15, Taman Cempaka, 68000 Ampang, Selangor, Malaysia",
+    "address": "No. 22, Jalan Cempaka 15, Taman Cempaka, 68000 Ampang, Selangor, Malaysia",
     "venue": {
       "minCapacity": 50,
       "maxCapacity": 250,
@@ -1348,7 +1348,7 @@
     "name": "Astana at Bamboo Hills",
     "slug": "astana-at-bamboo-hills",
     "category": "venues",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Federal Territory of Kuala Lumpur",
     "city": "Kuala Lumpur",
     "address": "Unit P13, Bamboo Hills, Jalan Bukit Bamboo, off, DUKE, Taman Bamboo, 51200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
     "venue": {
