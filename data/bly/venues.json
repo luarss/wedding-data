@@ -19,6 +19,17 @@
     "venueRating": "4.8",
     "serviceRating": "4.7",
     "foodRating": "4.8",
+    "reviews": "34"
+  },
+  {
+    "recordId": "recDE70TqO66tuVMT",
+    "name": "Little Island Brewing Co",
+    "url": "https://www.bridely.sg/venue?recordId=recDE70TqO66tuVMT",
+    "price": "$68++/pax",
+    "capacity": "50-350 pax",
+    "venueRating": "4.9",
+    "serviceRating": "4.7",
+    "foodRating": "4.9",
     "reviews": "32"
   },
   {
@@ -31,17 +42,6 @@
     "serviceRating": "5",
     "foodRating": "4.9",
     "reviews": "59"
-  },
-  {
-    "recordId": "recDE70TqO66tuVMT",
-    "name": "Little Island Brewing Co",
-    "url": "https://www.bridely.sg/venue?recordId=recDE70TqO66tuVMT",
-    "price": "$68++/pax",
-    "capacity": "50-350 pax",
-    "venueRating": "4.9",
-    "serviceRating": "4.7",
-    "foodRating": "4.9",
-    "reviews": "30"
   },
   {
     "recordId": "recqSc5XwBLCNysgh",
@@ -165,6 +165,17 @@
     "reviews": "46"
   },
   {
+    "recordId": "recssYSWy0BAMkBKH",
+    "name": "The Masons Table",
+    "url": "https://www.bridely.sg/venue?recordId=recssYSWy0BAMkBKH",
+    "price": "$88++/pax",
+    "capacity": "50-300 pax",
+    "venueRating": "4.8",
+    "serviceRating": "4.7",
+    "foodRating": "4.8",
+    "reviews": "38"
+  },
+  {
     "recordId": "recQpPPBl9LBtl9ft",
     "name": "CHIJMES",
     "url": "https://www.bridely.sg/venue?recordId=recQpPPBl9LBtl9ft",
@@ -196,17 +207,6 @@
     "serviceRating": "4.3",
     "foodRating": "4.3",
     "reviews": "81"
-  },
-  {
-    "recordId": "recssYSWy0BAMkBKH",
-    "name": "The Masons Table",
-    "url": "https://www.bridely.sg/venue?recordId=recssYSWy0BAMkBKH",
-    "price": "$88++/pax",
-    "capacity": "50-300 pax",
-    "venueRating": "4.8",
-    "serviceRating": "4.7",
-    "foodRating": "4.8",
-    "reviews": "36"
   },
   {
     "recordId": "recaFuygUVJPHDLpF",
@@ -616,6 +616,17 @@
     "reviews": "36"
   },
   {
+    "recordId": "recvE8e1n7b12ALmf",
+    "name": "Holiday Inn Express & Suites Singapore Novena",
+    "url": "https://www.bridely.sg/venue?recordId=recvE8e1n7b12ALmf",
+    "price": "$113-$153++/pax",
+    "capacity": "30-160 pax",
+    "venueRating": "5",
+    "serviceRating": "5",
+    "foodRating": "5",
+    "reviews": "6"
+  },
+  {
     "recordId": "recNKTPe2QM580fGQ",
     "name": "Open Farm Community",
     "url": "https://www.bridely.sg/venue?recordId=recNKTPe2QM580fGQ",
@@ -647,17 +658,6 @@
     "serviceRating": "3.8",
     "foodRating": "4.4",
     "reviews": "29"
-  },
-  {
-    "recordId": "recvE8e1n7b12ALmf",
-    "name": "Holiday Inn Express & Suites Singapore Novena",
-    "url": "https://www.bridely.sg/venue?recordId=recvE8e1n7b12ALmf",
-    "price": "$113-$153++/pax",
-    "capacity": "30-160 pax",
-    "venueRating": "5",
-    "serviceRating": "5",
-    "foodRating": "5",
-    "reviews": "5"
   },
   {
     "recordId": "recALC4YRHHZLaQlA",
