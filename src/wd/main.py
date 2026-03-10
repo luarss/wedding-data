@@ -3,7 +3,6 @@ import csv
 import json
 import xml.etree.ElementTree as ET
 from contextlib import asynccontextmanager
-from datetime import UTC, datetime
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -105,7 +104,6 @@ async def scrape_venue_page(page, url: str, max_retries: int = 2) -> dict:
         "vendor_id": vendor_id,
         "rooms": venue_data.get("rooms", []),
         "pdfs": pdfs,
-        "scraped_at": datetime.now(UTC).isoformat().replace("+00:00", "Z"),
     }
 
 

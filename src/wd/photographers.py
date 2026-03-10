@@ -2,7 +2,6 @@ import asyncio
 import csv
 import json
 import xml.etree.ElementTree as ET
-from datetime import UTC, datetime
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -81,7 +80,6 @@ async def scrape_photographer_page(page, url: str, max_retries: int = 2) -> dict
             "average_rating": reviews.get("average_rating"),
             "review_count": reviews.get("review_count", 0),
         },
-        "scraped_at": datetime.now(UTC).isoformat().replace("+00:00", "Z"),
     }
 
 
@@ -163,7 +161,6 @@ def save_to_csv(photographers: list[dict], filename: str):
                         "photobook_count": portfolio.get("photobook_count", 0),
                         "average_rating": reviews.get("average_rating", ""),
                         "review_count": reviews.get("review_count", 0),
-                        "scraped_at": photographer.get("scraped_at", ""),
                     }
                 )
         else:
@@ -187,7 +184,6 @@ def save_to_csv(photographers: list[dict], filename: str):
                     "photobook_count": portfolio.get("photobook_count", 0),
                     "average_rating": reviews.get("average_rating", ""),
                     "review_count": reviews.get("review_count", 0),
-                    "scraped_at": photographer.get("scraped_at", ""),
                 }
             )
 
@@ -210,7 +206,6 @@ def save_to_csv(photographers: list[dict], filename: str):
         "photobook_count",
         "average_rating",
         "review_count",
-        "scraped_at",
     ]
 
     with open(filename, "w", newline="", encoding="utf-8") as f:
