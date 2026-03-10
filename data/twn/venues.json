@@ -1406,5 +1406,21 @@
       "maxPrice": "2680",
       "indoorOutdoor": "Indoor___Outdoor"
     }
+  },
+  {
+    "_id": "69ad7aa83454d40a73197442",
+    "name": "PARKROYAL Penang Resort",
+    "slug": "parkroyal-penang-resort",
+    "category": "venues",
+    "state": "Pulau Pinang",
+    "city": "Batu Ferringhi",
+    "address": "PARKROYAL Penang Resort Batu Ferringhi Beach, 11100 Batu Ferringhi, Pulau Pinang, Malaysia",
+    "venue": {
+      "minCapacity": 10,
+      "maxCapacity": 300,
+      "minPrice": "2188",
+      "maxPrice": "10887",
+      "indoorOutdoor": "Indoor___Outdoor"
+    }
   }
 ]
