@@ -8,7 +8,7 @@
     "venueRating": "4.5",
     "serviceRating": "4.4",
     "foodRating": "4.5",
-    "reviews": "142"
+    "reviews": "141"
   },
   {
     "recordId": "recmnhQh4ANr89IdH",
@@ -1078,6 +1078,17 @@
     "reviews": "8"
   },
   {
+    "recordId": "rec2o9vNM97x9KgzL",
+    "name": "Min Jiang at Dempsey",
+    "url": "https://www.bridely.sg/venue?recordId=rec2o9vNM97x9KgzL",
+    "price": "$20888-$23888++",
+    "capacity": "10-110 pax",
+    "venueRating": "4.2",
+    "serviceRating": "4.1",
+    "foodRating": "4.4",
+    "reviews": "18"
+  },
+  {
     "recordId": "recmf9GCsPVpM0kDz",
     "name": "Botanico At The Summerhouse (Formerly at The Garage)",
     "url": "https://www.bridely.sg/venue?recordId=recmf9GCsPVpM0kDz",
@@ -1131,17 +1142,6 @@
     "serviceRating": "5",
     "foodRating": "5",
     "reviews": "4"
-  },
-  {
-    "recordId": "rec2o9vNM97x9KgzL",
-    "name": "Min Jiang at Dempsey",
-    "url": "https://www.bridely.sg/venue?recordId=rec2o9vNM97x9KgzL",
-    "price": "$20888-$23888++",
-    "capacity": "10-110 pax",
-    "venueRating": "4.2",
-    "serviceRating": "4.2",
-    "foodRating": "4.4",
-    "reviews": "17"
   },
   {
     "recordId": "recDoffEI8F40Vlop",
