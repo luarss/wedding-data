@@ -1392,6 +1392,22 @@
     }
   },
   {
+    "_id": "6971960a910aeb0850ac9a29",
+    "name": "Chucasa Janda Baik",
+    "slug": "chucasa-janda-baik",
+    "category": "venues",
+    "state": "Pahang",
+    "city": "Bentong",
+    "address": "8V77+V7, Kampung Janda Baik, 28750 Bentong, Pahang, Malaysia",
+    "venue": {
+      "minCapacity": 50,
+      "maxCapacity": 1000,
+      "minPrice": "2500",
+      "maxPrice": "49660",
+      "indoorOutdoor": "Outdoor_Only"
+    }
+  },
+  {
     "_id": "697affeb2d345662b34e47b1",
     "name": "Connexion Conference & Event Centre (CCEC)",
     "slug": "connexion-conference-&-event-centre-(ccec)",
