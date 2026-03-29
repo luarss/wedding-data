@@ -11,17 +11,6 @@
     "reviews": "141"
   },
   {
-    "recordId": "recmnhQh4ANr89IdH",
-    "name": "Mount Faber Peak",
-    "url": "https://www.bridely.sg/venue?recordId=recmnhQh4ANr89IdH",
-    "price": "$148-$168++/pax",
-    "capacity": "30-200 pax",
-    "venueRating": "4.8",
-    "serviceRating": "4.7",
-    "foodRating": "4.8",
-    "reviews": "34"
-  },
-  {
     "recordId": "recDE70TqO66tuVMT",
     "name": "Little Island Brewing Co",
     "url": "https://www.bridely.sg/venue?recordId=recDE70TqO66tuVMT",
@@ -44,15 +33,15 @@
     "reviews": "59"
   },
   {
-    "recordId": "recqSc5XwBLCNysgh",
-    "name": "The Fullerton Hotel Singapore",
-    "url": "https://www.bridely.sg/venue?recordId=recqSc5XwBLCNysgh",
-    "price": "$285-$309++/pax",
-    "capacity": "100-480 pax",
-    "venueRating": "4.5",
-    "serviceRating": "4.4",
-    "foodRating": "4.1",
-    "reviews": "139"
+    "recordId": "recmnhQh4ANr89IdH",
+    "name": "Mount Faber Peak",
+    "url": "https://www.bridely.sg/venue?recordId=recmnhQh4ANr89IdH",
+    "price": "$148-$168++/pax",
+    "capacity": "30-200 pax",
+    "venueRating": "4.7",
+    "serviceRating": "4.6",
+    "foodRating": "4.7",
+    "reviews": "35"
   },
   {
     "recordId": "recBjzDZV6Tmy22FL",
@@ -63,7 +52,18 @@
     "venueRating": "5",
     "serviceRating": "5",
     "foodRating": "5",
-    "reviews": "11"
+    "reviews": "12"
+  },
+  {
+    "recordId": "recqSc5XwBLCNysgh",
+    "name": "The Fullerton Hotel Singapore",
+    "url": "https://www.bridely.sg/venue?recordId=recqSc5XwBLCNysgh",
+    "price": "$285-$309++/pax",
+    "capacity": "100-480 pax",
+    "venueRating": "4.5",
+    "serviceRating": "4.4",
+    "foodRating": "4.1",
+    "reviews": "139"
   },
   {
     "recordId": "recNs8QOEuCPsy834",
