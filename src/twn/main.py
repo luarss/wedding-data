@@ -1,16 +1,15 @@
 import asyncio
 import csv
 import json
+import re
 
 import httpx
 
 from ..shared.config import get_headers
 
 BASE_URL = "https://theweddingnotebook.com/api/v1/listings"
+PAGE_BASE_URL = "https://theweddingnotebook.com/catalog/venues"
 DETAIL_CONCURRENCY = 10
-
-# Fields from venueDetails that mirror the old GraphQL venue sub-object
-VENUE_DETAIL_KEYS = ["minCapacity", "maxCapacity", "minPrice", "maxPrice", "indoorOutdoor"]
 
 
 def scrape_venues(category="venues", state=None, limit=None):
@@ -64,15 +63,71 @@ def _fetch_all_listings(category, state, limit):
     return all_listings
 
 
+def _parse_spaces_and_packages(html: str) -> dict:
+    """
+    Extract spaces and packages from Next.js RSC flight payload embedded in SSR HTML.
+    The public API returns venueDetails=null; this data is only available via SSR.
+    """
+    chunks = re.findall(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)', html, re.DOTALL)
+    combined = "".join(chunks)
+    try:
+        decoded = bytes(combined, "utf-8").decode("unicode_escape")
+    except Exception:
+        decoded = combined
+
+    spaces = []
+    for m in re.finditer(
+        r'"id":"([0-9a-f-]{36})","venueId":"[0-9a-f-]{36}"'
+        r',"name":"([^"]+)","type":"([^"]+)","indoorOutdoor":"([^"]+)"'
+        r'[^}]*?"area":(\d+|null)'
+        r'[^}]*?"capacitySeatedMin":(\d+|null),"capacitySeatedMax":(\d+|null)',
+        decoded,
+    ):
+        spaces.append(
+            {
+                "id": m.group(1),
+                "name": m.group(2).strip(),
+                "type": m.group(3),
+                "indoorOutdoor": m.group(4),
+                "area": int(m.group(5)) if m.group(5) != "null" else None,
+                "capacitySeatedMin": int(m.group(6)) if m.group(6) != "null" else None,
+                "capacitySeatedMax": int(m.group(7)) if m.group(7) != "null" else None,
+            }
+        )
+
+    packages = []
+    pkg_match = re.search(r'"packages":\[(\{.*?\}(?:,\{.*?\})*)\]', decoded)
+    if pkg_match:
+        try:
+            packages = json.loads(f"[{pkg_match.group(1)}]")
+            # $undefined is a React serialization artifact — replace with None
+            for pkg in packages:
+                for k, v in pkg.items():
+                    if v == "$undefined":
+                        pkg[k] = None
+        except json.JSONDecodeError:
+            pass
+
+    venue_capacity = {}
+    cap_match = re.search(r'"venueCapacity":\{"min":(\d+),"max":(\d+)\}', decoded)
+    if cap_match:
+        venue_capacity = {"min": int(cap_match.group(1)), "max": int(cap_match.group(2))}
+
+    return {"spaces": spaces, "packages": packages, "venueCapacity": venue_capacity}
+
+
 async def _fetch_detail(client, semaphore, listing):
     async with semaphore:
         try:
-            response = await client.get(f"{BASE_URL}/{listing['id']}")
-            response.raise_for_status()
-            detail = response.json().get("data", {})
-            # Merge detail fields into listing, preserving list fields
-            merged = {**listing, **detail}
-            return merged
+            api_resp = await client.get(f"{BASE_URL}/{listing['id']}")
+            api_resp.raise_for_status()
+            detail = api_resp.json().get("data", {})
+
+            page_resp = await client.get(f"{PAGE_BASE_URL}/{listing['slug']}")
+            page_resp.raise_for_status()
+            page_data = _parse_spaces_and_packages(page_resp.text)
+
+            return {**listing, **detail, **page_data}
         except Exception as e:
             print(f"Warning: failed to fetch detail for {listing['name']}: {e}")
             return listing
@@ -101,18 +156,25 @@ def save_venues(venues, filename="data/twn/venues"):
     with open(f"{filename}.json", "w", encoding="utf-8") as f:
         json.dump(venues, f, indent=2, ensure_ascii=False)
 
-    # Save CSV — flatten venueDetails into venue_* columns for schema parity
+    # Save CSV — flatten venueCapacity and first package into columns
     if venues:
         base_keys = ["id", "name", "slug", "vendorType", "state", "city", "address", "postCode"]
-        venue_keys = VENUE_DETAIL_KEYS
+        extra_keys = ["capacityMin", "capacityMax", "packagePrice", "packageGuestMin", "packageGuestMax"]
 
         with open(f"{filename}.csv", "w", newline="", encoding="utf-8") as f:
             writer = csv.writer(f)
-            writer.writerow(base_keys + [f"venue_{k}" for k in venue_keys])
+            writer.writerow(base_keys + extra_keys)
             for v in venues:
                 row = [v.get(k, "") for k in base_keys]
-                venue_detail = v.get("venueDetails") or {}
-                row += [venue_detail.get(k, "") for k in venue_keys]
+                cap = v.get("venueCapacity") or {}
+                pkg = (v.get("packages") or [{}])[0]
+                row += [
+                    cap.get("min", ""),
+                    cap.get("max", ""),
+                    pkg.get("price", ""),
+                    pkg.get("guestMin", ""),
+                    pkg.get("guestMax", ""),
+                ]
                 writer.writerow(row)
 
     print(f"Saved {len(venues)} venues to {filename}.json and {filename}.csv")
