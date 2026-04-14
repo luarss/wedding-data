@@ -1,42 +1,11 @@
 import csv
 import json
 
-from gql import Client, gql
-from gql.transport.httpx import HTTPXTransport
+import httpx
 
 from ..shared.config import get_headers
 
-transport = HTTPXTransport(
-    url="https://twnprod.theweddingnotebook.com/graphql",
-    headers=get_headers(),
-    timeout=30,
-)
-client = Client(transport=transport, fetch_schema_from_transport=False)
-
-# The query
-QUERY = gql("""
-query GetListings($record: GetListingsInput) {
-  getListings(record: $record) {
-    listings {
-      _id
-      name
-      slug
-      category
-      state
-      city
-      address
-      venue {
-        minCapacity
-        maxCapacity
-        minPrice
-        maxPrice
-        indoorOutdoor
-      }
-    }
-    totalCount
-  }
-}
-""")
+BASE_URL = "https://theweddingnotebook.com/api/v1/listings"
 
 
 def scrape_venues(category="venues", state=None, limit=None):
@@ -54,28 +23,31 @@ def scrape_venues(category="venues", state=None, limit=None):
     all_listings = []
     page = 1
 
-    while True:
-        # Build request
-        variables = {"record": {"category": category, "page": page, "limit": 50}}
-        if state:
-            variables["record"]["state"] = state
+    with httpx.Client(headers=get_headers(), timeout=30) as client:
+        while True:
+            params = {"category": category, "page": page, "limit": 50}
+            if state:
+                params["state"] = state
 
-        # Execute query
-        result = client.execute(QUERY, variable_values=variables)
-        listings = result["getListings"]["listings"]
-        total = result["getListings"]["totalCount"]
+            response = client.get(BASE_URL, params=params)
+            response.raise_for_status()
+            data = response.json()
 
-        all_listings.extend(listings)
-        print(f"Page {page}: Got {len(listings)} venues (total: {len(all_listings)}/{total})")
+            listings = data["data"]
+            pagination = data["pagination"]
+            total = pagination["total"]
+            total_pages = pagination["totalPages"]
 
-        # Stop conditions
-        if limit and len(all_listings) >= limit:
-            all_listings = all_listings[:limit]
-            break
-        if len(listings) < 50:  # Last page
-            break
+            all_listings.extend(listings)
+            print(f"Page {page}/{total_pages}: Got {len(listings)} venues (total: {len(all_listings)}/{total})")
 
-        page += 1
+            if limit and len(all_listings) >= limit:
+                all_listings = all_listings[:limit]
+                break
+            if page >= total_pages:
+                break
+
+            page += 1
 
     return all_listings
 
@@ -98,28 +70,21 @@ def save_venues(venues, filename="data/twn/venues"):
 
     # Save CSV
     if venues:
-        keys = ["_id", "name", "slug", "category", "state", "city", "address"]
-        venue_keys = ["minCapacity", "maxCapacity", "minPrice", "maxPrice", "indoorOutdoor"]
+        keys = ["id", "name", "slug", "vendorType", "state", "city", "description", "createdAt"]
 
         with open(f"{filename}.csv", "w", newline="", encoding="utf-8") as f:
             writer = csv.writer(f)
-            # Header
-            writer.writerow(keys + [f"venue_{k}" for k in venue_keys])
-            # Rows
+            writer.writerow(keys)
             for v in venues:
-                row = [v.get(k, "") for k in keys]
-                venue = v.get("venue") or {}
-                row += [venue.get(k, "") for k in venue_keys]
-                writer.writerow(row)
+                writer.writerow([v.get(k, "") for k in keys])
 
-    print(f"✅ Saved {len(venues)} venues to {filename}.json and {filename}.csv")
+    print(f"Saved {len(venues)} venues to {filename}.json and {filename}.csv")
 
 
 def main():
     """CLI entry point"""
     import sys
 
-    # Parse args
     args = sys.argv[1:]
     state = None
     limit = None
@@ -133,14 +98,11 @@ def main():
         elif arg == "--output" and i + 1 < len(args):
             output = args[i + 1]
 
-    # Scrape
     print(f"Scraping venues{f' in {state}' if state else ''}...")
     venues = scrape_venues(state=state, limit=limit)
 
-    # Save
     save_venues(venues, output)
 
-    # Summary
     print(f"\nScraped {len(venues)} venues")
     if venues:
         states = {}
@@ -148,8 +110,8 @@ def main():
             s = v.get("state", "Unknown")
             states[s] = states.get(s, 0) + 1
         print("\nBy state:")
-        for state, count in sorted(states.items(), key=lambda x: -x[1]):
-            print(f"  {state}: {count}")
+        for s, count in sorted(states.items(), key=lambda x: -x[1]):
+            print(f"  {s}: {count}")
 
 
 if __name__ == "__main__":
