@@ -228,7 +228,11 @@
     "dinner_price": "$1598++Mon - Sun",
     "tables_min": "10",
     "tables_max": "45",
-    "tables_range": "10 - 45Mon - Sun"
+    "tables_range": "10 - 45Mon - Sun",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/concorde-hotel-singapore/wedding-banquet-price-list/2026-2027-wedding-dinner-package.pdf",
+      "https://www.blissfulbrides.sg/banquet/concorde-hotel-singapore/wedding-banquet-price-list/2026-2027-wedding-lunch-package.pdf"
+    ]
   },
   {
     "source": "banquet-price-list",
