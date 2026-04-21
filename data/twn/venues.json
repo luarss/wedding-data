@@ -6428,10 +6428,10 @@
     "fts": "'1':29B,53B '10':191B '2':71B '200':86B '500':68B 'accommod':65B 'acr':30B 'agenda':184B 'air':61B,92B 'air-condit':60B 'airbnb':203B 'ampl':198B,215B 'bayswat':1A,4B,117B 'bayswaterklcc':57B,73B 'beauti':123B 'blend':18B 'build':247B 'casual':169B 'celebr':96B,249B 'centr':40B,129B 'ceremoni':93B 'choic':199B 'choos':141B 'citi':39B,128B,162B,225B 'city-centr':127B 'client':140B 'comfort':70B 'concept':145B,163B 'condit':62B 'conveni':188B 'corpor':108B 'could':226B 'cover':77B,231B 'customis':183B 'design':150B,245B 'differ':239B 'dinner':109B 'distinct':50B,144B 'eleg':20B 'estat':32B 'even':182B,214B 'event':12B,51B,134B,172B,221B 'facil':235B 'fashion':115B 'featur':48B 'flexibl':121B,174B 'formal':171B 'fulli':59B 'garden':72B,79B,159B 'googl':257B 'got':229B 'grand':55B 'greeneri':24B 'group':236B 'guest':69B,87B,208B 'hall':63B 'heart':35B 'host':83B 'hotel':201B 'instal':154B 'intim':95B 'kind':46B 'klcc':3A,6B,119B,195B 'kuala':37B,259C,263C 'land':220B 'landscap':31B 'launch':111B 'layout':122B,177B 'light':153B 'locat':130B 'look':253B 'lumpur':38B,260C,264C 'lush':23B 'make':132B 'matter':98B 'memor':136B 'min':192B 'night':113B 'offer':15B,120B 'one':43B 'one-of-a-kind':42B 'open':91B 'open-air':90B 'outdoor':78B 'outstat':207B 'oversea':205B 'own':238B 'park':216B 'pavilion':56B 'perfect':88B,166B 'persekutuan':262C 'plan':105B 'pleas':252B 'point':212B 'premier':9B 'present':179B 'product':110B,178B 'programm':156B 'prom':112B 'rain':99B 'rare':28B 'review':258B 'runway':116B 'semi':76B 'semi-cov':75B 'servic':210B 'setup':187B 'shine':101B 'showcas':180B 'smart':168B 'space':13B,52B,80B,217B 'suria':194B 'surround':124B,196B 'tabl':176B 'team':251B 'truli':135B 'trust':250B 'two':49B 'uniqu':17B,149B 'us':142B 'usual':138B 'valet':209B 'venu':47B,222B,240B,243B 'versatil':21B 'wed':10B,107B,186B 'whether':102B 'wilayah':261C 'within':26B,157B",
     "textEmbedding": null,
     "catalogPosition": 13,
-    "isSpotlight": true,
+    "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-04-14T07:17:10.028Z",
+    "updatedAt": "2026-04-20T10:57:02.829Z",
     "spaces": [
       {
         "id": "3e4d547e-3909-4122-88fe-2bd4abac4238",
@@ -6600,10 +6600,10 @@
     "fts": "'180':53B '400':38B 'accommod':35B 'ballroom':4A,10B 'beauti':66B 'ceil':46B 'celebr':76B 'citi':58B 'corpor':70B 'day':77B 'entiti':28B 'event':15B,71B 'floor':44B 'floor-to-ceil':43B 'galact':27B 'glass':47B 'gorgeous':26B 'grand':3A,9B 'kl':57B 'kuala':5A,80C,84C 'launch':73B 'lifestyl':14B 'like':22B 'lumpur':6A,81C,85C 'luna':2A,8B 'make':63B 'modern':13B 'moon':24B 'mysteri':31B 'name':19B 'night':79B 'offer':50B 'pax':39B 'persekutuan':83C 'privat':75B 'product':72B 'set':67B 'skylin':59B 'space':32B 'stun':52B 'trx':61B 'venu':16B,41B 'view':54B,62B 'wed':69B 'wilayah':82C 'window':48B",
     "textEmbedding": null,
     "catalogPosition": 8,
-    "isSpotlight": true,
+    "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-04-14T08:15:45.570Z",
+    "updatedAt": "2026-04-20T10:57:10.632Z",
     "spaces": [
       {
         "id": "6a738f6d-943b-43a1-93dc-277b7089059f",
@@ -6755,10 +6755,10 @@
     "fts": "'+6010':211B '-256':212B '100':138B '150':128B '200':129B '550':111B '5618':213B '68000':208B 'all-in-on':189B 'ampang':209B,214C 'antarabangsa':207B 'architectur':106B 'ballroom':101B 'board':35B 'brand':94B 'bukit':206B 'celebr':64B,96B,174B 'centerpiec':132B 'charm':134B 'citi':180B 'come':65B 'comfort':171B 'concept':97B 'corpor':60B 'destin':196B 'dine':147B 'dream':58B 'dreami':122B 'entertain':143B 'estat':5A,74B,99B 'event':4A,14B,61B,73B,199B 'eventest':48B 'everyth':84B 'expect':152B 'explor':87B 'express':135B 'feel':30B 'first':9B 'fit':108B 'gem':53B 'getaway':181B 'glass':105B,124B 'grand':79B,100B 'guest':112B,130B,139B 'held':39B 'hill':2A,20B,184B,186B 'hous':125B 'icon':102B 'ideal':126B 'intim':121B,160B 'itali':43B 'jalan':202B 'kelab':203B 'kind':93B 'kl':76B 'kuala':17B,55B 'life':67B 'lifestyl':6A,162B 'like':36B 'littl':154B 'look':21B 'lot':157B 'love':141B 'lumpur':18B,56B 'magic':26B 'malaysia':46B 'moment':117B,161B 'mood':34B 'new':95B 'newest':52B 'night':169B 'one':90B,192B 'one-of-a-kind':89B 'pandora':119B 'parti':82B 'perfect':77B 'pinterest':33B 'privat':3A,72B 'pure':159B 'resort':12B,29B,70B,194B 'resort-feel':28B 'resort-styl':11B,69B,193B 'room':148B 'selangor':210B,215C 'show':115B 'show-stop':114B 'simpli':103B 'space':98B,136B 'stay':167B,201B 'staycat':177B 'stop':116B 'stun':104B 'style':13B,71B,145B,178B,195B 'stylish':81B 'suit':7A,49B,163B 'think':113B 'ukay':1A,19B,185B,204B 'ukayhil':47B 'unforgett':63B 'utama':205B 'venu':15B,24B 'vip':146B 'wed':41B,59B,80B,198B 'white':123B 'wind':164B",
     "textEmbedding": null,
     "catalogPosition": 14,
-    "isSpotlight": true,
+    "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-04-14T07:43:21.771Z",
+    "updatedAt": "2026-04-20T10:57:05.398Z",
     "spaces": [
       {
         "id": "8f81b35e-4638-40bd-a12a-d366bb4a8a6a",
@@ -7148,10 +7148,10 @@
     "fts": "'180':43B '250pax':62B '4':18B '500pax':73B 'accommod':59B 'affair':106B 'alam':49B,118C 'canva':112B 'captur':35B 'center':32B 'citi':24B,31B 'come':75B 'coupl':96B 'degre':44B 'design':57B 'dream':115B 'eleven':2A,7B,34B,80B,108B 'envis':99B 'essenc':37B 'event':4A,13B 'expans':54B 'fit':70B 'french':11B 'gather':102B 'go':77B 'guest':63B 'heart':28B 'hotel':20B 'intim':101B 'lavish':105B 'lifestyl':3A,12B 'link':21B 'locat':15B 'luxuri':40B 'maison':1A,6B,33B,79B,107B 'mall':25B 'modern':10B,39B 'offer':81B 'one':65B 'perfect':111B 'provid':109B 'seat':67B 'selangor':119C 'setia':23B,30B,48B 'shah':117C 'skylin':45B,51B 'space':84B 'star':19B 'style':78B 'suit':90B 'tailor':88B 'time':66B 'uniqu':92B 'venu':5A,14B 'versatil':83B 'view':46B,56B 'vision':93B 'wed':116B 'whether':97B 'window':55B",
     "textEmbedding": null,
     "catalogPosition": 7,
-    "isSpotlight": true,
+    "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-04-14T08:09:51.770Z",
+    "updatedAt": "2026-04-20T10:57:07.988Z",
     "spaces": [
       {
         "id": "158cfe76-201d-49dc-974a-663ba114e833",
@@ -10327,10 +10327,10 @@
     "fts": "'240':38B '3':16B '30':34B '360':2A,19B,82B 'access':56B,79B 'accommod':31B 'also':77B 'approx':37B 'banquet':35B 'celebr':49B 'club':1A,18B,81B 'clubhous':75B 'complet':95B 'corpor':45B 'court':92B 'creat':93B 'customiz':53B 'design':23B 'eco':104B 'eco-inspir':103B 'ecohil':4A,21B 'eleg':10B 'enjoy':78B 'event':11B,98B 'experi':99B 'facil':85B 'featur':50B 'full':73B 'full-servic':72B 'function':46B 'guest':39B,76B 'gym':88B 'hall':7B,29B,65B 'ideal':42B 'includ':86B 'inspir':105B 'interior':52B 'layout':54B 'level':15B 'lifestyl':84B 'locat':13B 'loung':60B 'make':40B 'memor':97B 'modern':51B 'offer':66B 'pool':89B 'premium':68B 'privat':48B 'rooftop':59B 'sapphir':6B 'scenic':62B 'selangor':108C 'semenyih':5A,22B,107C 'servic':74B 'set':69B 'setia':3A,20B 'sport':91B 'style':27B 'tabl':36B 'township':106B 'venu':12B 'versatil':25B 'vibrant':102B 'view':63B 'wed':44B 'within':70B",
     "textEmbedding": null,
     "catalogPosition": 9,
-    "isSpotlight": true,
+    "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-04-15T06:40:33.649Z",
+    "updatedAt": "2026-04-20T10:56:57.587Z",
     "spaces": [
       {
         "id": "aa738e5f-5fa4-468c-8760-f99c3ea759b7",
@@ -10592,10 +10592,10 @@
     "fts": "'000':37B '1':36B '31':70B 'acr':71B 'alam':91C 'alamimpian':6A 'amen':76B 'ampl':65B 'av':58B 'ballroom':2A,15B,40B 'capac':32B 'ceil':45B 'celebr':29B 'club':4A 'clubhous':75B 'complex':12B 'corpor':25B 'eleg':20B 'event':26B,83B 'experi':84B 'facil':56B 'featur':41B 'floor':43B 'floor-to-ceil':42B 'fountain':54B 'full':74B 'glass':46B 'grand':1A,14B,28B 'guest':38B 'ideal':22B 'includ':57B 'lake':51B 'lakepoint':3A,11B 'lakesid':88B 'locat':7B 'luxuri':80B 'memor':82B 'modern':55B 'music':53B 'offer':16B 'overlook':48B 'panel':47B 'park':66B,72B 'picturesqu':87B 'provid':78B 'scenic':50B 'selangor':92C 'seren':10B 'set':89B 'setia':5A 'setup':61B 'shah':90C 'spacious':18B 'stage':60B 'suit':63B 'surround':67B 'system':59B 'venu':21B 'vip':62B 'wed':24B 'within':8B",
     "textEmbedding": null,
     "catalogPosition": 11,
-    "isSpotlight": true,
+    "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-04-15T06:33:59.165Z",
+    "updatedAt": "2026-04-20T10:56:52.269Z",
     "spaces": [
       {
         "id": "b3705cb3-4391-45ab-9fe7-46c681454cde",
@@ -10849,10 +10849,10 @@
     "fts": "'220':39B 'accommod':36B 'adjoin':29B 'air':17B 'air-condit':16B 'alam':9A,87C 'amen':74B 'arrang':64B 'av':56B 'banquet':59B 'birthday':45B 'camellia':1A,10B 'canopi':3A,22B 'club':4A,23B 'clubhous':69B 'combin':34B 'condit':18B 'corpor':47B 'eco':6A,25B 'eleg':80B 'environ':85B 'equip':52B 'event':19B,48B 'featur':27B 'flexibl':62B 'full':55B 'function':78B 'gate':84B 'guest':40B 'hall':2A,11B,30B,50B 'ideal':41B 'indoor':71B 'locat':65B 'offer':76B 'outdoor':73B 'park':7A,26B 'premium':68B 'projector':58B 'seat':63B 'selangor':88C 'seminar':44B 'seren':83B 'setia':5A,8A,24B 'shah':86C 'space':20B 'system':57B 'tabl':60B 'three':28B 'versatil':14B 'wed':43B 'within':21B",
     "textEmbedding": null,
     "catalogPosition": 10,
-    "isSpotlight": true,
+    "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-04-15T09:11:57.849Z",
+    "updatedAt": "2026-04-20T10:56:54.903Z",
     "spaces": [
       {
         "id": "7a4237e8-7151-40ff-893e-e9adf06c5616",
@@ -11539,10 +11539,10 @@
     "fts": "'20':103B '300':117B '600':57B '800':61B 'accent':96B 'access':102B,108B 'ambienc':89B 'amen':112B 'amidst':9B 'av':80B 'ballroom':3A,19B,37B,71B,129B 'banquet':59B 'bay':118B 'blend':48B 'bridal/vip':83B 'capac':54B 'carpet':98B 'ceil':40B 'celebr':35B 'chandeli':42B 'citi':147B 'classic':90B 'club':126B 'cocktail':85B 'corpor':31B 'counter':88B 'cultur':34B 'dark':94B 'divis':67B 'easili':107B 'eco':5A,14B 'eleg':41B,142B 'event':26B,143B 'facil':79B 'featur':38B 'foyer':78B 'free':25B 'function':32B,77B 'grand':22B 'greeneri':11B 'guest':58B,62B 'gym':121B 'high':39B 'highway':111B 'ideal':28B 'includ':72B 'interior':46B 'kl':106B 'km':104B 'layout':66B 'light':101B 'locat':8B 'lush':10B 'luxuri':45B 'major':110B 'mini':122B 'modern':49B 'natur':52B,100B 'near':145B 'offer':20B 'on-sit':113B 'park':116B,123B 'perfect':135B 'pillar':24B 'pillar-fre':23B 'pool':120B 'pre':76B 'pre-funct':75B 'rawang':7A,16B,148C 'red':97B 'refin':92B 'registr':87B 'room':84B 'scenic':133B 'seek':138B 'selangor':149C 'set':144B 'setia':4A,13B 'site':115B 'smaller':70B 'sophist':50B 'space':27B 'spacious':74B 'stage':82B 'style':65B 'surround':53B 'swim':119B 'system':81B 'tabl':86B 'templer':1A,6A,15B,17B,125B,127B 'theatr':64B 'theatre-styl':63B 'tranquil':140B 'two':69B 'venu':134B 'versatil':132B 'via':109B,124B 'wed':30B 'wood':95B 'yet':141B",
     "textEmbedding": null,
     "catalogPosition": 12,
-    "isSpotlight": true,
+    "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-04-15T09:12:26.464Z",
+    "updatedAt": "2026-04-20T10:57:00.184Z",
     "spaces": [
       {
         "id": "2aadbe95-2d25-47a1-a7ac-40b29476f387",
