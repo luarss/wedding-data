@@ -490,7 +490,7 @@
       },
       "packages": {
         "value": "packages",
-        "overriddenAt": "2026-04-15T09:34:07.524Z",
+        "overriddenAt": "2026-04-28T08:10:09.919Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "photos-videos": {
@@ -532,38 +532,41 @@
     ],
     "packages": [
       {
-        "name": "The Canopy Collection ",
-        "price": 240,
-        "priceMax": 280,
+        "name": "The Canopy Collection - Colonial Malaya",
+        "price": 250,
+        "priceMax": null,
         "priceFixture": "per_pax",
-        "pricePerPax": 240,
-        "description": "The Canopy Collection - With a minimum of 80 person (8 tables). Minimum spend required. More menu details in our PDF below!",
+        "pricePerPax": 250,
+        "description": "With a minimum of 80 person (8 tables). The Canopy collection package features a 4 course menu, complete with 1 night stay for the couple, wedding cake, free flow of mocktail throughout dinner, special upgraded table centrepiece for the main table, wedding favours for all guests and more.",
         "includes": [
-          "Complimentary 1 (one) night stay in a luxurious suite in the majestic wing with breakfast for the newly weds inclusive of a deluxe fruit basket",
-          "Beautifully decorated ceremonial wedding cake for the cake cutting ceremony",
-          "Complimentary free-flow of signature mocktail throughout the dinner for all guests and complimentary tid-bits during pre-dinner drink",
-          "Exclusive wedding favours for all guests & Red carpet aisle for the wedding march.\n",
-          "Complimentary 1 (one) unit portable projector & portable screen complimentary standard sound system"
+          "A Feast of Colonial Malaya Menu (download menu)",
+          "A Taste of Colonial Malaya Menu (download menu)"
         ],
         "guestMin": 80,
-        "guestMax": 150,
+        "guestMax": 200,
         "brochureUrl": "documents/5764534f-6443-4c1b-b013-6fcdf5ead301/brochure-316b2bc4-a964-4f10-8ca1-76b55f31a13c.pdf"
       },
       {
-        "name": "The Signature Collection @ Majestic Ballroom",
-        "price": 289,
-        "priceMax": 359,
-        "priceFixture": "per_pax",
-        "pricePerPax": 289,
-        "description": "The Signature Collection @ Majestic Ballroom. Minimum spend required. More details in our PDF below!",
-        "includes": [
-          "Complimentary 1 (one) night stay in a luxurious suite in the majestic wing with breakfast for the newly weds inclusive of a deluxe fruit basket",
-          "60-Minute Spa Treatment at The Majestic Spa",
-          "Exclusive wedding favours for all guests & Red carpet aisle for the wedding march.",
-          "Complimentary state-of-the-art led backdrop to grace the occasion",
-          "Complimentary usage of built-in projectors, motorised screens, basic sound system & standard stage lights & more!"
-        ],
-        "guestMin": 500,
+        "name": "The Canopy Collection - Muhibbah Dome",
+        "price": 2600,
+        "priceMax": 2800,
+        "priceFixture": "per_table",
+        "pricePerPax": 260,
+        "description": "With a minimum of 80 person (8 tables). The Canopy collection package features a dome menu, complete with 1 night stay for the couple, wedding cake, free flow of mocktail throughout dinner, special upgraded table centrepiece for the main table, wedding favours for all guests and more.",
+        "includes": [],
+        "guestMin": 80,
+        "guestMax": 100,
+        "brochureUrl": "documents/5764534f-6443-4c1b-b013-6fcdf5ead301/brochure-2c706f02-e104-49df-b4ff-46bbb29f40c3.pdf"
+      },
+      {
+        "name": "Signature Collection",
+        "price": 2888,
+        "priceMax": 3580,
+        "priceFixture": "per_table",
+        "pricePerPax": 288.8,
+        "description": "Our signature collection (For Majestic Ballroom) would include a complimentary one-night stay at The Majestic Wing. Our signature collection menu requires a minimum of seventy tables/ minimum spending of RM180,000++. For more information, download our menu below.",
+        "includes": [],
+        "guestMin": 70,
         "guestMax": 1200,
         "brochureUrl": "documents/5764534f-6443-4c1b-b013-6fcdf5ead301/brochure-b0ae97ae-4825-4ec0-9d77-49dec77102f5.pdf"
       }
@@ -1224,23 +1227,122 @@
     ],
     "packages": [
       {
-        "name": "The St Regis - Grand Ballroom",
-        "price": 420,
-        "priceMax": 528,
-        "priceFixture": "all_inclusive",
-        "pricePerPax": null,
-        "description": "The St Regis - Grand Ballroom",
+        "name": "Distinctive Celebrations at Grand Ballroom 2026",
+        "price": 528,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 0.5,
+        "description": "Distinctive Celebrations at Grand Ballroom 2026 - Package applicable for Year 2026 with minimum of 420 persons OR minimum food and beverage charges applies for the Grand Ballroom. All prices quoted are subject to prevailing applicable taxes.",
         "includes": [
           "One (1) night stay in the Bridal Suite, the 138 sqm St. Regis Suite, featuring thoughtfully curated wedding amenities, in-suite breakfast for two (2) delivered by your Butler and late checkout at 3:00 PM",
+          "Preferential room rates for family and friends during the event day",
+          "Specially curated set menu options",
           "Complimentary food tasting of your selected menu for ten (10) guests",
-          "Free-flowing St. Regis Wedding Mocktail.",
-          "Exclusive access to The Gallery â a dedicated space for couples to browse and explore a wide selection of linens, base plates and wedding essentials",
-          "Complimentary use of the Main Curve LED Screen (11.52m x 6.336m)",
-          "Complimentary use of built-in audio and lighting equipment including pin spots, moving heads, and stage lights."
+          "Two (2) canapÃ©s selections by our Chef to be served during the reception",
+          "An exquisite St. Regis wedding favour presented in a specially curated signature box ",
+          "A decorative wedding cake for cake-cutting ceremony",
+          "One (1) bottle of Champagne for the Sabering ceremony",
+          "Free-flowing St. Regis Wedding Mocktail",
+          "An exquisite centrepiece for the VIP table and floral arrangements for all guest tables",
+          "Exclusive access to The Gallery â a dedicated space for couples to browse and explore a wide selection of linens, base plates and wedding essentials ",
+          "The Salon, located on the same floor as Grand Ballroom, is available at a special rate of MYR10,000+ on the event day, offering every convenience for the bride and groom to refresh and rejuvenate prior to making their grand entrance into the reception. It offers a luxurious private living area, full-length three-way mirror, live feed from Grand Ballroom for preview, and a large styling space and bathroom",
+          "Complimentary use of the Main Curve LED Screen (11.52m x 6.336m), providing a unique visual experience",
+          "Complimentary use of the built-in audio and lighting equipment including the including the pin spot, moving heads and stage light",
+          "Use of hotelâs Media Wall and Digital Screens",
+          "Preferential rate for the use of two (2) Rear LED Screens at MYR16,000+ (U.P. MYR24,000+)  and 47 Seamless LED Digital Canvas at MYR180,000+ (U.P. MYR265,000+), allowing you  bring any creative vision to life and transform the Grand Ballroomâs ambiance and theme",
+          "Access to oversized lift with direct access to Grand Ballroom for seamless vendor entry",
+          "One (1) reserved VIP parking space for the bridal"
         ],
-        "guestMin": 400,
-        "guestMax": null,
-        "brochureUrl": "documents/40f5351b-b9a8-4039-8c87-97d8c6047e4c/brochure-1776992801261-The_St__Regis_Kuala_Lumpur_Wedding_Package_Grand_Ballroom_Year_2026.pdf"
+        "guestMin": 420,
+        "guestMax": 1060,
+        "brochureUrl": "documents/40f5351b-b9a8-4039-8c87-97d8c6047e4c/brochure-0a69a1b7-9daa-48f5-af53-a97b65729fa0.pdf"
+      },
+      {
+        "name": "Distinctive Celebrations at Astor Rooms 2026",
+        "price": 528,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 1.47,
+        "description": "Distinctive Celebrations at Astor Rooms 2026 - Package applicable for Year 2026 with minimum of 200 persons OR minimum food and beverage charges applies for the Astor Rooms. \n\nAll prices quoted are subject to prevailing applicable taxes. \n\nTaxes, levies or charges are subject to change in accordance with Malaysian Government legislation.",
+        "includes": [
+          "One (1) night stay in the Bridal Suite, the 138 sqm St. Regis Suite, featuring thoughtfully presented, in-suite breakfast for two (2) delivered by your Butler and late checkout at 3:00PM",
+          "Preferential room rates for family and friends during the event day",
+          "Specially curated set menu options",
+          "Complimentary food tasting of your selected menu for ten (10) guests",
+          "Two (2) canapÃ©s selections by our Chef to be served during the reception",
+          "An exquisite St. Regis wedding favour presented in a specially curated signature box ",
+          "A decorative wedding cake for cake-cutting ceremony",
+          "One (1) bottle of Champagne for the Sabering ceremony",
+          "Free-flowing St. Regis Wedding Mocktail",
+          "An exquisite centrepiece for the VIP table and floral arrangements for all guest tables",
+          "Exclusive access to The Gallery â a dedicated space for couples to browse and explore a wide selection of linens, base plates and wedding essentials ",
+          "Complimentary use of the built-in audio and visual equipment in Astor Rooms, including the three (3) LCD projectors with motorised screens",
+          "Preferential LED screen (4.032m x 3.264m) rental rate at MYR6,000.00+ per event",
+          "Use of hotelâs Media Wall and Digital Screens",
+          "Access to oversized lift with direct access to Astor Rooms for seamless vendor entry",
+          "One (1) reserved VIP parking space for the bridal"
+        ],
+        "guestMin": 200,
+        "guestMax": 360,
+        "brochureUrl": "documents/40f5351b-b9a8-4039-8c87-97d8c6047e4c/brochure-f5a29f46-4306-493c-b084-a6d98ac26d15.pdf"
+      },
+      {
+        "name": "Weekday Vows at Astor Rooms 2026",
+        "price": 420,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 1.17,
+        "description": "Weekday Vows at Astor Rooms 2026 - Package applicable for Year 2026 on a weekday Monday Thursday except Public Holiday with minimum of 200 persons OR minimum food and beverage charges applies for the Astor Rooms. \n\nAll prices quoted are subject to prevailing applicable taxes. \n\nTaxes, levies or charges are subject to change in accordance with Malaysian Government legislation.",
+        "includes": [
+          "One (1) night stay in the Bridal Suite, the 138 sqm St. Regis Suite, featuring thoughtfully presented, in-suite breakfast for two (2) delivered by your Butler and late checkout at 3:00PM",
+          "Preferential room rates for family and friends during the event day",
+          "Specially curated set menu options",
+          "Complimentary food tasting of your selected menu for ten (10) guests",
+          "An exquisite St. Regis wedding favour presented in a specially curated signature box ",
+          "A decorative wedding cake for cake-cutting ceremony",
+          "One (1) bottle of Champagne for the Sabering ceremony",
+          "Free-flowing St. Regis Wedding Mocktail",
+          "An exquisite centrepiece for the VIP table and floral arrangements for all guest tables",
+          "Exclusive access to The Gallery â a dedicated space for couples to browse and explore a wide selection of linens, base plates and wedding essentials ",
+          "Complimentary use of the built-in audio and visual equipment in Astor Rooms, including the three (3) LCD projectors with motorised screens",
+          "Preferential LED screen (4.032m x 3.264m) rental rate at MYR6,000.00+ per event",
+          "Use of hotelâs Media Wall and Digital Screens",
+          "Access to oversized lift with direct access to Astor Rooms for seamless vendor entry",
+          "One (1) reserved VIP parking space for the bridal"
+        ],
+        "guestMin": 200,
+        "guestMax": 360,
+        "brochureUrl": "documents/40f5351b-b9a8-4039-8c87-97d8c6047e4c/brochure-b66b007b-7c05-4bad-aa88-88a31a17d3e3.pdf"
+      },
+      {
+        "name": "Weekday Vows at Grand Ballroom Wedding 2026",
+        "price": 420,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 0.4,
+        "description": "Weekday Vows at Grand Ballroom Wedding 2025 - Package applicable for Year 2025 on a weekday Monday Thursday except Public Holiday with minimum of 420 persons OR minimum food and beverage charges applies for Grand Ballroom. \n\nAll prices quoted are subject to prevailing applicable taxes.",
+        "includes": [
+          "One (1) night stay in the Bridal Suite, the 138 sqm St. Regis Suite, featuring thoughtfully curated wedding amenities, in-suite breakfast for two (2) delivered by your Butler and late checkout at 3:00 PM",
+          "Preferential room rates for family and friends during the event day",
+          "Specially curated set menu options",
+          "Complimentary food tasting of your selected menu for ten (10) guests",
+          "An exquisite St. Regis wedding favour presented in a specially curated signature box ",
+          "A decorative wedding cake for cake-cutting ceremony",
+          "One (1) bottle of Champagne for the Sabering ceremony",
+          "Free-flowing St. Regis Wedding Mocktail",
+          "An exquisite centrepiece for the VIP table and floral arrangements for all guest tables",
+          "Exclusive access to The Gallery â a dedicated space for couples to browse and explore a wide selection of linens, base plates and wedding essentials ",
+          "The Salon, located on the same floor as Grand Ballroom, is available at a special rate of MYR10,000+ on the event day, offering every convenience for the bride and groom to refresh and rejuvenate prior to making their grand entrance into the reception. It offers a luxurious private living area, full-length three-way mirror, live feed from Grand Ballroom for preview, and a large styling space and bathroom",
+          "Complimentary use of the Main Curve LED Screen (11.52m x 6.336m), providing a unique visual experience",
+          "Complimentary use of the built-in audio and lighting equipment including the including the pin spot, moving heads and stage light",
+          "Use of hotelâs Media Wall and Digital Screens",
+          "Preferential rate for the use of two (2) Rear LED Screens at MYR16,000+ (U.P. MYR24,000+)  and 47 Seamless LED Digital Canvas at MYR180,000+ (U.P. MYR265,000+), allowing you  bring any creative vision to life and transform the Grand Ballroomâs ambiance and theme",
+          "Access to oversized lift with direct access to Grand Ballroom for seamless vendor entry",
+          "One (1) reserved VIP parking space for the bridal"
+        ],
+        "guestMin": 420,
+        "guestMax": 1060,
+        "brochureUrl": "documents/40f5351b-b9a8-4039-8c87-97d8c6047e4c/brochure-446a3788-7dff-4be0-8110-ee10a3ed5781.pdf"
       }
     ],
     "venueCapacity": {
@@ -2390,17 +2492,11 @@
       {
         "name": "SET THE STAGE 1",
         "price": 458,
-        "priceMax": null,
+        "priceMax": 478,
         "priceFixture": "per_pax",
-        "pricePerPax": 458,
+        "pricePerPax": 0.92,
         "description": "When you wed at W Kuala Lumpur, youâll enjoy the personalized consultations to make your dream wedding come true. Leave the traditional behind with our unique wedding proposals, designed for the most daring bride and groom.",
-        "includes": [
-          "Chinese Edition or Western Edition menu curated by dedicated culinary team",
-          "Bottomless flow of soft drinks",
-          "State-of-the-art 36â x 20â full HD LED screen with built-in audio visual equipment",
-          "Exclusive gift for all guests",
-          "One-night stay in two Standard Rooms with breakfasts for two persons at Flock"
-        ],
+        "includes": null,
         "guestMin": 150,
         "guestMax": 500,
         "brochureUrl": "documents/127a6e35-8fef-4f9d-9301-3526a71b26b5/brochure-2b0ffbe6-6743-4dfd-a96b-0e053af152d0.pdf"
@@ -2410,18 +2506,24 @@
         "price": 498,
         "priceMax": 518,
         "priceFixture": "per_pax",
-        "pricePerPax": 498,
+        "pricePerPax": 1,
         "description": "When you wed at W Kuala Lumpur, youâll enjoy the personalized consultations to make your dream wedding come true. Leave the traditional behind with our unique wedding proposals, designed for the most daring bride and groom.",
-        "includes": [
-          "Chinese Edition or Western Edition menu curated by dedicated culinary team",
-          "Bottomless flow of soft drinks",
-          "State-of-the-art 36â x 20â full HD LED screen with built-in audio visual equipment",
-          "Exclusive gift for all guests",
-          "Unwind with one-night stay in a Penthouse II with breakfasts for two persons at Flock, special welcome amenities and late check-out at 3:00PM. One-night stay in two Standard Rooms with breakfasts for two persons at Flock"
-        ],
+        "includes": null,
         "guestMin": 150,
-        "guestMax": 300,
+        "guestMax": 500,
         "brochureUrl": "documents/127a6e35-8fef-4f9d-9301-3526a71b26b5/brochure-7a0a8faf-d0a4-4e29-919a-e85759c4f2a2.pdf"
+      },
+      {
+        "name": "CELEBRATE THE LOVE",
+        "price": 8888,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "ROM at W Kuala Lumpur, youâll enjoy the personalized consultations to make your dream wedding come true. Leave the traditional behind with our unique wedding proposals, designed for the most daring bride and groom.",
+        "includes": null,
+        "guestMin": 20,
+        "guestMax": 70,
+        "brochureUrl": null
       }
     ],
     "venueCapacity": {
@@ -2606,109 +2708,6 @@
     "venueCapacity": {
       "min": 100,
       "max": 400
-    }
-  },
-  {
-    "id": "a2fec331-b57c-455e-9660-a31bfaa59d86",
-    "name": "Crystal Crown Hotel PJ",
-    "slug": "crystal-crown-hotel-pj",
-    "vendorType": "venue",
-    "status": "live",
-    "city": "Petaling Jaya",
-    "state": "Selangor",
-    "images": [
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/a2fec331-b57c-455e-9660-a31bfaa59d86/02fee3f4-e6c2-4d91-a242-9108b637fd93/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/a2fec331-b57c-455e-9660-a31bfaa59d86/e9c5ecca-0f5b-438b-b0cc-08685222d427/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/a2fec331-b57c-455e-9660-a31bfaa59d86/c4366a72-6dd2-4090-9739-164df982fb41/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/a2fec331-b57c-455e-9660-a31bfaa59d86/68b5e5c1-4f82-49c8-9468-f342f651490c/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/a2fec331-b57c-455e-9660-a31bfaa59d86/de6566bc-52be-4b3d-aaa1-5ac36f3ae891/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/a2fec331-b57c-455e-9660-a31bfaa59d86/ac92db41-31f0-4d94-9d78-10bb9d44aa29/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/a2fec331-b57c-455e-9660-a31bfaa59d86/10a4f5a3-939b-402b-a7a7-1478adb72b70/high.webp"
-      }
-    ],
-    "description": "This modern hotel in the business district is 13 minutes' walk from Asia Jaya light rail station, 5 km from Mid Valley Megamall and 15 km from the iconic PETRONAS Twin Towers.\nAiry rooms feature high ceilings and wood floors, as well as flat-screen TVs, free Wi-Fi, minifridges, and tea and coffeemaking facilities. Upgraded rooms have access to an executive lounge with evening snacks; suites add separate sitting areas.\nThere's an alcohol-free cafe serving regional and international fare. Other amenities include a fitness centre, an outdoor pool, a Jacuzzi and a sauna.",
-    "createdAt": "2025-03-17T03:40:25.889Z",
-    "vendorId": "pending_5b4e14999db8bbc3",
-    "address": "12, Lorong Utara A, Off, Jln Utara, Pjs 52, 46200 Petaling Jaya, Selangor, Malaysia",
-    "postCode": "46200",
-    "googlePlaceId": "ChIJCaWQxt5LzDERRic_XjebqH8",
-    "latitude": "3.1093064",
-    "longitude": "101.6431331",
-    "googlePlaceName": "12, Lorong Utara A, Off, Jln Utara, Pjs 52, 46200 Petaling Jaya, Selangor, Malaysia",
-    "neighbourhood": null,
-    "googleMapsLink": null,
-    "wazeLink": null,
-    "googleRating": null,
-    "googleTotalReviews": null,
-    "whatsappNumber": null,
-    "whatsappMessage": null,
-    "youtubeLink": null,
-    "wpTag": "crystal-crown-hotel-petaling-jaya",
-    "faq": [],
-    "venueDetails": null,
-    "photographerDetails": null,
-    "adminOverrides": null,
-    "coverImageFocalPoint": null,
-    "coverImageDetectionData": null,
-    "coverImageSmartCrops": null,
-    "coverImageFocalPointOverride": null,
-    "fts": "'13':13B '15':29B '5':22B 'access':65B 'add':74B 'airi':37B 'alcohol':82B 'alcohol-fre':81B 'amen':91B 'area':77B 'asia':17B 'busi':10B 'cafe':84B 'ceil':41B 'centr':95B 'coffeemak':60B 'crown':2A 'crystal':1A 'district':11B 'even':71B 'execut':68B 'facil':61B 'fare':89B 'featur':39B 'fi':55B 'fit':94B 'flat':49B 'flat-screen':48B 'floor':44B 'free':52B,83B 'high':40B 'hotel':3A,7B 'icon':33B 'includ':92B 'intern':88B 'jacuzzi':100B 'jaya':18B,105C 'km':23B,30B 'light':19B 'loung':69B 'megamal':27B 'mid':25B 'minifridg':56B 'minut':14B 'modern':6B 'outdoor':97B 'petal':104C 'petrona':34B 'pj':4A 'pool':98B 'rail':20B 'region':86B 'room':38B,63B 'sauna':103B 'screen':50B 'selangor':106C 'separ':75B 'serv':85B 'sit':76B 'snack':72B 'station':21B 'suit':73B 'tea':58B 'tower':36B 'tvs':51B 'twin':35B 'upgrad':62B 'valley':26B 'walk':15B 'well':46B 'wi':54B 'wi-fi':53B 'wood':43B",
-    "textEmbedding": null,
-    "catalogPosition": 81,
-    "isSpotlight": false,
-    "isDemo": false,
-    "liveAt": null,
-    "updatedAt": "2026-04-24T01:11:01.559Z",
-    "spaces": [
-      {
-        "id": "6afa6a61-94ac-4159-a000-e21d6a5f95b5",
-        "name": "Crystal Ballroom Level 1",
-        "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
-        "area": 7200,
-        "capacitySeatedMin": 50,
-        "capacitySeatedMax": 550
-      },
-      {
-        "id": "5228906e-bcb6-490e-9959-a9177b81eced",
-        "name": "Crown Hall",
-        "type": "Banquet Halls",
-        "indoorOutdoor": "Indoor",
-        "area": 4987,
-        "capacitySeatedMin": 50,
-        "capacitySeatedMax": 180
-      }
-    ],
-    "packages": [
-      {
-        "name": "Package 1",
-        "price": 2088,
-        "priceMax": 2298,
-        "priceFixture": "per_table",
-        "pricePerPax": 208.8,
-        "description": "The tea ceremony is an essential element to Chinese weddings. It signifies respect to the families of the bride and groom, and includes formal introductions of the couple. We have a tea ceremony package for you to consider at a Special rate and deal.",
-        "includes": [],
-        "guestMin": 250,
-        "guestMax": 550,
-        "brochureUrl": null
-      }
-    ],
-    "venueCapacity": {
-      "min": 50,
-      "max": 550
     }
   },
   {
@@ -4023,75 +4022,159 @@
     "packages": [
       {
         "name": "SOLEMNISATION / AKAD NIKAH PACKAGE",
-        "price": 290,
+        "price": 2903,
         "priceMax": null,
-        "priceFixture": "per_pax",
-        "pricePerPax": 290,
-        "description": "SOLEMNISATION / AKAD NIKAH PACKAGE: When it comes to tying the knot, leave it to the expertise of our wedding planners to bring your vision to life, with all-in packages of great valueâdesigned to ensure you have the memorable experience that you and your loved ones deserve.",
-        "includes": [],
+        "priceFixture": "per_table",
+        "pricePerPax": 290.3,
+        "description": "SOLEMNISATION / AKAD NIKAH PACKAGE: When it comes to tying the knot, leave it to\nthe expertise of our wedding planners to\nbring your vision to life, with all-in\npackages of great valueâdesigned to\nensure you have the memorable experience\nthat you and your loved ones deserve.",
+        "includes": null,
         "guestMin": 150,
         "guestMax": 300,
         "brochureUrl": "documents/93bac908-9681-430a-b4da-077f3193fc1d/brochure-39fefc58-a788-4e8d-aa9c-4a9f211ea404.pdf"
       },
       {
         "name": "TIMELESS LOVE: CHINESE WEDDING PACKAGE 1",
-        "price": 298,
-        "priceMax": 328,
-        "priceFixture": "per_pax",
-        "pricePerPax": 298,
-        "description": "Celebrate your dream wedding with a thoughtfully curated package that caters for up to 300 guests, featuring a sumptuous Chinese set menu designed to impress. Delight your guests with free-flow servings of signature wedding mocktails and soft drinks throughout the celebration. Raise your glasses with two bottles of sparkling juice for a joyous toasting ceremony, and cherish timeless traditions with a beautifully styled decorative dummy cake for the cake-cutting moment and a customised wedding guest book to capture heartfelt memories. All essential wedding elements are elegantly included. To complete your special day, enjoy a romantic one-night stay in a Bridal Suite with breakfast for twoâserved either in-room or at the exclusive R Club Lounge. Download our brochure for more info!",
-        "includes": [],
+        "price": 2988,
+        "priceMax": 3277.04,
+        "priceFixture": "per_table",
+        "pricePerPax": 298.8,
+        "description": "$68",
+        "includes": null,
         "guestMin": 100,
         "guestMax": 300,
         "brochureUrl": "documents/93bac908-9681-430a-b4da-077f3193fc1d/brochure-9ee2b5c3-ab2e-4bfb-8d7e-bdfd3daf2f1e.pdf"
       },
       {
         "name": "TIMELESS LOVE: CHINESE WEDDING PACKAGE 2",
-        "price": 338,
-        "priceMax": 366,
-        "priceFixture": "per_pax",
-        "pricePerPax": 338,
-        "description": "Celebrate your special day with a wedding package designed to impress and enchant, thoughtfully curated to cater for up to 300 beloved guests with a delectable Chinese set menu. Begin your celebration with a warm welcome as guests indulge in two types of canapÃ©s and savoury tidbits at a charming pre-wedding reception and let the celebration flow with unlimited servings of wedding mocktails and soft drinks, while two bottles of sparkling juice set the stage for a joyful toasting ceremony. Download our brochure for more info!",
-        "includes": [],
+        "price": 3388,
+        "priceMax": 3659.04,
+        "priceFixture": "per_table",
+        "pricePerPax": 338.8,
+        "description": "$69",
+        "includes": null,
         "guestMin": 100,
         "guestMax": 300,
         "brochureUrl": "documents/93bac908-9681-430a-b4da-077f3193fc1d/brochure-841f3743-23b0-494b-850e-4b84c546b5d9.pdf"
       },
       {
         "name": "TIMELESS LOVE: CHINESE WEDDING PACKAGE 3",
-        "price": 398,
-        "priceMax": 430,
-        "priceFixture": "per_pax",
-        "pricePerPax": 398,
-        "description": "Celebrate your love story with a wedding package crafted to enchant and impressâperfectly tailored for up to 300 guests. Treat your loved ones to an indulgent Chinese set menu, complemented by free-flow servings of refreshing wedding mocktails and soft drinks throughout the celebration. Guests are also welcome to indulge in three types of canapÃ©s and savoury tidbits at a charming pre-wedding reception. Raise a toast with two bottles of sparkling juice during the joyous toasting ceremony, and mark the occasion with a beautifully adorned decorative dummy cake and a personalised wedding guest bookâalongside all the essential wedding touches to complete your special day. Download our brochure for more info!",
-        "includes": [],
+        "price": 3988,
+        "priceMax": 4307.04,
+        "priceFixture": "per_table",
+        "pricePerPax": 398.8,
+        "description": "$6a",
+        "includes": null,
         "guestMin": 100,
         "guestMax": 300,
         "brochureUrl": "documents/93bac908-9681-430a-b4da-077f3193fc1d/brochure-fe706a1c-f9ca-4088-8d95-af7a4fae70eb.pdf"
       },
       {
         "name": "TIMELESS LOVE: WESTERN WEDDING PACKAGE 1",
-        "price": 298,
-        "priceMax": 322,
-        "priceFixture": "per_pax",
-        "pricePerPax": 298,
-        "description": "Host the wedding of your dreams with a celebration crafted in elegance and charm, tailored to delight up to 300 guests with a refined Western set menu. From the first sip to the final toast, guests will enjoy free-flowing wedding mocktails and soft drinks throughout the evening. Mark your joyous union with two bottles of sparkling juice for the toasting ceremony, and honour timeless traditions with a beautifully styled decorative dummy cake for the cake-cutting moment, along with a personalised wedding guest book and all the essential wedding details to complete your day in style.",
-        "includes": [],
+        "price": 2988,
+        "priceMax": 3227,
+        "priceFixture": "per_table",
+        "pricePerPax": 298.8,
+        "description": "$6b",
+        "includes": null,
         "guestMin": 100,
         "guestMax": 300,
         "brochureUrl": "documents/93bac908-9681-430a-b4da-077f3193fc1d/brochure-ee51f7bb-7d7a-430c-a886-95a0a8b8e671.pdf"
       },
       {
         "name": "TIMELESS LOVE: WESTERN WEDDING PACKAGE 2",
-        "price": 338,
-        "priceMax": 365,
-        "priceFixture": "per_pax",
-        "pricePerPax": 338,
-        "description": "Celebrate your love in timeless elegance with a wedding package designed for up to 300 cherished guests, featuring a delectable Western set menu that promises a feast to remember. Begin your celebration with a warm welcome as guests indulge in two types of canapÃ©s and savoury tidbits at a charming pre-wedding reception. Guests will enjoy free-flow servings of refreshing wedding mocktails and soft drinks, while two bottles of sparkling juice set the scene for a heartfelt toasting ceremony. Complete your celebration with a beautifully decorated dummy cake for the picture-perfect cake-cutting moment, a customised wedding guest book to capture precious memories, and a full suite of wedding essentials.",
-        "includes": [],
+        "price": 3388,
+        "priceMax": 3659,
+        "priceFixture": "per_table",
+        "pricePerPax": 338.8,
+        "description": "$6c",
+        "includes": null,
         "guestMin": 100,
         "guestMax": 300,
         "brochureUrl": "documents/93bac908-9681-430a-b4da-077f3193fc1d/brochure-ef9e4735-f980-4a0e-acb6-6a5a0d6ed635.pdf"
+      },
+      {
+        "name": "TIMELESS LOVE: WESTERN WEDDING PACKAGE 3",
+        "price": 3988,
+        "priceMax": 4307,
+        "priceFixture": "per_table",
+        "pricePerPax": 398.8,
+        "description": "$6d",
+        "includes": null,
+        "guestMin": 399,
+        "guestMax": 431,
+        "brochureUrl": "documents/93bac908-9681-430a-b4da-077f3193fc1d/brochure-20b74b5f-ca89-4ac9-a963-8f2f2a32f40a.pdf"
+      },
+      {
+        "name": "TIMELESS LOVE: MALAY WEDDING PACKAGE 1",
+        "price": 2988,
+        "priceMax": 3227.04,
+        "priceFixture": "per_table",
+        "pricePerPax": 298.8,
+        "description": "$6e",
+        "includes": null,
+        "guestMin": 100,
+        "guestMax": 300,
+        "brochureUrl": "documents/93bac908-9681-430a-b4da-077f3193fc1d/brochure-317efbf3-9ecc-4fad-bd36-f5e8c81b81df.pdf"
+      },
+      {
+        "name": "TIMELESS LOVE: MALAY WEDDING PACKAGE 2",
+        "price": 3388,
+        "priceMax": 3659.04,
+        "priceFixture": "per_table",
+        "pricePerPax": 338.8,
+        "description": "$6f",
+        "includes": null,
+        "guestMin": 100,
+        "guestMax": 300,
+        "brochureUrl": "documents/93bac908-9681-430a-b4da-077f3193fc1d/brochure-28e83223-6d98-4356-930a-9027da472ec5.pdf"
+      },
+      {
+        "name": "TIMELESS LOVE: MALAY WEDDING PACKAGE 3",
+        "price": 3988,
+        "priceMax": 4307.04,
+        "priceFixture": "per_table",
+        "pricePerPax": 398.8,
+        "description": "$70",
+        "includes": null,
+        "guestMin": 100,
+        "guestMax": 300,
+        "brochureUrl": "documents/93bac908-9681-430a-b4da-077f3193fc1d/brochure-0b511cd2-3443-4439-bb13-8c9f82907c6a.pdf"
+      },
+      {
+        "name": "TIMELESS LOVE: INDIAN WEDDING PACKAGE 1",
+        "price": 2988,
+        "priceMax": 3227.04,
+        "priceFixture": "per_table",
+        "pricePerPax": 298.8,
+        "description": "$71",
+        "includes": null,
+        "guestMin": 100,
+        "guestMax": 300,
+        "brochureUrl": "documents/93bac908-9681-430a-b4da-077f3193fc1d/brochure-0fcd5f62-5bb7-4b88-88f9-576c70b6e1ea.pdf"
+      },
+      {
+        "name": "TIMELESS LOVE: INDIAN WEDDING PACKAGE 2",
+        "price": 3388,
+        "priceMax": 3659.04,
+        "priceFixture": "per_table",
+        "pricePerPax": 338.8,
+        "description": "$72",
+        "includes": null,
+        "guestMin": 100,
+        "guestMax": 300,
+        "brochureUrl": "documents/93bac908-9681-430a-b4da-077f3193fc1d/brochure-6019d533-8ea8-42df-8218-66e9dda20672.pdf"
+      },
+      {
+        "name": "TIMELESS LOVE: INDIAN WEDDING PACKAGE 3",
+        "price": 3988,
+        "priceMax": 4307.04,
+        "priceFixture": "per_table",
+        "pricePerPax": 398.8,
+        "description": "$73",
+        "includes": null,
+        "guestMin": 100,
+        "guestMax": 298,
+        "brochureUrl": "documents/93bac908-9681-430a-b4da-077f3193fc1d/brochure-85917301-bc9f-4179-a90a-909d209f0f1a.pdf"
       }
     ],
     "venueCapacity": {
@@ -4153,7 +4236,7 @@
     ],
     "description": "One World Hotel is a luxurious 5-star hotel located in Petaling Jaya, Malaysia. One World Hotel is ideally situated in the vibrant heart of Petaling Jaya, just 12 kilometers from Kuala Lumpur City Centre. The hotel offers direct access to the Bandar Utama MRT station, ensuring convenient city exploration for guests. With 452 rooms and suites, the accommodation options are diverse, including Superior Rooms, Deluxe Rooms, Executive Deluxe Rooms, Junior Suites, and Executive Suites, along with a specially designed superior room for guests with disabilities. Each room is equipped with top-notch amenities, from 50” LED televisions and complimentary wireless internet access to spacious bathrooms with bathtubs, coffee and tea making facilities, and personal safes, providing a comfortable and convenient stay. To view more packages, kindly WhatsApp +60163391027",
     "createdAt": "2025-03-24T11:13:48.353Z",
-    "vendorId": "pending_5b4e14999db8bbc3",
+    "vendorId": "user_3Cy3Yz8yDkM9kiVwKHPBOi17yo1",
     "address": "First Avenue, City Centre, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor, Malaysia",
     "postCode": "47800",
     "googlePlaceId": "ChIJdwqXWCtJzDER12q71TDpPy0",
@@ -4204,7 +4287,7 @@
     "isSpotlight": true,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-04-24T01:11:01.559Z",
+    "updatedAt": "2026-04-28T07:40:50.105Z",
     "spaces": [
       {
         "id": "56374e0f-a16f-4899-9496-f5719eb6d6b7",
@@ -5133,7 +5216,7 @@
     "adminOverrides": {
       "packages": {
         "value": "packages",
-        "overriddenAt": "2026-04-16T03:10:35.184Z",
+        "overriddenAt": "2026-04-28T08:08:57.858Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "food-menu": {
@@ -5767,7 +5850,7 @@
     "adminOverrides": {
       "packages": {
         "value": "packages",
-        "overriddenAt": "2026-04-16T03:37:17.055Z",
+        "overriddenAt": "2026-04-28T08:01:43.901Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "food-menu": {
@@ -5841,6 +5924,30 @@
         "guestMin": 200,
         "guestMax": 350,
         "brochureUrl": "documents/bd1c1680-a6dc-4fe3-b1ed-8b0e8f8cafde/brochure-70bfcd4f-4793-444a-9ad2-5eda5c2d3dd1.pdf"
+      },
+      {
+        "name": "Indian Wedding Package",
+        "price": 97,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 97,
+        "description": "Exchange your vows in the lush, romantic setting of PARKROYAL COLLECTION Kuala Lumpur, where design and\nnature meet to captivate your senses. Encompassing artfully designed ballrooms, nature-inspired themes and exquisite culinary creations tailored to your tastes, we offer the perfect setting for you to celebrate the start of a life\nwith the one you love.",
+        "includes": [],
+        "guestMin": 200,
+        "guestMax": 350,
+        "brochureUrl": "documents/bd1c1680-a6dc-4fe3-b1ed-8b0e8f8cafde/brochure-b3dece92-dd06-49bb-b031-85dde44686f3.pdf"
+      },
+      {
+        "name": "Malay Wedding Package",
+        "price": 100,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 100,
+        "description": "Exchange your vows in the lush, romantic setting of PARKROYAL COLLECTION Kuala Lumpur, where design and\nnature meet to captivate your senses. Encompassing artfully designed ballrooms, nature-inspired themes and exquisite culinary creations tailored to your tastes, we offer the perfect setting for you to celebrate the start of a life\nwith the one you love.",
+        "includes": [],
+        "guestMin": 200,
+        "guestMax": 350,
+        "brochureUrl": "documents/bd1c1680-a6dc-4fe3-b1ed-8b0e8f8cafde/brochure-9807a68b-1e46-467c-9e15-e3abd5d33753.pdf"
       }
     ],
     "venueCapacity": {
@@ -7731,7 +7838,7 @@
       },
       "packages": {
         "value": "packages",
-        "overriddenAt": "2026-04-16T04:10:11.754Z",
+        "overriddenAt": "2026-04-28T08:04:54.530Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "photos-videos": {
@@ -7767,8 +7874,24 @@
         "capacitySeatedMax": 400
       }
     ],
-    "packages": [],
-    "venueCapacity": {}
+    "packages": [
+      {
+        "name": "Chinese Wedding Package & Menu 2025",
+        "price": 228,
+        "priceMax": 268,
+        "priceFixture": "per_pax",
+        "pricePerPax": 228,
+        "description": "9-course Chinese Set Menu - Complimentary 1 night stay at Bridal Suite with breakfast for 2 persons, fruit basket, 1 bottle of sparkling juice, & fresh flowers. Complimentary 2 bottles of sparkling juice for the champagne pouring ceremony. Free corkage for 1 bottle of hard liquor or wine per table & more.",
+        "includes": [],
+        "guestMin": 250,
+        "guestMax": 300,
+        "brochureUrl": "documents/8f62ed2e-00ac-47a0-909e-31289f9d3e87/brochure-ec19f516-0f53-48ff-bf81-6c9db1dde2ff.pdf"
+      }
+    ],
+    "venueCapacity": {
+      "min": 100,
+      "max": 400
+    }
   },
   {
     "id": "9371d852-d43d-4fca-a80a-90bf29bf0eb0",
@@ -11959,6 +12082,54 @@
     ],
     "packages": [
       {
+        "name": "URBAN PARK HALL WEDDING PACKAGE BUFFET 2025",
+        "price": 30900,
+        "priceMax": 34900,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "Urban Park Hall @ LKSA is a modern and spacious event venue in Alam Impian, Shah Alam. Featuring contemporary design, ample parking, and easy accessibility, itâs an ideal choice for weddings, corporate events, and special occasions, accommodating up to 1000 guests in styleÂ andÂ comfort.",
+        "includes": [
+          "Hall Facilities",
+          "Catering from Zai Sri Gemilang",
+          "Hall Decorations and Bridal Dais from Terusik Event "
+        ],
+        "guestMin": 500,
+        "guestMax": 1000,
+        "brochureUrl": "documents/b56dcea2-722f-42da-bc32-6d147210c2aa/brochure-563694a4-9ccc-4a24-ace5-a013402e8299.pdf"
+      },
+      {
+        "name": "URBAN PARK HALL WEDDING PACKAGE DOME 2025",
+        "price": 39899,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "Urban Park Hall @ LKSA is a modern and spacious event venue in Alam Impian, Shah Alam. Featuring contemporary design, ample parking, and easy accessibility, itâs an ideal choice for weddings, corporate events, and special occasions, accommodating up to 1000 guests in styleÂ andÂ comfort.",
+        "includes": [
+          "Hall Facilities",
+          "Catering from Zai Sri Gemilang",
+          "Hall Decorations and Bridal Dais from Terusik Event"
+        ],
+        "guestMin": null,
+        "guestMax": 400,
+        "brochureUrl": "documents/b56dcea2-722f-42da-bc32-6d147210c2aa/brochure-600e26a2-2782-4ea7-a3d0-d622f6cca3bf.pdf"
+      },
+      {
+        "name": "URBAN PARK HALL NIKAH PACKAGE 2025",
+        "price": 15900,
+        "priceMax": 18900,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "Urban Park Hall @ LKSA is a modern and spacious event venue in Alam Impian, Shah Alam. Featuring contemporary design, ample parking, and easy accessibility, itâs an ideal choice for weddings, corporate events, and special occasions, accommodating up to 1000 guests in styleÂ andÂ comfort.",
+        "includes": [
+          "Hall Facilities",
+          "Catering from Zai Sri Gemilang",
+          "Hall Decorations and Bridal Dais from Terusik Event"
+        ],
+        "guestMin": 100,
+        "guestMax": 200,
+        "brochureUrl": "documents/b56dcea2-722f-42da-bc32-6d147210c2aa/brochure-e6affc74-69d8-4c3c-b5f5-1f75a083e986.pdf"
+      },
+      {
         "name": "URBAN PARK HALL WEDDING PACKAGE BUFFET 2026",
         "price": 30900,
         "priceMax": 34900,
@@ -11986,7 +12157,7 @@
           "Catering from Zai Sri Gemilang",
           "Hall Decorations and Bridal Dais from Terusik Event"
         ],
-        "guestMin": 200,
+        "guestMin": null,
         "guestMax": 400,
         "brochureUrl": "documents/b56dcea2-722f-42da-bc32-6d147210c2aa/brochure-f82f7ff8-2f8a-481e-8126-9c3e1b2e64b5.pdf"
       },
@@ -12495,8 +12666,26 @@
         "capacitySeatedMax": 250
       }
     ],
-    "packages": [],
-    "venueCapacity": {}
+    "packages": [
+      {
+        "name": "Tulip's Package",
+        "price": 35900,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "Create a memorable and elegant celebration with our Tulips Package, designed for up to 500 guests.\nFeaturing refined dÃ©cor, delicious cuisine, and a beautifully arranged venue, this package ensures your special day unfolds seamlessly from start to finish.",
+        "includes": [
+          "$6a"
+        ],
+        "guestMin": null,
+        "guestMax": 500,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 50,
+      "max": 1000
+    }
   },
   {
     "id": "449bb490-82b3-4e02-b254-f9fe32ee92d2",
@@ -13313,8 +13502,119 @@
         "capacitySeatedMax": 50
       }
     ],
-    "packages": [],
-    "venueCapacity": {}
+    "packages": [
+      {
+        "name": "Vows with views - Chinese wedding I",
+        "price": 3200,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": 320,
+        "description": "Inspired by joyful tradition and meaningful connection, our Chinese Wedding experience blends auspicious flavors, thoughtful touches, and warm hospitality to create a celebration filled with harmony and abundance. With elegant decor, curated Chinese menus, refreshing beverages, and relaxing stays, your day flows with ease and purpose, honoring heritage while welcoming a bright new beginning.",
+        "includes": [
+          "Pre-Celebration (1 hour) â¢ Chefâs signature titbits â¢ Two types of pass-around canapÃ©s â¢ Fruit punch, soft drinks, and one type of mocktail",
+          "Tantalize Your Taste Buds â¢ Chefâs specialized Chinese Set Menu â¢ Free flow of soft drinks â¢ One bottle of Prosecco for the toasting ceremony â¢ Corkage waiver for one bottle of duty-paid wine/liquor for every 10 confirmed persons â¢ Food tasting for 10 persons (Available from Monday to Friday, excluding the eve of public holidays and public holidays. Applicable only with a minimum of 15 paying tables.)",
+          "Celebrate the Moment â¢ Special decorative wedding cake â¢ Selection of tablecloths and chair covers â¢ Fresh floral arrangements on bridal, guests, and reception table â¢ Wedding favors for all guests â¢ Usage of built-in audiovisual equipment and built-in LED screens",
+          "Enhanced â¢ 2 Days 1 Night stay in a One-Bedroom Suite, inclusive of breakfast for two and special amenities for the newlyweds â¢ 2 Days 1 Night stay in two Studio room, each with breakfast for two â¢ Preferential rates for family and friends booking Studio rooms â¢ VIP parking for two vehicles at the ground floor â¢ Marriott Bonvoy Event Points",
+          "Terms and conditions: â¢ Price quoted is subject to 8% SST. â¢ The above rate is applicable to wedding in 2025/2026. â¢ A minimum of 150 persons is required, or minimum food and beverages spending applies. â¢ Minimum F&B spending is required for blackout dates: 24, 25 and 31 December 2025/2026."
+        ],
+        "guestMin": 100,
+        "guestMax": 240,
+        "brochureUrl": "documents/743cd4df-3bf2-45ff-a2f7-8b3ecf5133c4/brochure-cd33eb7d-7a1e-4de6-bb70-fa21b846e973.pdf"
+      },
+      {
+        "name": "Vows with views - Chinese wedding II",
+        "price": 350,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 1.46,
+        "description": "Inspired by joyful tradition and meaningful connection, our Chinese Wedding experience blends auspicious flavors, thoughtful touches, and warm hospitality to create a celebration filled with harmony and abundance. With elegant decor, curated Chinese menus, refreshing beverages, and relaxing stays, your day flows with ease and purpose, honoring heritage while welcoming a bright new beginning.",
+        "includes": [
+          "Beyond Readiness â¢ Pre-wedding meal for newlyweds Pre-Celebration (1 hour) â¢ Chefâs signature titbits â¢ Two types of pass-around canapÃ©s â¢ Fruit punch, soft drinks, and one type of mocktail",
+          "Tantalize Your Taste Buds â¢ Chefâs specialized Chinese Set Menu â¢ Free flow of soft drinks â¢ One bottle of Prosecco for the toasting ceremony â¢ One bottle of selected red or white wine for every 10 confirmed persons â¢ Corkage waiver for one bottle of duty-paid wine/liquor for every 10 confirmed persons â¢ Food tasting for 10 persons (Available from Monday to Friday, excluding the eve of public holidays and public holidays. Applicable only with a minimum of 15 paying tables.)",
+          "Celebrate the Moment â¢ Special decorative wedding cake â¢ Selection of tablecloths and chair covers â¢ Fresh floral arrangements on bridal, guests, and reception table â¢ One welcome board at the entrance and four floral pedestals along the red carpet â¢ Wedding favors for all guests â¢ Usage of built-in audiovisual equipment and built-in LED screens",
+          "Enhanced â¢ 2 Days 1 Night stay in a One-Bedroom Suite, inclusive of breakfast for two and special amenities for the newlyweds â¢ 2 Days 1 Night stay in two Studio room, each with breakfast for two â¢ Preferential rates for family and friends booking Studio rooms â¢ VIP parking for two vehicles at the ground floor â¢ Marriott Bonvoy Event Points â¢ Seasonal High Tea for four persons at TRACE Restaurant & Bar (Six months validity from event date, advance booking is required)",
+          "Terms and conditions: â¢ Price quoted is subject to 8% SST. â¢ The above rate is applicable to wedding in 2025/2026. â¢ A minimum of 150 persons is required, or minimum food and beverages spending applies. â¢ Minimum F&B spending is required for blackout dates: 24, 25 and 31 December 2025/2026."
+        ],
+        "guestMin": 100,
+        "guestMax": 240,
+        "brochureUrl": "documents/743cd4df-3bf2-45ff-a2f7-8b3ecf5133c4/brochure-2e9317f7-ae67-495e-b13a-0be1ff3598d8.pdf"
+      },
+      {
+        "name": "Vows with views - Malay wedding",
+        "price": 2900,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": 290,
+        "description": "Rooted in grace and cultural warmth, our Malay Wedding experience offers a serene and heartfelt celebration. Enjoy generous flavors from a traditional dome style feast, a beautifully arranged dais, welcoming spaces, and gentle floral elements that create a naturally inviting setting. Your moment unfolds with comfort, sincerity, and a sense of community that brings every blessing to life.",
+        "includes": [
+          "Beyond Readiness â¢ Pre-wedding meal for newlyweds Pre-Celebration (1 hour) â¢ Chefâs signature titbits â¢ Two types of pass-around canapÃ©s â¢ Free flow of soft drinks and fruit punch or rose syrup",
+          "Tantalize Your Taste Buds â¢ Chefâs specialized Dome Set Menu â¢ Free flow of soft drinks and fruit punch or rose syrup â¢ Food tasting for 10 persons (Available from Monday to Friday, excluding the eve of public holidays and public holidays. Applicable only with a minimum of 15 paying tables.)",
+          "Celebrate the Moment â¢ Special decorative wedding cake â¢ Selection of tablecloths and chair covers â¢ Fresh floral arrangements on bridal, guests, and reception table â¢ A dais setup with bridal bench, drapery, and artificial floral arrangement â¢ Welcome board to greet your esteemed guests â¢ Wedding favors for all guests â¢ Usage of built-in audiovisual equipment and LED screens",
+          "Enhanced â¢ 2 Days 1 Night stay in a One-Bedroom Suite, inclusive of breakfast for two and special amenities for the newlyweds â¢ 2 Days 1 Night stay in two Studio rooms, each with breakfast for two â¢ Preferential rates for family and friends booking Studio rooms â¢ VIP parking for two vehicles at the ground floor â¢ Marriott Bonvoy Event Points",
+          "Terms and conditions: â¢ Price quoted is subject to 8% SST. â¢ The above rate is applicable for wedding in 2025/ 2026. â¢ A minimum of 150 persons is required, or minimum food and beverages spending applies. â¢ Minimum F&B spending is required for blackout dates: 24, 25 and 31 December 2025/ 2026."
+        ],
+        "guestMin": 100,
+        "guestMax": 240,
+        "brochureUrl": "documents/743cd4df-3bf2-45ff-a2f7-8b3ecf5133c4/brochure-c6c5d407-42bb-4a16-9789-dce283d18092.pdf"
+      },
+      {
+        "name": "Vows with views - Western wedding 1",
+        "price": 320,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 1.33,
+        "description": "Designed with modern elegance and effortless charm, our Western Wedding experience brings a fresh and uplifting ambiance to your special day. Savor bright flavors from a crafted Western set menu, enjoy refined decor and thoughtful details, and relax in calming guest spaces. Your celebration feels simple, meaningful, and beautifully timeless from the first toast to the final moment.",
+        "includes": [
+          "Beyond Readiness â¢ Pre-wedding meal for newlyweds Pre-Celebration (1 hour) â¢ Chefâs signature titbits â¢ Two types of pass-around canapÃ©s â¢ Fruit punch, soft drinks and a type of mocktail",
+          "Tantalize Your Taste Buds â¢ Chefâs specialized Western Set Menu â¢ Free flow of soft drinks â¢ One bottle of Prosecco for the toasting ceremony â¢ Corkage waiver for one bottle of duty-paid wine/liquor for every 10 confirmed persons â¢ Food tasting for 10 persons (Available from Monday to Friday, excluding the eve of public holidays and public holidays. Applicable only with a minimum of 15 paying tables.)",
+          "Celebrate the Moment â¢ Special decorative wedding cake â¢ Selection of tablecloths and chair covers â¢ Fresh floral arrangements on bridal, guests, and reception table â¢ Wedding favors for all guests â¢ Usage of built-in audiovisual equipment and built-in LED screens",
+          "Enhanced â¢ 2 Days1 Night stay in a One-Bedroom Suite, inclusive of breakfast for two and special amenities for the newlyweds â¢ 2 Days1 Night stay in two Studio rooms, each with breakfast for two â¢ Preferential rates for family and friends booking Studio rooms â¢ VIP parking for two vehicles at the ground floor â¢ Marriott Bonvoy Event Points",
+          "Terms and conditions: â¢ Price quoted is subject to 8% SST. â¢ The above rate is applicable to wedding in 2025/2026. â¢ A mnimum of 150 persons is required, or minimum food and beverages spending applies. â¢ Minimum F&B spending is required for blackout dates: 24, 25 and 31 December 2025/2026."
+        ],
+        "guestMin": 100,
+        "guestMax": 240,
+        "brochureUrl": "documents/743cd4df-3bf2-45ff-a2f7-8b3ecf5133c4/brochure-09995c57-1f91-4ba7-843c-e06580ba02f6.pdf"
+      },
+      {
+        "name": "Vows with views - Western wedding II",
+        "price": 350,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 1.46,
+        "description": "Designed with modern elegance and effortless charm, our Western Wedding experience brings a fresh and uplifting ambiance to your special day. Savor bright flavors from a crafted Western set menu, enjoy refined decor and thoughtful details, and relax in calming guest spaces. Your celebration feels simple, meaningful, and beautifully timeless from the first toast to the final moment.",
+        "includes": [
+          "Beyond Readiness â¢ Pre-wedding meal for newlyweds Pre-Celebration (1 hour) â¢ Chefâs signature titbits â¢ Two types of pass-around canapÃ©s â¢ Fruit punch, soft drinks, and one type of mocktail",
+          "Tantalize Your Taste Buds â¢ Chefâs specialized Western Set Menu â¢ Free flow of soft drinks â¢ One bottle of Prosecco for the toasting ceremony â¢ One bottle of selected red or white wine for every 10 confirmed persons â¢ Corkage waiver for one bottle of duty-paid wine/liquor for every 10 confirmed persons â¢ Food tasting for 10 persons (Available from Monday to Friday, excluding the eve of public holidays and public holidays. Applicable only with a minimum of 15 paying tables.)",
+          "Celebrate the Moment â¢ Special decorative wedding cake â¢ Selection of tablecloths and chair covers â¢ Fresh floral arrangements on bridal, guests, and reception table â¢ One welcome board at the entrance and four floral pedestals along the red carpet â¢ Wedding favors for all guests â¢ Usage of built-in audiovisual equipment and built-in LED screens",
+          "Enhanced â¢ 2 Days 1 Night stay in a One-Bedroom Suite, inclusive of breakfast for two and special amenities for the newlyweds â¢ 2 Days 1 Night stay in two Studio rooms, each with breakfast for two â¢ Preferential rates for family and friends booking Studio rooms â¢ VIP parking for two vehicles at the ground floor â¢ Marriott Bonvoy Event Points â¢ Seasonal High Tea for four persons at TRACE Restaurant & Bar (Six months validity from event date, advance booking is required)",
+          "Terms and conditions: â¢ Price quoted is subject to 8% SST. â¢ The above rate is applicable to wedding in 2025/2026. â¢ A minimum 150 persons is required, or minimum food and beverages spending applies. â¢ Minimum F&B spending is required for blackout dates: 24, 25 and 31 December 2025/ 2026. "
+        ],
+        "guestMin": 100,
+        "guestMax": 240,
+        "brochureUrl": "documents/743cd4df-3bf2-45ff-a2f7-8b3ecf5133c4/brochure-bb1bcb92-dd94-4e9c-a82a-61972fdab800.pdf"
+      },
+      {
+        "name": "Vow with views - Register of Marriage  (ROM)",
+        "price": 260,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 1.08,
+        "description": "Inspired by simplicity and meaningful connection, our ROM experience offers a refreshing setting for your special moment. Enjoy light canapes, vibrant refreshments, and a relaxed buffet celebration in bright open spaces. With gentle floral accents, a welcoming registration setup, refined audiovisual support, and a restful stay for the newlyweds, your ceremony feels calm, heartfelt, and naturally uplifting from start to finish.",
+        "includes": [
+          "Pre-Celebration (1 hour) â¢ One type of canapÃ© â¢ Fruit punch or rose syrup Tantalize Your Taste Buds â¢ Lunch Buffet at one of the following venues,  Ilham Ballroom at Level 38, All-day-dining TRACE Restaurant & Bar at Level 40,  and ERA function room at Level 40 â¢ Free flow of coffee, tea and two types of chilled juice.",
+          "Celebrate the Moment â¢ Special decorative wedding cake â¢ Selection of tablecloths and chair covers â¢ Fresh floral arrangement on registration table â¢ Welcome board to greet your esteemed guests â¢ Beautify the scene with one of the floral arrangements: A floral arch A dais setup with bridal chair and artificial floral arrangement â¢ Wedding favors for all guests â¢ Built-in audiovisual equipment and basic PA system â¢ Usage of portable LCD projector screen or built-in LED screens",
+          "Enhanced â¢ 2 Days 1 Night stay in a Studio room, inclusive of breakfast for two and special amenities for the newlyweds â¢ Preferential rate for family and friends booking Studio rooms â¢ VIP parking for one vehicle at the ground floor â¢ Marriott Bonvoy Event Points",
+          "Terms and conditions: â¢ Price quoted is subject to 8% SST. â¢ Menu at TRACE Restaurant & Bar is subject to change based on seasonal promotion. â¢ Lunch will be held at the ceremony venue between 10AM and 2PM, depending on the venue. ERA: A minimum of 60 guests, or a minimum food and beverage spending of MYR 14,000+ is required. lham Ballroom: A minimum of 100 guests, or a minimum food and beverage spending of MYR 22,000+ is required. â¢ For dinner events held in the Ilham Ballroom from 6PM to 11PM, a minimum F&B spending of MYR 40,000+ is required. â¢ The above package is applicable for ceremony taking place in 2025/2026. â¢ Minimum F&B spending is required for blackout dates: 24, 25 and 31 December 2025/ 2026."
+        ],
+        "guestMin": 60,
+        "guestMax": 240,
+        "brochureUrl": "documents/743cd4df-3bf2-45ff-a2f7-8b3ecf5133c4/brochure-7aa7282b-8c3e-45e6-8860-02ae81f9f1d7.pdf"
+      }
+    ],
+    "venueCapacity": {
+      "min": 30,
+      "max": 240
+    }
   },
   {
     "id": "284adcfb-f50b-4340-8922-9aef1bd5474e",
