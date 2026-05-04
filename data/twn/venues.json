@@ -7652,7 +7652,7 @@
     "adminOverrides": {
       "packages": {
         "value": "packages",
-        "overriddenAt": "2026-04-16T04:01:27.801Z",
+        "overriddenAt": "2026-05-03T08:44:44.276Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       }
     },
@@ -7690,10 +7690,10 @@
     "packages": [
       {
         "name": "Akad Nikah",
-        "price": 150,
+        "price": 198,
         "priceMax": null,
         "priceFixture": "per_pax",
-        "pricePerPax": 150,
+        "pricePerPax": 198,
         "description": "Explore your Akad Nikah here at Pullman KLCC Hotel. All prices quoted are subject to an additional of 8% service tax. ",
         "includes": [
           "Minimum guarantee of 50 persons"
