@@ -10594,7 +10594,7 @@
   },
   {
     "id": "daa8d1bc-aaee-4dfe-9b72-297b3e783d3e",
-    "name": "Grand Ballroom @ LakePoint Club, Setia AlamImpian",
+    "name": "Lake Point Club @ Alam Impian",
     "slug": "grand-ballroom-lakepoint-club-setia-alamimpian",
     "vendorType": "venue",
     "status": "live",
@@ -10704,7 +10704,7 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/96d5e03a-e184-4d53-8d78-3fcbe39d0044/high.webp"
       }
     ],
-    "description": "Located within the serene LakePoint Complex, the Grand Ballroom offers a spacious and elegant venue ideal for weddings, corporate events, and grand celebrations. With a capacity of up to 1,000 guests, the ballroom features floor-to-ceiling glass panels overlooking a scenic lake and musical fountain. Modern facilities include AV systems, stage setup, VIP suites, and ample parking. Surrounded by a 31-acre park and full clubhouse amenities, it provides a luxurious and memorable event experience in a picturesque lakeside setting.",
+    "description": "Lake Point Club @ Alam Impian is a premium lifestyle and event venue nestled within the tranquil township of Alam Impian. Surrounded by lush greenery and a scenic lakeside setting, the club offers a serene yet sophisticated environment—perfect for both social and corporate occasions.\r\n\r\nRenowned for its elegant event spaces, the venue features a spacious Grand Ballroom along with versatile function areas that can accommodate a wide range of events, including weddings, gala dinners, seminars, and private celebrations. The interiors are thoughtfully designed with modern finishes, high ceilings, and flexible layouts, allowing seamless customization to suit different themes and event styles.\r\n\r\nStrategically located in Shah Alam, Lake Point Club provides easy accessibility while maintaining a peaceful, resort-like ambiance. Fully equipped with essential facilities and supported by professional event services, it is an ideal choice for hosts seeking a balance of elegance, functionality, and natural beauty.",
     "createdAt": "2025-07-24T08:27:04.770Z",
     "vendorId": "user_3D3zIdzPTZearIFvCPx9DBhPdLD",
     "address": "1, Jalan Panglima Hitam 35/26, Seksyen 35, Alam Impian, 40470 Shah Alam, Selangor, Malaysia",
@@ -10712,12 +10712,12 @@
     "googlePlaceId": "ChIJx8NfH3StzTER2v3CaHyMLAU",
     "latitude": "3.024238",
     "longitude": "101.5128705",
-    "googlePlaceName": "1, Jalan Panglima Hitam 35/26, Seksyen 35, Alam Impian, 40470 Shah Alam, Selangor, Malaysia",
-    "neighbourhood": null,
-    "googleMapsLink": null,
-    "wazeLink": null,
-    "googleRating": null,
-    "googleTotalReviews": null,
+    "googlePlaceName": "Lake Point Club @ Alam Impian",
+    "neighbourhood": "Alam Impian",
+    "googleMapsLink": "https://maps.google.com/?cid=372827335126351322",
+    "wazeLink": "https://waze.com/ul?ll=3.024238,101.5128705&navigate=yes",
+    "googleRating": "4.1",
+    "googleTotalReviews": 43,
     "whatsappNumber": null,
     "whatsappMessage": null,
     "youtubeLink": "",
@@ -10763,40 +10763,22 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'000':37B '1':36B '31':70B 'acr':71B 'alam':91C 'alamimpian':6A 'amen':76B 'ampl':65B 'av':58B 'ballroom':2A,15B,40B 'capac':32B 'ceil':45B 'celebr':29B 'club':4A 'clubhous':75B 'complex':12B 'corpor':25B 'eleg':20B 'event':26B,83B 'experi':84B 'facil':56B 'featur':41B 'floor':43B 'floor-to-ceil':42B 'fountain':54B 'full':74B 'glass':46B 'grand':1A,14B,28B 'guest':38B 'ideal':22B 'includ':57B 'lake':51B 'lakepoint':3A,11B 'lakesid':88B 'locat':7B 'luxuri':80B 'memor':82B 'modern':55B 'music':53B 'offer':16B 'overlook':48B 'panel':47B 'park':66B,72B 'picturesqu':87B 'provid':78B 'scenic':50B 'selangor':92C 'seren':10B 'set':89B 'setia':5A 'setup':61B 'shah':90C 'spacious':18B 'stage':60B 'suit':63B 'surround':67B 'system':59B 'venu':21B 'vip':62B 'wed':24B 'within':8B",
+    "fts": "'access':117B 'accommod':70B 'alam':4A,9B,24B,111B,154C,156C 'allow':97B 'along':63B 'ambianc':125B 'area':67B 'balanc':146B 'ballroom':62B 'beauti':152B 'ceil':93B 'celebr':83B 'choic':141B 'club':3A,8B,36B,114B 'corpor':48B 'custom':99B 'design':88B 'differ':102B 'dinner':79B 'easi':116B 'eleg':53B,148B 'environ':42B 'equip':127B 'essenti':129B 'event':16B,54B,75B,105B,135B 'facil':130B 'featur':58B 'finish':91B 'flexibl':95B 'fulli':126B 'function':66B,149B 'gala':78B 'grand':61B 'greeneri':29B 'high':92B 'host':143B 'ideal':140B 'impian':5A,10B,25B,157C 'includ':76B 'interior':85B 'lake':1A,6B,112B 'lakesid':33B 'layout':96B 'lifestyl':14B 'like':124B 'locat':108B 'lush':28B 'maintain':119B 'modern':90B 'natur':151B 'nestl':18B 'occas':49B 'offer':37B 'peac':121B 'perfect':43B 'point':2A,7B,113B 'premium':13B 'privat':82B 'profession':134B 'provid':115B 'rang':73B 'renown':50B 'resort':123B 'resort-lik':122B 'scenic':32B 'seamless':98B 'seek':144B 'selangor':155C 'seminar':80B 'seren':39B 'servic':136B 'set':34B 'shah':110B,153C 'social':46B 'sophist':41B 'space':55B 'spacious':60B 'strateg':107B 'style':106B 'suit':101B 'support':132B 'surround':26B 'theme':103B 'thought':87B 'township':22B 'tranquil':21B 'venu':17B,57B 'versatil':65B 'wed':77B 'wide':72B 'within':19B 'yet':40B",
     "textEmbedding": null,
     "catalogPosition": 11,
     "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-04-24T01:11:01.559Z",
+    "updatedAt": "2026-05-04T07:57:00.607Z",
     "spaces": [
       {
-        "id": "4b4c16ef-96fa-4e0f-9e9f-3bfe67ee59ae",
-        "name": "Grand Ballroom, Templer's Club @ Setia Eco Templer",
+        "id": "3b57006e-9095-46cf-9b03-947fee640d5e",
+        "name": "Grand Ballroom, LakePoint Club",
         "type": "Ballroom",
         "indoorOutdoor": "INDOOR",
-        "area": 30000,
-        "capacitySeatedMin": 300,
-        "capacitySeatedMax": 600
-      },
-      {
-        "id": "e92c742a-2283-49f8-859b-65446e5fed38",
-        "name": "Amantara Hall, Templer's Club @ Setia Eco Templer",
-        "type": "Event Space",
-        "indoorOutdoor": "Covered Outdoor",
-        "area": 20000,
+        "area": 1478,
         "capacitySeatedMin": 100,
-        "capacitySeatedMax": 500
-      },
-      {
-        "id": "b6ee2aa7-a879-482d-a467-7d44fe61dc34",
-        "name": "Alia Hall, Templer's Club @ Setia Eco Templer",
-        "type": "Event Space",
-        "indoorOutdoor": "Covered Outdoor",
-        "area": 18000,
-        "capacitySeatedMin": 100,
-        "capacitySeatedMax": 250
+        "capacitySeatedMax": 900
       }
     ],
     "packages": [
@@ -10899,16 +10881,16 @@
     ],
     "venueCapacity": {
       "min": 100,
-      "max": 1000
+      "max": 2000
     }
   },
   {
     "id": "049ef9e4-d1ac-4d65-8c1d-43084ba4dc01",
-    "name": "Templer's Ballroom @ Setia Eco Templer",
+    "name": "Camellia Hall @ Canopy Club, Setia Eco Park",
     "slug": "camellia-hall-canopy-club-setia-eco-park-setia-alam",
     "vendorType": "venue",
     "status": "live",
-    "city": "Rawang",
+    "city": "Shah Alam",
     "state": "Selangor",
     "images": [
       {
@@ -10966,17 +10948,17 @@
     "description": "Located amidst lush greenery in Setia Eco Templer, Rawang, Templer’s Ballroom offers a grand, pillar-free event space ideal for weddings, corporate functions, and cultural celebrations. The ballroom features high ceilings, elegant chandeliers, and a luxurious interior that blends modern sophistication with natural surroundings.\r\n\r\nCapacity: Up to 600 guests (banquet) or 800 guests (theatre-style)\r\n\r\nLayout: Divisible into two smaller ballrooms; includes a spacious pre-function foyer\r\n\r\nFacilities: AV system, stage, bridal/VIP rooms, cocktail tables, registration counter\r\n\r\nAmbience: Classic and refined with dark wood accents, red carpet, and natural light\r\n\r\nAccessibility: ~20 km from KL, easily accessible via major highways\r\n\r\nAmenities: On-site parking (300+ bays), swimming pool, gym, mini park (via Templer Club)\r\n\r\nTempler’s Ballroom is a versatile, scenic venue perfect for those seeking a tranquil yet elegant event setting near the city.",
     "createdAt": "2025-07-24T08:34:09.651Z",
     "vendorId": "user_3D3zIdzPTZearIFvCPx9DBhPdLD",
-    "address": "1, Jalan Bukit Anak Tukun, Persiaran Setia Eco Templer, Templer Park, 48000 Rawang, Selangor, Malaysia",
-    "postCode": "48000",
-    "googlePlaceId": "ChIJQwKPZwBBzDERhVMlhb55QXg",
-    "latitude": "3.3012914",
-    "longitude": "101.6425017",
-    "googlePlaceName": "Templer's Ballroom @ Setia Eco Templer",
-    "neighbourhood": "Templer Park",
-    "googleMapsLink": "https://maps.google.com/?cid=8665341017222108037",
-    "wazeLink": "https://waze.com/ul?ll=3.3012914,101.6425017&navigate=yes",
-    "googleRating": "4.8",
-    "googleTotalReviews": 6,
+    "address": "Setia Eco-park, 40170 Shah Alam, Selangor, Malaysia",
+    "postCode": "40170",
+    "googlePlaceId": "ChIJDwB8O9NTzDEREOeC61lzoRA",
+    "latitude": "3.107902",
+    "longitude": "101.4783069",
+    "googlePlaceName": "Camellia Hall @ Canopy Club, Setia Eco Park",
+    "neighbourhood": "Setia Eco-park",
+    "googleMapsLink": "https://maps.google.com/?cid=1198365805897770768",
+    "wazeLink": "https://waze.com/ul?ll=3.107902,101.4783069&navigate=yes",
+    "googleRating": "4.7",
+    "googleTotalReviews": 14,
     "whatsappNumber": null,
     "whatsappMessage": null,
     "youtubeLink": "",
@@ -11032,19 +11014,24 @@
         "value": "photos-videos",
         "overriddenAt": "2026-04-15T09:11:59.881Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "venue-details": {
+        "value": "venue-details",
+        "overriddenAt": "2026-05-04T07:40:39.224Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       }
     },
     "coverImageFocalPoint": null,
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'20':102B '300':116B '600':56B '800':60B 'accent':95B 'access':101B,107B 'ambienc':88B 'amen':111B 'amidst':8B 'av':79B 'ballroom':3A,18B,36B,70B,128B 'banquet':58B 'bay':117B 'blend':47B 'bridal/vip':82B 'capac':53B 'carpet':97B 'ceil':39B 'celebr':34B 'chandeli':41B 'citi':146B 'classic':89B 'club':125B 'cocktail':84B 'corpor':30B 'counter':87B 'cultur':33B 'dark':93B 'divis':66B 'easili':106B 'eco':5A,13B 'eleg':40B,141B 'event':25B,142B 'facil':78B 'featur':37B 'foyer':77B 'free':24B 'function':31B,76B 'grand':21B 'greeneri':10B 'guest':57B,61B 'gym':120B 'high':38B 'highway':110B 'ideal':27B 'includ':71B 'interior':45B 'kl':105B 'km':103B 'layout':65B 'light':100B 'locat':7B 'lush':9B 'luxuri':44B 'major':109B 'mini':121B 'modern':48B 'natur':51B,99B 'near':144B 'offer':19B 'on-sit':112B 'park':115B,122B,150C 'perfect':134B 'pillar':23B 'pillar-fre':22B 'pool':119B 'pre':75B 'pre-funct':74B 'rawang':15B,147C 'red':96B 'refin':91B 'registr':86B 'room':83B 'scenic':132B 'seek':137B 'selangor':148C 'set':143B 'setia':4A,12B 'site':114B 'smaller':69B 'sophist':49B 'space':26B 'spacious':73B 'stage':81B 'style':64B 'surround':52B 'swim':118B 'system':80B 'tabl':85B 'templer':1A,6A,14B,16B,124B,126B,149C 'theatr':63B 'theatre-styl':62B 'tranquil':139B 'two':68B 'venu':133B 'versatil':131B 'via':108B,123B 'wed':29B 'wood':94B 'yet':140B",
+    "fts": "'20':103B '300':117B '600':57B '800':61B 'accent':96B 'access':102B,108B 'alam':149C 'ambienc':89B 'amen':112B 'amidst':9B 'av':80B 'ballroom':19B,37B,71B,129B 'banquet':59B 'bay':118B 'blend':48B 'bridal/vip':83B 'camellia':1A 'canopi':3A 'capac':54B 'carpet':98B 'ceil':40B 'celebr':35B 'chandeli':42B 'citi':147B 'classic':90B 'club':4A,126B 'cocktail':85B 'corpor':31B 'counter':88B 'cultur':34B 'dark':94B 'divis':67B 'easili':107B 'eco':6A,14B,153C 'eco-park':152C 'eleg':41B,142B 'event':26B,143B 'facil':79B 'featur':38B 'foyer':78B 'free':25B 'function':32B,77B 'grand':22B 'greeneri':11B 'guest':58B,62B 'gym':121B 'hall':2A 'high':39B 'highway':111B 'ideal':28B 'includ':72B 'interior':46B 'kl':106B 'km':104B 'layout':66B 'light':101B 'locat':8B 'lush':10B 'luxuri':45B 'major':110B 'mini':122B 'modern':49B 'natur':52B,100B 'near':145B 'offer':20B 'on-sit':113B 'park':7A,116B,123B,154C 'perfect':135B 'pillar':24B 'pillar-fre':23B 'pool':120B 'pre':76B 'pre-funct':75B 'rawang':16B 'red':97B 'refin':92B 'registr':87B 'room':84B 'scenic':133B 'seek':138B 'selangor':150C 'set':144B 'setia':5A,13B,151C 'shah':148C 'site':115B 'smaller':70B 'sophist':50B 'space':27B 'spacious':74B 'stage':82B 'style':65B 'surround':53B 'swim':119B 'system':81B 'tabl':86B 'templer':15B,17B,125B,127B 'theatr':64B 'theatre-styl':63B 'tranquil':140B 'two':69B 'venu':134B 'versatil':132B 'via':109B,124B 'wed':30B 'wood':95B 'yet':141B",
     "textEmbedding": null,
     "catalogPosition": 10,
     "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-04-30T05:06:28.227Z",
+    "updatedAt": "2026-05-04T07:40:39.202Z",
     "spaces": [
       {
         "id": "7a4237e8-7151-40ff-893e-e9adf06c5616",
