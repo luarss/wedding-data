@@ -2,6 +2,7 @@ import asyncio
 import csv
 import json
 import re
+import time
 
 import httpx
 
@@ -40,8 +41,18 @@ def _fetch_all_listings(category, state, limit):
             if state:
                 params["state"] = state
 
-            response = client.get(BASE_URL, params=params)
-            response.raise_for_status()
+            response = None
+            for attempt in range(5):
+                response = client.get(BASE_URL, params=params)
+                if response.status_code == 429:
+                    wait = 2 ** attempt * 10
+                    print(f"Rate limited (429), retrying in {wait}s...")
+                    time.sleep(wait)
+                    continue
+                response.raise_for_status()
+                break
+            else:
+                response.raise_for_status()
             data = response.json()
 
             listings = data["data"]
