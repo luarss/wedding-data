@@ -1,85 +1,85 @@
 id,name,slug,vendorType,state,city,address,postCode,capacityMin,capacityMax,packagePrice,packageGuestMin,packageGuestMax
-e52f666f-c6c1-4d0f-81f0-37c10c9a54f4,Sentul Pavilion KL,sentul-pavilion-kl,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"Jalan Strachan, Sentul West, 51100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",51100,1,300,0,80,300
-3fc9ad2b-91e6-4d98-8596-bef8828ee032,Epitro House,epitro-house,venue,Selangor,Petaling Jaya,"19, Jln 14/29, Seksyen 14, 46100 Petaling Jaya, Selangor, Malaysia",46100,1,50,1200,1,50
-ad072a4e-0346-4def-a12c-74e71edf9ea6,Grand Hyatt Kuala Lumpur,grand-hyatt-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"12, Jalan Pinang, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50450,200,700,393,200,700
-5764534f-6443-4c1b-b013-6fcdf5ead301,The Majestic Hotel Kuala Lumpur,the-majestic-hotel-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"5, Jalan Sultan Hishamuddin, Tasik Perdana, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50470,50,1200,250,80,200
-44d81001-d976-48c5-8e22-aef943a1ce35,Hilton Kuala Lumpur,hilton-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"3, Jalan Stesen Sentral, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50470,10,1100,428,300,1000
-88470d0c-f7ac-4eb6-9e7f-d32826a120ab,The Saujana Hotel Kuala Lumpur,the-saujana-hotel-kuala-lumpur,venue,Selangor,Shah Alam,"Jalan Lapangan Terbang Subang, Saujana, 40150 Shah Alam, Selangor, Malaysia",40150,120,300,238,200,300
-0472d052-6ad9-4a7b-975d-057c8f83c4f8,Pavilion Hotel Kuala Lumpur,pavilion-hotel-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"170, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",55100,10,300,3888,200,300
-40f5351b-b9a8-4039-8c87-97d8c6047e4c,The St. Regis Kuala Lumpur,the-st-regis-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"6, Jalan Stesen Sentral 2, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50470,50,1060,528,420,1060
-c14898c5-3e19-4192-93ce-7048b82338ca,Le Meridien Kuala Lumpur,le-meridien-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"2, Jalan Stesen Sentral, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50470,80,300,369,250,600
-6efec416-4baa-4b00-894b-db73effb4d58,JW Marriott Hotel Kuala Lumpur,jw-marriott-hotel-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"183, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",55100,150,700,288,250,700
-65e20398-a534-4cd3-9b9e-36d0cd0a591d,The Ruma Hotel and Residences,the-ruma-hotel-and-residences,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"7, Jalan Kia Peng, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50450,70,90,528,70,90
-c92cb098-e6f5-43b4-b5c8-d1f035a7a328,EQ Kuala Lumpur,eq-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"EQ, Equatorial Plaza, Jln Sultan Ismail, Kuala Lumpur, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50250,100,450,389,300,450
-9a915b68-0b63-4bb7-83a4-f8641fdb7ba8,Sheraton Petaling Jaya Hotel,sheraton-petaling-jaya-hotel,venue,Selangor,Petaling Jaya,"Lorong Utara C, Pjs 52, 46200 Petaling Jaya, Selangor, Malaysia",46200,200,1000,298,250,750
-8d9a86e7-8ccc-4b11-b5ac-12873a699274,Sunway Resort Hotel,sunway-resort-hotel,venue,Selangor,Petaling Jaya,"1, Persiaran Lagoon, Bandar Sunway, 47500 Petaling Jaya, Selangor, Malaysia",47500,,,,,
-3ae5cdef-f2f1-4ec7-a83e-2cb752e478b9,Metal Bees,metal-bees,venue,Selangor,Petaling Jaya,"33, Jalan PJU 3/48, Sunway Damansara Technology, Sunway Damansara, 47810 Petaling Jaya, Selangor, Malaysia",47810,0,300,25000,150,250
-127a6e35-8fef-4f9d-9301-3526a71b26b5,W Kuala Lumpur,w-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"121, Jln Ampang, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50450,20,500,458,150,500
-70b207c9-d215-480f-90e7-93267e14ee6e,Four Seasons Hotel Kuala Lumpur,four-seasons-hotel-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"145, Jln Ampang, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50450,100,400,488,300,450
-e0044fd0-9cec-44aa-89b8-eb8d34c564b0,Shangri-La Kuala Lumpur,shangri-la-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"11, Jln Sultan Ismail, Kuala Lumpur, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50250,50,1800,389,100,1800
-825a4a87-1dba-471e-9bf0-0f2822e50135,The Estate KL,the-estate-kl,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"333, Jln Damansara, Bukit Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50490,,,,,
-826e3ebb-03d0-491f-af03-a0f570314e82,The Chow Kit – An Ormond Hotel,the-chow-kit-an-ormond-hotel,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"1012, Jln Sultan Ismail, Chow Kit, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50100,40,100,25000,50,150
-493b80ba-1278-48e7-a2b1-fce9551b0812,M Resort & Hotel,m-resort-hotel,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"Jln Damansara, Bukit Kiara, 60000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",60000,300,1000,318,300,1000
-27322736-0120-40f9-9b78-7afd029a72db,Aloft Kuala Lumpur Sentral,aloft-kuala-lumpur-sentral,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"5, Jalan Stesen Sentral, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50470,,,,,
-9ded14f1-2065-4f18-ae75-4ec9e117c733,The Westin Kuala Lumpur,the-westin-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"199, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",55100,,,,,
-28fd5756-3505-42e8-9912-a1d3a6b56126,Grand Millennium KL,grand-millennium-kl,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"160, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",55100,230,400,238,50,120
-81e9300f-e399-421e-8b3d-7fb71e948d23,Crowne Plaza Kuala Lumpur City Centre,crowne-plaza-kuala-lumpur-city-centre,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"No 22, Menara 8, Jalan Yap Kwan Seng, Kampung Baru, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50450,200,400,329,100,400
-23d397de-b214-4a71-83e5-bbb0db439b89,Angsana Teluk Bahang,angsana-teluk-bahang,venue,Pulau Pinang,Tanjung Bungah,"11, Jalan Teluk Bahang, Teluk Bahang, 11050 Tanjung Bungah, Pulau Pinang, Malaysia",11050,10,216,238,100,210
-d57c4465-0367-4133-8dc3-c7005df284f7,Ruang Rama PJ,ruang-rama-pj,venue,Selangor,Petaling Jaya,"WISMA DAJU 5, 21, Jalan Barat, Pjs 8, 46200 Petaling Jaya, Selangor, Malaysia",46200,100,450,12999,200,800
-2f64df50-ca4e-4b64-81dd-049010fb2eb9,K'Seena House,kseena-house,venue,Selangor,Kuang,"Lot 3035, Lorong Teratai, Kampung Damai, 48050 Kuang, Selangor, Malaysia",48050,,,,,
-93bac908-9681-430a-b4da-077f3193fc1d,Renaissance Kuala Lumpur Hotel,renaissance-kuala-lumpur-hotel,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"Corner Of Jalan Sultan Ismail, &, Jln Ampang, Kampung Baru, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50450,10,6080,2903,150,300
-4581e4ca-8221-49a0-b180-ffaa0f290919,One World Hotel Petaling Jaya,one-world-hotel-petaling-jaya,venue,Selangor,Petaling Jaya,"First Avenue, City Centre, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor, Malaysia",47800,50,2000,288,150,2000
-e0612547-6248-4a12-87e7-bde6b3e93322,Atlantic Grand Ballroom,atlantic-grand-ballroom,venue,Selangor,Petaling Jaya,"Lot TG-MW, 001 & 004, Ground Floor, Tropicana Golf & Country Resort, Main Wing, Jalan Kelab Tropicana, Tropicana, 47410 Petaling Jaya, Selangor, Malaysia",47410,50,650,188,300,650
-199f5125-9ae8-44db-a1e1-30728a0bc080,Confetti KL,confetti-kl,venue,Selangor,Seri Kembangan,"Confetti KL, Ground floor Retail Block, Pusat Perdagangan Mines, 2,",43300,1,450,298,,3700
-f2911745-b370-4fd6-bbf6-87ff836e3056,Putrajaya Marriott Hotel,putrajaya-marriott-hotel,venue,Wilayah Persekutuan Kuala Lumpur,Sepang,"IOI Resort City, Ioi Resort, 62502 Sepang, Wilayah Persekutuan Putrajaya, Malaysia",62502,80,1200,288,300,1200
-78e4f3d2-fb26-490e-bc97-02244e25c6df,Le Meridien Putrajaya Wedding,le-meridien-putrajaya-wedding,venue,Selangor,Putrajaya,"Lebuh IRC IOI Resort City, Ioi Resort, 62502 Putrajaya, Selangor, Malaysia",62502,,,,,
-b17a1f6f-1690-40ab-b5c2-0fc124b1e73c,Palm Garden Hotel Putrajaya,palm-garden-hotel-putrajaya,venue,Selangor,Serdang,"Palm Garden Hotel, Ioi Resort, 62502 Serdang, Selangor, Malaysia",62502,30,700,268,150,350
-2b857cdf-fe0d-48cb-aa8e-5824df40cc2d,Sofitel Kuala Lumpur Damansara,sofitel-kuala-lumpur-damansara,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"6, Jalan Damanlela, Bukit Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50490,80,420,289,200,400
-31b54100-492a-43be-a3ad-ff406566db0d,Glenmarie Hotel & Golf Resort,glenmarie-hotel-golf-resort,venue,Selangor,Shah Alam,"1, Jalan Usahawan U1/8, Glenmarie Golf And Country Club, 40250 Shah Alam, Selangor, Malaysia",40250,250,500,168,250,500
-bd1c1680-a6dc-4fe3-b1ed-8b0e8f8cafde,PARKROYAL COLLECTION Kuala Lumpur,parkroyal-collection-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"Jln Sultan Ismail, Bukit Bintang, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50250,200,300,268,200,350
-1d17c54d-496f-4ab5-9bc4-573cbe7f8ff4,The Ritz-Carlton,the-ritz-carlton,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"168, Jln Imbi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",55100,20,400,250,20,400
-c6f1e2a0-75c3-4369-8b54-e9de2cfd4e9a,Ciao Ristorante KL,ciao-ristorante-kl,venue,Federal Territory of Kuala Lumpur,Kuala Lumpur,"20A, Jalan Kampung Pandan, Off, Jln Tun Razak, Royal Selangor Golf Club, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",55100,2,300,15000,100,300
-ff6fcb5b-f330-48a9-812f-d78c85336a07,Intercontinental Hotel,intercontinental-hotel,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"165, Jln Ampang, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50450,100,650,388,150,650
-3347b4a9-30b4-4f2d-b80f-217bb1d2454d,Bayswater at KLCC,bayswater-at-klcc,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"8, Jalan Sejahtera, Kampung Datuk Keramat, 55000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",55000,1,500,209,200,500
-4f61505e-6a95-4bce-bc76-6347023d6646,The Luna Grand Ballroom Kuala Lumpur,the-luna-grand-ballroom-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"Level 7, Wisma IAV, 86, Jalan Pasar, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",55100,1,400,208,100,400
-1791e673-0c10-4535-94e1-508a869ca74a,Ukay Hills - Private Event Estate & Lifestyle Suites,ukay-hills-private-event-estate-lifestyle-suites,venue,Selangor,Ampang,"Jalan Kelab Ukay Utama, Bukit Antarabangsa, 68000 Ampang, Selangor, Malaysia",68000,1,550,2288,10,550
-eaa044b1-e58f-4dac-8f57-8ca268e7bae9,The Grey Box (GMBB),the-grey-box-gmbb,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"2, Jalan Robertson, Bukit Bintang, 50150 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50150,50,150,8000,150,200
-c151ae60-e536-42d5-9aae-7e432cef9e0f,RAMA V,rama-v,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"5, Jalan U Thant, Kelab Golf di Raja Selangor, 55000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",55000,50,180,138,50,180
-09a0ef97-9e0c-4cf3-83a1-396fcabc1133,Maison Eleven - Lifestyle Event Venue,maison-eleven-lifestyle-event-venue,venue,Selangor,Shah Alam,"Level 11, Courtyard By Marriott, Jln Setia Dagang AH U13/AH, Setia Alam, 40170 Shah Alam, Selangor, Malaysia",40170,1,250,200,200,250
-bfd917d9-4155-4dd8-8fd8-08b49e647516,M World Hotel Petaling Jaya,m-world-hotel-petaling-jaya,venue,Selangor,Petaling Jaya,"1, Persiaran Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor, Malaysia",47800,50,500,198,100,500
-eb0ab8f1-c862-4b02-a710-9e6dc366214a,Pullman KLCC Hotel,pullman-klcc-hotel,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"4, Jalan Conlay, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50450,100,420,198,50,200
-8f62ed2e-00ac-47a0-909e-31289f9d3e87,Petaling Jaya Marriott Hotel,eastin-hotel,venue,Selangor,Petaling Jaya,"13, Jalan 16/11, Seksyen 16, 46350 Petaling Jaya, Selangor, Malaysia",46350,100,400,228,250,300
-9371d852-d43d-4fca-a80a-90bf29bf0eb0,ELSE Kuala Lumpur,else-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"145, Jalan Tun H S Lee, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50000,10,120,10000,40,120
-018ef9db-2965-4f50-aaf5-d2d757e7e4d5,WG Glassbox Cyberjaya,wg-glassbox-cyberjaya,venue,Selangor,Cyberjaya,"Level 4, Block E, Park at L2, Tamarind Square, Persiaran Multimedia, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia",63000,50,150,16500,50,150
-dd140604-64f0-4259-afd0-9dda3aa8754d,Glasshouse at Seputeh,glasshouse-at-seputeh,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"17, Lorong Syed Putra Kiri, Bukit Seputeh, 50460 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50460,100,400,10000,50,400
-9f340f44-4556-4a41-bdcf-b71897a0e977,Colony @ The MET,colony-the-met,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"20, Jalan Dutamas 2, Kompleks Kerajaan, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50480,100,300,21300,100,400
-5886229a-18f0-4e69-9dd0-c6bfb5676499,Mandarin Oriental Kuala Lumpur,mandarin-oriental-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50088,0,1100,488,250,1100
-6139379e-dce7-43a5-b476-82d27112c6c7,Royale Chulan Kuala Lumpur,royale-chulan-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"5, Jalan Conlay, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50450,100,1500,2330,300,1500
-79c9ec46-2935-45fb-98c3-25679c60341f,Sheraton Imperial KL,sheraton-imperial-kl,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"Jln Sultan Ismail, Kuala Lumpur, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50250,0,1000,352,250,1000
-62574c01-8899-4b15-ab97-eef14f48e39d,Imperial Lexis Kuala Lumpur,imperial-lexis-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Wilayah Persekutuan,"15, Jalan Kia Peng, Kuala Lumpur, 50450 Wilayah Persekutuan, Wilayah Persekutuan Kuala Lumpur, Malaysia",50450,10,360,388,250,300
-3a91cbf2-2ea5-4cd3-a02b-b53f11941644,Boathouse By The Lake,boathouse-by-the-lake,venue,Selangor,Ampang,"Tasik Ampang, 5, Jalan Hulu Kelang, Kampung Berembang, 68000 Ampang, Selangor, Malaysia",68000,200,340,38800,150,350
-c3f47691-d37e-415c-b4dc-e337071a250a,Sangkot Place,sangkot-place,venue,Selangor,Hulu Langat,"Sangkot Garden, Lot 5373 Batu 15, Dusun Tua, 43100 Hulu Langat, Selangor, Malaysia",43100,100,700,16500,500,1000
-cf8a56b8-08f4-45cd-8897-c797c5d2fc11,Changkat Telang 18,changkat-telang-18,venue,Selangor,Hulu Langat,"49, B52, Pekan Batu Lapan Belas, 43100 Hulu Langat, Selangor, Malaysia",43100,300,500,39250,300,500
-d202b5f0-3e8a-4e46-a925-3c7fb5081f66,Forest Valley Hall,forest-valley-hall,venue,Selangor,Cheras,"Jalan Permaisuri 10/6, Bandar Mahkota Cheras, 43200 Cheras, Selangor, Malaysia",43200,100,1000,32900,500,1000
-821c8d6f-c360-477f-91ce-d74892240526,Ginger KL,ginger-kl,venue,Federal Territory of Kuala Lumpur,Kuala Lumpur,"Unit P05, Bamboo Hills, off Lebuhraya Duta Ulu Kelang, Taman Bamboo, Segambut, 51200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",51200,50,120,35000,50,120
-977c0fb1-7e68-4dc3-8399-9d630e819503,Lantera Venue,lantera-venue,venue,Selangor,Shah Alam,"Resort Club, Jalan Serindit, Seksyen U 9, Cahaya SPK, 40150 Shah Alam, Selangor, Malaysia",40150,200,500,29900,100,200
-af1db338-60d1-4bc4-922d-b1d5748f0202,Tamarind Springs,tamarind-springs,venue,Selangor,Ampang,"Jalan 1, Taman Tun Abdul Razak, 68000 Ampang, Selangor, Malaysia",68000,100,200,7888,100,200
-5a50dda4-f747-4695-aed9-806c69d8cfce,The Acres Resort,the-acres-resort,venue,Pahang,Bentong,"lot 28431, Kampung Bukit Tinggi, 28750 Bentong, Pahang, Malaysia",28750,76,150,40000,76,150
-aaebbe86-a542-4778-8b60-69bd69ceba2c,Tanarimba Janda Baik,tanarimba-janda-baik,venue,Pahang,Bentong,"C1, Jalan Tanarimba Pine, Tanarimba, Janda Baik, 28750 Bentong, Pahang, Malaysia",28750,100,250,8250,100,250
-fc83bc40-5119-486a-8339-b0cdaa653a59,"Club 360, Setia Ecohill, Semenyih",club-360-setia-ecohill-semenyih,venue,Selangor,Semenyih,"1, Persiaran Ecohill Barat, Setia Ecohill, 43500 Semenyih, Selangor, Malaysia",43500,100,1000,70,60,250
-daa8d1bc-aaee-4dfe-9b72-297b3e783d3e,Lake Point Club @ Alam Impian,grand-ballroom-lakepoint-club-setia-alamimpian,venue,Selangor,Shah Alam,"1, Jalan Panglima Hitam 35/26, Seksyen 35, Alam Impian, 40470 Shah Alam, Selangor, Malaysia",40470,100,2000,80,20,500
-049ef9e4-d1ac-4d65-8c1d-43084ba4dc01,"Camellia Hall @ Canopy Club, Setia Eco Park",camellia-hall-canopy-club-setia-eco-park-setia-alam,venue,Selangor,Shah Alam,"Setia Eco-park, 40170 Shah Alam, Selangor, Malaysia",40170,100,500,80,50,300
-46791565-d65c-44ce-868d-e740a57d63c5,Kebun Rimba Private Estate,kebun-rimba-private-estate,venue,Pahang,Bentong,"Lot PT 12391, Kampung Cheringin, Kampung Janda Baik, 28750 Bentong, Pahang, Malaysia",28750,30,250,9800,20,110
-229d0f1a-5ff2-49d7-9337-92b6492c8494,Le Meridien Petaling Jaya,le-meridien-petaling-jaya,venue,Selangor,Petaling Jaya,"1, Jalan SS 7/26a, Ss 7, 47301 Petaling Jaya, Selangor, Malaysia",47301,250,1000,258,250,1000
-54609492-df09-4dde-bd4b-e66d9bb3b9f6,Hilton Petaling Jaya,hilton-petaling-jaya,venue,Selangor,Petaling Jaya,"2, Jalan Barat, Pjs 52, 46200 Petaling Jaya, Selangor, Malaysia",46200,50,1000,318,100,1000
-c00f5028-92fe-4b22-8cd5-9c9048238e9e,"Templer's Ballroom @ Setia Eco Templer, Rawang",templers-ballroom-setia-eco-templer-rawang,venue,Selangor,Rawang,"1, Jalan Ipoh- KM20, Taman Rekreasi Templar, Templer Park, 48000 Rawang, Selangor, Malaysia",48000,100,1000,80,20,500
-b56dcea2-722f-42da-bc32-6d147210c2aa,Urban Park Hall,urban-park-hall,venue,Selangor,Shah Alam,"Alam Impian, 40470 Shah Alam, Selangor, Malaysia",40470,100,1000,30900,500,1000
-907a7e26-b241-4404-85df-48c039c59127,Ampang Glasshouse,ampang-glasshouse,venue,Selangor,Ampang,"No. 22, Jalan Cempaka 15, Taman Cempaka, 68000 Ampang, Selangor, Malaysia",68000,50,250,8850,50,280
-5321b2f1-2978-4ae5-aaf3-7d120be01e90,Luminare Event Hall,luminare-event-hall,venue,Selangor,Petaling Jaya,"B-G-02, PJ TRADE CENTRE, 8, Jalan PJU 8/8A, Damansara Perdana, 47820 Petaling Jaya, Selangor, Malaysia",47820,50,1000,35900,,500
-449bb490-82b3-4e02-b254-f9fe32ee92d2,A-Park Puchong,a-park-puchong,venue,Selangor,Puchong,"3275, Jalan Pulau Meranti, Kampung Pulau Meranti, 47100 Puchong, Selangor, Malaysia",47100,200,1000,29500,200,1000
-3575cced-6fdc-4654-b474-cb2ae0cbffef,Astana at Bamboo Hills,astana-at-bamboo-hills,venue,Kuala Lumpur,Kuala Lumpur,"Unit P13, Bamboo Hills, Jalan Bukit Bamboo, off, DUKE, Taman Bamboo, 51200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",51200,10,500,10000,10,100
-38573b53-d872-4f28-8522-248da824caf1,G Glasshouse Klang,g-glasshouse-klang,venue,Selangor,Klang,"Unit 3-0, 65, Jalan Raja Bot, Kawasan 18, 41400 Klang, Selangor, Malaysia",41400,50,500,10988,100,300
-743cd4df-3bf2-45ff-a2f7-8b3ecf5133c4,Element Kuala Lumpur,element-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"8, Jln Binjai, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50450,30,240,3200,100,240
-284adcfb-f50b-4340-8922-9aef1bd5474e,Chucasa Janda Baik,chucasa-janda-baik,venue,Pahang,Bentong,"8V77+V7, Kampung Janda Baik, 28750 Bentong, Pahang, Malaysia",28750,50,1000,27260,200,1000
-f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72,Connexion Conference & Event Centre (CCEC),connexion-conference-event-centre-ccec,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,"7, Jalan Kerinchi, Bangsar South, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",59200,20,2000,178,200,1000
-2d898646-ee15-443a-af15-9209c46d0ece,PARKROYAL Penang Resort,parkroyal-penang-resort,venue,Pulau Pinang,Batu Ferringhi,"PARKROYAL Penang Resort Batu Ferringhi Beach, 11100 Batu Ferringhi, Pulau Pinang, Malaysia",11100,10,300,10888,10,60
+e52f666f-c6c1-4d0f-81f0-37c10c9a54f4,Sentul Pavilion KL,sentul-pavilion-kl,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+3fc9ad2b-91e6-4d98-8596-bef8828ee032,Epitro House,epitro-house,venue,Selangor,Petaling Jaya,,,,,,,
+ad072a4e-0346-4def-a12c-74e71edf9ea6,Grand Hyatt Kuala Lumpur,grand-hyatt-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+5764534f-6443-4c1b-b013-6fcdf5ead301,The Majestic Hotel Kuala Lumpur,the-majestic-hotel-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+44d81001-d976-48c5-8e22-aef943a1ce35,Hilton Kuala Lumpur,hilton-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+88470d0c-f7ac-4eb6-9e7f-d32826a120ab,The Saujana Hotel Kuala Lumpur,the-saujana-hotel-kuala-lumpur,venue,Selangor,Shah Alam,,,,,,,
+0472d052-6ad9-4a7b-975d-057c8f83c4f8,Pavilion Hotel Kuala Lumpur,pavilion-hotel-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+40f5351b-b9a8-4039-8c87-97d8c6047e4c,The St. Regis Kuala Lumpur,the-st-regis-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+c14898c5-3e19-4192-93ce-7048b82338ca,Le Meridien Kuala Lumpur,le-meridien-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+6efec416-4baa-4b00-894b-db73effb4d58,JW Marriott Hotel Kuala Lumpur,jw-marriott-hotel-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+65e20398-a534-4cd3-9b9e-36d0cd0a591d,The Ruma Hotel and Residences,the-ruma-hotel-and-residences,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+c92cb098-e6f5-43b4-b5c8-d1f035a7a328,EQ Kuala Lumpur,eq-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+9a915b68-0b63-4bb7-83a4-f8641fdb7ba8,Sheraton Petaling Jaya Hotel,sheraton-petaling-jaya-hotel,venue,Selangor,Petaling Jaya,,,,,,,
+8d9a86e7-8ccc-4b11-b5ac-12873a699274,Sunway Resort Hotel,sunway-resort-hotel,venue,Selangor,Petaling Jaya,,,,,,,
+3ae5cdef-f2f1-4ec7-a83e-2cb752e478b9,Metal Bees,metal-bees,venue,Selangor,Petaling Jaya,,,,,,,
+127a6e35-8fef-4f9d-9301-3526a71b26b5,W Kuala Lumpur,w-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+70b207c9-d215-480f-90e7-93267e14ee6e,Four Seasons Hotel Kuala Lumpur,four-seasons-hotel-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+e0044fd0-9cec-44aa-89b8-eb8d34c564b0,Shangri-La Kuala Lumpur,shangri-la-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+825a4a87-1dba-471e-9bf0-0f2822e50135,The Estate KL,the-estate-kl,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+826e3ebb-03d0-491f-af03-a0f570314e82,The Chow Kit – An Ormond Hotel,the-chow-kit-an-ormond-hotel,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+493b80ba-1278-48e7-a2b1-fce9551b0812,M Resort & Hotel,m-resort-hotel,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+27322736-0120-40f9-9b78-7afd029a72db,Aloft Kuala Lumpur Sentral,aloft-kuala-lumpur-sentral,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+9ded14f1-2065-4f18-ae75-4ec9e117c733,The Westin Kuala Lumpur,the-westin-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+28fd5756-3505-42e8-9912-a1d3a6b56126,Grand Millennium KL,grand-millennium-kl,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+81e9300f-e399-421e-8b3d-7fb71e948d23,Crowne Plaza Kuala Lumpur City Centre,crowne-plaza-kuala-lumpur-city-centre,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+23d397de-b214-4a71-83e5-bbb0db439b89,Angsana Teluk Bahang,angsana-teluk-bahang,venue,Pulau Pinang,Tanjung Bungah,,,,,,,
+d57c4465-0367-4133-8dc3-c7005df284f7,Ruang Rama PJ,ruang-rama-pj,venue,Selangor,Petaling Jaya,,,,,,,
+2f64df50-ca4e-4b64-81dd-049010fb2eb9,K'Seena House,kseena-house,venue,Selangor,Kuang,,,,,,,
+93bac908-9681-430a-b4da-077f3193fc1d,Renaissance Kuala Lumpur Hotel,renaissance-kuala-lumpur-hotel,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+4581e4ca-8221-49a0-b180-ffaa0f290919,One World Hotel Petaling Jaya,one-world-hotel-petaling-jaya,venue,Selangor,Petaling Jaya,,,,,,,
+e0612547-6248-4a12-87e7-bde6b3e93322,Atlantic Grand Ballroom,atlantic-grand-ballroom,venue,Selangor,Petaling Jaya,,,,,,,
+199f5125-9ae8-44db-a1e1-30728a0bc080,Confetti KL,confetti-kl,venue,Selangor,Seri Kembangan,,,,,,,
+f2911745-b370-4fd6-bbf6-87ff836e3056,Putrajaya Marriott Hotel,putrajaya-marriott-hotel,venue,Wilayah Persekutuan Kuala Lumpur,Sepang,,,,,,,
+78e4f3d2-fb26-490e-bc97-02244e25c6df,Le Meridien Putrajaya Wedding,le-meridien-putrajaya-wedding,venue,Selangor,Putrajaya,,,,,,,
+b17a1f6f-1690-40ab-b5c2-0fc124b1e73c,Palm Garden Hotel Putrajaya,palm-garden-hotel-putrajaya,venue,Selangor,Serdang,,,,,,,
+2b857cdf-fe0d-48cb-aa8e-5824df40cc2d,Sofitel Kuala Lumpur Damansara,sofitel-kuala-lumpur-damansara,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+31b54100-492a-43be-a3ad-ff406566db0d,Glenmarie Hotel & Golf Resort,glenmarie-hotel-golf-resort,venue,Selangor,Shah Alam,,,,,,,
+bd1c1680-a6dc-4fe3-b1ed-8b0e8f8cafde,PARKROYAL COLLECTION Kuala Lumpur,parkroyal-collection-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+1d17c54d-496f-4ab5-9bc4-573cbe7f8ff4,The Ritz-Carlton,the-ritz-carlton,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+c6f1e2a0-75c3-4369-8b54-e9de2cfd4e9a,Ciao Ristorante KL,ciao-ristorante-kl,venue,Federal Territory of Kuala Lumpur,Kuala Lumpur,,,,,,,
+ff6fcb5b-f330-48a9-812f-d78c85336a07,Intercontinental Hotel,intercontinental-hotel,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+3347b4a9-30b4-4f2d-b80f-217bb1d2454d,Bayswater at KLCC,bayswater-at-klcc,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+4f61505e-6a95-4bce-bc76-6347023d6646,The Luna Grand Ballroom Kuala Lumpur,the-luna-grand-ballroom-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+1791e673-0c10-4535-94e1-508a869ca74a,Ukay Hills - Private Event Estate & Lifestyle Suites,ukay-hills-private-event-estate-lifestyle-suites,venue,Selangor,Ampang,,,,,,,
+eaa044b1-e58f-4dac-8f57-8ca268e7bae9,The Grey Box (GMBB),the-grey-box-gmbb,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+c151ae60-e536-42d5-9aae-7e432cef9e0f,RAMA V,rama-v,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+09a0ef97-9e0c-4cf3-83a1-396fcabc1133,Maison Eleven - Lifestyle Event Venue,maison-eleven-lifestyle-event-venue,venue,Selangor,Shah Alam,,,,,,,
+bfd917d9-4155-4dd8-8fd8-08b49e647516,M World Hotel Petaling Jaya,m-world-hotel-petaling-jaya,venue,Selangor,Petaling Jaya,,,,,,,
+eb0ab8f1-c862-4b02-a710-9e6dc366214a,Pullman KLCC Hotel,pullman-klcc-hotel,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+8f62ed2e-00ac-47a0-909e-31289f9d3e87,Petaling Jaya Marriott Hotel,eastin-hotel,venue,Selangor,Petaling Jaya,,,,,,,
+9371d852-d43d-4fca-a80a-90bf29bf0eb0,ELSE Kuala Lumpur,else-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+018ef9db-2965-4f50-aaf5-d2d757e7e4d5,WG Glassbox Cyberjaya,wg-glassbox-cyberjaya,venue,Selangor,Cyberjaya,,,,,,,
+dd140604-64f0-4259-afd0-9dda3aa8754d,Glasshouse at Seputeh,glasshouse-at-seputeh,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+9f340f44-4556-4a41-bdcf-b71897a0e977,Colony @ The MET,colony-the-met,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+5886229a-18f0-4e69-9dd0-c6bfb5676499,Mandarin Oriental Kuala Lumpur,mandarin-oriental-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+6139379e-dce7-43a5-b476-82d27112c6c7,Royale Chulan Kuala Lumpur,royale-chulan-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+79c9ec46-2935-45fb-98c3-25679c60341f,Sheraton Imperial KL,sheraton-imperial-kl,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+62574c01-8899-4b15-ab97-eef14f48e39d,Imperial Lexis Kuala Lumpur,imperial-lexis-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Wilayah Persekutuan,,,,,,,
+3a91cbf2-2ea5-4cd3-a02b-b53f11941644,Boathouse By The Lake,boathouse-by-the-lake,venue,Selangor,Ampang,,,,,,,
+c3f47691-d37e-415c-b4dc-e337071a250a,Sangkot Place,sangkot-place,venue,Selangor,Hulu Langat,,,,,,,
+cf8a56b8-08f4-45cd-8897-c797c5d2fc11,Changkat Telang 18,changkat-telang-18,venue,Selangor,Hulu Langat,,,,,,,
+d202b5f0-3e8a-4e46-a925-3c7fb5081f66,Forest Valley Hall,forest-valley-hall,venue,Selangor,Cheras,,,,,,,
+821c8d6f-c360-477f-91ce-d74892240526,Ginger KL,ginger-kl,venue,Federal Territory of Kuala Lumpur,Kuala Lumpur,,,,,,,
+977c0fb1-7e68-4dc3-8399-9d630e819503,Lantera Venue,lantera-venue,venue,Selangor,Shah Alam,,,,,,,
+af1db338-60d1-4bc4-922d-b1d5748f0202,Tamarind Springs,tamarind-springs,venue,Selangor,Ampang,,,,,,,
+5a50dda4-f747-4695-aed9-806c69d8cfce,The Acres Resort,the-acres-resort,venue,Pahang,Bentong,,,,,,,
+aaebbe86-a542-4778-8b60-69bd69ceba2c,Tanarimba Janda Baik,tanarimba-janda-baik,venue,Pahang,Bentong,,,,,,,
+fc83bc40-5119-486a-8339-b0cdaa653a59,"Club 360, Setia Ecohill, Semenyih",club-360-setia-ecohill-semenyih,venue,Selangor,Semenyih,,,,,,,
+daa8d1bc-aaee-4dfe-9b72-297b3e783d3e,Lake Point Club @ Alam Impian,grand-ballroom-lakepoint-club-setia-alamimpian,venue,Selangor,Shah Alam,,,,,,,
+049ef9e4-d1ac-4d65-8c1d-43084ba4dc01,"Camellia Hall @ Canopy Club, Setia Eco Park",camellia-hall-canopy-club-setia-eco-park-setia-alam,venue,Selangor,Shah Alam,,,,,,,
+46791565-d65c-44ce-868d-e740a57d63c5,Kebun Rimba Private Estate,kebun-rimba-private-estate,venue,Pahang,Bentong,,,,,,,
+229d0f1a-5ff2-49d7-9337-92b6492c8494,Le Meridien Petaling Jaya,le-meridien-petaling-jaya,venue,Selangor,Petaling Jaya,,,,,,,
+54609492-df09-4dde-bd4b-e66d9bb3b9f6,Hilton Petaling Jaya,hilton-petaling-jaya,venue,Selangor,Petaling Jaya,,,,,,,
+c00f5028-92fe-4b22-8cd5-9c9048238e9e,"Templer's Ballroom @ Setia Eco Templer, Rawang",templers-ballroom-setia-eco-templer-rawang,venue,Selangor,Rawang,,,,,,,
+b56dcea2-722f-42da-bc32-6d147210c2aa,Urban Park Hall,urban-park-hall,venue,Selangor,Shah Alam,,,,,,,
+907a7e26-b241-4404-85df-48c039c59127,Ampang Glasshouse,ampang-glasshouse,venue,Selangor,Ampang,,,,,,,
+5321b2f1-2978-4ae5-aaf3-7d120be01e90,Luminare Event Hall,luminare-event-hall,venue,Selangor,Petaling Jaya,,,,,,,
+449bb490-82b3-4e02-b254-f9fe32ee92d2,A-Park Puchong,a-park-puchong,venue,Selangor,Puchong,,,,,,,
+3575cced-6fdc-4654-b474-cb2ae0cbffef,Astana at Bamboo Hills,astana-at-bamboo-hills,venue,Kuala Lumpur,Kuala Lumpur,,,,,,,
+38573b53-d872-4f28-8522-248da824caf1,G Glasshouse Klang,g-glasshouse-klang,venue,Selangor,Klang,,,,,,,
+743cd4df-3bf2-45ff-a2f7-8b3ecf5133c4,Element Kuala Lumpur,element-kuala-lumpur,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+284adcfb-f50b-4340-8922-9aef1bd5474e,Chucasa Janda Baik,chucasa-janda-baik,venue,Pahang,Bentong,,,,,,,
+f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72,Connexion Conference & Event Centre (CCEC),connexion-conference-event-centre-ccec,venue,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur,,,,,,,
+2d898646-ee15-443a-af15-9209c46d0ece,PARKROYAL Penang Resort,parkroyal-penang-resort,venue,Pulau Pinang,Batu Ferringhi,,,,,,,

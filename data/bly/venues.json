@@ -220,6 +220,17 @@
     "reviews": "63"
   },
   {
+    "recordId": "recDE70TqO66tuVMT",
+    "name": "Little Island Brewing Co",
+    "url": "https://www.bridely.sg/venue?recordId=recDE70TqO66tuVMT",
+    "price": "$68++/pax",
+    "capacity": "50-350 pax",
+    "venueRating": "4.9",
+    "serviceRating": "4.7",
+    "foodRating": "4.9",
+    "reviews": "34"
+  },
+  {
     "recordId": "recjssjp75IRHLGQY",
     "name": "PARKROYAL COLLECTION Pickering",
     "url": "https://www.bridely.sg/venue?recordId=recjssjp75IRHLGQY",
@@ -251,17 +262,6 @@
     "serviceRating": "4",
     "foodRating": "3.9",
     "reviews": "78"
-  },
-  {
-    "recordId": "recDE70TqO66tuVMT",
-    "name": "Little Island Brewing Co",
-    "url": "https://www.bridely.sg/venue?recordId=recDE70TqO66tuVMT",
-    "price": "$68++/pax",
-    "capacity": "50-350 pax",
-    "venueRating": "4.9",
-    "serviceRating": "4.7",
-    "foodRating": "4.9",
-    "reviews": "32"
   },
   {
     "recordId": "recmglERj5daazkVc",
@@ -1749,6 +1749,17 @@
     "reviews": "2"
   },
   {
+    "recordId": "reckycxfiNqN1gRYF",
+    "name": "Jiak Kim House",
+    "url": "https://www.bridely.sg/venue?recordId=reckycxfiNqN1gRYF",
+    "price": "$18000-$22000++",
+    "capacity": "102 pax",
+    "venueRating": "4",
+    "serviceRating": "",
+    "foodRating": "4.5",
+    "reviews": "2"
+  },
+  {
     "recordId": "recA5XNL4Nkzq60EG",
     "name": "New Fut Kai Vegetarian Restaurant",
     "url": "https://www.bridely.sg/venue?recordId=recA5XNL4Nkzq60EG",
@@ -2157,7 +2168,7 @@
   },
   {
     "recordId": "receXGRv2qEbR9amd",
-    "name": "Lun",
+    "name": "The Lighthouse",
     "url": "https://www.bridely.sg/venue?recordId=receXGRv2qEbR9amd",
     "price": "",
     "capacity": "",
@@ -2557,17 +2568,6 @@
     "url": "https://www.bridely.sg/venue?recordId=recCw6nQqAQnoxOZQ",
     "price": "$128-$188++/pax",
     "capacity": "Min 100 pax",
-    "venueRating": "",
-    "serviceRating": "",
-    "foodRating": "",
-    "reviews": "0"
-  },
-  {
-    "recordId": "reckycxfiNqN1gRYF",
-    "name": "Jiak Kim House",
-    "url": "https://www.bridely.sg/venue?recordId=reckycxfiNqN1gRYF",
-    "price": "$18000-$22000++",
-    "capacity": "102 pax",
     "venueRating": "",
     "serviceRating": "",
     "foodRating": "",
