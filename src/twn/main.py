@@ -41,18 +41,15 @@ def _fetch_all_listings(category, state, limit):
             if state:
                 params["state"] = state
 
-            response = None
+            response = client.get(BASE_URL, params=params)
             for attempt in range(5):
+                if response.status_code != 429:
+                    break
+                wait = 2 ** attempt * 10
+                print(f"Rate limited (429), retrying in {wait}s...")
+                time.sleep(wait)
                 response = client.get(BASE_URL, params=params)
-                if response.status_code == 429:
-                    wait = 2 ** attempt * 10
-                    print(f"Rate limited (429), retrying in {wait}s...")
-                    time.sleep(wait)
-                    continue
-                response.raise_for_status()
-                break
-            else:
-                response.raise_for_status()
+            response.raise_for_status()
             data = response.json()
 
             listings = data["data"]
