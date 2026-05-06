@@ -24,8 +24,8 @@ async def get_browser_page(headless=True):
     async with async_playwright() as p:
         browser = None
         try:
-            browser = await p.chromium.launch(headless=headless)
-            page = await browser.new_page()
+            browser = await p.chromium.launch(headless=headless, args=["--no-sandbox", "--disable-setuid-sandbox"])
+            page = await browser.new_page(viewport={"width": 1280, "height": 800})
             yield page
         finally:
             if browser is not None:
@@ -54,10 +54,11 @@ async def extract_venues_from_page(page) -> list[dict[str, Any]]:
             venueData.name = h3.textContent.trim();
 
             // Check if there's a link to venue detail page
-            const venueLink = h3.closest('a') || li.querySelector('a[href^="/d/"]');
-            if (venueLink && venueLink.href) {
-                venueData.url = venueLink.href;
-                const slugMatch = venueLink.href.match(/\/d\/([^/]+)/);
+            // The detail URL is stored in div.venue's data-link attribute
+            const venueDiv = h3.closest('.venue');
+            if (venueDiv && venueDiv.dataset.link) {
+                venueData.url = venueDiv.dataset.link;
+                const slugMatch = venueDiv.dataset.link.match(/\/d\/([^/]+)/);
                 if (slugMatch) {
                     venueData.slug = slugMatch[1];
                 }
@@ -152,13 +153,22 @@ async def extract_venues_from_page(page) -> list[dict[str, Any]]:
 
 async def scrape_price_list_async(headless: bool = True) -> list[dict[str, Any]]:
     """Scrape the wedding banquet price list page"""
-    async with get_browser_page(headless=headless) as page:
-        await page.goto(PRICE_LIST_URL, wait_until="load", timeout=60000)
-        await page.wait_for_timeout(3000)  # Wait for dynamic content
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            async with get_browser_page(headless=headless) as page:
+                await page.goto(PRICE_LIST_URL, wait_until="domcontentloaded", timeout=60000)
+                await page.wait_for_selector(".pricelist li .venue", timeout=15000)
 
-        venues = await extract_venues_from_page(page)
-
-        return venues
+                venues = await extract_venues_from_page(page)
+                if venues:
+                    return venues
+                print(f"  Attempt {attempt + 1}: no venues found, retrying...")
+        except Exception as e:
+            print(f"  Attempt {attempt + 1} failed: {e}")
+        if attempt < max_retries - 1:
+            await asyncio.sleep(2**attempt)
+    return []
 
 
 async def download_pdf(client: httpx.AsyncClient, url: str, save_path: Path) -> bool:
@@ -270,10 +280,8 @@ async def enrich_venues_with_details(venues: list[dict[str, Any]], download_pdfs
                         venue["slug"] = slug
 
             if not slug:
-                # Generate slug from name
-                name = venue.get("name", "unknown")
-                slug = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
-                venue["slug"] = slug
+                print(f"  Skipping {venue.get('name', 'N/A')}: no detail URL found")
+                continue
 
             print(f"[{idx}/{len(venues)}] Fetching details for {venue.get('name', 'N/A')}")
 

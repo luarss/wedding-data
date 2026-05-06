@@ -45,8 +45,10 @@
   },
   {
     "name": "Aloft Singapore Novena",
+    "url": "https://singaporebrides.com/d/aloft-singapore-novena/",
+    "slug": "aloft-singapore-novena",
     "phone": "6808 6888",
-    "email": "events@aloftsingapore.com",
+    "email": "sales@aloftsingapore.com",
     "address": "16 Ah Hood Road",
     "pricing": [
       {
@@ -85,10 +87,21 @@
     "saturday_tables": "10–26",
     "sunday_lunch": "$1724–$1724",
     "sunday_dinner": "$1964–$1964",
-    "sunday_tables": "10–26"
+    "sunday_tables": "10–26",
+    "about": "Stay & Play on your Big Day at Aloft Singapore Novena Come celebrate love with us in a dazzling event that's all about romance! Here at Aloft Singapore Novena, we offer stylish décor with a spacious banquet space. Make your grand entrance at the Balestier Ballroom, featuring a high ceiling, pillar-free ballroom with cutting-edge audio-visual tech and a LED videowall that seats up to 260 guests. The Zhongshan Room is perfect for hosting an intimate function, accommodating up to 120 guests. With its full-length glass window, the room offers breathtaking views of Zhongshan Park. Or exchange your vows in our exquisitely landscaped Outdoor Event Lawn and say \"I do\" in style. Indulge in our unforgettable Mediterranean or Asian themed buffet at our Halal-certified 21 on Rajah that seats up to 188 guests and create lasting memories with your family and friends. Our amazing team of wedding planners will take care of every detail, while you and your guests indulge in the mouthwatering creations ",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/307/original/Wedding_Lunch_Package_2026.pdf?1768556572",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/308/original/Wedding_Dinner_Package_2026.pdf?1768556579",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/432/original/Weekday_Wedding_Package_final.pdf?1721271161"
+    ],
+    "website": "https://www.marriott.com/en-us/hotels/sinnv-aloft-singapore-novena/overview/",
+    "facebook": "https://www.facebook.com/AloftSingaporeNovenaSG/videos/1548279755976122",
+    "instagram": "https://www.instagram.com/aloftsingapore"
   },
   {
     "name": "Amara Sanctuary Sentosa",
+    "url": "https://singaporebrides.com/d/amara-sanctuary-resort-sentosa/",
+    "slug": "amara-sanctuary-resort-sentosa",
     "phone": "6825 3838",
     "email": "wedding@amarasanctuary.com",
     "address": "1 Larkhill Road, Sentosa",
@@ -129,10 +142,20 @@
     "saturday_tables": "15–40",
     "sunday_lunch": "$2384–$2384",
     "sunday_dinner": "$2743–$2743",
-    "sunday_tables": "15–40"
+    "sunday_tables": "15–40",
+    "about": "W EDDING IN THE GARDEN Set amongst 3.8 hectares of lush tropical gardens and tranquil beauty, yet just minutes from downtown Singapore, Amara Sanctuary Sentosa blends nostalgic architecture with contemporary style, gives your wedding celebration the grandeur it deserves. Together with beaches and many other attractions on the island, having your celebration at Sentosa adds a dimension of fantasy to your dream wedding. At Amara Sanctuary, our wedding planners take their roles seriously. If you have a themed concept in mind, a list of favorite flowers or even an elaborate plan you think may not be possible, just share it with us. We have worked with Singapore's top florists whose expertise in bridal arrangement will astound you. And if you have a preferred florist, rest assured we'll be delighted to work with them. Feel free to ask us how you can go about arranging for anything you are not sure of. Nothing you wish for will put us out of our way. Amara Sanctuary Sentosa was named Best Ov",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/000/699/original/Amara_Sanctuary_Wedding_Package_2025_2026.pdf?1740016829",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/128/original/Amara_Sanctuary_Solemnisation_Package_2025_2026.pdf?1740016853"
+    ],
+    "website": "http://sentosa.amarahotels.com/",
+    "facebook": "https://www.facebook.com/AmaraSanctuaryResort",
+    "instagram": "https://www.instagram.com/amarasanctuary/"
   },
   {
     "name": "Amara Singapore",
+    "url": "https://singaporebrides.com/d/amara-singapore/",
+    "slug": "amara-singapore",
     "phone": "6879 2588",
     "email": "weddings@amarahotels.com",
     "address": "165 Tanjong Pagar Road",
@@ -173,10 +196,19 @@
     "saturday_tables": "20–40",
     "sunday_lunch": "$2384–$2863",
     "sunday_dinner": "$2384–$2863",
-    "sunday_tables": "20–40"
+    "sunday_tables": "20–40",
+    "about": "W edding In The City At Amara Singapore At Amara Singapore, we understand that this is a very special day for you as a couple. It has to be truly unique, a statement of how you both cherish each other and want to spend your lives together. We will be truly honoured if you let us help you create everlasting memories of this personal affair. From a sophisticated solemnisation ceremony and intimate reception, to a traditional tea ceremony and a glamorous wedding, our dedicated wedding planners will be glad to orchestrate this very special event for you. Step into the epitome of elegance at our brand new pillarless Grand Ballroom, offering unobstructed views and seamless experience for up to 400 guests. Picture a grand entrance as you walk down the 38-meter-long aisle, setting the stage for unforgettable lifetime moments. Elevate your experience with our contemporary and sleek LED Wall, a dynamic canvas to showcase cherish memories that will last a lifetime. Capacity: 250 to 400 persons Fo",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/606/original/2._2026_27_ASIN_WeddingPackage_Adore_BLiss_Cherish.pdf?1759203534"
+    ],
+    "website": "http://singapore.amarahotels.com/",
+    "facebook": "https://www.facebook.com/amarasingapore/",
+    "instagram": "https://www.instagram.com/amarasingapore/"
   },
   {
     "name": "Andaz Singapore",
+    "url": "https://singaporebrides.com/d/andaz-singapore/",
+    "slug": "andaz-singapore",
     "phone": "6408 1234",
     "email": "GetMarried.sg@andaz.com",
     "address": "5 Fraser Street",
@@ -217,10 +249,23 @@
     "saturday_tables": "7–28",
     "sunday_lunch": "$2854–$2854",
     "sunday_dinner": "$2734–$2734",
-    "sunday_tables": "7–28"
+    "sunday_tables": "7–28",
+    "about": "B EGIN YOUR UNFORGETTABLE JOURNEY WITH US At Andaz Singapore, we understand that no two weddings are the same, and the word “Andaz” which translates to “personal style” in Hindi, represents the wedding experience that we aim to create for every couple and their guests. That is, a personalised and unforgettable event that celebrates the union of two individuals that embodies their style and beliefs. From intimate ceremonies to grand weddings, Andaz Singapore’s alleyway-inspired events floor, Alley on 3, features dynamic barrier-free space with two unique venues for different styles of wedding celebrations. The only venue of its kind in Singapore and the largest venue within the hotel, catering up to 380 wedding guests, the Glasshouse is inspired by a glass box design and has stunning floor-to-ceiling windows on three sides. For a more intimate wedding, the smaller of the two venues, Garden Studio, offers an indoor pavilion that adjoins a picturesque outdoor garden This is a sophisticate",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/542/original/Wedding-Package-Andaz-Singapore.pdf?1764297050",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/678/original/World_of_Hyatt-Be_More_Rewarded_Weddings.pdf?1777368085"
+    ],
+    "website": "https://singapore.andaz.hyatt.com/",
+    "facebook": "https://www.facebook.com/AndazSingapore/",
+    "instagram": "https://www.instagram.com/andazsingapore/",
+    "videos": [
+      "https://youtu.be/1mruLtK0imk?si=NeadanBIObpUemwP"
+    ]
   },
   {
     "name": "Artyzen Singapore",
+    "url": "https://singaporebrides.com/d/artyzen-singapore/",
+    "slug": "artyzen-singapore",
     "phone": "6363 6000",
     "email": "sales.sg@artyzenhotels.com",
     "address": "9 Cuscaden Road",
@@ -261,7 +306,11 @@
     "saturday_tables": "3–7",
     "sunday_lunch": "$3453–$4412",
     "sunday_dinner": "$3453–$4412",
-    "sunday_tables": "3–7"
+    "sunday_tables": "3–7",
+    "about": "N estled within a lush enclave in the heart of the city, Artyzen Singapore is a modern lifestyle hotel inspired by the vibrant culture, colours, and flavours of Singapore. Once home to “Villa Marie,” a tropical garden mansion built by the great-grandson of philanthropist Tan Tock Seng, the hotel honours its heritage through thoughtful design and soulful hospitality. A proud recipient of One MICHELIN Key, Artyzen Singapore offers a setting where modern elegance meets heartfelt tradition. From quiet solemnisations to intimate dinners and elegant soirées, our thoughtfully designed spaces and bespoke touches set the stage for a celebration that feels personal, effortless, and unforgettable.",
+    "website": "https://www.artyzen.com/en/hotels/artyzen-singapore/",
+    "facebook": "https://www.facebook.com/ArtyzenSingapore/",
+    "instagram": "https://www.instagram.com/artyzensingapore/"
   },
   {
     "name": "Ban Heng @ Orchid Country Club",
@@ -309,6 +358,8 @@
   },
   {
     "name": "Capella Singapore",
+    "url": "https://singaporebrides.com/d/capella-singapore/",
+    "slug": "capella-singapore",
     "phone": "6377 8888",
     "email": "cateringsales.singapore@capellahotels.com",
     "address": "1 Knolls Sentosa Island",
@@ -349,10 +400,24 @@
     "saturday_tables": "15–40",
     "sunday_lunch": "$3453–$4292",
     "sunday_dinner": "$3573–$4292",
-    "sunday_tables": "15–40"
+    "sunday_tables": "15–40",
+    "about": "A t Capella Singapore, that moment unfolds in a place where time slows, senses awaken, and the world feels as though it exists solely for the two of you. Set within lush grounds and framed by the gentle rhythm of the sea, this is a sanctuary of understated elegance — where heritage architecture meets contemporary refinement. Here, every great love story finds its setting. From intimate garden solemnisation ceremonies to grand affairs set within our heritage spaces, vows are exchanged in landscaped gardens or celebrated through refined receptions framed by nature and architecture, each venue offering its own character and sense of occasion. From your earliest conversations through to the final moments of your day, our dedicated team works quietly behind the scenes, listening first and guiding every detail with care. Through considered planning, personalised service, and thoughtful culinary experiences, we bring your vision to life in a way that feels natural, effortless, and entirely yo",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/654/original/Capella_Singapore_Wedding_Packages_Grand_Ballroom_2026.pdf?1770688783",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/655/original/Capella_Singapore_Wedding_Packages_Sentosa_Room_2026.pdf?1770688804",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/656/original/Capella_Singapore_Wedding_Packages_Solemnisation_2026.pdf?1770688822"
+    ],
+    "website": "https://www.capellahotels.com/en/capella-singapore",
+    "facebook": "https://www.facebook.com/capellasingapore.sentosa",
+    "instagram": "https://www.instagram.com/capellasingapore/",
+    "videos": [
+      "https://www.youtube.com/@capella.singapore"
+    ]
   },
   {
     "name": "Carlton Hotel Singapore",
+    "url": "https://singaporebrides.com/d/carlton-hotel-singapore/",
+    "slug": "carlton-hotel-singapore",
     "phone": "6311 8181",
     "email": "banquet@carltonhotel.sg",
     "address": "76 Bras Basah Road",
@@ -393,10 +458,22 @@
     "saturday_tables": "10–32",
     "sunday_lunch": "$1760–$2396",
     "sunday_dinner": "$2036–$2396",
-    "sunday_tables": "10–32"
+    "sunday_tables": "10–32",
+    "about": "C elebrate your joyous occasion with us at Carlton Hotel Singapore and let our team of dedicated professionals provide you with the dream wedding you have always wanted. Choose from 13 function rooms for the perfect venue to suit your occasion. Begin your lifelong journey together and march down the isles in the high-ceiling pillar-less Empress Ballroom. We promise it will be a night both you and your guests will remember. For an intimate solemnisation or luncheon, the Esplanade Room with contemporary décor will create the ideal atmosphere for a sophisticated celebration. Delight in an exquisite range of dishes specially prepared by our team of culinary experts from the award-winning Wah Lok Cantonese Restaurant. Capacity: 100 - 320 Pax",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/543/original/New_Wedding_Package_2026.pdf?1764900954",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/688/original/Empress_Wedding_Package_2027.pdf?1774236150",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/630/original/esplanade-wedding-package-2026.pdf?1767581002",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/689/original/Esplanade_Wedding_Package_2027.pdf?1773288939"
+    ],
+    "website": "http://www.carltonhotel.sg/",
+    "facebook": "https://www.facebook.com/CarltonHotelSG",
+    "instagram": "https://www.instagram.com/carltonhotelsingapore/"
   },
   {
     "name": "Changi Cove",
+    "url": "https://singaporebrides.com/d/changi-cove/",
+    "slug": "changi-cove",
     "phone": "6922 6108",
     "email": "cc.enquiry@changicove.com",
     "address": "351 Cranwell Road",
@@ -437,10 +514,23 @@
     "saturday_tables": "13–22",
     "sunday_lunch": "$1484–$1858",
     "sunday_dinner": "$1724–$2254",
-    "sunday_tables": "13–22"
+    "sunday_tables": "13–22",
+    "about": "T ucked away in a little corner of Eastern Singapore lies Changi Cove, a destination and venue ideal for weddings with a whimsical charm and elegance. If you are a bride-to-be, looking for an intimate and cosy space with a rustic and quaint twist, we are right for you! Covered in natural earthy tones and accompanied by a full length two-storey glass window facing Changi Coves’ scenic foliage, the Auditorium makes a perfect spot for couples looking for something out-of-the-ordinary and in touch with nature.",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/000/989/original/Changi_Cove_Chinese___Western_Wedding_Package_2026_2027.pdf?1772611364",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/209/original/Changi_Cove_Intimate_OR_Solemnisation_Package_2026_2027.pdf?1772611370",
+      "https://singaporebrides.com/d/system/documents/contents/000/000/994/original/Changi_Cove_Indian_Wedding_Package_2026_2027.pdf?1772611377",
+      "https://singaporebrides.com/d/system/documents/contents/000/000/992/original/Changi_Cove_Muslim_Wedding_Package_2026_2027.pdf?1772611385",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/484/original/Changi_Cove_Wedding_Brochure.pdf?1756693570"
+    ],
+    "website": "https://conferencecentre.changicove.com/wedding-banquet/",
+    "facebook": "https://www.facebook.com/ChangiCove/",
+    "instagram": "https://www.instagram.com/changicovesingapore/"
   },
   {
     "name": "CHIJMES Hall Singapore",
+    "url": "https://singaporebrides.com/d/chijmes-hall-singapore/",
+    "slug": "chijmes-hall-singapore",
     "phone": "6336 5320",
     "email": "chijmes@watabe-wedding.com.sg",
     "address": "30 Victoria Street #01-28 (Chijmes Hall) CHIJMES",
@@ -481,10 +571,19 @@
     "saturday_tables": "16–30",
     "sunday_lunch": "$2276–$2551",
     "sunday_dinner": "$2276–$2551",
-    "sunday_tables": "16–30"
+    "sunday_tables": "16–30",
+    "about": "CHIJMES Hall Singapore CHIJMES was originally known as the Convent of the Holy Infant Jesus (CHIJ), a premier girls' school established in 1854 by an order of French Catholic nuns. The chapel, now a multi-purpose hall, is known as CHIJMES Hall is a perfect venue for weddings. The Chapel was gazette as a national monument on 26 October 1990. The glass panels depict scenes from the Bible as well as the 12 apostles. Below a cross-vaulted ceiling, the floor of the chapel is laid with multi-coloured terrazzo tiles. The chapel also features magnificent chandeliers, integrated AV equipment with sophisticated AV system, wall-mounted plasma TV, Wi-Fi System with natural skylight is perfect to comfortably accommodate up to 300 guests for a sit-down banquet. Watabe Wedding Group started in 1953 and has grown into one of the world's leading bridal company, offering a wide range of domestic and international wedding services in Japan, Guam, Hawaii, Bali, Hong Kong, Taiwan, Europe and Singapore. Wat",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/000/567/original/Wedding_Kit_2024.pdf?1718179061"
+    ],
+    "website": "http://www.watabe-wedding.com.sg",
+    "facebook": "https://www.facebook.com/chijmeshallsg/",
+    "instagram": "https://www.instagram.com/chijmes_hall/"
   },
   {
     "name": "Chui Huay Lim Teochew Cuisine",
+    "url": "https://singaporebrides.com/d/chui-huay-lim-teochew-cuisine/",
+    "slug": "chui-huay-lim-teochew-cuisine",
     "phone": "6265 8121",
     "email": "events@jumbogroup.com.sg",
     "address": "190 Keng Lee Rd, #01-03 Chui Huay Lim Club",
@@ -525,10 +624,17 @@
     "saturday_tables": "10–40",
     "sunday_lunch": "$1198–$2157",
     "sunday_dinner": "$1198–$2157",
-    "sunday_tables": "10–40"
+    "sunday_tables": "10–40",
+    "about": "C hui Huay Lim is the perfect blend of nostalgia and elegance, a hidden gem in the heart of Newton. This spacious venue boasts impressive private function halls and ballrooms that include a stage, giant LED screen panels and the latest audio-visual technology. These versatile spaces can accommodate from 100 to 400 guests, making them ideal for a grand or an intimate wedding. At Chui Huay Lim Teochew Cuisine, our culinary team will be serving up the very best of authentic, traditional Teochew dishes: delicate, light and heart-warming, using only the freshest ingredients and purest methods of preparation. With it’s timeless allure and modern amenities, we present you the perfect venue for wedding couples desiring a sumptuous menu and the finest culinary offerings. Capacity: 50 - 600 Pax",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/000/466/original/Wedding_Brochure_2025-2026.pdf?1746493757",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/561/original/Solemnisation_Brochure_2025_-_2026.pdf?1746493780"
+    ]
   },
   {
     "name": "Concorde Hotel Singapore",
+    "url": "https://singaporebrides.com/d/concorde-hotel-singapore/",
+    "slug": "concorde-hotel-singapore",
     "phone": "6739 8356",
     "email": "cateringsales.chs@concorde.net",
     "address": "100 Orchard Road",
@@ -569,10 +675,19 @@
     "saturday_tables": "8–44",
     "sunday_lunch": "$1676–$1676",
     "sunday_dinner": "$1916–$1916",
-    "sunday_tables": "8–44"
+    "sunday_tables": "8–44",
+    "about": "M ake your once in a lifetime experience a truly memorable one at Concorde Hotel Singapore. Whether you want a spectacular event or an intimate affair, our Grand Ballroom will allow you to have a romantic and customised wedding that won’t cost a fortune. Conveniently located between Dhoby Ghaut and Somerset MRT stations, the hotel is home to a team of dedicated and experienced wedding planners who will endeavour to make your dream of a perfect wedding a reality. Capable of hosting up to 44 tables, the Concorde Ballroom offers a unique pillar-less high ceiling that is sure to enhance your special event. Capacity: 200 - 440 Pax To learn more about our wedding packages or to customise your own, please contact our dedicated wedding planners at +65 6739 8355 or WhatsApp +65 9745 3926. Alternatively, you can also email us at [email&#160;protected] .",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/343/original/2026___2027_Wedding_Lunch_Package_%283%29.pdf?1768791934",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/344/original/2026___2027_Wedding_Dinner_Package.pdf?1767582632"
+    ],
+    "website": "https://singapore.concordehotelsresorts.com/meetings-weddings/",
+    "facebook": "https://www.facebook.com/concordehotelsingapore"
   },
   {
     "name": "Conrad Singapore Marina Bay",
+    "url": "https://singaporebrides.com/d/conrad-singapore-marina-bay/",
+    "slug": "conrad-singapore-marina-bay",
     "phone": "+65 6432 7159/7166",
     "email": "sinci.weddings@conradhotels.com",
     "address": "2 Temasek Boulevard",
@@ -613,10 +728,23 @@
     "saturday_tables": "11–40",
     "sunday_lunch": "$2671–$2911",
     "sunday_dinner": "$2791–$3151",
-    "sunday_tables": "11–40"
+    "sunday_tables": "11–40",
+    "about": "P lan your perfect wedding at the Conrad Singapore Marina Bay. From exclusive wedding themes to the finest cuisine, your dream wedding will become a reality as the hotel's expert team provides a truly inclusive and personal service from start to finish. Offering various venue options to cater to different needs, customise the space to suit your wedding style. Explore the grandeur of the Pavilion- a unique glass junior ballroom by the pool which can host up to 150 guests. It is the ideal venue for a romantic sunset ceremony. Hold lavish banquets for up to 408 guests amidst the grandeur of the pillarless ballroom, adorned with Italian chandeliers or choose from one of the smaller individually decorated salons for an intimate reception. Renowned for innovative culinary excellence, Conrad Singapore Marina Bay offers a wide selection of dining arrangements and menus. Our wedding packages are thoughtfully designed with a host of added privileges, allowing couples to personalise every detail ",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/614/original/CSMB_Grand_Ballroom_Packages_%28Jul_2026_-_Jun_2027%29.pdf?1760579049",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/615/original/CSMB_The_Pavilion_Packages_%28Jul_2026_-_Jun_2027%29.pdf?1760579123"
+    ],
+    "website": "https://www.hilton.com/en/hotels/sincici-conrad-singapore-marina-bay/weddings/",
+    "facebook": "https://www.facebook.com/conradcentennialsingapore/reviews/",
+    "instagram": "https://www.instagram.com/conradcentennialsingapore/",
+    "videos": [
+      "https://youtu.be/beQzdzhFMR0"
+    ]
   },
   {
     "name": "Conrad Singapore Orchard",
+    "url": "https://singaporebrides.com/d/conrad-singapore-orchard/",
+    "slug": "conrad-singapore-orchard",
     "phone": "6725 3333",
     "email": "sinod.events@conradhotels.com",
     "address": "1 Cuscaden Road",
@@ -657,10 +785,45 @@
     "saturday_tables": "10–50",
     "sunday_lunch": "$2324–$3103",
     "sunday_dinner": "$2384–$3103",
-    "sunday_tables": "10–50"
+    "sunday_tables": "10–50",
+    "about": "R omance Inspired by You. Discover our sophisticated urban oasis crafted for memorable Conrad Weddings—a poetic ode to your love story. From the iconic John Portman-designed atrium, providing a stunning architectural backdrop for your grand arrival, to the refreshed stylish venues, unmatched service, and exquisite catering that is purposefully tailored to bring your dream wedding to life. Whether you envision an opulent banquet that sparkles or an intimate luncheon exuding understated elegance, our Conrad Weddings team, in collaboration with our hospitality experts, delivers intuitive, purposeful service for which Conrad is renowned. Our culinary maestros from the Michelin-starred Summer Palace stand ready to pamper your guests with fine Cantonese cuisine. We look forward to hosting this momentous occasion in your life and are excited to embark on the journey of creating a personalised wedding that truly represents you as a new couple—one that speaks to your style, personality, and uni",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/529/original/01._CSO_RPB_Wedding_Lunch_Package_2026_15122025.pdf?1766372224",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/530/original/02._CSO_RPB_Wedding_Dinner_Package_2026_15122025.pdf?1766372236",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/531/original/03._CSO_TGN_Wedding_Lunch_Package_2026_15122025.pdf?1766372253",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/532/original/04._CSO_TGN_Wedding_Dinner_Package_2026_15122025.pdf?1766372270",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/612/original/05._CSO_NSM_Wedding_Lunch_Package_2026_15122025.pdf?1766372288",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/613/original/06._CSO_NSM_Wedding_Dinner_Package_2026_15122025.pdf?1766372298",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/533/original/07._CSO_PTS_Wedding_Lunch_Package_2026_15122025.pdf?1766372311",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/534/original/08._CSO_PTS_Wedding_Dinner_Package_2026_15122025.pdf?1766372328",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/583/original/09._CSO_Cuscaden_Wedding_Package_2026_160625.pdf?1766372352",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/537/original/10._Promotion_Wedding_Package_2026_021125.pdf?1766372369",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/535/original/11._CSO_Italian_Wedding_Package_2026_300725.pdf?1766372382",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/536/original/12._CSO_Indian_Wedding_Package_2026_300725.pdf?1766372390",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/672/original/07._CSO_RPB_Wedding_Lunch_Package_2027_16022026.pdf?1772180458",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/673/original/08._CSO_RPB_Wedding_Dinner_Package_2027_16022026.pdf?1772180483",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/670/original/05._CSO_TGN_Wedding_Lunch_Package_2027_16022026.pdf?1772180418",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/671/original/06._CSO_TGN_Wedding_Dinner_Package_2027_16022026.pdf?1772180438",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/668/original/03._CSO_NSM_Wedding_Lunch_Package_2027_16022026.pdf?1772180375",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/669/original/04._CSO_NSM_Wedding_Dinner_Package_2027_16022026.pdf?1772180393",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/666/original/01._CSO_PTS_Wedding_Lunch_Package_2027_16022026.pdf?1772180319",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/667/original/02._CSO_PTS_Wedding_Dinner_Package_2027_16022026.pdf?1772180334",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/674/original/09._CSO_Cuscaden_Wedding_Package_2026_25022027.pdf?1772180504",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/675/original/10._Promotion_Wedding_Package_2027_24032026.pdf?1774333452",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/676/original/11._CSO_Italian_Wedding_Package_2026_25022027.pdf?1772180541",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/677/original/12._CSO_Indian_Wedding_Package_2026_25022027.pdf?1772180558"
+    ],
+    "website": "https://www.hilton.com/en/hotels/sinodci-conrad-singapore-orchard/weddings/?WT.mc_id=zAPEC0SG1CI2OLQ3GenPartner4MayWeddingShowcase_May56SINODCI7EN8i137261",
+    "facebook": "https://www.facebook.com/conradsingaporeorchard",
+    "instagram": "https://www.instagram.com/conradsingaporeorchard/",
+    "videos": [
+      "https://www.youtube.com/@ConradSingaporeOrchard"
+    ]
   },
   {
     "name": "Copthorne King's Hotel Singapore",
+    "url": "https://singaporebrides.com/d/copthorne-king-s-hotel-singapore/",
+    "slug": "copthorne-king-s-hotel-singapore",
     "phone": "6733 0011",
     "email": "catering.cks@millenniumhotels.com",
     "address": "403 Havelock Road",
@@ -701,10 +864,19 @@
     "saturday_tables": "15–30",
     "sunday_lunch": "$1664–$1664",
     "sunday_dinner": "$1784–$1784",
-    "sunday_tables": "15–30"
+    "sunday_tables": "15–30",
+    "about": "C elebrate your wedding in a boutique hotel setting at Copthorne King’s Hotel. Create a lifetime of memories and delight your guests within an elegant yet cosy ambience paired with lavish culinary delights created and personally presided over by our Master Chef from the award-winning Tien Court Restaurant. Couples get to select up to 9 courses of their lunch or dinner celebration from an extensive interchangeable menu. There are even vegetarian options for consideration! In addition, there is a whole list of benefits and perks for the bridal couple, including a night’s stay in our Bridal Room with American breakfast for 2, wedding favours for all guests, complimentary car valet parking facilities within hotel premises... etc. Most of all, we have a dedicated team of events specialists who will ensure a hassle-free and memorable wedding celebration! Capacity: 300 Pax For more details, contact our wedding consultants today at +65 6733 0011 or Email: [email&#160;protected] .",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/305/original/CKS_Wedding_Package_2025_and_2026.pdf?1736752086"
+    ],
+    "website": "http://www.copthornekings.com.sg/",
+    "facebook": "https://www.facebook.com/copthornekings/reviews/",
+    "instagram": "https://www.instagram.com/copthornekings/"
   },
   {
     "name": "Crowne Plaza Changi Airport",
+    "url": "https://singaporebrides.com/d/crowne-plaza-changi-airport/",
+    "slug": "crowne-plaza-changi-airport",
     "phone": "6823 5339",
     "email": "weddings.cpca@ihg.com",
     "address": "75 Airport Boulevard",
@@ -745,7 +917,19 @@
     "saturday_tables": "8–30",
     "sunday_lunch": "$2024–$2374",
     "sunday_dinner": "$2024–$2374",
-    "sunday_tables": "8–30"
+    "sunday_tables": "8–30",
+    "about": "C rowne Plaza Changi Airport sets the perfect stage for an unforgettable wedding. It encapsulates elements of both city and resort hotel with sleek modern lines that are unmistakably contemporary. The open walkways with luxuriant greenery and beautiful water features enables guests to enjoy the balmy tropics and the hideaway resort feel. The Chengal Ballroom is one of Singapore's most elegant column free ballroom boasting an impressive six-metre ceiling height. Furnished with tropically decorated walls and ceilings with natural lights showering the spacious pre-function area, the state-of-the-art audio visual and light equipments makes this the perfect venue for your wedding. We offer modern and contemporary venue options for intimate solemnization and lavish wedding banquets. Select from our exquisite wedding concepts that promise a truly memorable experience for you and your guests. Dreaming of a romantic wedding by the poolside? Exchange vows at the romantic and relax setting of our",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/714/original/Crowne_Plaza_Wedding_Package_2026_%28Chengal___Camellia%29__1618nett.pdf?1776061968",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/715/original/Crowne_Plaza_Wedding_Package_2027_%28Chengal___Camellia%29.pdf?1776061996",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/690/original/Wedding_Show_Perks_Camellia_2026_2027.pdf?1773630418",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/691/original/Wedding_Show_Perks_Chengal_Ballroom_2026_2027.pdf?1773630467",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/692/original/Malay_Wedding_Package_2026___2027.pdf?1773630490",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/693/original/Malay_Wedding_Show_Perks_2026_2027.pdf?1773630519"
+    ],
+    "website": "http://changiairport.crowneplaza.com/",
+    "facebook": "https://www.facebook.com/cpchangi/",
+    "instagram": "https://www.instagram.com/cpchangiairport/"
   },
   {
     "name": "Dusit Thani Laguna Singapore",
@@ -793,6 +977,8 @@
   },
   {
     "name": "Fairmont Singapore and Swissôtel The Stamford",
+    "url": "https://singaporebrides.com/d/fairmont-singapore-and-swissotel-the-stamford/",
+    "slug": "fairmont-singapore-and-swissotel-the-stamford",
     "phone": "6431 5138",
     "email": "weddings.singapore@fairmont.com",
     "address": "80 Bras Basah Road",
@@ -833,10 +1019,20 @@
     "saturday_tables": "15–140",
     "sunday_lunch": "$2192–$2384",
     "sunday_dinner": "$2312–$2743",
-    "sunday_tables": "15–140"
+    "sunday_tables": "15–140",
+    "about": "C elebrate the start of your beautiful journey together at Fairmont Singapore and Swissôtel The Stamford, where we offer a blissful sanctuary for your special day. Our distinctive experiences are designed to create wedding memories that will last a lifetime. As every couple is unique, our wedding packages feature utmost attention to details and authentic touches tailored specifically to each couple’s needs and desires. In addition to our restaurants and bars, which are available for exclusive bookings, we proudly feature a sprawling 104,000 sqft event space. This includes three elegant ballrooms, providing a versatile and grand setting for both intimate and grandiose wedding celebrations, ensuring that your wedding day is as perfect as you've always dreamed. Click to see virtual tour for SKAI Suites and Fairmont Ballroom .",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/000/485/original/Fairmont-Singapore-Weddings-eBrochure-Packages-2026-27.pdf?1768536420",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/317/original/Swissotel-The-Stamford-Weddings-eBrochure-Packages-2026-27.pdf?1768536431"
+    ],
+    "website": "https://bit.ly/FairmontSingaporeSwissotelTheStamfordWeddings",
+    "facebook": "https://www.facebook.com/FairmontSingapore/reviews/",
+    "instagram": "https://www.instagram.com/fairmontsingapore/"
   },
   {
     "name": "Four Points by Sheraton Singapore, Riverview",
+    "url": "https://singaporebrides.com/d/four-points-by-sheraton-singapore-riverview/",
+    "slug": "four-points-by-sheraton-singapore-riverview",
     "phone": "6349 4857",
     "email": "catering@fourpointssingaporeriverview.com",
     "address": "382 Havelock Road",
@@ -877,10 +1073,20 @@
     "saturday_tables": "6–25",
     "sunday_lunch": "$1784–$2024",
     "sunday_dinner": "$1784–$2024",
-    "sunday_tables": "6–25"
+    "sunday_tables": "6–25",
+    "about": "Y our Dream Riverside Wedding Destination Waterfront Setting Nestled along Robertson Quay, our sophisticated wedding venue offers stunning Singapore River views and elegant alfresco ceremony spaces. The tranquil waterfront setting provides the perfect romantic backdrop for your special day, with endless opportunities for breathtaking photography. Culinary Excellence Our experienced culinary team creates exceptional dining experiences with thoughtfully crafted Chinese wedding banquet menus and diverse international buffet selections, ensuring every guest enjoys a memorable meal. Complete Wedding Support From intimate solemnisations to grand celebrations, our dedicated wedding specialists provide end-to-end planning support tailored to your unique vision. We handle every detail so you can focus on celebrating your love story with confidence and ease. Why Choose Us - Prime Robertson Quay location with river view - Flexible spaces accommodating intimate to grand celebrations - Exceptional ",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/247/original/Chinese_Wedding_Brochure_20262027_%28revised%29.pdf?1757563415",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/246/original/Malay_Wedding_Brochure_20262027_%28revised%29_compressed_%281%29.pdfMalay_Wedding_Brochure_20262027_%28revised%29.pdf?1757563463"
+    ],
+    "website": "http://www.fourpointssingaporeriverview.com/",
+    "facebook": "https://www.facebook.com/fourpointssingapore",
+    "instagram": "https://www.instagram.com/fourpointssingapore/"
   },
   {
     "name": "Four Seasons Hotel Singapore",
+    "url": "https://singaporebrides.com/d/four-seasons-hotel-singapore",
+    "slug": "four-seasons-hotel-singapore",
     "phone": "6831 7005",
     "email": "catering.sin.dst@fourseasons.com",
     "address": "190 Orchard Boulevard",
@@ -921,10 +1127,25 @@
     "saturday_tables": "3–30",
     "sunday_lunch": "$2734–$2854",
     "sunday_dinner": "$2854–$3093",
-    "sunday_tables": "3–30"
+    "sunday_tables": "3–30",
+    "about": "C elebrate your love story with Four Seasons Hotel Singapore, where our wedding professionals are devoted to orchestrating personalised, perfect weddings. Four Seasons Hotel Singapore provides an elegant and uniquely residential setting for wedding celebrations complemented with impeccable service and award-winning cuisine. From invitations to wedding cakes, floral creations to memorable farewells, we believe every wedding should be as special as your love for one another. That is why our expert Wedding Maestros spare no effort in ensuring every detail is in place as you give your dream wedding wings to fly. Capacity: 50 - 300 persons For more information or enquiries, please contact our Catering team at +65 6831 7005/7112 or email [email&#160;protected] . For more information, please visit www.fourseasons.com/singapore/weddings .",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/709/original/FSSIN_2026_Wedding_Lunch_Package.pdf?1774838257",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/710/original/FSSIN_-_2026_Wedding_Dinner_%28Mon_-_Fri%29_Package.pdf?1774838273",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/711/original/FSSIN_2026_Wedding_Dinner_%28Sat___Sun%29_Package.pdf?1774838295",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/718/original/FSSIN_-_2026_Intimate_Weddings_Package.pdf?1776392497"
+    ],
+    "website": "https://www.fourseasons.com/singapore/weddings/",
+    "facebook": "https://www.facebook.com/FourSeasonsHotelSingapore",
+    "instagram": "https://www.instagram.com/fssingapore",
+    "videos": [
+      "https://youtu.be/DB-J-Q7HrFM?si=tCmn62QjX7N7OsuP"
+    ]
   },
   {
     "name": "Frasers House, a Luxury Collection Hotel, Singapore",
+    "url": "https://singaporebrides.com/d/frasers-house-a-luxury-collection-hotel-singapore/",
+    "slug": "frasers-house-a-luxury-collection-hotel-singapore",
     "phone": "6338 7600",
     "email": "tlc.sinlb.weddings@luxurycollection.com",
     "address": "80 Middle Road",
@@ -965,7 +1186,33 @@
     "saturday_tables": "22–40",
     "sunday_lunch": "$2623–$2623",
     "sunday_dinner": "$2743–$2743",
-    "sunday_tables": "22–40"
+    "sunday_tables": "22–40",
+    "about": "At Frasers House, a Luxury Collection Hotel, Singapore, every wedding begins with a story - yours. Each celebration is approached as a deeply personal expression, whether envisioned as an intimate gathering shared with those closest to you or a grand occasion marked by ceremony and splendour. Guided by an experienced wedding team, every detail is thoughtfully considered; from the rhythm of the day and the atmosphere of the space to menus, décor, and moments in between, ensuring a celebration that feels entirely your own. The pillarless Grand Ballroom offers a setting of timeless elegance, recalling the grace of 1930s colonial Singapore. Beneath soaring ceilings crowned with crystal chandeliers, French windows allow natural light to illuminate richly textured walls and mirrored panels in a warm, golden palette. Spanning over 540 square metres and accommodating up to 320 guests, the ballroom is equally suited for luminous daytime celebrations and romantic evening weddings. A dramatic 10-",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/449/original/2026_Sunday_Dinner_Package.pdf?1769084888",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/694/original/2027_Sunday_Wedding_Dinner_Package.pdf?1778052359",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/450/original/2026_Saturday_Dinner_Package.pdf?1769084902",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/695/original/2027_Saturday_Wedding_Dinner_Package.pdf?1778052372",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/458/original/2026_Friday_Dinner_Package.pdf?1769084929",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/696/original/2027_Friday_Wedding_Dinner_Package.pdf?1778052382",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/451/original/2026_Weekday_Lunch___Dinner_Package.pdf?1769084944",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/697/original/2027_Weekday_Wedding_Lunch___Dinner_Package.pdf?1778052404",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/452/original/2026_Weekend_Lunch_Package.pdf?1769084955",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/698/original/2027_Weekend_Wedding_Lunch_Package.pdf?1778052419",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/453/original/2026_Boutique_Package_at_Bras_Basah_Room.pdf?1769084998",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/699/original/2027_Boutique_Wedding_Package_at_Bras_Basah_Room.pdf?1778052432",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/454/original/2026_Solemnisation_Package_at_The_Library.pdf?1769085016",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/700/original/2027_Solemnisation_Package_at_The_Library.pdf?1778052443",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/457/original/2026_Solemnisation_Dinner_Package_at_Presidential_Suite.pdf?1769085028",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/701/original/2027_Solemnisation_Dinner_Package_at_Presidential_Suite.pdf?1778052454",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/448/original/2026_Boutique_Package_at_The_Vault.pdf?1769085097",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/702/original/2027_Boutique_Wedding_Package_at_The_Vault.pdf?1778052522",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/719/original/Man_Fu_Yuan_Wedding_Packages_2026.pdf?1776413634",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/720/original/LUCE_Wedding_Packages_2026.pdf?1776413718"
+    ],
+    "website": "https://www.marriott.com/en-us/hotels/sinlb-frasers-house-a-luxury-collection-hotel-singapore/events/",
+    "facebook": "https://www.facebook.com/FrasersHouse/",
+    "instagram": "https://www.instagram.com/interconsin/"
   },
   {
     "name": "Fu Lin Men (Chinese Swimming Club)",
@@ -1145,6 +1392,8 @@
   },
   {
     "name": "Furama RiverFront, Singapore",
+    "url": "https://singaporebrides.com/d/furama-riverfront-singapore/",
+    "slug": "furama-riverfront-singapore",
     "phone": "6739 6452",
     "email": "banquet.riverfront@furama.com",
     "address": "405 Havelock Road",
@@ -1185,10 +1434,23 @@
     "saturday_tables": "10–48",
     "sunday_lunch": "$1544–$1760",
     "sunday_dinner": "$1532–$1784",
-    "sunday_tables": "10–48"
+    "sunday_tables": "10–48",
+    "about": "W itness your dream wedding come to life in our beautiful ballrooms and spaces with a variety of stunning settings to bring your vision to life. Say your vows amidst the lush greenery of the Waterfall Lounge, with its floor-to-ceiling windows framing a garden fairytale and a six-metre high waterfall. For a spectacular affair, the Venus Grand Ballroom offers a pillarless space that seats over 500 guests, complete with a state-of-the-art LED screen to showcase your most cherished moments and an exclusive access to the spacious foyer for reception. For a more refined celebrations, our Mercury Ballroom is ideal with its refreshed lighting, luxurious new carpet, and serene poolside views, creating an effortlessly elegant backdrop. No matter the size or style of your celebration, Furama RiverFront offers the perfect canvas for a wedding that will enchant you and your guests forever. Make an appointment with our dedicated wedding planners to customise your dream wedding!",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/000/878/original/A_Summer&#39;s_Dream__Wedding_Package_2026___2027.pdf?1770019684",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/134/original/ROM_Package-compressed.pdf?1770019695",
+      "https://singaporebrides.com/d/system/documents/contents/000/000/879/original/FRF_Malay_Wedding_Package_Jun_2025.pdf?1770019730",
+      "https://singaporebrides.com/d/system/documents/contents/000/000/919/original/FRF_FCC_Indian_Wedding_Package_2026.pdf?1770345237",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/653/original/Furama_RiverFront_-_Joy_Ever_After_Wedding_at_Apollo.pdf?1770345267"
+    ],
+    "website": "http://www.furama.com/riverfront/",
+    "facebook": "https://www.facebook.com/furamariverfrontsingapore",
+    "instagram": "https://www.instagram.com/furamariverfront/"
   },
   {
     "name": "Genting Hotel Jurong",
+    "url": "https://singaporebrides.com/d/genting-hotel-jurong/",
+    "slug": "genting-hotel-jurong",
     "phone": "6577 9530/9531",
     "email": "ghjsales@RWSentosa.com",
     "address": "2 Town Hall Link",
@@ -1229,10 +1491,16 @@
     "saturday_tables": "15–33",
     "sunday_lunch": "$1664–$1664",
     "sunday_dinner": "$1664–$1664",
-    "sunday_tables": "15–33"
+    "sunday_tables": "15–33",
+    "about": "T he Next West Thing Is the western part of Singapore where you grew up, fell in love, and plan to get married? Wouldn't it be wonderful to host your wedding banquet right here in the West? With the exciting developments in the Jurong Lake District, newlyweds can now celebrate their unions in this dynamic area. Since 2015, Genting Hotel Jurong has been offering wedding packages that add a special touch to your big day. Our team of experienced wedding consultants, hailing from Resorts World Sentosa, brings years of expertise in crafting memorable weddings. They will ensure every detail of your celebration is meticulously planned, from elegant floral arrangements to beautifully designed invitation cards. At Genting Hotel Jurong, enjoy an unforgettable stay in our luxurious bridal suite and treat your guests to a sumptuous 8-course Chinese dinner in the stylish Genting Ballroom, which accommodates up to 330 guests. The adjacent function rooms are perfect for tea ceremonies, while our roof",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/000/053/original/MICE0212_GHJ_Wedding_Brochure_2025_to_2026.pdf?1752649567"
+    ]
   },
   {
     "name": "Goodwood Park Hotel",
+    "url": "https://singaporebrides.com/d/goodwood-park-hotel/",
+    "slug": "goodwood-park-hotel",
     "phone": "6730 1821",
     "email": "banquet@goodwoodparkhotel.com",
     "address": "22 Scotts Road",
@@ -1273,10 +1541,20 @@
     "saturday_tables": "12–35",
     "sunday_lunch": "$2120–$2120",
     "sunday_dinner": "$2360–$2360",
-    "sunday_tables": "12–35"
+    "sunday_tables": "12–35",
+    "about": "S tart another chapter of your love story with an elegant wedding at Goodwood Park Hotel. The colonial opulence of this iconic heritage hotel complemented with today’s modern luxuries, impeccable service, gourmet cuisine and charming ambience, will make your nuptials a memory of a lifetime. Whether is it a lavish affair at the grand Windsor Ballroom, an intimate celebration at the classy Tudor Ballroom or a romantic solemnisation ceremony by one of the hotel’s beautiful pools, our dedicated team of catering professionals will assist you towards making your wedding dreams come true. Capacity: 180 - 380 Pax",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/000/064/original/2023-Wedding_Factsheet.pdf?1682997416",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/491/original/Goodwood_Park_Hotel_-_Wedding_Package_-_01_October_2025_to_30_September_2026.pdf?1731465040"
+    ],
+    "website": "http://www.goodwoodparkhotel.com/meetings/singapore-,weddings-en.html",
+    "facebook": "https://www.facebook.com/GoodwoodParkHotel/",
+    "instagram": "https://www.instagram.com/goodwoodparkhotelsg/"
   },
   {
     "name": "Grand Copthorne Waterfront Hotel Singapore",
+    "url": "https://singaporebrides.com/d/grand-copthorne-waterfront-hotel/",
+    "slug": "grand-copthorne-waterfront-hotel",
     "phone": "6233 1199",
     "email": "weddings.gcw@millenniumhotels.com",
     "address": "392 Havelock Road",
@@ -1317,10 +1595,20 @@
     "saturday_tables": "10–65",
     "sunday_lunch": "$2288–$2408",
     "sunday_dinner": "$2743–$2863",
-    "sunday_tables": "10–65"
+    "sunday_tables": "10–65",
+    "about": "S ituated on the banks of the historic Singapore River, Grand Copthorne Waterfront Hotel Singapore offers a romantic and nostalgic setting for your wedding. Imagine the gentle river breeze and the lilting sounds of a classical symphony. Imagine beautiful floral accents and an elegant wedding reception. Imagine weddings on the waterfront. A unique alfresco wedding venue, The Promenade offers a setting where you will be exchanging vows in a romantically dressed gazebo amidst quintessential fairytale setting, whilst your guests wine and dine in a casual cocktail reception or a fine dining setting beneath the starry night. An impressive 850 square metres, column-free Grand Ballroom with its towering six-metre-high ceiling and a unique glass wall revealing a beautifully landscaped garden and gazebo, is a favourite choice for an elegant setting. Accommodating up to 800 guests in a cocktail reception setting or 650 guests in a sit-down banquet setting, the Grand Ballroom’s advanced sound and ",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/638/original/Grand_Copthorne_Waterfront_Wedding_Packages_2026.pdf?1765529345",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/639/original/Grand_Copthorne_Waterfront_Malay_Wedding_Packages_2026.pdf?1765529370"
+    ],
+    "website": "https://www.millenniumhotels.com/en/weddings/asia/singapore/grand-copthorne-waterfront/",
+    "facebook": "https://www.facebook.com/GrandCopthorne",
+    "instagram": "https://www.instagram.com/grandcopthorne/"
   },
   {
     "name": "Grand Hyatt Singapore",
+    "url": "https://singaporebrides.com/d/grand-hyatt-singapore/",
+    "slug": "grand-hyatt-singapore",
     "phone": "6416 7373",
     "email": "weddings.sg@hyatt.com",
     "address": "10 Scotts Road",
@@ -1361,10 +1649,31 @@
     "saturday_tables": "15–36",
     "sunday_lunch": "$2384–$2743",
     "sunday_dinner": "$2504–$2863",
-    "sunday_tables": "15–36"
+    "sunday_tables": "15–36",
+    "about": "Y OU HAD ME AT HYATT Every couple dreams of the perfect wedding. Here at Grand Hyatt Singapore we share that dream and work with our couples to make it a reality. Success lies in the details, no matter how large or small, our wonderful team of wedding planners are here to help you every step of the way. Grand Hyatt Singapore is the perfect wedding venue for your special day. The hotel’s grand experience combines superb food, refined service, attention to detail and a strong emphasis on customer care that will make your celebration an everlasting memory for you and your guests. Knowing that no two weddings are the same, we believe in offering every couple the option of customizing their wedding through a wide selection of “wedding wishes”. Our dedicated wedding team will be on hand to guide you through the planning process and ensure that every detail of your special day is exactly as you dreamed. With over 5,100 square metres of event space, Grand Hyatt Singapore’s 16 individual venues",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/713/original/20260410_-_Your_Wedding_Your_Way_Package_eBrochure.pdf?1776064497",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/517/original/Grand_Hyatt_Singapore-2026_Lunch-Wedding_Brochure.pdf?1742177519",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/518/original/Grand_Hyatt_Singapore-2026_Dinner-Wedding_Brochure.pdf?1742177539",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/640/original/Grand_Hyatt_Singapore_-_2026_Wedding_Digital_Brochure_Halal_Lunch.pdf?1766133497",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/641/original/Grand_Hyatt_Singapore_-_2026_Wedding_Digital_Brochure_Halal_Dinner.pdf?1766133517",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/642/original/Grand_Hyatt_Singapore_-_2026_Wedding_Digital_Brochure_Indian_Lunch.pdf?1766133539",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/643/original/Grand_Hyatt_Singapore_-_2026_Wedding_Digital_Brochure_Indian_Dinner.pdf?1766133552",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/679/original/Grand_Hyatt_Singapore_wedding_chinese_lunch_package_2027.pdf?1772414138",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/680/original/Grand_Hyatt_Singapore_wedding_chinese_dinner_package_2027.pdf?1772414160",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/681/original/Grand_Hyatt_Singapore_wedding_halal_lunch_package_2027.pdf?1772414208",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/682/original/Grand_Hyatt_Singapore_wedding_halal_dinner_package_2027.pdf?1772414227",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/683/original/Grand_Hyatt_Singapore_wedding_indian_lunch_package_2027.pdf?1772414260",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/684/original/Grand_Hyatt_Singapore_wedding_indian_dinner_package_2027.pdf?1772414282"
+    ],
+    "website": "http://singapore.grand.hyatt.com/en/hotel/weddings.html?src=prop_nplk_singaporebridesDirectory_2015",
+    "facebook": "https://www.facebook.com/GrandHyattSingapore/",
+    "instagram": "https://www.instagram.com/grandhyattsing/"
   },
   {
     "name": "Grand Mercure Singapore Roxy",
+    "url": "https://singaporebrides.com/d/grand-mercure-singapore-roxy/",
+    "slug": "grand-mercure-singapore-roxy",
     "phone": "6340 5640",
     "email": "H3610-FB7@accor.com",
     "address": "50 East Coast Road, Roxy Square",
@@ -1405,10 +1714,19 @@
     "saturday_tables": "3–32",
     "sunday_lunch": "$1664–$1784",
     "sunday_dinner": "$1664–$1784",
-    "sunday_tables": "3–32"
+    "sunday_tables": "3–32",
+    "about": "L ocated in the heart of heritage-rich Katong, Grand Mercure Singapore Roxy is an elegant choice for couples seeking a wedding that is both grand and personal. The newly refurbished East Coast Ballroom features high ceilings and ambient lighting, providing a versatile space that can host up to 350 guests. The hotel is also situated just steps away from the Marine Parade MRT Station (TE26), providing easy accessibility for all your guests. Diversity is at the core of our service; our experienced team specialises in hosting Chinese, Malay and Indian weddings. With a Halal-certified kitchen, we offer fully customisable menus ranging from traditional Malay wedding feasts to high-quality Chinese Muslim cuisine that caters to your specific palate and dietary needs. Jia Wei Chinese Restaurant For couples who prefer a more close-knit celebration, Jia Wei Chinese Restaurant, offers an intimate alternative to a ballroom setting. Located on level 2, the restaurant’s interior creates a warm, priva",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/651/original/Wedding_Menu_Jia_Wei_%281%29.pdf?1769576625"
+    ],
+    "website": "https://www.grandmercureroxy.com.sg/meetings-events/wedding-packages/",
+    "facebook": "https://www.facebook.com/GrandMercureRoxy",
+    "instagram": "https://www.instagram.com/grandmercuresingaporeroxy/"
   },
   {
     "name": "Grand Park City Hall",
+    "url": "https://singaporebrides.com/d/grand-park-city-hall/",
+    "slug": "grand-park-city-hall",
     "phone": "6336 3456",
     "email": "sales.gpch@parkhotelgroup.com",
     "address": "10 Coleman Street",
@@ -1449,7 +1767,14 @@
     "saturday_tables": "3–9",
     "sunday_lunch": "$1894–$2134",
     "sunday_dinner": "$1894–$2134",
-    "sunday_tables": "3–9"
+    "sunday_tables": "3–9",
+    "about": "O ld world charm meets modern luxury at Grand Park City Hall. The neoclassical designed hotel presents an array of unique outdoor and indoor wedding venues to truly offer a one-of-a-kind wedding experience. Tucked away from the hustle and bustle of City Hall, the Rooftop Sky Garden and Tablescape accommodate up to 120 persons, and makes for an idyllic setting for wedding couples to exchange vows and say ‘I do’ with the surrounding nature and dreamy water fountains in the background. A private dining room at Tablescape Restaurant and the private gardens located in the top-tiered suites cater to intimate bridal showers or wedding ceremonies for 10 persons. As one of the most unique wedding hotels in Singapore, you'll be one step closer to transforming your dream wedding into reality with the help of our dedicated wedding specialists.",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/177/original/GPCH_Rooftop___Suite_Wedding_Package_2026.pdf?1767680548"
+    ],
+    "website": "https://www.parkhotelgroup.com/singapore/grand-park-city-hall/weddings?utm_source=sgbrides&utm_medium=online&utm_campaign=sg-brides-directory",
+    "facebook": "https://www.facebook.com/grandparkcityhall",
+    "instagram": "https://www.instagram.com/grandparkcityhall"
   },
   {
     "name": "Grand Shanghai",
@@ -1497,6 +1822,8 @@
   },
   {
     "name": "Hilton Singapore Orchard",
+    "url": "https://singaporebrides.com/d/new-hilton-singapore-orchard/",
+    "slug": "new-hilton-singapore-orchard",
     "phone": "6737 4411",
     "email": "hiltonsingaporeorchard.weddings@hilton.com",
     "address": "333 Orchard Road",
@@ -1537,10 +1864,16 @@
     "saturday_tables": "12–80",
     "sunday_lunch": "$2504–$2504",
     "sunday_dinner": "$2504–$2504",
-    "sunday_tables": "12–80"
+    "sunday_tables": "12–80",
+    "about": "Y our wedding deserves the finest venue with an incomparable level of service and there is no better choice than Hilton Singapore Orchard, an inspiring landmark hotel with a premier address right in the heart of Orchard Road. The hotel’s uniquely designed and pillarless ballrooms which cater up to 900 guests are fitted with stunning LED walls and will present every couple the perfect backdrop for the most charming, unique and elegant bridal venue. For a more intimate wedding, The Manor is a wedding venue unlike any other and accommodates up to 120 persons. Presenting an exclusive, designer-inspired botanical enclave, this one-of-a-kind wedding venue is an interconnected space comprising seven beautifully appointed rooms and communal areas thoughtfully designed to offer a variety of customisable spaces for pre-wedding preparations, solemnisations and sit-down dinners. Complemented with a naturesque and botanical-inspired setting featuring an inviting landscaped indoor garden illuminated",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/652/original/Hilton_Singapore_Orchard_Wedding_Brochure_2026.pdf?1769677726"
+    ]
   },
   {
     "name": "Holiday Inn Express & Suites Singapore Novena",
+    "url": "https://singaporebrides.com/d/holiday-inn-express-suites-singapore-novena/",
+    "slug": "holiday-inn-express-suites-singapore-novena",
     "phone": "6355 9988",
     "email": "contact@hiexsnovena.com",
     "address": "201 Balestier Road",
@@ -1581,10 +1914,19 @@
     "saturday_tables": "10–16",
     "sunday_lunch": "$1352–$1352",
     "sunday_dinner": "$1592–$1592",
-    "sunday_tables": "10–16"
+    "sunday_tables": "10–16",
+    "about": "An Intimate and Elegant Venue Perfect For Wedding Celebration At Holiday Inn Express & Suites Singapore Novena, our team is ready to tailor-make incredible and memorable cosmopolitan experiences in the heart of Singapore, bringing the best of dining and entertainment experiences. Celebrate your wedding in the sleek and cosy Sugarcane Room which perfectly deliver an intimate celebration, with capacity up to 160 pax and comes with full glass windows, offering natural daylight and/ moonlight. Share your dreams with our experienced wedding planners who will be delighted to craft and tailor your wedding package to suit your requirements. Choose from our exclusive wedding packages complete with lavish menus, fabulous perks and personalized services.",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/562/original/Wedding_Brochure_20262027.pdf?1772604275"
+    ],
+    "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/singapore/sinov/hoteldetail",
+    "facebook": "https://www.facebook.com/HolidayInnExpressSuitesSingaporeNovena/",
+    "instagram": "https://www.instagram.com/holidayinnexpresssuitesnovena/"
   },
   {
     "name": "Holiday Inn Singapore Atrium",
+    "url": "https://singaporebrides.com/d/holiday-inn-singapore-atrium/",
+    "slug": "holiday-inn-singapore-atrium",
     "phone": "6731 7159",
     "email": "weddings.sinhi@ihg.com",
     "address": "317 Outram Road",
@@ -1625,10 +1967,21 @@
     "saturday_tables": "8–40",
     "sunday_lunch": "$1758–$1758",
     "sunday_dinner": "$1958–$1958",
-    "sunday_tables": "8–40"
+    "sunday_tables": "8–40",
+    "about": "S ituated just a 3-minute walk from Havelock MRT Station, Holiday Inn Singapore Atrium ensures direct MRT access from Orchard, Outram, Marina Bay, and Woodlands, allowing your guests to arrive with ease and comfort! Choose from a range of newly refurbished ballrooms that cater to everything from intimate solemnisations and grand weddings of up to 40 tables. Each space is equipped with: &nbsp;&nbsp;&nbsp;&nbsp;• AV system with laser projectors and intelligent lighting &nbsp;&nbsp;&nbsp;&nbsp;• Live streaming capability so loved ones near or far can join in &nbsp;&nbsp;&nbsp;&nbsp;• A choice of themed décor — rustic, romantic, or oriental You’ll enjoy peace of mind with thoughtful touches such as: &nbsp;&nbsp;&nbsp;&nbsp;• A complimentary bridal suite with breakfast for the couple &nbsp;&nbsp;&nbsp;&nbsp;• Halal-certified and vegetarian menu options to suit every preference &nbsp;&nbsp;&nbsp;&nbsp;• The choice to host your celebration at Xin Cuisine Chinese Restaurant for a more intimate",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/603/original/Wedding_Brochure_2026-2027.pdf?1764642735",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/470/original/Malay_Wedding_Package_2026__2027.pdf?1764642747",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/471/original/Indian_Wedding_Package_2026__2027.pdf?1764642759"
+    ],
+    "website": "https://singaporeatrium.holidayinn.com/weddings",
+    "facebook": "https://www.facebook.com/hiatrium/",
+    "instagram": "https://www.instagram.com/holidayinnsgatrium/"
   },
   {
     "name": "Holiday Inn Singapore Orchard City Centre",
+    "url": "https://singaporebrides.com/d/holiday-inn-singapore-orchard-city-centre/",
+    "slug": "holiday-inn-singapore-orchard-city-centre",
     "phone": "6730 0122",
     "email": "weddings.hisinorchard@ihg.com",
     "address": "11 Cavenagh Road",
@@ -1669,10 +2022,16 @@
     "saturday_tables": "10–35",
     "sunday_lunch": "$1784–$1784",
     "sunday_dinner": "$1964–$1964",
-    "sunday_tables": "10–35"
+    "sunday_tables": "10–35",
+    "about": "H oliday Inn Singapore Orchard City Centre offers a fresh take on weddings, where cherished traditions meet contemporary style. Perfect for couples seeking a balance between heritage and personal flair, our hotel wedding packages are crafted to create celebrations filled with warmth, elegance, and joy. Our Crystal Ballroom is a true showstopper, featuring a breathtaking cascading crystal chandelier that bathes the room in a romantic glow. With space for up to 380 guests, it combines sophistication with a welcoming ambience. Planning an intimate celebration? Our Stay Intimate package requires a minimum of just 05 tables. The ideal choice for couples dreaming of an intimate wedding in Singapore without compromising on elegance. Let us bring your vision to life and create a celebration as timeless as your vows and as vibrant as your future together. Contact our Wedding Specialists at +65 6733 8333 | [email&#160;protected] Virtual Tour: Ballroom",
+    "website": "https://singaporeorchard.holidayinn.com/weddings",
+    "facebook": "https://www.facebook.com/HolidayInnOrchardCityCentre/",
+    "instagram": "https://www.instagram.com/holidayinnsporeorchardcityctr/"
   },
   {
     "name": "Jade @ The Fullerton Hotel Singapore",
+    "url": "https://singaporebrides.com/d/the-fullerton-hotel-singapore/",
+    "slug": "the-fullerton-hotel-singapore",
     "phone": "6877 8188",
     "email": "weddings@fullertonhotel.com",
     "address": "1 Fullerton Square, Singapore 049178",
@@ -1713,10 +2072,16 @@
     "saturday_tables": "10–12",
     "sunday_lunch": "$2254–$2254",
     "sunday_dinner": "$2374–$2374",
-    "sunday_tables": "10–12"
+    "sunday_tables": "10–12",
+    "about": "T he Fullerton Hotel Singapore Create memories to last a lifetime at The Fullerton Hotel Singapore, which has been gazetted as Singapore’s 71st National Monument. Your celebration of romance begins on the historic grounds of The Fullerton Hotel, where old world charm meets contemporary elegance. Nestled by the Singapore River with a majestic Palladian façade, The Fullerton Hotel exudes heritage and grandeur, providing the perfect setting for your lavish banquet or intimate wedding solemnisation. The Ballroom With sweeping staircases, The Ballroom at The Fullerton Hotel Singapore guarantees a refined entrance that is superbly grand - befitting of wedding couples, luminaries and official guests. Located at the lower lobby, its elegant décor and ambience sets the stage for your most important occasions. The Ballroom can accommodate up to 480 guests in a banquet setting and has a large adjoining pre-function area that is ideal for a cocktail prior to the main event. The Ballroom can also b",
+    "website": "https://www.fullertonhotels.com/",
+    "facebook": "https://www.facebook.com/TheFullertonHotel/",
+    "instagram": "https://www.instagram.com/fullertonhotelsg/"
   },
   {
     "name": "JEN Singapore Tanglin by Shangri-La",
+    "url": "https://singaporebrides.com/d/jen-singapore-tanglin-by-shangri-la/",
+    "slug": "jen-singapore-tanglin-by-shangri-la",
     "phone": "6831 4315",
     "email": "events.hjts@hoteljen.com",
     "address": "1A Cuscaden Road",
@@ -1757,10 +2122,16 @@
     "saturday_tables": "15–28",
     "sunday_lunch": "$1724–$2144",
     "sunday_dinner": "$1904–$2144",
-    "sunday_tables": "15–28"
+    "sunday_tables": "15–28",
+    "about": "M emorable Weddings at JEN Singapore Tanglin by Shangri-La An intimate affair that is sheer magic, full of elegance and enchantment. These are the makings of a memorable wedding at JEN Singapore Tanglin by Shangri-La. The hotel's Wedding Planner will personally be on hand to create an evening to remember. From a traditional wedding banquet to modern interpretations of romance portrayed in the menu, decorations, flowers and table settings. This is the forte of the wedding team at JEN Singapore Tanglin by Shangri-La when it comes to celebratory events of such momentous proportions. For solemnisations and weddings, depending on the size of your event, there are several venues available and the largest, The Gallery, cater to a maximum of 280 guests. There are three wedding packages to choose from. Start from the basic weekday package encompassing the stunning and delightful trappings of a fine wedding celebration to a lavish and elaborate affair fit for the king and queen of the day. Custo",
+    "website": "https://www.hoteljen.com/singapore/tanglin/about/",
+    "facebook": "https://www.facebook.com/JenSingaporeTanglin",
+    "instagram": "https://www.instagram.com/hoteljentanglin/"
   },
   {
     "name": "JW Marriott Hotel Singapore South Beach",
+    "url": "https://singaporebrides.com/d/jw-marriott-singapore-south-beach/",
+    "slug": "jw-marriott-singapore-south-beach",
     "phone": "6818 1900",
     "email": "jw.sinjw.weddings@marriott.com",
     "address": "30 Beach Road",
@@ -1801,7 +2172,20 @@
     "saturday_tables": "22–33",
     "sunday_lunch": "$3093–$3093",
     "sunday_dinner": "$3093–$3093",
-    "sunday_tables": "22–33"
+    "sunday_tables": "22–33",
+    "about": "H eritage, design and legendary service come together in the Grand Ballroom to create distinct weddings of sophisticated luxury at JW Marriott Singapore South Beach. Your wedding celebration starts with our commitment and focus on Quality, Trust and Exemplary Service. Our exquisite venues have aligned with expert protocols to feature refined floorplans and capacity to deliver a memorable celebration. A memorable event awaits with curated wedding packages for Lunch and Dinner celebrations. Make your wedding one of distinction with the inspired Grand Ballroom and exquisite menus curated by our culinary team that will be talked about for years to come. Explore various wedding perks we have to offer, and earn yourself a honeymoon in one of our Marriott properties across the world with Marriott Bonvoy. Located at the heart of JW Marriott Singapore South Beach, the Grand Ballroom can host up to 320 guests and is housed in a conserved heritage building complete with main ballroom, pre-functio",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/504/original/JWM_Wedding_eBrochure_2026.pdf?1768380511",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/649/original/JWM_Wedding_eBrochure_2027.pdf?1772608136"
+    ],
+    "website": "https://www.jwmarriottsingapore.com/",
+    "facebook": "https://www.facebook.com/JWMarriottSG/reviews/",
+    "instagram": "https://www.instagram.com/jwmarriottsg/",
+    "videos": [
+      "https://youtu.be/xkhA3Qg0Xrw",
+      "https://streamable.com/rcq5p",
+      "https://streamable.com/y5v0t"
+    ]
   },
   {
     "name": "LingZhi Vegetarian (Liat Towers)",
@@ -1849,6 +2233,8 @@
   },
   {
     "name": "Mandai Rainforest Resort by Banyan Tree",
+    "url": "https://singaporebrides.com/d/mandai-rainforest-resort-by-banyan-tree/",
+    "slug": "mandai-rainforest-resort-by-banyan-tree",
     "phone": "6038 3939",
     "email": "events-mandairainforest@banyantree.com",
     "address": "60 Mandai Lake Road",
@@ -1889,10 +2275,19 @@
     "saturday_tables": "15–30",
     "sunday_lunch": "$2743–$3103",
     "sunday_dinner": "$2863–$3103",
-    "sunday_tables": "15–30"
+    "sunday_tables": "15–30",
+    "about": "S ay 'Yes' to a lavish wedding held at Mandai Rainforest Resort by Banyan Tree. Be surrounded by the lush greenery as you say 'I Do', and exchange your vows where the soft melodies of the rainforest and presence of native wildlife create a truly immersive experience. With exclusive spaces that can be configured to your specific needs, exquisite customised Western or Chinese menus, and a dedicated team to take care of every detail; leave your special occasion to us, and be assured of an unforgettable wedding that embodies nature connection, elegance with the magic of biophilia-inspired architecture.",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/708/original/Wedding_Packages_September_2025_V3_Web_withInsert_4MB.pdf?1774578141"
+    ],
+    "website": "https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "facebook": "https://www.facebook.com/MandaiRainforestResortByBanyanTree",
+    "instagram": "https://www.instagram.com/mandairainforestresort/"
   },
   {
     "name": "Mandarin Oriental Singapore",
+    "url": "https://singaporebrides.com/d/mandarin-oriental-singapore/",
+    "slug": "mandarin-oriental-singapore",
     "phone": "6885 3488",
     "email": "mosin-weddings@mohg.com",
     "address": "5 Raffles Avenue",
@@ -1933,7 +2328,15 @@
     "saturday_tables": "10–35",
     "sunday_lunch": "$2504–$2504",
     "sunday_dinner": "$2743–$2743",
-    "sunday_tables": "10–35"
+    "sunday_tables": "10–35",
+    "about": "W edding is a once in a lifetime affair and Mandarin Oriental, Singapore knows best on how to create the most impressive wedding banquet and leave such wonderful memories, that the couple will relish for the rest of their lives. The Oriental Ballroom - shaped gracefully as a fan and pillarless, guests can enjoy an uninterrupted view spanning the entire room. Luxurious handcrafted fabrics and fixtures adorn the ballroom, exuding warmth and grandeur in an understated manner. Wedding couples will have the perfect bridal march-in as the ballroom is fitted out with a state-of-the-art surround sound system. Mandarin Oriental, Singapore unveils wedding themes that are poetically created to suit each couple's preference. Each theme encompasses specially hand-picked or customized items from luscious fabrics, exquisite utensils and fresh flowers to music, wedding invitations and favours. There are also new dishes concocted by our team of experienced chefs to complement the auspicious occasion. A",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/512/original/SGBrides__MOSIN_Wedding_Package_2026.pdf?1748310958",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/591/original/Exceptional_Weddings_Chef_Fei_Brochure.pdf?1754886152"
+    ],
+    "website": "http://www.mandarinoriental.com/singapore",
+    "facebook": "https://www.facebook.com/MandarinOrientalSingapore/",
+    "instagram": "https://www.instagram.com/mo_singapore/"
   },
   {
     "name": "Marina Bay Sands",
@@ -1981,6 +2384,8 @@
   },
   {
     "name": "Mercure Singapore Bugis",
+    "url": "https://singaporebrides.com/d/mercure-singapore-bugis/",
+    "slug": "mercure-singapore-bugis",
     "phone": "6521 6088",
     "email": "Priscilla.TOH@accor.com",
     "address": "122 Middle Road",
@@ -2021,10 +2426,19 @@
     "saturday_tables": "3–12",
     "sunday_lunch": "$1640–$1640",
     "sunday_dinner": "$1760–$1760",
-    "sunday_tables": "3–12"
+    "sunday_tables": "3–12",
+    "about": "W elcome to Mercure Singapore Bugis Hotel, where dreams come true and unforgettable memories are made. Our exceptional banquet and wedding package, combined with our world-class facilities, ensure that your special day is nothing short of perfection. Nestled in the heart of vibrant Bugis, our hotel offers a sophisticated and elegant setting for your wedding celebration. Our dedicated team of wedding planners will work closely with you to create a personalized event that reflects your unique style and vision. From intimate ceremonies to grand receptions, we have the perfect venue to accommodate your needs. Our banquet halls - Queen Ballroom can easily accommodate up to 120 people and transformed to match your desired theme. With state-of-the-art audiovisual equipment and impeccable service, we guarantee a seamless and memorable experience for you and your guests. To complement our exceptional venues, we offer a range of delectable wedding menu curated by our talented culinary team from ",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/508/original/Mercure_Singapore_Bugis_Wedding_Brochure_2025.pdf?1737354131"
+    ],
+    "website": "https://www.mercure-singapore-bugis.com/meetings-events/wedding-solemnizations/",
+    "facebook": "https://www.facebook.com/MercureSingaporeBugis/",
+    "instagram": "https://www.instagram.com/mercuresingaporebugis/"
   },
   {
     "name": "METT Singapore",
+    "url": "https://singaporebrides.com/d/mett-singapore/",
+    "slug": "mett-singapore",
     "phone": "6799 8800",
     "email": "events.singapore@metthotelsandresorts.com",
     "address": "11 Canning Walk",
@@ -2065,10 +2479,18 @@
     "saturday_tables": "12–40",
     "sunday_lunch": "$2384–$4422",
     "sunday_dinner": "$2623–$4662",
-    "sunday_tables": "12–40"
+    "sunday_tables": "12–40",
+    "about": "A mid the timeless greenery of Fort Canning Park, METT Singapore offers more than a wedding venue. It is a storybook escape where heritage and lifestyle come together, and every detail is designed to reflect the way you want to celebrate. Housed in a beautifully restored colonial landmark with 86 elegant rooms, it is a place where vows find harmony where celebrations feel eternal and where every memory become a legacy. From intimate garden moments to grand ballroom receptions, our curated wedding packages give you the freedom to choose the experience that feels most like your story. Each celebration is complemented by refined dining, serene suites and the warmth of METT, ensuring a day that is stylish, personal and unforgettable. Here, love begins in harmony, continues with eternal joy and leaves a legacy to be remembered forever.",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/626/original/METT_Singapore_Wedding_Package_2026.pdf?1762836297"
+    ],
+    "website": "https://www.metthotelsandresorts.com/singapore/",
+    "instagram": "https://www.instagram.com/mettsingapore/"
   },
   {
     "name": "M Hotel Singapore City Centre",
+    "url": "https://singaporebrides.com/d/m-hotel-singapore/",
+    "slug": "m-hotel-singapore",
     "phone": "6500 6211",
     "email": "mywedding.mhs@millenniumhotels.com",
     "address": "81 Anson Road",
@@ -2109,7 +2531,14 @@
     "saturday_tables": "12–32",
     "sunday_lunch": "$1904–$2024",
     "sunday_dinner": "$2024–$2144",
-    "sunday_tables": "12–32"
+    "sunday_tables": "12–32",
+    "about": "Now & Forever @ M as we understand you deserve the best on your most special day. Experience the magic and exclusivity of being a M Wedding couple when we plan your big day with your needs in mind. Elegantly designed and lavishly furnished, be drawn into the grandeur Banquet Suite featuring the mesmerising chandelier or intimate Anson Room with a long aisle. Both venues are capable of seating 320 guests. Well-appointed with essential amenities, the adjoining VIP lounge of the Banquet Suite is also the place to be decked out in your finest for the magnificent evening ahead. After the wedding celebration, continue the romance and step into the comfort of a Bridal Suite beautifully adorned for your first night together. Be in for a sensual surprise showcasing a romantic delightful Jacuzzi. Let us capture the moment of your lifetime with our state-of-the-art technology, exciting culinary creations, expert planning and dedicated services from our wedding specialists. For a memorable wedding",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/206/original/MHS_Wedding_Package_2025___2026.pdf?1747312555"
+    ],
+    "website": "http://www.m-hotel.com/",
+    "facebook": "https://www.facebook.com/mhotelsingapore/",
+    "instagram": "https://www.instagram.com/mhotelsingapore/"
   },
   {
     "name": "Momentus Hotel Alexandra",
@@ -2157,6 +2586,8 @@
   },
   {
     "name": "Mount Faber Peak",
+    "url": "https://singaporebrides.com/d/mount-faber-peak/",
+    "slug": "mount-faber-peak",
     "phone": "6377 9688",
     "email": "events@mflg.com.sg",
     "address": "109 Mount Faber Road",
@@ -2197,12 +2628,24 @@
     "saturday_tables": "4–20",
     "sunday_lunch": "$1775–$1775",
     "sunday_dinner": "$2014–$2014",
-    "sunday_tables": "4–20"
+    "sunday_tables": "4–20",
+    "about": "Celebrate Love at the Peak: Singapore's Ultimate Hilltop Wedding Destination Create blissful memories with a romantic hilltop wedding at Mount Faber Peak. Our stunning venues blend natural beauty with elegant design, offering breathtaking city and harbour views. Whether for a grand wedding dinner or an intimate solemnisation, our exceptional spaces will elevate your special moments. The Ballroom (Up to 200 guests) Host a stunning celebration with floor-to-ceiling glass windows and a private balcony, that offers panoramic views of the harbour. It’s a perfect backdrop for stunning wedding photos that will create unforgettable memories for both day time and evening celebrations. Angsana Glasshouse (Up to 70 guests) For a truly intimate celebration, the Angsana Glasshouse is a one-of-a-kind choice. Perched at the highest point of Mount Faber Peak, this air-conditioned, glass-walled alcove offers supreme sea views. Its gold ceiling casts a natural glow, making it a magical setting for your ",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/149/original/Ballroom_Wedding_Kit.pdf?1757642476",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/604/original/AGH_Wedding_Kit.pdf?1757642496",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/150/original/Arbora_Wedding_Kit.pdf?1757642511",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/151/original/Dusk_Wedding_Kit.pdf?1757642529"
+    ],
+    "website": "https://mountfaberdining.com/pages/weddings",
+    "facebook": "https://www.facebook.com/mountfaberleisure",
+    "instagram": "https://www.instagram.com/mountfaberdining"
   },
   {
     "name": "Novotel Singapore on Stevens",
+    "url": "https://singaporebrides.com/d/novotel-singapore-on-stevens",
+    "slug": "novotel-singapore-on-stevens",
     "phone": "6491 6100",
-    "email": "H9543-SC3@accor.com",
+    "email": "H9543-SC1@accor.com",
     "address": "28 Stevens Road",
     "pricing": [
       {
@@ -2241,7 +2684,21 @@
     "saturday_tables": "10–32",
     "sunday_lunch": "$1844–$2384",
     "sunday_dinner": "$2084–$2623",
-    "sunday_tables": "10–32"
+    "sunday_tables": "10–32",
+    "about": "E mbark on a starlit path towards your forever, where the cosmos aligns to celebrate your love. Our dedicated wedding team at Novotel Singapore on Stevens is here to craft a celebration as unique as the constellations, making every moment a reflection of your dreams. Nestled within a serene blend of lush greenery and urban convenience, our venue spaces offer an otherworldly setting for your special day. Whether you're envisioning an intimate gathering or a grand celestial celebration, our team ensures that every detail is flawlessly executed with a touch of timeless elegance. Picture your guests mingling over canapés and cocktails under the twinkling stars at the enchanting Milkyway Foyer—a prelude to a night of pure magic. Then, step into our breathtaking pillarless Polaris Ballroom, where its lofty ceilings and sophisticated ambiance create the perfect stage for up to 320 guests to witness your love story unfold under the stars. At Novotel Singapore on Stevens, we transform your wedd",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/550/original/Constellation_Wedding_Package.pdf?1759208919",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/551/original/Galactical_Wedding_Package_.pdf?1759208721",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/607/original/Nova_Wedding_Package.pdf?1759208981",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/608/original/Solemnisation_x_L&#39;Aperitif.pdf?1759209007",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/609/original/Food_Exchange_Wedding_Package.pdf?1759209035",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/611/original/Winestone_Wedding_Package.pdf?1759209103",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/490/original/2025_2026_Indian_Wedding_Novotel_Singapore_on_Stevens_.pdf?1751421564",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/610/original/Wedding_Venue_Only_Package.pdf?1759209063"
+    ],
+    "website": "https://www.novotel-singapore-stevens.com/weddings/?utm_source=website&utm_medium=novotel",
+    "facebook": "https://www.facebook.com/NovotelSingaporeStevens/",
+    "instagram": "https://www.instagram.com/novotelstevens/"
   },
   {
     "name": "Oasia Hotel Downtown",
@@ -2289,6 +2746,8 @@
   },
   {
     "name": "Oasia Hotel Novena, Singapore",
+    "url": "https://singaporebrides.com/d/oasia-hotel-novena-singapore/",
+    "slug": "oasia-hotel-novena-singapore",
     "phone": "6812 6991",
     "email": "sales.ohs@fareast.com.sg",
     "address": "8 Sinaran Drive",
@@ -2333,6 +2792,8 @@
   },
   {
     "name": "Oasia Resort Sentosa",
+    "url": "https://singaporebrides.com/d/oasia-resort-sentosa/",
+    "slug": "oasia-resort-sentosa",
     "phone": "6512 2202",
     "email": "events.sentosa@fareast.com.sg",
     "address": "23 Beach View, Palawan Ridge, #01-01, Sentosa Island",
@@ -2373,7 +2834,16 @@
     "saturday_tables": "12–14",
     "sunday_lunch": "$2480–$2480",
     "sunday_dinner": "$2480–$2480",
-    "sunday_tables": "12–14"
+    "sunday_tables": "12–14",
+    "about": "C elebrate your love at Oasia Resort Sentosa, a tranquil wellness retreat nestled in the heart of Sentosa, just across from Imbiah Station. Surrounded by lush greenery and calm, the resort offers a rejuvenating escape to refresh, recharge, and refuel before you begin your next chapter together. THE ALOES is our elegant ballroom, thoughtfully designed for sophisticated weddings and memorable celebrations. Featuring high ceilings, floor-to-ceiling glass panels on one side, and warm wooden accents on the other, it offers a beautiful blend of modern design and refined charm. Ideal for 120 to 140 guests, it's where lasting moments are made. Just steps away, CYPRESS offers a cosy, intimate setting—perfect for a tea ceremony with your loved ones before the celebration begins. Set within the same precinct, Oasia Resort Sentosa shares a thoughtfully curated selection of wedding venues with its sister properties – The Outpost Hotel Sentosa, Village Hotel Sentosa and The Barracks Hotel Sentosa. F",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/571/original/2026_2027_Wedding_Dinner_Package.pdf?1773628996"
+    ],
+    "website": "https://www.oasiahotels.com/en/singapore/hotels/Oasia-Resort-Sentosa",
+    "facebook": "https://www.facebook.com/OasiaResortSentosa/",
+    "videos": [
+      "https://www.youtube.com/user/FarEastHospitality"
+    ]
   },
   {
     "name": "ONE°15 Marina Sentosa Cove",
@@ -2421,6 +2891,8 @@
   },
   {
     "name": "One Farrer Hotel",
+    "url": "https://singaporebrides.com/d/one-farrer-hotel/",
+    "slug": "one-farrer-hotel",
     "phone": "6363 0101",
     "email": "events@onefarrer.com",
     "address": "1 Farrer Park Station Road",
@@ -2461,12 +2933,22 @@
     "saturday_tables": "16–45",
     "sunday_lunch": "$2144–$2144",
     "sunday_dinner": "$2264–$2264",
-    "sunday_tables": "16–45"
+    "sunday_tables": "16–45",
+    "about": "W hether you envision your wedding to be an intimate gathering or a sophisticated soiree, let One Farrer Hotel be your preferred venue. Create the wedding of your dreams with a choice of unique settings and elegant themes coupled with delightful menus. The Grand Ballroom is a luxurious space steeped in elegance; the perfect choice to host your dream wedding that will accommodate up to 40 tables. Elegantly designed with striking chandeliers and modern colour hues, the pillarless Grand Ballroom is equipped with state-of-the-art audio visual capabilities and an impressive 15 meters wide LED Wall display. Alternatively, allow our versatile spaces to inspire a setting of love and passion. Our Napier, Read and Spottiswoode rooms offering stunning urban expanses from their floor-to-ceiling windows, enough to accommodate for 10 – 120 guests. At One Farrer Hotel, we turn your magical moments into treasured memories.",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/644/original/NEW_OFH_Wedding_Package_2026v2.pdf?1766472968",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/320/original/Intimate_2026_package.pdf?1766475423"
+    ],
+    "website": "http://www.onefarrer.com/",
+    "facebook": "https://www.facebook.com/onefarrerhotel/",
+    "instagram": "https://www.instagram.com/onefarrerhotel"
   },
   {
     "name": "Orchard Hotel Singapore",
+    "url": "https://singaporebrides.com/d/orchard-hotel-singapore/",
+    "slug": "orchard-hotel-singapore",
     "phone": "6739 6582",
-    "email": "PicturePerfectWeddings.OHS@millenniumhotels.com",
+    "email": "cateringenquiry.ohs@millenniumhotels.com",
     "address": "442 Orchard Road",
     "pricing": [
       {
@@ -2505,10 +2987,21 @@
     "saturday_tables": "18–100",
     "sunday_lunch": "$2144–$2144",
     "sunday_dinner": "$2264–$2264",
-    "sunday_tables": "18–100"
+    "sunday_tables": "18–100",
+    "about": "D ream weddings do come true at Orchard Hotel where fine cuisine, indulgent themes and excellent banquet facilities are available for you. With a convenient location and an elegant pillar-less Grand Ballroom that can hold up to 100 tables, Orchard Hotel makes the perfect venue for your big day. Backed by state-of-the-art technology and award-winning Hua Ting Restaurant's exquisite Cantonese menu, our dedicated team of catering professionals will see to your every need and preference. The Bridal Suite spells splendour. At the end of the fulfilling day, retreat to your well-appointed suite with special bed set, turn down service and luxurious amenities. Capacity: 180 - 1000 Pax At Orchard Hotel Singapore, we ensure that every wedding experience with us is distinctly special.",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/375/original/OHS_Chinese_Wedding_2026.pdf?1743648881",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/544/original/OHS_Indian_Wedding_2026.pdf?1743648949",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/377/original/OHS_Muslim_Wedding_Inserts_2026.pdf?1771992527"
+    ],
+    "website": "http://www.orchardhotel.com.sg/",
+    "facebook": "https://www.facebook.com/OrchardHotelSingapore/",
+    "instagram": "https://www.instagram.com/orchardhotelsingapore/"
   },
   {
     "name": "Orchid Country Club",
+    "url": "https://singaporebrides.com/d/orchid-country-club/",
+    "slug": "orchid-country-club",
     "phone": "6750 2166",
     "email": "banquetsales@orchidclub.com",
     "address": "No 1 Orchid Club Road",
@@ -2549,10 +3042,18 @@
     "saturday_tables": "10–100",
     "sunday_lunch": "$1460–$1796",
     "sunday_dinner": "$1616–$1796",
-    "sunday_tables": "10–100"
+    "sunday_tables": "10–100",
+    "about": "U nforgettable Memories at Orchid Country Club A wedding is a commemoration of lifelong dedication and commitment. At the Orchid Country Club, we spare no effort to make this significant occasion truly unforgettable. Celebrate your wedding in the unparalleled grandeur of pillarless Grand Ballroom (for up to 1,200 persons) accentuated by opulent chandeliers and sleek marble flooring, epitomising elegance and romanticism in exquisite European Style. For an intimate celebration, two modern function suites - Sapphire Suite and Emerald Suite are available for selection. These suites can accommodate groups of 50 to 350 persons and come with full glass windows, offering stunning views of the tranquil and serene environment. To embrace your love for the outdoors, opt for a resort-style wedding in the midst of lush green surroundings at the Tee Garden Foyer (for up to 350 persons) or say your vows by the poolside. Impress your guests by making a grand entrance in a special wedding buggy. Choose",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/502/original/occ-wedding-package-2026---2027-%281-apr-2026---31-mar-2027%29-r-on-24-feb-2026-%281%29.pdf?1774937318"
+    ],
+    "website": "http://www.orchidclub.com/",
+    "facebook": "https://www.facebook.com/orchidcountryclub"
   },
   {
     "name": "Pan Pacific Orchard",
+    "url": "https://singaporebrides.com/d/pan-pacific-orchard/",
+    "slug": "pan-pacific-orchard",
     "phone": "6991 6888",
     "email": "celebrate.ppsor@panpacific.com",
     "address": "10 Claymore Road",
@@ -2593,10 +3094,19 @@
     "saturday_tables": "23–43",
     "sunday_lunch": "$2504–$3583",
     "sunday_dinner": "$2623–$3583",
-    "sunday_tables": "20–43"
+    "sunday_tables": "20–43",
+    "about": "W ith Pan Pacific Celebrations, we believe that a wedding is not merely an event. It is a life journey of love as two souls come together with those significant ones to create a legacy for generations to come. An idyllic setting for extraordinary celebrations, Pan Pacific Orchard rises above the vibrancy of Singapore’s prime shopping belt within an iconic landmark that draws nature inwards with green abundance. Celebrate love amid an embracing backdrop of lush greenery, where thriving flora provides a picturesque setting for profound vows of a lifetime together, creating memories to last an eternity. With a collection of venues, each with a distinct character — from cavernous ballrooms, intimate spaces to sprawling open air gardens perched high above the bustling Orchard Road vicinity — we give you the freedom to dream up your perfect event to mark life’s celebrations. Capacity: 20 - 500 Pax For more information or to plan your wedding with us at Pan Pacific Orchard, please visit www.p",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/509/original/Pan_Pacific_Orchard_2026_Wedding_Packages.pdf?1740455629"
+    ],
+    "website": "http://www.panpacific.com/orchard",
+    "facebook": "https://www.facebook.com/PanPacificOrchardSG",
+    "instagram": "https://www.instagram.com/panpacificorchard/?igshid=OGQ5ZDc2ODk2ZA%3D%3D"
   },
   {
     "name": "Pan Pacific Singapore",
+    "url": "https://singaporebrides.com/d/pan-pacific-singapore/",
+    "slug": "pan-pacific-singapore",
     "phone": "6826 8055",
     "email": "celebrate.ppsin@panpacific.com",
     "address": "7 Raffles Boulevard, Marina Square",
@@ -2637,10 +3147,21 @@
     "saturday_tables": "18–50",
     "sunday_lunch": "$2264–$2396",
     "sunday_dinner": "$2767–$2767",
-    "sunday_tables": "18–50"
+    "sunday_tables": "18–50",
+    "about": "E nter a world of glamour and refinement with impeccable bespoke service, breath-taking settings and exquisite Cantonese delicacies from renowned Chinese restaurant, Hai Tien Lo. Be mesmerised by the alluring beauty of our trilogy of wedding themes that evoke elegance and sophistication, inspired by natural blooms and adorned with fairy lights. The perfect venue to showcase these themes is the contemporary pillar-less Pacific Ballroom that is designed to set the stage for grand affairs of elegance and sophistication. Taking centerstage is the honeycomb ceiling of warm and neutral shades of brown and beige that is inspired by the reflection of the sun on the ocean surface and adorned with stylist amber crystal ellipse drop chandeliers. The advanced and sophisticated programmable lighting system features changeable light colours with dimmer settings and option for enhanced level of brightness, creating the perfect ambience you are looking for. With a private driveway leading into the spa",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/000/549/original/PPS_SalesPPT_%281%29.pdf?1729056815",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/123/original/Wedding_Package_2025_with_enhancements.pdf?1729056824",
+      "https://singaporebrides.com/d/system/documents/contents/000/000/529/original/_2025__Hai_Tien_Lo-Wedding_packages.pdf?1729056830",
+      "https://singaporebrides.com/d/system/documents/contents/000/000/530/original/_Digital__Wedding_Package_Keyaki_2022.pdf?1650852950"
+    ],
+    "website": "http://www.panpacific.com/singapore",
+    "facebook": "https://www.facebook.com/panpacificsingapore"
   },
   {
     "name": "Paradox Singapore",
+    "url": "https://singaporebrides.com/d/paradox-singapore-merchant-court-at-clarke-quay/",
+    "slug": "paradox-singapore-merchant-court-at-clarke-quay",
     "phone": "6239 1752",
     "email": "weddings@paradoxsingapore.com",
     "address": "20 Merchant Road",
@@ -2681,10 +3202,20 @@
     "saturday_tables": "12–42",
     "sunday_lunch": "$2024–$2024",
     "sunday_dinner": "$2264–$2264",
-    "sunday_tables": "12–42"
+    "sunday_tables": "12–42",
+    "about": "A wedding celebration in the heart of the city At Paradox Singapore, every wedding should be a beautifully orchestrated celebration of love and personal story. Perfectly positioned along the iconic Singapore River and just a 3-minute sheltered walk from Clarke Quay MRT, our location offers effortless accessibility for you and your guests — so all the focus stays on what truly matters. Make your entrance into our newly renovated ballroom — where contemporary elegance meets architectural grandeur. The space features soaring 5.5-metre ceilings, sweeping floor-to-ceiling windows, and a dramatic 21-metre LED wall that brings your love story to cinematic life. An adjoining private foyer offers the ideal setting for welcome drinks or pre-dinner mingling, while the ballroom comfortably hosts up to 460 guests in a refined space that is versatile to meet your requests. Exchange vows under open skies at our charming riverside gazebo. Framed by lush greenery and waterfront views, it’s a quiet esca",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/650/original/UPDATED_Paradox_Wedding_Packages_till_31_Dec_2027_%28Wedding_Lunch__Weekday_Dinner%29.pdf?1768271990",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/379/original/UPDATED_Paradox_Wedding_Packages_till_31_Dec_2027_%28Weekend_Dinner%29.pdf?1768272011"
+    ],
+    "website": "https://www.paradoxhotels.com/singapore/events/weddings-and-celebrations",
+    "facebook": "https://www.facebook.com/paradoxmerchantcourt/reviews/",
+    "instagram": "https://www.instagram.com/PARADOXMERCHANTCOURT/"
   },
   {
     "name": "PARKROYAL COLLECTION Marina Bay, Singapore",
+    "url": "https://singaporebrides.com/d/parkroyal-collection-marina-bay-singapore/",
+    "slug": "parkroyal-collection-marina-bay-singapore",
     "phone": "6845 1018",
     "email": "celebrate.prsmb@parkroyalcollection.com",
     "address": "6 Raffles Boulevard",
@@ -2725,10 +3256,23 @@
     "saturday_tables": "15–50",
     "sunday_lunch": "$2384–$2384",
     "sunday_dinner": "$2743–$2743",
-    "sunday_tables": "15–50"
+    "sunday_tables": "15–50",
+    "about": "E xchange vows in the lush, romantic setting of Singapore’s first Garden-in-a-Hotel. At PARKROYAL COLLECTION Marina Bay, Singapore, you can curate the wedding of your dreams with a selection of artfully designed ballrooms, nature-inspired bespoke décor and an exquisite culinary feast, tailored to your tastes. Make a grand entrance as you walk down the aisle under a sky full of twinkling stars at the Garden Ballroom. Featuring a garden pavilion ambience, the pillar-less space holds up to 500 guests and comes complete with an integrated large format screen to replay all your precious moments. Set against the iconic backdrop of soaring cinematic architecture, the Atrium Ballroom dazzles with illuminated arches that accentuate the ceiling, and mirrored walls that bring the hotel’s greenery into the room. The ballroom, which seats up to 250 guests, opens up to a private exclusive foyer that overlooks the Atrium Garden, bringing your guests closer to nature. Make your wedding a truly gourmet",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/000/916/original/Package_-_Weekday_Chinese_Wedding_%28Lunch_Dinner%29.pdf?1742266014",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/121/original/Package_-_Weekend_Chinese_Wedding_%28Dinner%29.pdf?1742266069",
+      "https://singaporebrides.com/d/system/documents/contents/000/000/912/original/Package_-_Weekend_Chinese_Wedding_%28Lunch%29.pdf?1742266094",
+      "https://singaporebrides.com/d/system/documents/contents/000/000/914/original/Package_-_Intimate_Wedding_Package.pdf?1742266127",
+      "https://singaporebrides.com/d/system/documents/contents/000/000/913/original/Wedding_Celebration_Privileges_%28Valid_till_31_Mar_2026%29.pdf?1766988635"
+    ],
+    "website": "https://www.panpacific.com/en/hotels-and-resorts/pr-collection-marina-bay.html",
+    "facebook": "https://www.facebook.com/parkroyalcollectionmarinabay",
+    "instagram": "https://www.instagram.com/parkroyalcollectionmarinabay"
   },
   {
     "name": "PARKROYAL COLLECTION Pickering",
+    "url": "https://singaporebrides.com/d/parkroyal-collection-pickering/",
+    "slug": "parkroyal-collection-pickering",
     "phone": "6809 8849",
     "email": "celebrate.prsps@parkroyalcollection.com",
     "address": "3 Upper Pickering Street",
@@ -2769,10 +3313,22 @@
     "saturday_tables": "8–30",
     "sunday_lunch": "$2516–$2516",
     "sunday_dinner": "$2516–$2516",
-    "sunday_tables": "8–30"
+    "sunday_tables": "8–30",
+    "about": "B egin your forever amidst an enchanting hotel-in-a-garden, where lush terraces, glistening reflecting pools, and cascading greenery set the stage for the wedding of your dreams. With serene views and a seamless nature inspired design, our elegant ballrooms embody the perfect harmony of the natural world and modern sophistication. The William Pickering Ballroom is perfect for grand celebrations, with its soaring ceilings, floor-to-ceiling windows and a stunning 16-metre LED wall, while the Outdoor Terrace offers a romantic and picturesque spot for your solemnisation. The Alexander Room features dual six-metre LED screens at both ends, adding a touch of drama and versatility to your celebration while ensuring a seamless experience for your guests. From thoughtfully crafted menus to warm, personalised service, every detail is taken care of with heart. At PARKROYAL COLLECTION Pickering, our Celebration Curators are here to make sure everything flows beautifully — so you can simply relax, ",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/513/original/PARKROYAL_COLLECTION_Pickering_Singapore_2026_Wedding_Package.docx.pdf?1741579170",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/716/original/PARKROYAL_COLLECTION_Pickering_Singapore_2027_Wedding_Package.pdf?1776322381",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/717/original/PARKROYAL_COLLECTION_Pickering_Singapore_2027_Exclusively_Yours_Wedding_Package.pdf?1776322423",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/566/original/Lime_Restaurant_Wedding_Package.pdf?1749436479"
+    ],
+    "website": "http://www.panpacific.com/pickering",
+    "facebook": "https://www.facebook.com/parkroyalcollectionpickering/",
+    "instagram": "https://www.instagram.com/parkroyalcollectionpickering/"
   },
   {
     "name": "PARKROYAL on Beach Road",
+    "url": "https://singaporebrides.com/d/parkroyal-on-beach-road/",
+    "slug": "parkroyal-on-beach-road",
     "phone": "6505 5697",
     "email": "celebrate.prsin@parkroyalhotels.com",
     "address": "7500 Beach Road",
@@ -2813,7 +3369,20 @@
     "saturday_tables": "16–40",
     "sunday_lunch": "$2240–$2240",
     "sunday_dinner": "$2240–$2240",
-    "sunday_tables": "16–40"
+    "sunday_tables": "16–40",
+    "about": "Y ou tie the knot. We tie the loose ends. At PARKROYAL on Beach Road, we believe that every wedding should be like a fairy tale. Let us help you create the most memorable day in your life, where we turn your dreams into reality. Centrally located in the heart of downtown Singapore, PARKROYAL on Beach Road is the perfect location for weddings. Offering different venue options to cater to different needs, customise the space to suit your wedding style. Have your dream wedding tailored to your requirements at our Grand Ballroom and Sky Ballroom which is located on Level 1 of our new extension wing. Both ballrooms come with pillarless settings and a seven-metre high ceiling and can seat up to 45 and 30 tables respectively. Our comprehensive wedding packages provide a range of nuptial services which also allows you to customise your wedding themes and menus. Capacity: 220 - 450 Pax Connect with our wedding consultants and celebrate your love with exclusive savings—available for a limited ti",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/648/original/PARKROYAL_on_Beach_Road_-_Limited_Time_Promotion.pdf?1776756127",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/600/original/PARKROYAL_on_Beach_Road_-_Year_2026_Weekday_Wedding_Package.pdf?1776756155",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/601/original/PARKROYAL_on_Beach_Road_-_Year_2026_Weekend_Wedding_Lunch_Package.pdf?1776756171",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/602/original/PARKROYAL_on_Beach_Road_-_Year_2026_Weekend_Wedding_Dinner_Package.pdf?1776756181",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/645/original/PARKROYAL_on_Beach_Road_-_Year_2027_Weekday_Wedding_Package.pdf?1776756192",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/646/original/PARKROYAL_on_Beach_Road_-_Year_2027_Weekend_Wedding_Lunch_Package.pdf?1776756202",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/647/original/PARKROYAL_on_Beach_Road_-_Year_2027_Weekend_Wedding_Dinner_Package.pdf?1776756212"
+    ],
+    "website": "http://www.parkroyalhotels.com/beachroad",
+    "facebook": "https://www.facebook.com/PARKROYAL.BeachRoad",
+    "instagram": "https://www.instagram.com/parkroyalbeachroad/"
   },
   {
     "name": "Peach Garden @ OCBC Centre",
@@ -3037,6 +3606,8 @@
   },
   {
     "name": "Pullman Singapore Hill Street",
+    "url": "https://singaporebrides.com/d/pullman-singapore-hill-street/",
+    "slug": "pullman-singapore-hill-street",
     "phone": "6019 7888",
     "email": "HB5L7-SM@accor.com",
     "address": "1 Hill Street, Singapore 179949",
@@ -3077,7 +3648,14 @@
     "saturday_tables": "8–13",
     "sunday_lunch": "$2384–$2623",
     "sunday_dinner": "$2384–$2623",
-    "sunday_tables": "8–13"
+    "sunday_tables": "8–13",
+    "about": "P ullman Singapore Hill Street is a premium five-star hotel nestled in the cultural heart of Singapore. The hotel blends the timeless tradition of luxury train travel with modern elegance, offering a truly unique setting for your wedding. From the sophisticated decor to the breath-taking views of the Bay, every aspect of our hotel is designed to make your special day unforgettable. Celebrate your love, while surrounded by family and friends, at our enchanting venues, located within the heart of the city. Our beautiful venues offer unique indoor and outdoor settings, paired with luxurious accommodations to ensure a fuss-free experience on your big day. Our dedicated wedding specialists craft bespoke experiences, turning your vision into an unforgettable celebration of elegance and sophistication, from an intimate solemnization to a fresh alfresco wedding, overlooking the city-skyline, with cocktails and canapes. Delight your guests with gourmet dining options curated by our expert chefs",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/482/original/09102025_PSHS_WeddingBrochure_Web.pdf?1767064415"
+    ],
+    "website": "https://www.pullmansingaporehillstreet.com/weddings/",
+    "facebook": "https://www.facebook.com/PullmanSGHillstreet",
+    "instagram": "https://www.instagram.com/pullmansghillstreet/"
   },
   {
     "name": "Qian Xi Bliss Garden",
@@ -3433,6 +4011,8 @@
   },
   {
     "name": "Raffles Sentosa Singapore",
+    "url": "https://singaporebrides.com/d/raffles-sentosa-singapore/",
+    "slug": "raffles-sentosa-singapore",
     "phone": "6032 4618",
     "email": "HB5Q2@raffles.com",
     "address": "4 Bukit Manis Road",
@@ -3473,10 +4053,25 @@
     "saturday_tables": "25–40",
     "sunday_lunch": "$3933–$4412",
     "sunday_dinner": "$3933–$4412",
-    "sunday_tables": "25–40"
+    "sunday_tables": "25–40",
+    "about": "R affles Sentosa Singapore is Singapore’s first all-villa resort, featuring 62 spacious private villas each with their own pool and terrace. Located on scenic Sentosa island, it is an oasis immersed in nature, set amid 100,000 sqm of lush tropical greenery and providing a unique resort experience that combines natural beauty with Raffles’ renowned gracious hospitality. At Raffles Sentosa Singapore, guests can look forward to contemporary design set in a serene natural environment. Perfectly located on a hilltop, Raffles Sentosa Singapore is where timeless elegance, bespoke services and culinary mastery all come together to curate dream celebrations that transcend all expectations. The resort is home to two magnificent ballrooms, thoughtfully designed to host grand celebrations and sophisticated gatherings. Raffles Ballroom graciously accommodates up to 400 guests for opulent seated banquets or 600 for elegant cocktail receptions. The upper-level Garden Room can also serve as a pre-func",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/575/original/Raffles_Sentosa_Singapore_Wedding-Packages_2025.pdf?1751270229"
+    ],
+    "website": "https://www.raffles.com/sentosa",
+    "facebook": "https://www.facebook.com/profile.php?id=61563800302757",
+    "instagram": "https://www.instagram.com/raffles_sentosa",
+    "videos": [
+      "https://youtu.be/qZHxTNmGpzU",
+      "https://youtu.be/7jzYNABvq3c",
+      "https://www.youtube.com/@RafflesSentosaSingapore",
+      "https://www.youtube.com/@RafflesSentosaSingapore"
+    ]
   },
   {
     "name": "Raffles Singapore",
+    "url": "https://singaporebrides.com/d/raffles-singapore/",
+    "slug": "raffles-singapore",
     "phone": "6412 1335",
     "email": "weddings.singapore@raffles.com",
     "address": "1 Beach Road",
@@ -3517,7 +4112,20 @@
     "saturday_tables": "8–27",
     "sunday_lunch": "$3093–$3333",
     "sunday_dinner": "$3093–$3333",
-    "sunday_tables": "8–27"
+    "sunday_tables": "8–27",
+    "about": "Established in 1887, Raffles Hotel Singapore remains one of the few 19th century grand hotels in the world. The Grande Dame of Singapore, gazetted as a National Monument and carefully restored to preserve its stately charm, continues to be a lush oasis of serenity in the vibrant heart of the city. Offering a variety of storied social spaces, from verdant lawns to sunlit foyers and grand ballrooms, step into an enchanting world of Raffles Romance where timeless sophistication, striking colonial architecture and grandeur interweave for over a century. Celebrate your dream wedding at Raffles Hotel Singapore in style with options from an intimate garden wedding to romantic soirée and grand ballroom banquets. Dedicated wedding specialists are on hand and are supported by an award-winning team of culinary maestros, sommeliers and resident mixologists, coupled with the legendary Raffles service, to create a truly memorable experience for you and your guests on your biggest day of love.",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/625/original/Raffles_Romance_Brochure_2025_v2.pdf?1762770252",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/631/original/2026_Casuarine_Suite_Lunch___Weekday_Dinner_Package_.pdf?1765426068",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/632/original/2026_Casuarina_Suite_Weekend_Dinner_Package_.pdf?1765426062",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/633/original/2026_Palm_Ballroom_Lunch___Weekday_Dinner_Package_.pdf?1765426091",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/634/original/2026_Palm_Ballroom_Weekend_Dinner_Package_.pdf?1765426111",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/635/original/2026_Jubilee_Ballroom_Lunch___Weekday_Dinner_Package_.pdf?1765426136",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/636/original/2026_Jubilee_Ballroom_Weekend_Dinner_Package.pdf?1765426160"
+    ],
+    "website": "https://www.raffles.com/singapore/occasions/weddings/",
+    "facebook": "https://www.facebook.com/raffleshotelsingapore/",
+    "instagram": "https://www.instagram.com/raffleshotelsingapore/"
   },
   {
     "name": "Red House Seafood",
@@ -3565,6 +4173,8 @@
   },
   {
     "name": "Rendezvous Hotel Singapore at Bras Basah",
+    "url": "https://singaporebrides.com/d/rendezvous-hotel-singapore-at-bras-basah/",
+    "slug": "rendezvous-hotel-singapore-at-bras-basah",
     "phone": "6708 7728",
     "email": "sales.rhs@fareast.com.sg",
     "address": "9 Bras Basah Road",
@@ -3605,10 +4215,21 @@
     "saturday_tables": "10–15",
     "sunday_lunch": "$1725–$1725",
     "sunday_dinner": "$1905–$1905",
-    "sunday_tables": "10–15"
+    "sunday_tables": "10–15",
+    "about": "T imeless Rendezvous in the Heartbeat of the Arts Situated in the vibrant Arts and Heritage district along Bras Basah Road, Rendezvous Hotel Singapore blends historic architecture with contemporary interior - the perfect place for a classic yet modern celebration with your closest ones. Leave it in our good hands to craft a memorable experience that you and your significant other will cherish for years to come. To find out more, please contact us via +65 6496 7581 or email [email&#160;protected]",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/000/583/original/Brochure_REN_TimelessRendezvous2026.pdf?1761191937",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/481/original/Timeless_Rendezvous_-_Wedding_Package_and_Menus.pdf?1726737291",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/620/original/Packages_RHS_TimelessRendezvous_2026.pdf?1761184904"
+    ],
+    "website": "https://www.rendezvoushotels.com/en/Weddings/Rendezvous-Hotel-Singapore/",
+    "facebook": "https://www.facebook.com/stayrendezvous",
+    "instagram": "https://www.instagram.com/stayrendezvous"
   },
   {
     "name": "Resorts World Sentosa, Convention Centre",
+    "url": "https://singaporebrides.com/d/resorts-world-sentosa-convention-centre/",
+    "slug": "resorts-world-sentosa-convention-centre",
     "phone": "6577 6868",
     "email": "weddings@RWSentosa.com",
     "address": "8 Sentosa Gateway, Sentosa",
@@ -3649,10 +4270,20 @@
     "saturday_tables": "15–196",
     "sunday_lunch": "$2264–$2384",
     "sunday_dinner": "$2264–$2504",
-    "sunday_tables": "15–196"
+    "sunday_tables": "15–196",
+    "about": "Resorts World Sentosa Ballroom / Function Rooms Let your happily ever after begin with the wedding of your dreams at Resorts World Sentosa. From intimate celebrations to one-of-a-kind dinners, our passionate Wedding Consultants are here to help make your wedding wishes come true. Have a ball at the Resorts World Ballroom. With its impressive reception foyer and majestic high ceilings, you can have the grand walk-in you’ve always dreamed of. If you’re dreaming of an elegant gathering, why not toast to your love with your nearest and dearest at our column-free Resorts World Function Rooms that are both stylish and glamourous. And whether you choose to have a traditional Chinese banquet or a modern multi-course Western dinner, rest assured that our culinary team will treat your guests to a truly indulgent dining experience. Celebrate your union with a day of unforgettable memories at Resorts World Sentosa. Capacity Resorts World Ballroom: 350 - 1,960 pax Resorts World Function Rooms: 150 ",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/239/original/%28RWS%29_Resorts_World_Convention_Centre_Wedding_Packages_2025.pdf?1745225007",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/262/original/%28RWS%29_Solemnization_Packages_2025.pdf?1745225012"
+    ],
+    "website": "https://www.rwsentosa.com/en/meetings/weddings-social-events",
+    "facebook": "https://www.facebook.com/ResortsWorldatSentosa/",
+    "instagram": "https://www.instagram.com/rwsentosa/?hl=en"
   },
   {
     "name": "Resorts World Sentosa, Equarius Hotel",
+    "url": "https://singaporebrides.com/d/resorts-world-sentosa-equarius-hotel/",
+    "slug": "resorts-world-sentosa-equarius-hotel",
     "phone": "6577 6868",
     "email": "weddings@RWSentosa.com",
     "address": "8 Sentosa Gateway, Sentosa",
@@ -3693,10 +4324,20 @@
     "saturday_tables": "8–52",
     "sunday_lunch": "$2264–$2504",
     "sunday_dinner": "$2504–$2743",
-    "sunday_tables": "8–52"
+    "sunday_tables": "8–52",
+    "about": "Equarius Hotel / Ocean Gallery Seal your love in spectacular settings – from sensational sunsets to grand ballrooms – at Resorts World Sentosa. Whether you’re dreaming of a sophisticated solemnisation or a glamorous celebration, our dedicated Wedding Consultants are passionate about turning it into reality. Celebrate your union surrounded by all of nature’s glory at Equarius Hotel. The ballroom’s elegant balconies stretch into a lush forest vista to create the perfect backdrop for your ceremony while the Saffron Room lets you bask in the beauty of vibrant tropical greenery with its panoramic views. For a more intimate experience, enchant your guests with a whimsical garden wedding at the hotel’s sprawling Glass Pavilion and Lawn that is sure to delight with its idyllic alfresco atmosphere. If your wish is for a fairytale wedding, why not whisk your loved ones away to a spellbinding soirée under the sea and say “I do” in the presence of 40,000 marine animals at S.E.A. Aquarium’s Ocean G",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/156/original/%28RWS%29_Ocean_Gallary___Equarius_Hotel_Wedding_Packages_2025-2026.pdf?1770966484",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/657/original/%28RWS%29_Universal_Studios_Singapore_Wedding_Packages_2025.pdf?1770963850"
+    ],
+    "website": "https://www.rwsentosa.com/en/meetings/weddings-social-events",
+    "facebook": "https://www.facebook.com/ResortsWorldatSentosa/",
+    "instagram": "https://www.instagram.com/rwsentosa/?hl=en"
   },
   {
     "name": "Resorts World Sentosa, S.E.A. Aquarium",
+    "url": "https://singaporebrides.com/d/resorts-world-sentosa-equarius-hotel/",
+    "slug": "resorts-world-sentosa-equarius-hotel",
     "phone": "6577 6868",
     "email": "weddings@RWSentosa.com",
     "address": "8 Sentosa Gateway, Sentosa",
@@ -3737,7 +4378,15 @@
     "saturday_tables": "20–26",
     "sunday_lunch": "",
     "sunday_dinner": "$3573–$3813",
-    "sunday_tables": "15–26"
+    "sunday_tables": "15–26",
+    "about": "Equarius Hotel / Ocean Gallery Seal your love in spectacular settings – from sensational sunsets to grand ballrooms – at Resorts World Sentosa. Whether you’re dreaming of a sophisticated solemnisation or a glamorous celebration, our dedicated Wedding Consultants are passionate about turning it into reality. Celebrate your union surrounded by all of nature’s glory at Equarius Hotel. The ballroom’s elegant balconies stretch into a lush forest vista to create the perfect backdrop for your ceremony while the Saffron Room lets you bask in the beauty of vibrant tropical greenery with its panoramic views. For a more intimate experience, enchant your guests with a whimsical garden wedding at the hotel’s sprawling Glass Pavilion and Lawn that is sure to delight with its idyllic alfresco atmosphere. If your wish is for a fairytale wedding, why not whisk your loved ones away to a spellbinding soirée under the sea and say “I do” in the presence of 40,000 marine animals at S.E.A. Aquarium’s Ocean G",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/156/original/%28RWS%29_Ocean_Gallary___Equarius_Hotel_Wedding_Packages_2025-2026.pdf?1770966484",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/657/original/%28RWS%29_Universal_Studios_Singapore_Wedding_Packages_2025.pdf?1770963850"
+    ],
+    "website": "https://www.rwsentosa.com/en/meetings/weddings-social-events",
+    "facebook": "https://www.facebook.com/ResortsWorldatSentosa/",
+    "instagram": "https://www.instagram.com/rwsentosa/?hl=en"
   },
   {
     "name": "Royal Plaza on Scotts",
@@ -3917,50 +4566,64 @@
   },
   {
     "name": "Shangri-La Rasa Sentosa, Singapore",
+    "url": "https://singaporebrides.com/d/shangri-la-rasa-sentosa-singapore/",
+    "slug": "shangri-la-rasa-sentosa-singapore",
     "phone": "6371 2985",
     "email": "weddings.sen@shangri-la.com",
     "address": "101 Siloso Road, Sentosa",
     "pricing": [
       {
         "day": "Mon–Thu",
-        "lunch_price": "$2494–$2734",
-        "dinner_price": "$2614–$2974",
+        "lunch_price": "$2312–$2734",
+        "dinner_price": "$2432–$2974",
         "tables": "8–36"
       },
       {
         "day": "Friday",
-        "lunch_price": "$2494–$2734",
-        "dinner_price": "$2614–$2974",
+        "lunch_price": "$2312–$2734",
+        "dinner_price": "$2432–$2974",
         "tables": "8–36"
       },
       {
         "day": "Saturday",
-        "lunch_price": "$2494–$2734",
-        "dinner_price": "$2614–$2974",
+        "lunch_price": "$2312–$2734",
+        "dinner_price": "$2432–$2974",
         "tables": "8–36"
       },
       {
         "day": "Sunday",
-        "lunch_price": "$2494–$2734",
-        "dinner_price": "$2614–$2974",
+        "lunch_price": "$2312–$2734",
+        "dinner_price": "$2432–$2974",
         "tables": "8–36"
       }
     ],
-    "mon_thu_lunch": "$2494–$2734",
-    "mon_thu_dinner": "$2614–$2974",
+    "mon_thu_lunch": "$2312–$2734",
+    "mon_thu_dinner": "$2432–$2974",
     "mon_thu_tables": "8–36",
-    "friday_lunch": "$2494–$2734",
-    "friday_dinner": "$2614–$2974",
+    "friday_lunch": "$2312–$2734",
+    "friday_dinner": "$2432–$2974",
     "friday_tables": "8–36",
-    "saturday_lunch": "$2494–$2734",
-    "saturday_dinner": "$2614–$2974",
+    "saturday_lunch": "$2312–$2734",
+    "saturday_dinner": "$2432–$2974",
     "saturday_tables": "8–36",
-    "sunday_lunch": "$2494–$2734",
-    "sunday_dinner": "$2614–$2974",
-    "sunday_tables": "8–36"
+    "sunday_lunch": "$2312–$2734",
+    "sunday_dinner": "$2432–$2974",
+    "sunday_tables": "8–36",
+    "about": "Weddings by the Sea The perfect wedding requires an enchanting location and an experienced team to put it together. As the only beachfront resort in Singapore, Shangri-La Rasa Sentosa offers a unique location for a Wedding by the Sea. Couples may hold a memorable solemnisation by the waterfront with the sunset as their backdrop or celebrate their matrimony at the large outdoor venue by the waterfront. The Horizon Pavilion with floor-to-ceiling windows offers an alternative indoor option in air-conditioned comfort, complete with a panoramic view of the sea. Capacity: 80 - 360 Pax Our team of professional wedding planners will walk with you every step of the way to create a truly memorable Wedding by the Sea.",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/118/original/2026_SEN_Elegance_Enchantment_Wedding_Packages_2026-2027.pdf?1768195749",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/192/original/2026_SEN_Elegance_Family-Style_Wedding_Package_2026-2027.pdf?1768195781",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/580/original/2026_SEN_Exquisite_Wedding_Package_2026-2027.pdf?1768195806",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/581/original/2026_SEN_Exquisite_Family-Style_Wedding_Package_2026-2027.pdf?1768195829"
+    ],
+    "website": "http://www.shangri-la.com",
+    "facebook": "https://www.facebook.com/rasasentosa/",
+    "instagram": "https://www.instagram.com/rasasentosa/"
   },
   {
     "name": "Shangri-La Singapore",
+    "url": "https://singaporebrides.com/d/shangri-la-singapore/",
+    "slug": "shangri-la-singapore",
     "phone": "6213 4339",
     "email": "perfectcelebrations.sls@shangri-la.com",
     "address": "22 Orange Grove Road",
@@ -4001,10 +4664,26 @@
     "saturday_tables": "6–100",
     "sunday_lunch": "$2384–$2623",
     "sunday_dinner": "$2623–$3223",
-    "sunday_tables": "6–100"
+    "sunday_tables": "6–100",
+    "about": "F ind the perfect celebration with our diverse range of venues that will be the backdrop for a celebration to remember at Shangri-La Singapore. Our grand, pillar-less Island Ballroom can host up to 1,000 guests. For intimate weddings, our Tower Ballroom is perfect to host 250 to 500 guests. Exchange vows amidst the lush greenery of the Banyan Deck for an elegant solemnisation or embrace the heritage charm of the Dutch Pavilion for a more intimate wedding. Let us make your dream wedding come to life.",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/419/original/SG_Brides_2025_Ballroom_Lunch.pdf?1718244578",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/421/original/2025_Ballroom_Dinner.pdf?1729220736",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/423/original/SG_Brides_2025_Azalea_Lunch_and_Dinner.pdf?1723618837",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/425/original/2025_Dutch_Pavilion_Lunch_and_Dinner.pdf?1729220755",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/525/original/2026_Ballroom_Lunch.pdf?1742267969",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/526/original/2026_Ballroom_Dinner.pdf?1742267985",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/524/original/2026_Azalea_Lunch_and_Dinner.pdf?1742267911",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/527/original/2026_Dutch_Pavilion_Lunch_and_Dinner.pdf?1742268016",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/426/original/The_Orchid_-_ROM.pdf?1718244734"
+    ],
+    "website": "https://www.shangri-la.com/singapore/shangrila/weddings-celebrations/",
+    "instagram": "https://www.instagram.com/shangrilasg/"
   },
   {
     "name": "Sheraton Towers Singapore",
+    "url": "https://singaporebrides.com/d/sheraton-towers-singapore/",
+    "slug": "sheraton-towers-singapore",
     "phone": "6839 5832",
     "email": "weddings@sheratonsingapore.com",
     "address": "39 Scotts Road",
@@ -4045,7 +4724,17 @@
     "saturday_tables": "10–40",
     "sunday_lunch": "$2144–$2144",
     "sunday_dinner": "$2444–$2444",
-    "sunday_tables": "10–40"
+    "sunday_tables": "10–40",
+    "about": "G etting married is not just a formality, it marks the beginning of the rest of your lives together. This is probably the most important day of your life, so let Sheraton Towers Singapore Hotel help you make it the perfect celebration of forever! Making The Choices Located along an enclave of the city centre, Sheraton Towers Singapore Hotel is the perfect location for you to start planning your day. We offer you a myriad of choices from venue options, menu items and themed ambiences, to make your wedding uniquely yours. The Choice of Space Take in the serene surroundings while you celebrate and solemnize your marriage by the lush waterfalls. This close-to-nature setting provides an intimate space for up to 25 of your guests. The unique L-shaped ballroom is pillar-less, making it the perfect way to create a grand entrance no one will forget. It also provides everyone with a flawless view of the stage. The entire space can seat 420 people, but if you prefer to host a more intimate affair",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/329/original/Solemnisation_Package.pdf?1768463651",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/283/original/Wedding_Packages.pdf?1768463659",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/622/original/Intimate_Wedding_Package.pdf?1768463667",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/394/original/Wedding_Menu_2025.pdf?1737967363"
+    ],
+    "website": "http://www.sheratontowerssingapore.com/",
+    "facebook": "https://www.facebook.com/SheratonTowersSingapore/",
+    "instagram": "https://www.instagram.com/sheratontowerssg/"
   },
   {
     "name": "Shisen Hanten",
@@ -4137,6 +4826,8 @@
   },
   {
     "name": "Singapore Marriott Tang Plaza Hotel",
+    "url": "https://singaporebrides.com/d/singapore-marriott-tang-plaza-hotel/",
+    "slug": "singapore-marriott-tang-plaza-hotel",
     "phone": "6831 4769",
     "email": "mhrs.sindt.sales@marriotthotels.com",
     "address": "320 Orchard Road",
@@ -4177,7 +4868,19 @@
     "saturday_tables": "25–45",
     "sunday_lunch": "$2084–$2839",
     "sunday_dinner": "$2384–$2839",
-    "sunday_tables": "25–45"
+    "sunday_tables": "25–45",
+    "about": "T ake the first step towards the wedding of your dreams at Singapore Marriott Tang Plaza Hotel. We understand that wedding celebrations require perfection, from elegant setups to gastronomic masterpieces to your special day, and we are here to transform your dreams into reality. Add these to our strategic location, elegant themes and bespoke service by our wedding planners, and you are ready for happily ever after. Singapore Marriott Tang Plaza Hotel ticks all the boxes for that perfect wedding. Strategic location. Conveniently located in heart of Orchard Road with Orchard MRT Station at its doorsteps, this award-winning hotel will pamper you and your guests with unrivalled accessibility and convenience. Diversity of event spaces and wedding themes. Whether you are hosting an intimate solemnisation, a close-knitted wedding lunch or a lavish wedding dinner for 500 guests, we have a diversity of event spaces and wedding themes that will meet your needs. Our elegant, pillarless Grand Ball",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/520/original/Singapore_Marriott_Tang_Plaza_Hotel_-_Grand_Ballroom_Wedding_Dinner_Package_%28Saturday___PH%29_2026.pdf?1769656427",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/521/original/Singapore_Marriott_Tang_Plaza_Hotel_-_Grand_Ballroom_Wedding_Dinner_Package_%28Friday_and_Sunday%29_2026.pdf?1769656412",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/523/original/Singapore_Marriott_Tang_Plaza_Hotel_-_Grand_Ballroom_Wedding_Lunch_Package_2026.pdf?1769656471",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/658/original/Singapore_Marriott_Tang_Plaza_Hotel_-_Grand_Ballroom_Wedding_Dinner_Package_%28Saturday%29_2027_FINAL.pdf?1770965354",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/659/original/Singapore_Marriott_Tang_Plaza_Hotel_-_Grand_Ballroom_Wedding_Dinner_Package_%28Friday_and_Sunday%29_2027_FINAL.pdf?1770965374",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/660/original/Singapore_Marriott_Tang_Plaza_Hotel_-_Grand_Ballroom_Wedding_Lunch_Package_2027_FINAL.pdf?1770965392"
+    ],
+    "website": "http:/www.singaporemarriott.com/weddings",
+    "facebook": "https://www.facebook.com/SingaporeMarriottTangPlazaHotel/reviews/",
+    "instagram": "https://www.instagram.com/singaporemarriott/"
   },
   {
     "name": "Singapore Recreation Club",
@@ -4269,6 +4972,8 @@
   },
   {
     "name": "Sky Garden Sentosa",
+    "url": "https://singaporebrides.com/d/sky-garden-sentosa/",
+    "slug": "sky-garden-sentosa",
     "phone": "6571 0002",
     "email": "info@skygardensentosa.com",
     "address": "43 Siloso Beach Walk",
@@ -4309,10 +5014,14 @@
     "saturday_tables": "12–16",
     "sunday_lunch": "$2134–$2614",
     "sunday_dinner": "$2134–$2614",
-    "sunday_tables": "12–16"
+    "sunday_tables": "12–16",
+    "about": "Where inspiring comes alive. Sky Garden is an event space at iFly Singapore rooftop where dream weddings and inspiring events come alive. Excite your senses and transform your special occasion into an extravagant celebration basking in a mesmerizing sunset and spectacular fireworks. Located above the iFly Singapore building, we offer stylish indoor spaces as well as a breezy rooftop alfresco area allowing you to soak in the true island life. Luxuriate in panoramic sea view and breathe in the tranquillity of nature with our outdoor garden terrace. Perfect for friendly get together for more personalized and intimate celebrations, Sky Garden offers a unique and customised experience that is sure to surpass your expectations. Revel in the luxurious top views at Sky Garden overlooking the panoramic city view and also a glimpse of island life. Bring your event to a whole new level and leave your guests enthralled with each new event that you plan. Each experience is tailored to suit the occa",
+    "website": "https://skygardensentosa.com/"
   },
   {
     "name": "Sofitel Singapore City Centre",
+    "url": "https://singaporebrides.com/d/sofitel-singapore-city-centre/",
+    "slug": "sofitel-singapore-city-centre",
     "phone": "6428 5049",
     "email": "beverly.goh@sofitel.com",
     "address": "9 Wallich Street",
@@ -4353,10 +5062,20 @@
     "saturday_tables": "8–32",
     "sunday_lunch": "$2084–$2254",
     "sunday_dinner": "$2204–$2254",
-    "sunday_tables": "8–32"
+    "sunday_tables": "8–32",
+    "about": "BESPOKE WEDDINGS AT SOFITEL SINGAPORE CITY CENTRE From multi-faceted venues to custom catering by the award-winning culinary brigades from Racines, Sofitel Singapore City Centre provides all of the elements necessary for enchanting wedding celebrations. We specialise in crafting bespoke experiences, from intimate solemnisations with family and friends to lavish banquets of up to 340 guests. Every wedding should be unique as no two fairy-tales are the same. At Sofitel Singapore City Centre, we are committed to curating the most unforgettable wedding experience for every couple. Look forward to lavish affairs complemented by Sofitel’s cousu main service with French flair. The Address Ideally located in the heart of the city with direct access to Tanjong Pagar MRT, Sofitel Singapore City Centre is the crowning glory of the Guoco Tower integrated development and the country’s newest and most-sought after venue for weddings and social events. Wallich Ballroom The Wallich Ballroom is the piè",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/226/original/Wedding_E_Flyer_2025_-_2026.pdf?1760321494",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/227/original/Wedding_Venue_Rental_Package_2025_-_2026.pdf?1760321520"
+    ],
+    "website": "https://www.sofitel-singapore-citycentre.com/weddings/",
+    "facebook": "https://www.facebook.com/SofitelSingaporeCityCentre/",
+    "instagram": "https://www.instagram.com/sofitelsingaporecitycentre/"
   },
   {
     "name": "Sofitel Singapore Sentosa Resort & Spa",
+    "url": "https://singaporebrides.com/d/sofitel-singapore-sentosa-resort-spa/",
+    "slug": "sofitel-singapore-sentosa-resort-spa",
     "phone": "6708 8310",
     "email": "h9474@sofitel.com",
     "address": "2 Bukit Manis Road Sentosa",
@@ -4397,7 +5116,27 @@
     "saturday_tables": "5–24",
     "sunday_lunch": "$2144–$2974",
     "sunday_dinner": "$2324–$3213",
-    "sunday_tables": "5–24"
+    "sunday_tables": "5–24",
+    "about": "P erched atop a hill overlooking the South China Sea, Sofitel Singapore Sentosa sets the stage for a truly memorable wedding in Sentosa. Be it pledging your love in an outdoor pet-friendly setting with a panoramic sea view, or holding your wedding banquet in a ballroom with natural daylight illuminating indoor spaces, the hotel is a popular choice for its unique location. Opt for the sea-facing and sprawling Spice Island Point, where FurKids are welcome as part of the outdoor solemnisation ceremony, or our exclusive Villa du Jardin with its own swimming pool and garden, both perfect venues to hold a romantic solemnisation on the island. After your vows have been exchanged, proceed to the lawn for a cocktail and canapé reception before a banquet is held in either Straits Ballroom or Saffron Ballroom. The former, which is the larger of the two pillarless ballrooms, can accommodate up to 280. From traditional banquets that are close to nature, to spectacular outdoor venues catered to your",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/592/original/Sofitel-Singapore-Sentosa-Resort-Spa-2026-Weddings_Solemnisation.pdf?1756259251",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/593/original/Sofitel-Singapore-Sentosa-Resort-Spa-2026-Weddings_Wedding-at-The-Cliff.pdf?1756259279",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/594/original/Sofitel-Singapore-Sentosa-Resort-Spa-2026-Weddings_Wedding-Lunch.pdf?1756259323",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/595/original/Sofitel-Singapore-Sentosa-Resort-Spa-2026-Weddings_Malay-Wedding.pdf?1756259356",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/596/original/Sofitel-Singapore-Sentosa-Resort-Spa-2026-Weddings_Weekday-Wedding-Dinner.pdf?1756259388",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/597/original/Sofitel-Singapore-Sentosa-Resort-Spa-2026-Weddings_Friday-Sunday-Wedding-Dinner.pdf?1756259412",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/598/original/Sofitel-Singapore-Sentosa-Resort-Spa-2026-Weddings_Saturday-Wedding-Dinner.pdf?1756259443",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/721/original/Sofitel-Singapore-Sentosa-Resort-Spa-2027-Weddings-_Solemnisation.pdf?1776821659",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/722/original/Sofitel-Singapore-Sentosa-Resort-Spa-2027-Weddings-_Wedding-at-The-Cliff.pdf?1776821706",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/723/original/Sofitel-Singapore-Sentosa-Resort-Spa-2027-Weddings-_Wedding-Lunch.pdf?1776821733",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/724/original/Sofitel-Singapore-Sentosa-Resort-Spa-2027-Weddings-_Malay-Wedding.pdf?1776821762",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/725/original/Sofitel-Singapore-Sentosa-Resort-Spa-2027-Weddings-_Weekday-Wedding-Dinner.pdf?1776821792",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/726/original/Sofitel-Singapore-Sentosa-Resort-Spa-2027-Weddings-_Friday-Sunday-Wedding-Dinner.pdf?1776821818",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/727/original/Sofitel-Singapore-Sentosa-Resort-Spa-2027-Weddings-_Saturday-Wedding-Dinner.pdf?1776821853"
+    ],
+    "website": "http://www.sofitelsingaporesentosa.com",
+    "facebook": "https://www.facebook.com/SofitelSingaporeSentosa/",
+    "instagram": "https://www.instagram.com/sofitelsingaporesentosa/"
   },
   {
     "name": "Spring Court",
@@ -4489,6 +5228,8 @@
   },
   {
     "name": "The Capitol Kempinski Hotel Singapore",
+    "url": "https://singaporebrides.com/d/the-capitol-kempinski-hotel-singapore/",
+    "slug": "the-capitol-kempinski-hotel-singapore",
     "phone": "6715 6824",
     "email": "weddings.singapore@kempinski.com",
     "address": "15 Stamford Road",
@@ -4529,7 +5270,18 @@
     "saturday_tables": "8–30",
     "sunday_lunch": "$3093–$4652",
     "sunday_dinner": "$3453–$4652",
-    "sunday_tables": "8–30"
+    "sunday_tables": "8–30",
+    "about": "L ocated in Singapore's downtown and charming civic and cultural district, The Capitol Kempinski Hotel Singapore is housed in two beautifully conserved architectures - Capitol Building and Stamford House. Singapore's premier address of Timeless Heritage promises luxury at its finest. The hotel features 155 guestrooms and suites, a lobby lounge, an outdoor saltwater relaxation pool, a fitness centre and spa, and an exclusive event space, as well as a bespoke bar and a signature restaurant helmed by a Michelin-starred chef. An occasion as special as your wedding day requires a special type of venue: The Atelier Featuring a wooden pitched ceiling reminiscent of an attic and an 18-metre hand-painted Chinoiserie designer wallpaper by de Gournay, The Atelier is an exquisite event space of discerning style and elegance. The event space accommodates up to a maximum of 10 round tables for a wedding setup and connects to a spacious pre-function hall, with an open show kitchen for a theatrical ex",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/552/original/The_Capitol_Theatre_Wedding_Package_2026.pdf?1777961958",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/553/original/15_Stamford_Wedding_Lunch_Package_2026.pdf?1777961999",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/728/original/15_Stamford_Wedding_Dinner_Package_2026.pdf?1777962030",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/555/original/The_Atelier_Wedding_Lunch_Package_2026.pdf?1777962134",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/729/original/The_Atelier_Wedding_Dinner_Package_2026.pdf?1777962160"
+    ],
+    "website": "https://www.kempinski.com/en/singapore/the-capitol-singapore/meetings/",
+    "facebook": "https://www.facebook.com/thecapitolkempinski/",
+    "instagram": "https://www.instagram.com/capitolkempinski/"
   },
   {
     "name": "The Chevrons @ Jurong East",
@@ -4577,6 +5329,8 @@
   },
   {
     "name": "The Clifford Pier @ The Fullerton Bay Hotel",
+    "url": "https://singaporebrides.com/d/the-fullerton-bay-hotel-singapore/",
+    "slug": "the-fullerton-bay-hotel-singapore",
     "phone": "6877 8968",
     "email": "weddings@fullertonhotels.com",
     "address": "80 Collyer Quay",
@@ -4617,10 +5371,16 @@
     "saturday_tables": "15–28",
     "sunday_lunch": "$3333–$3333",
     "sunday_dinner": "$3573–$3573",
-    "sunday_tables": "15–28"
+    "sunday_tables": "15–28",
+    "about": "C elebrate your special milestone at The Fullerton Bay Hotel Singapore, where the past, present and future converge. Flanked by the glistening Marina Bay waterfront, the five-star hotel is famed for its award-winning blend of historic architecture, world-class hospitality and state-of-the-art amenities. The Clifford Pier Start the new chapter of your love story amidst the timeless romance and charm of The Clifford Pier. A historic meeting point that once witnessed countless arrivals to Singapore by ship, its iconic arches hold precious tales of bright beginnings. Let your fairytale ceremony unfold beneath its beautiful high ceilings — bathed in sunlight by day, steeped in magical grandeur by night. Maximum capacity: 280 pax Floating Event Pods Built over water, our three floating event pods present an exclusive setting for your private wedding ceremony, right in the heart of the city. Reminiscent of trading boats that once docked at the Pier, the pods are named Compass, Voyage and Port",
+    "website": "https://www.fullertonhotels.com/",
+    "facebook": "https://www.facebook.com/fullertonbayhotelsg",
+    "instagram": "https://www.instagram.com/fullertonbayhotelsg/"
   },
   {
     "name": "The Fullerton Hotel Singapore",
+    "url": "https://singaporebrides.com/d/the-fullerton-hotel-singapore/",
+    "slug": "the-fullerton-hotel-singapore",
     "phone": "6877 8968",
     "email": "weddings@fullertonhotels.com",
     "address": "1 Fullerton Square",
@@ -4661,10 +5421,16 @@
     "saturday_tables": "10–48",
     "sunday_lunch": "$2734–$2734",
     "sunday_dinner": "$2854–$2854",
-    "sunday_tables": "10–48"
+    "sunday_tables": "10–48",
+    "about": "T he Fullerton Hotel Singapore Create memories to last a lifetime at The Fullerton Hotel Singapore, which has been gazetted as Singapore’s 71st National Monument. Your celebration of romance begins on the historic grounds of The Fullerton Hotel, where old world charm meets contemporary elegance. Nestled by the Singapore River with a majestic Palladian façade, The Fullerton Hotel exudes heritage and grandeur, providing the perfect setting for your lavish banquet or intimate wedding solemnisation. The Ballroom With sweeping staircases, The Ballroom at The Fullerton Hotel Singapore guarantees a refined entrance that is superbly grand - befitting of wedding couples, luminaries and official guests. Located at the lower lobby, its elegant décor and ambience sets the stage for your most important occasions. The Ballroom can accommodate up to 480 guests in a banquet setting and has a large adjoining pre-function area that is ideal for a cocktail prior to the main event. The Ballroom can also b",
+    "website": "https://www.fullertonhotels.com/",
+    "facebook": "https://www.facebook.com/TheFullertonHotel/",
+    "instagram": "https://www.instagram.com/fullertonhotelsg/"
   },
   {
     "name": "The Outpost Hotel Sentosa",
+    "url": "https://singaporebrides.com/d/the-outpost-hotel-sentosa/",
+    "slug": "the-outpost-hotel-sentosa",
     "phone": "6512 2202",
     "email": "events.sentosa@fareast.com.sg",
     "address": "10 Artillery Avenue, Palawan Ridge",
@@ -4705,7 +5471,17 @@
     "saturday_tables": "12–16",
     "sunday_lunch": "$2623–$2623",
     "sunday_dinner": "$2623–$2623",
-    "sunday_tables": "12–16"
+    "sunday_tables": "12–16",
+    "about": "B egin your forever at The Outpost Hotel Sentosa, an intimate island hideaway that blends timeless romance with modern elegance. Located on Level 2 of a beautifully restored heritage building at the Events Centre, REVELRY HALL is a stunning ballroom crafted for grand celebrations. With its spacious, pillar-less layout, high ceilings, elegant chandeliers, and an ensuite bridal changing room, it offers a sophisticated setting for celebrations of up to 160 guests. Set within the same precinct, The Outpost Hotel Sentosa shares a thoughtfully curated selection of wedding venues with its sister properties – Village Hotel Sentosa, Oasia Resort Sentosa and The Barracks Hotel Sentosa. For intimate and romantic solemnisations, choose from charming outdoor spaces such as the OUTDOOR PAVILION or the HERITAGE COURTYARD. Looking for something grander? Celebrate in style at the contemporary THE COMMUNE (up to 320 guests), or exchange vows in a picture-perfect garden setting with a glasshouse marquee ",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/570/original/2026_2027_Wedding_Dinner_Package.pdf?1773628968"
+    ],
+    "website": "https://www.TheOutpostHotel.com.sg",
+    "facebook": "https://www.facebook.com/TheOutpostHotel/",
+    "instagram": "https://www.instagram.com/theoutposthotel/",
+    "videos": [
+      "https://www.youtube.com/@StayFarEasthospitality"
+    ]
   },
   {
     "name": "The Ritz Carlton, Millenia Singapore",
@@ -4753,6 +5529,8 @@
   },
   {
     "name": "The Robertson House by The Crest Collection",
+    "url": "https://singaporebrides.com/d/the-robertson-house-by-the-crest-collection/",
+    "slug": "the-robertson-house-by-the-crest-collection",
     "phone": "6593 8888",
     "email": "sales.therobertsonhouse@the-ascott.com",
     "address": "1 Unity Street",
@@ -4793,10 +5571,19 @@
     "saturday_tables": "4–5",
     "sunday_lunch": "$2134–$2614",
     "sunday_dinner": "$2134–$2614",
-    "sunday_tables": "4–5"
+    "sunday_tables": "4–5",
+    "about": "S tep into the rich history of Singapore characterised by commodity trades with a nuance of colonial charm. Take in the charms of our storied residence and enjoy the sophisticated facilities which serve as an extension of our warm hospitality. Beyond the storied narrative adventures we offer, The Robertson House by The Crest Collection is the refined venue perfect for your intimate solemnisation and private soirées. Let a piece of colonial history bear witness to your significant milestones that matter in our venue. Be assured that a dedicated team will be at hand to personalise and create engaging and memorable solemnisation, complete with bespoke menus that take inspiration from our signature restaurant, Entrepôt.",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/483/original/TRH_-_Wedding_Packages_2025.pdf?1744076277"
+    ],
+    "website": "https://www.discoverasr.com/en/the-crest-collection/singapore/the-robertson-house-by-the-crest-collection",
+    "facebook": "https://www.facebook.com/therobertsonhouse.sg",
+    "instagram": "https://www.instagram.com/therobertsonhouse.sg/"
   },
   {
     "name": "The Singapore EDITION",
+    "url": "https://singaporebrides.com/d/the-singapore-edition/",
+    "slug": "the-singapore-edition",
     "email": "weddings.sgedition@editionhotels.com",
     "address": "38 Cuscaden Road",
     "pricing": [
@@ -4836,7 +5623,20 @@
     "saturday_tables": "3–34",
     "sunday_lunch": "$3213–$3933",
     "sunday_dinner": "$3453–$3933",
-    "sunday_tables": "3–34"
+    "sunday_tables": "3–34",
+    "about": "T he first of its kind in Southeast Asia, The Singapore EDITION is where celebration meets sophistication. Say your vows at our idyllic outdoor solemnisation venue, surrounded by lush greenery, before stepping into a grand 340-seat Ballroom, dressed in elegant neutral tones, a blank canvas ready to bring your vision to life. For something more intimate, our 50-seat Boardroom is a beautifully curated space where every detail is thoughtfully considered, creating a celebration as personal as your love story. The Singapore EDITION brings together Ian Schrager's signature touch for intimate, personalised experiences with Marriott's global expertise. The result is something entirely its own: world-class dining, entertainment and impeccable service, all under one roof. Capacity: 30 to 340 persons For reservations or enquiries, please contact our weddings team at +65 6329 5029 or email [email&#160;protected] .",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/300/original/EDITION_Singapore_Weddings.pdf?1697011560",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/301/original/EDITION_Singapore_Solemnization.pdf?1697011569",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/302/original/EDITION_Singapore_IntimateCelebrations.pdf?1697011576"
+    ],
+    "phone": "+65 6329 5029",
+    "website": "https://www.marriott.com/sineb",
+    "facebook": "https://www.facebook.com/TheSingaporeEDITION",
+    "instagram": "https://www.instagram.com/singaporeedition/",
+    "videos": [
+      "https://www.youtube.com/editionhotels"
+    ]
   },
   {
     "name": "The Singapore Island Country Club",
@@ -4884,6 +5684,8 @@
   },
   {
     "name": "The St. Regis Singapore",
+    "url": "https://singaporebrides.com/d/the-st-regis-singapore/",
+    "slug": "the-st-regis-singapore",
     "phone": "6506 6817",
     "email": "wedding.singapore@stregis.com",
     "address": "29 Tanglin Road",
@@ -4924,10 +5726,26 @@
     "saturday_tables": "12–42",
     "sunday_lunch": "$3103–$3463",
     "sunday_dinner": "$3463–$3703",
-    "sunday_tables": "12–42"
+    "sunday_tables": "12–42",
+    "about": "A t the city's most sought-after address to celebrate life's cherished milestones, The St. Regis Singapore is dedicated to orchestrating your dreams into a reality, with every detail of your momentous celebration attended to by our anticipatory St. Regis Wedding Specialists. We invite you to enter into a world of impeccable service, glorious décor and accomplished cuisine, for the wedding of a lifetime. With a 100-year heritage in providing the pinnacle of handcrafted white-gloved service, the St. Regis Butler caters to the unique tastes and preferences of guests, with no request too unattainable or small to fulfill. From your first site visit to the day of your ceremony, The St. Regis Singapore offers the same legendary handcrafted service by our Wedding Specialists. Experience the distinctive legacy that is St. Regis, a bespoke wedding beyond expectation. For enquiries, please call +65 6506 6856 or email [email&#160;protected] . stregissingapore.com",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/316/original/Close_Knitted_Wedding_Packages.pdf?1772763920",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/539/original/Carolines_Mansion_Wedding_Packages.pdf?1772763905",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/540/original/John_Jacob_Ballroom_Wedding_Packages.pdf?1772763894",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/686/original/The_St._Regis_Singapore_Wedding_Brochure_2026.pdf?1772764003",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/687/original/The_St._Regis_Singapore_Wedding_Package_Price_List.pdf?1772764026"
+    ],
+    "website": "http://www.stregissingapore.com/",
+    "facebook": "https://www.facebook.com/stregissingapore/reviews/",
+    "instagram": "https://www.instagram.com/stregissg/",
+    "videos": [
+      "https://youtu.be/syxerT-S8ao"
+    ]
   },
   {
     "name": "The Westin Singapore",
+    "url": "https://singaporebrides.com/d/the-westin-singapore/",
+    "slug": "the-westin-singapore",
     "phone": "6922 6892",
     "email": "weddings.singapore@westin.com",
     "address": "12 Marina View\nAsia Square Tower 2",
@@ -4968,7 +5786,16 @@
     "saturday_tables": "20–30",
     "sunday_lunch": "$2384–$2384",
     "sunday_dinner": "$2432–$2432",
-    "sunday_tables": "20–30"
+    "sunday_tables": "20–30",
+    "about": "Y our wedding should be all about you. Your likes, your style, your personality. Our personalized and “one-stop” wedding consultation and services ensure that when your big day finally arrives, you will be able to relax and revel in the joy of a perfectly executed celebration. Let our Westin Wedding Specialists realize your dream wedding at The Westin Singapore. Make your celebration as celestial as it is memorable in our pillar-less Grand Ballroom and spacious foyer, decked in elegant theme of your choice. Our customizable event spaces are designed to make each moment of your wedding truly unique and unforgettable.",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/567/original/Wedding_Package_Lunch_2026.pdf?1761214146",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/568/original/Wedding_Package_Weekday_Dinner_2026.pdf?1761214157",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/569/original/Wedding_Package_Weekend_Dinner_2026.pdf?1761214165"
+    ],
+    "website": "http://www.thewestinsingapore.com/weddings",
+    "facebook": "https://www.facebook.com/thewestinsingapore/",
+    "instagram": "https://www.instagram.com/thewestinsingapore/"
   },
   {
     "name": "TungLok Heen",
@@ -5236,6 +6063,8 @@
   },
   {
     "name": "TungLok Signatures, Antica Ballroom @ Orchard Rendezvous Hotel*",
+    "url": "https://singaporebrides.com/d/tunglok-signatures-orchard-rendezvous-hotel/",
+    "slug": "tunglok-signatures-orchard-rendezvous-hotel",
     "phone": "6836 0984",
     "email": "jasminehuang@tunglok.com",
     "address": "1 Tanglin Road, #02-18",
@@ -5276,10 +6105,16 @@
     "saturday_tables": "18–25",
     "sunday_lunch": "$1415–$1622",
     "sunday_dinner": "$1469–$1676",
-    "sunday_tables": "18–25"
+    "sunday_tables": "18–25",
+    "about": "E stablished in 1984, TungLok Group is Singapore’s leading restaurant chain offering a distinct and multi-sensory dining experience at more than 40 restaurants in SINGAPORE, BEIJING, SHANGHAI, WUHAN, TOKYO, JAKARTA, MEDAN and NEW DELHI. Its restaurants, renowned as much for its quality and variety, as its designer-ambience and distinctive character, offer the best of Cantonese, Northern Chinese, Vegetarian and Seafood specialities, as well as trendsetting Modern Chinese cuisine, creatively and skillfully prepared by talented masterchefs. Each restaurant bears TungLok’s hallmark values of quality cuisine, excellent service and unique dining concepts - a trinity that has led the Group to win numerous accolades from the F&B industry. Paired with exclusive banquet privileges, you can enjoy authentic and quality Chinese cuisine at two exciting venues! Bask in the grandeur of the luxurious Antica Ballroom or enjoy the simplicity of an elegant and contemporary ambience at TungLok Signatures. ",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/000/241/original/TUNGLOK_SIGNATURES___ANTICA_BALLROOM_WEDDING_PACKAGE_2024.pdf?1702962877"
+    ]
   },
   {
     "name": "Village Hotel Changi",
+    "url": "https://singaporebrides.com/d/village-hotel-changi-by-far-east-hospitality",
+    "slug": "village-hotel-changi-by-far-east-hospitality",
     "phone": "6379 7179",
     "email": "catering.vhc@fareast.com",
     "address": "1 Netheravon Road",
@@ -5320,10 +6155,23 @@
     "saturday_tables": "5–25",
     "sunday_lunch": "$1556–$1700",
     "sunday_dinner": "$1676–$1820",
-    "sunday_tables": "5–25"
+    "sunday_tables": "5–25",
+    "about": "T he journey of a lifetime begins by the glistening blue waters of the eastern shores at the award-winning Village Hotel Changi. Crowned Best Overall Outdoor Solemnisation Venue and Best Traditional Wedding Theme by Her World Brides Singapore, the hotel offers a gorgeous sea view from its infinity deck where you can exchange your vows against a romantic sunset backdrop. From cosy, intimate affairs to enchanting banquet weddings hosting up to 250 guests, you'll discover a world of possibilities in this hotel located in the Changi precinct, away from the harried pace of the city. The hotel offers customisable menus from its Halal-certified banquet kitchen. If you are looking for something unique for your joyous occasion, Village Hotel Changi also offers themed packages featuring traditional weddings in modern settings such as Oriental, Malay and Peranakan other than Western celebrations. Capacity: 30 - 250 Pax For enquiries, please contact our catering team at: +65 6379 7179 or email [em",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/000/957/original/Eternal_Vows_A5_Brochure_-_Chinese.pdf?1770688305",
+      "https://singaporebrides.com/d/system/documents/contents/000/000/958/original/Eternal_Vows_A5_Brochure_-_Buffet.pdf?1770688312",
+      "https://singaporebrides.com/d/system/documents/contents/000/000/980/original/Timeless_Union_A5_Brochure_-_Western.pdf?1770688317",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/403/original/Impian_Selamanya_Brochure.pdf?1774245166",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/705/original/Timeless_Nikah_Brochure.pdf?1774245178"
+    ],
+    "website": "https://www.villagehotels.asia/Weddings/Village-Hotel-Changi/?utm_content=MKTG+Vanity+URL",
+    "facebook": "https://www.facebook.com/stayvillage",
+    "instagram": "https://www.instagram.com/villageinsg/"
   },
   {
     "name": "Village Hotel Katong",
+    "url": "https://singaporebrides.com/d/village-hotel-katong-by-far-east-hospitality/",
+    "slug": "village-hotel-katong-by-far-east-hospitality",
     "phone": "6379 7179",
     "email": "cateringvhk@fareast.com",
     "address": "25 Marine Parade",
@@ -5364,7 +6212,18 @@
     "saturday_tables": "8–15",
     "sunday_lunch": "$1556–$1700",
     "sunday_dinner": "$1676–$1820",
-    "sunday_tables": "8–15"
+    "sunday_tables": "8–15",
+    "about": "A love for celebration and warm hospitality are hallmarks of the Peranakans. At Village Hotel Katong, you can be sure your wedding will be lively and festive. Be it a themed wedding or an intimate banquet, our wedding team will see to it that your wedding day will be a most special one. Situated in the conserved Katong precinct, Village Hotel Katong imbibes the district’s strong cultural heritage, clearly exhibited in the hotel’s design touches and nuances. Backed by the concept restaurant Nyonyas & Gentlemen, Village Hotel Katong serves a variety of cuisines - Nyonya, Macanese, Asian, Local Chinese and Western - to delight your guests. Capacity: 30 - 150 Pax For enquiries, contact our wedding team at +65 6344 2200 or email [email&#160;protected] .",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/027/original/Eternal_Vows_A5_Brochure_-_Chinese.pdf?1770688334",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/028/original/Eternal_Vows_A5_Brochure_-_Buffet.pdf?1770688340",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/029/original/Timeless_Union_A5_Brochure_-_Western.pdf?1770688345",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/405/original/Impian_Selamanya_Brochure.pdf?1774245194",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/706/original/Timeless_Nikah_Brochure.pdf?1774245206"
+    ],
+    "website": "https://www.villagehotels.asia/Weddings/Village-Hotel-Katong/?utm_content=MKTG+Vanity+URL",
+    "facebook": "https://www.facebook.com/stayvillage",
+    "instagram": "https://www.instagram.com/villageinsg/"
   },
   {
     "name": "Village Hotel Sentosa",
@@ -5412,6 +6271,8 @@
   },
   {
     "name": "voco Orchard Singapore",
+    "url": "https://singaporebrides.com/d/voco-orchard-singapore/",
+    "slug": "voco-orchard-singapore",
     "phone": "6737 2233",
     "email": "vocosg.weddings@ihg.com",
     "address": "581 Orchard Road",
@@ -5452,11 +6313,20 @@
     "saturday_tables": "10–42",
     "sunday_lunch": "$2024–$2024",
     "sunday_dinner": "$2144–$2144",
-    "sunday_tables": "10–42"
+    "sunday_tables": "10–42",
+    "about": "L ocated on the start of Orchard Road, voco Orchard Singapore offers exciting dining, shopping and entertainment options right on your doorstep. Our warm intuitive voco hosts are ready to tailor-make incredible and memorable cosmopolitan experiences in the heart of Singapore, bringing the best of dining and entertainment experiences. Whether you’re planning an intimate gathering or a grand celebration, we know you want a wedding that’s as individual as you are. We’ll put ourselves in your shoes, so on the big day, you’ll be comfortable in yours with enchanting wedding themes, flexible ballroom layouts and menus featuring a range of cuisines come endless celebratory possibilities.",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/560/original/2026___2027_Wedding_Perks_Tactical.pdf?1777971603",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/382/original/2026___2027_Wedding_Packages.pdf?1777971635"
+    ],
+    "website": "https://orcharddining.vocohotels.com/events/weddings",
+    "facebook": "https://www.facebook.com/vocoOrchardSingapore"
   },
   {
     "name": "W Singapore - Sentosa Cove",
-    "phone": "6808 7236",
+    "url": "https://singaporebrides.com/d/w-singapore-sentosa-cove/",
+    "slug": "w-singapore-sentosa-cove",
+    "phone": "6808 7257",
     "email": "ido.singapore@whotels.com",
     "address": "21 Ocean Way",
     "pricing": [
@@ -5496,7 +6366,19 @@
     "saturday_tables": "10–48",
     "sunday_lunch": "$2374–$2734",
     "sunday_dinner": "$2614–$2734",
-    "sunday_tables": "10–48"
+    "sunday_tables": "10–48",
+    "about": "A wedding at W Singapore - Sentosa Cove is not just a ceremony. It's a happening. Pop the question, celebrate an engagement, tie the knot or steal away into a picture perfect honeymoon at our hotel. The tranquil environment of our breezy tropical island will set the mood for an elegant tropical ceremony and set the stage for a catered reception to remember. Go for a personalized celebration with our Wed Your Way options, turning your \"I Do\" into the event of the year in a stylish setting where the focus is entirely on celebrating the unique bond between the two of you in a stylish locale. Our recently transformed 720-square-metre Great Room is the grandest space for magical moments, featuring a new elegant blue carpet and a giant LED screen of 5 X 14 meters showcasing your beautiful memories in the wedding video montage, high ceiling for a grand or playful march in, enhanced by dramatic spotlights encased in crystals, fairy illustrations on the walls, orchid petal wall lights and dazzl",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/059/original/Say_&#39;I_DO&#39;___Studios_Lunch.pdf?1732498479",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/060/original/Say_&#39;I_DO&#39;___Studios_Dinner.pdf?1732498487",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/061/original/Say_&#39;I_DO&#39;___Great_Room_Lunch.pdf?1732498494",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/062/original/Say_&#39;I_DO&#39;___Great_Room_Dinner.pdf?1732498502",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/371/original/Intimate_Wedding_Package_-_the_kitchen_table.pdf?1712039968",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/372/original/Intimate_Wedding_Package_-_SKIRT.pdf?1712039987"
+    ],
+    "website": "https://www.wsingaporesentosacove.com/",
+    "facebook": "https://www.facebook.com/wsingaporesentosacove",
+    "instagram": "https://www.instagram.com/wsingapore/"
   },
   {
     "name": "Wyndham Singapore Hotel",
@@ -5544,6 +6426,8 @@
   },
   {
     "name": "Ya Ge @ Orchid Hotel",
+    "url": "https://singaporebrides.com/d/ya-ge-orchid-hotel/",
+    "slug": "ya-ge-orchid-hotel",
     "phone": "6818 6864",
     "email": "yage@orchidhotel.com.sg",
     "address": "1 Tras Link, Orchid Hotel Level 3",
@@ -5584,7 +6468,15 @@
     "saturday_tables": "5–12",
     "sunday_lunch": "$1424–$2863",
     "sunday_dinner": "$1424–$2863",
-    "sunday_tables": "5–12"
+    "sunday_tables": "5–12",
+    "about": "N estled in the vibrant heart of Tanjong Pagar, Ya Ge (雅阁) @ Orchid Hotel offers an intimate and elegant setting for couples seeking a heartfelt wedding celebration. With warm hospitality, inviting venues, and a prime city location, the hotel and restaurant are ideal for everything from cosy solemnisations to refined banquets. Couples can exchange vows in the lush tranquillity of the hotel’s Herb Garden—a private open-air sanctuary surrounded by greenery, perfect for intimate ceremonies with close family and friends. Continue the celebration at Ya Ge, a refined modern Chinese restaurant. Designed with understated sophistication, it offers a stylish yet welcoming setting for up to 120 guests. With its spacious contemporary interiors, elegant décor, and impeccable service, Ya Ge sets the stage for a memorable wedding banquet. Guests will enjoy a thoughtfully curated dining experience, as the culinary team presents beautifully crafted Chinese cuisine — each dish a modern tribute to time-h",
+    "pdf_urls": [
+      "https://singaporebrides.com/d/system/documents/contents/000/001/564/original/Ya_Ge_Wedding_Package_Selection_Oct_2025.pdf?1761621585",
+      "https://singaporebrides.com/d/system/documents/contents/000/001/565/original/Ya_Ge_Solemnisation_Package_March_2025.pdf?1747105891"
+    ],
+    "website": "https://www.orchidhotel.com.sg/dining/ya-ge",
+    "facebook": "https://www.facebook.com/yagesingapore/reviews/",
+    "instagram": "https://www.instagram.com/yagesingapore"
   },
   {
     "name": "York Hotel",
