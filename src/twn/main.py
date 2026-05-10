@@ -5,12 +5,19 @@ import re
 import time
 
 import httpx
+from playwright.async_api import async_playwright
 
 from ..shared.config import get_headers
 
 BASE_URL = "https://theweddingnotebook.com/api/v1/listings"
 PAGE_BASE_URL = "https://theweddingnotebook.com/catalog/venues"
-DETAIL_CONCURRENCY = 10
+DETAIL_DELAY_BETWEEN = 5  # seconds between processing each venue
+
+# Realistic UA to avoid Vercel Challenge detection
+BROWSER_UA = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+)
 
 
 def scrape_venues(category="venues", state=None, limit=None):
@@ -42,11 +49,11 @@ def _fetch_all_listings(category, state, limit):
                 params["state"] = state
 
             response = client.get(BASE_URL, params=params)
-            for attempt in range(5):
+            for attempt in range(6):
                 if response.status_code != 429:
                     break
-                wait = 2 ** attempt * 10
-                print(f"Rate limited (429), retrying in {wait}s...")
+                wait = 2**attempt * 10
+                print(f"Rate limited (429) on page {page}, retrying in {wait}s ({attempt + 1}/7)...")
                 time.sleep(wait)
                 response = client.get(BASE_URL, params=params)
             response.raise_for_status()
@@ -124,28 +131,73 @@ def _parse_spaces_and_packages(html: str) -> dict:
     return {"spaces": spaces, "packages": packages, "venueCapacity": venue_capacity}
 
 
-async def _fetch_detail(client, semaphore, listing):
-    async with semaphore:
+async def _retry_api_get(client, url, max_retries=5, base_wait=5):
+    """GET an API URL with exponential backoff retry on 429 and transient errors."""
+    last_error = None
+    for attempt in range(max_retries):
         try:
-            api_resp = await client.get(f"{BASE_URL}/{listing['id']}")
-            api_resp.raise_for_status()
-            detail = api_resp.json().get("data", {})
+            resp = await client.get(url)
+            if resp.status_code == 429:
+                wait = 2**attempt * base_wait
+                print(f"  Rate limited (429) on API, retrying in {wait}s ({attempt + 1}/{max_retries})...")
+                await asyncio.sleep(wait)
+                continue
+            resp.raise_for_status()
+            return resp
+        except httpx.HTTPStatusError as e:
+            if e.response.status_code == 429:
+                wait = 2**attempt * base_wait
+                print(f"  Rate limited (429) on API, retrying in {wait}s ({attempt + 1}/{max_retries})...")
+                await asyncio.sleep(wait)
+                continue
+            raise
+        except (httpx.ConnectError, httpx.ReadError, httpx.TimeoutException) as e:
+            last_error = e
+            wait = 2**attempt * base_wait
+            print(f"  Network error on API, retrying in {wait}s ({attempt + 1}/{max_retries}): {e}")
+            await asyncio.sleep(wait)
+            continue
+    raise last_error or RuntimeError(f"All {max_retries} retries exhausted for {url}")
 
-            page_resp = await client.get(f"{PAGE_BASE_URL}/{listing['slug']}")
-            page_resp.raise_for_status()
-            page_data = _parse_spaces_and_packages(page_resp.text)
 
-            return {**listing, **detail, **page_data}
-        except Exception as e:
-            print(f"Warning: failed to fetch detail for {listing['name']}: {e}")
-            return listing
+async def _fetch_detail(client, page, listing):
+    """Fetch detail API data via httpx and catalog page data via Playwright."""
+    try:
+        api_resp = await _retry_api_get(client, f"{BASE_URL}/{listing['id']}")
+        detail = api_resp.json().get("data", {})
+
+        resp = await page.goto(f"{PAGE_BASE_URL}/{listing['slug']}", wait_until="domcontentloaded", timeout=30000)
+        if resp and resp.status == 429:
+            await asyncio.sleep(15)
+            await page.wait_for_load_state("networkidle", timeout=15000)
+        page_data = _parse_spaces_and_packages(await page.content())
+
+        return {**listing, **detail, **page_data}
+    except Exception as e:
+        print(f"Warning: failed to fetch detail for {listing['name']}: {e}")
+        return listing
 
 
 async def _fetch_all_details(listings):
-    semaphore = asyncio.Semaphore(DETAIL_CONCURRENCY)
-    async with httpx.AsyncClient(headers=get_headers(), timeout=30) as client:
-        tasks = [_fetch_detail(client, semaphore, listing) for listing in listings]
-        return await asyncio.gather(*tasks)
+    results = []
+    async with httpx.AsyncClient(headers=get_headers(), timeout=30) as client, \
+               async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        try:
+            context = await browser.new_context(user_agent=BROWSER_UA)
+            page = await context.new_page()
+            await page.add_init_script(
+                "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
+            )
+            for i, listing in enumerate(listings):
+                if i > 0:
+                    await asyncio.sleep(DETAIL_DELAY_BETWEEN)
+                print(f"  [{i + 1}/{len(listings)}] Fetching {listing['name']}...")
+                result = await _fetch_detail(client, page, listing)
+                results.append(result)
+        finally:
+            await browser.close()
+    return results
 
 
 def save_venues(venues, filename="data/twn/venues"):
