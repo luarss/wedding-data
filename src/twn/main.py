@@ -1,3 +1,4 @@
+import argparse
 import asyncio
 import csv
 import json
@@ -247,25 +248,16 @@ def save_venues(venues, filename="data/twn/venues"):
 
 def main():
     """CLI entry point"""
-    import sys
+    parser = argparse.ArgumentParser(description="Scrape TheWeddingNotebook.com wedding venues")
+    parser.add_argument("--state", type=str, default=None, help="Filter by state (e.g. Selangor, Kuala Lumpur)")
+    parser.add_argument("--limit", type=int, default=None, help="Max venues to scrape")
+    parser.add_argument("--output", type=str, default="data/twn/venues", help="Output file path (without extension)")
+    args = parser.parse_args()
 
-    args = sys.argv[1:]
-    state = None
-    limit = None
-    output = "data/twn/venues"
+    logger.info(f"Scraping venues{f' in {args.state}' if args.state else ''}...")
+    venues = scrape_venues(state=args.state, limit=args.limit)
 
-    for i, arg in enumerate(args):
-        if arg == "--state" and i + 1 < len(args):
-            state = args[i + 1]
-        elif arg == "--limit" and i + 1 < len(args):
-            limit = int(args[i + 1])
-        elif arg == "--output" and i + 1 < len(args):
-            output = args[i + 1]
-
-    logger.info(f"Scraping venues{f' in {state}' if state else ''}...")
-    venues = scrape_venues(state=state, limit=limit)
-
-    save_venues(venues, output)
+    save_venues(venues, args.output)
 
     logger.info(f"\nScraped {len(venues)} venues")
     if venues:

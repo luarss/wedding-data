@@ -1,3 +1,4 @@
+import argparse
 import asyncio
 import csv
 import xml.etree.ElementTree as ET
@@ -243,7 +244,7 @@ async def main(limit: int = 0):
 
 
 if __name__ == "__main__":
-    import sys
-
-    limit = int(sys.argv[1]) if len(sys.argv) > 1 else 0
-    asyncio.run(main(limit))
+    parser = argparse.ArgumentParser(description="Scrape Wedded.sg wedding photographers")
+    parser.add_argument("--limit", type=int, default=0, help="Max photographers to scrape (0 = all)")
+    args = parser.parse_args()
+    asyncio.run(main(limit=args.limit))
