@@ -54,9 +54,11 @@ def _fetch_all_listings(category, state, limit):
                 if response.status_code != 429:
                     break
                 wait = 2**attempt * 10
-                print(f"Rate limited (429) on page {page}, retrying in {wait}s ({attempt + 1}/7)...")
+                print(f"Rate limited (429) on page {page}, retrying in {wait}s ({attempt + 1}/6)...")
                 time.sleep(wait)
                 response = client.get(BASE_URL, params=params)
+            if response.status_code == 429:
+                raise RuntimeError(f"Still rate-limited on page {page} after 6 retries")
             response.raise_for_status()
             data = response.json()
 

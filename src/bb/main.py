@@ -177,10 +177,12 @@ async def scrape_banquet_prices_async() -> list[dict]:
 
     try:
         print(f"Fetching {url}...")
-        response = httpx.get(url, headers=get_headers(), timeout=30, follow_redirects=True)
-        response.raise_for_status()
+        async with httpx.AsyncClient(headers=get_headers(), timeout=30, follow_redirects=True) as client:
+            response = await client.get(url)
+            response.raise_for_status()
+            html = response.text
 
-        soup = BeautifulSoup(response.text, "html.parser")
+        soup = BeautifulSoup(html, "html.parser")
         vendors = []
 
         table = soup.find("table", class_="table")
