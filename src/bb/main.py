@@ -1,6 +1,4 @@
 import argparse
-import csv
-import json
 import re
 from pathlib import Path
 
@@ -8,29 +6,10 @@ import httpx
 from bs4 import BeautifulSoup
 
 from ..shared.config import get_headers
+from ..shared.download import download_pdf, slug_from_url
+from ..shared.save import save_json_csv
 
 BASE_URL = "https://www.blissfulbrides.sg"
-
-
-async def download_pdf(client: httpx.AsyncClient, url: str, save_path: Path) -> bool:
-    """Download a PDF file to the specified path"""
-    try:
-        if save_path.exists():
-            print(f"  ⏭️  Skipping {save_path.name} (already exists)")
-            return True
-
-        response = await client.get(url, timeout=30, follow_redirects=True)
-        response.raise_for_status()
-
-        save_path.parent.mkdir(parents=True, exist_ok=True)
-
-        with open(save_path, "wb") as f:
-            f.write(response.content)
-
-        return True
-    except Exception as e:
-        print(f"  ⚠️  Error downloading PDF {url}: {e}")
-        return False
 
 
 async def download_pdfs_for_vendor(client: httpx.AsyncClient, vendor_data: dict) -> dict:
@@ -42,11 +21,7 @@ async def download_pdfs_for_vendor(client: httpx.AsyncClient, vendor_data: dict)
     if not profile_url:
         return vendor_data
 
-    url_parts = profile_url.rstrip("/").split("/")
-    venue_slug = url_parts[-1] if url_parts else "unknown"
-    venue_slug = venue_slug.lower()
-    venue_slug = re.sub(r"-+", "-", venue_slug)
-    venue_slug = venue_slug.strip("-")
+    venue_slug = slug_from_url(profile_url)
 
     pdf_dir = Path(f"data/bb/price-lists/{venue_slug}")
     downloaded_pdfs = []
@@ -385,41 +360,6 @@ def scrape_all_venues() -> list[dict]:
     return asyncio.run(scrape_all_venues_async())
 
 
-def save_to_files(data: list[dict], output_path: str):
-    """Save data to JSON and CSV files"""
-    if not data:
-        print("No data to save")
-        return
-
-    output_file = Path(output_path)
-    output_file.parent.mkdir(parents=True, exist_ok=True)
-
-    json_file = output_file.with_suffix(".json")
-    csv_file = output_file.with_suffix(".csv")
-
-    with open(json_file, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-
-    if data:
-        all_keys = set()
-        for item in data:
-            all_keys.update(item.keys())
-        keys = sorted(all_keys)
-
-        with open(csv_file, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=keys)
-            writer.writeheader()
-            for item in data:
-                row = item.copy()
-                for key, value in row.items():
-                    if isinstance(value, list):
-                        row[key] = json.dumps(value)
-                writer.writerow(row)
-
-    print(f"✅ Saved {len(data)} items to:")
-    print(f"   - {json_file}")
-    print(f"   - {csv_file}")
-
 
 def main():
     """CLI entry point"""
@@ -451,7 +391,7 @@ def main():
     else:
         vendors = scrape_all_venues()
 
-    save_to_files(vendors, f"{args.output}/venues")
+    save_json_csv(vendors, f"{args.output}/venues")
 
     if vendors:
         print("\n✅ Scraping complete!")

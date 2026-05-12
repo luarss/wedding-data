@@ -1,5 +1,4 @@
 import argparse
-import json
 import os
 from pathlib import Path
 
@@ -8,6 +7,7 @@ import pandas as pd
 from dotenv import load_dotenv
 
 from ..shared.config import get_headers
+from ..shared.save import save_json
 
 load_dotenv()
 
@@ -172,8 +172,7 @@ def save_vendors(vendors: list, filename: str = "data/bly/vendors"):
     json_path = output_path.with_suffix(".json")
     csv_path = output_path.with_suffix(".csv")
 
-    with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(vendors, f, indent=2, ensure_ascii=False)
+    save_json(vendors, json_path)
 
     df = pd.DataFrame(vendors)
     df.to_csv(csv_path, index=False, encoding="utf-8")

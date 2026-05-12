@@ -5,31 +5,16 @@ Scrapes wedding venue pricing data from singaporebrides.com/wedding-banquet-pric
 
 import argparse
 import asyncio
-import csv
-import json
 import re
-from contextlib import asynccontextmanager
 from pathlib import Path
 from typing import Any
 
 import httpx
-from playwright.async_api import async_playwright
+
+from src.shared import get_browser_page, save_json_csv
 
 BASE_URL = "https://singaporebrides.com"
 PRICE_LIST_URL = f"{BASE_URL}/wedding-banquet-price-list/"
-
-
-@asynccontextmanager
-async def get_browser_page(headless=True):
-    async with async_playwright() as p:
-        browser = None
-        try:
-            browser = await p.chromium.launch(headless=headless, args=["--no-sandbox", "--disable-setuid-sandbox"])
-            page = await browser.new_page(viewport={"width": 1280, "height": 800})
-            yield page
-        finally:
-            if browser is not None:
-                await browser.close()
 
 
 async def extract_venues_from_page(page) -> list[dict[str, Any]]:
@@ -313,39 +298,6 @@ async def enrich_venues_with_details(venues: list[dict[str, Any]], download_pdfs
     return venues
 
 
-def save_to_files(data: list[dict[str, Any]], output_path: str):
-    """Save data to JSON and CSV files"""
-    if not data:
-        return
-
-    output_file = Path(output_path)
-    output_file.parent.mkdir(parents=True, exist_ok=True)
-
-    json_file = output_file.with_suffix(".json")
-    csv_file = output_file.with_suffix(".csv")
-
-    with open(json_file, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-
-    all_keys = set()
-    for item in data:
-        all_keys.update(item.keys())
-
-    # Exclude nested pricing from CSV
-    csv_keys = sorted([k for k in all_keys if k != "pricing"])
-
-    with open(csv_file, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=csv_keys, extrasaction="ignore")
-        writer.writeheader()
-        for item in data:
-            row = item.copy()
-            for key, value in row.items():
-                if isinstance(value, list):
-                    row[key] = json.dumps(value)
-            writer.writerow(row)
-
-    print(f"Saved {len(data)} venues to {json_file} and {csv_file}")
-
 
 def scrape_price_list(headless: bool = True) -> list[dict[str, Any]]:
     """Synchronous wrapper for async scraper"""
@@ -384,7 +336,7 @@ def main():
         )
     )
 
-    save_to_files(venues, args.output)
+    save_json_csv(venues, args.output)
 
     if venues:
         with_details = sum(1 for v in venues if v.get("about"))

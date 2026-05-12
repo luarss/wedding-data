@@ -8,6 +8,7 @@ import httpx
 from playwright.async_api import async_playwright
 
 from ..shared.config import get_headers
+from ..shared.save import save_json
 
 BASE_URL = "https://theweddingnotebook.com/api/v1/listings"
 PAGE_BASE_URL = "https://theweddingnotebook.com/catalog/venues"
@@ -213,8 +214,7 @@ def save_venues(venues, filename="data/twn/venues"):
     os.makedirs(os.path.dirname(filename), exist_ok=True)
 
     # Save JSON
-    with open(f"{filename}.json", "w", encoding="utf-8") as f:
-        json.dump(venues, f, indent=2, ensure_ascii=False)
+    save_json(venues, f"{filename}.json")
 
     # Save CSV — flatten venueCapacity and first package into columns
     if venues:

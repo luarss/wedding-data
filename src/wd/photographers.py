@@ -1,12 +1,13 @@
 import asyncio
 import csv
-import json
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from urllib.parse import urlparse
 
 import httpx
 from playwright.async_api import async_playwright
+
+from src.shared import save_json
 
 
 def parse_photographer_slug(url: str) -> str:
@@ -113,15 +114,6 @@ async def scrape_all_photographers(urls: list[str], concurrent_limit: int = 5) -
             await browser.close()
 
     return [r for r in results if r is not None]
-
-
-def save_to_json(photographers: list[dict], filename: str):
-    Path(filename).parent.mkdir(parents=True, exist_ok=True)
-
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(photographers, f, indent=2, ensure_ascii=False)
-
-    print(f"Saved to {filename}")
 
 
 def save_to_csv(photographers: list[dict], filename: str):
@@ -236,7 +228,7 @@ async def main(limit: int = 0):
     print(f"Total photobooks: {total_photobooks}")
 
     json_file = "data/wd/photographers.json"
-    save_to_json(photographers, json_file)
+    save_json(photographers, json_file)
 
     csv_file = "data/wd/photographers.csv"
     save_to_csv(photographers, csv_file)

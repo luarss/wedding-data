@@ -1,26 +1,13 @@
 import asyncio
 import csv
-import json
 import xml.etree.ElementTree as ET
-from contextlib import asynccontextmanager
 from pathlib import Path
 from urllib.parse import urlparse
 
 import httpx
 from playwright.async_api import async_playwright
 
-
-@asynccontextmanager
-async def get_browser_page(headless=True):
-    async with async_playwright() as p:
-        browser = None
-        try:
-            browser = await p.chromium.launch(headless=headless)
-            page = await browser.new_page()
-            yield page
-        finally:
-            if browser is not None:
-                await browser.close()
+from src.shared import save_json
 
 
 def parse_venue_slug(url: str) -> str:
@@ -139,14 +126,6 @@ async def scrape_all_venues(urls: list[str], concurrent_limit: int = 5) -> list[
     return [r for r in results if r is not None]
 
 
-def save_to_json(venues: list[dict], filename: str):
-    Path(filename).parent.mkdir(parents=True, exist_ok=True)
-
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(venues, f, indent=2, ensure_ascii=False)
-
-    print(f"Saved to {filename}")
-
 
 def save_to_csv(venues: list[dict], filename: str):
     if not venues:
@@ -263,7 +242,7 @@ async def main(limit: int = 0):
     print(f"Total PDFs downloaded: {total_pdfs} ({venues_with_pdfs} venues have PDFs)")
 
     json_file = "data/wd/venues.json"
-    save_to_json(venues, json_file)
+    save_json(venues, json_file)
 
     csv_file = "data/wd/venues.csv"
     save_to_csv(venues, csv_file)
