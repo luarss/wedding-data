@@ -1,31 +1,33 @@
 import asyncio
 
-from src.shared import get_browser_page, save_csv, save_json
+from src.shared import get_logger, get_browser_page, save_csv, save_json
+
+logger = get_logger()
 
 
 async def click_see_more_until_loaded(page):
-    print("Clicking 'See more' until all venues are loaded...")
+    logger.info("Clicking 'See more' until all venues are loaded...")
     click_count = 0
     while True:
         see_more_button = page.locator('button:has-text("See more")')
 
         if await see_more_button.count() == 0:
-            print("No 'See more' button found - all venues loaded")
+            logger.info("No 'See more' button found - all venues loaded")
             break
 
         try:
             await see_more_button.scroll_into_view_if_needed()
             await see_more_button.click(timeout=5000)
             click_count += 1
-            print(f"  Clicked 'See more' {click_count} times")
+            logger.info(f"  Clicked 'See more' {click_count} times")
             await asyncio.sleep(1)
         except Exception as e:
-            print(f"Could not click 'See more' button: {e}")
+            logger.info(f"Could not click 'See more' button: {e}")
             break
 
 
 async def extract_venues_from_dom(page):
-    print("\nDebugging DOM structure...")
+    logger.info("\nDebugging DOM structure...")
     debug_info = await page.evaluate(r"""() => {
         const venueCards = document.querySelectorAll('.vertical-list-item');
         const firstCard = venueCards[0];
@@ -38,9 +40,9 @@ async def extract_venues_from_dom(page):
         };
     }""")
 
-    print(f"Debug info: {debug_info}")
+    logger.info(f"Debug info: {debug_info}")
 
-    print("\nExtracting venue data from DOM...")
+    logger.info("\nExtracting venue data from DOM...")
     venues = await page.evaluate(r"""() => {
         const wrappers = document.querySelectorAll('.list-item-wrapper.vertical');
         const venues = [];
@@ -98,13 +100,13 @@ async def extract_venues_from_dom(page):
         return venues;
     }""")
 
-    print(f"Extracted {len(venues)} venues")
+    logger.info(f"Extracted {len(venues)} venues")
     return venues
 
 
 async def fetch_all_venues():
     async with get_browser_page() as page:
-        print("Navigating to venues page...")
+        logger.info("Navigating to venues page...")
         await page.goto("https://www.bridely.sg/venues", wait_until="networkidle")
 
         await click_see_more_until_loaded(page)
@@ -114,10 +116,10 @@ async def fetch_all_venues():
 
 
 async def main():
-    print("Fetching all venues from Bridely.sg using Playwright...")
+    logger.info("Fetching all venues from Bridely.sg using Playwright...")
     venues = await fetch_all_venues()
 
-    print(f"\nTotal venues fetched: {len(venues)}")
+    logger.info(f"\nTotal venues fetched: {len(venues)}")
 
     save_csv(
         venues,
@@ -126,9 +128,9 @@ async def main():
     )
     save_json(venues, "data/bly/venues.json")
 
-    print("\nFirst 5 venues:")
+    logger.info("\nFirst 5 venues:")
     for i, venue in enumerate(venues[:5], 1):
-        print(f"{i}. {venue['name']} - {venue['price']} - {venue['capacity']}")
+        logger.info(f"{i}. {venue['name']} - {venue['price']} - {venue['capacity']}")
 
 
 if __name__ == "__main__":

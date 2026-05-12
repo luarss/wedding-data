@@ -8,7 +8,10 @@ import httpx
 from playwright.async_api import async_playwright
 
 from ..shared.config import get_headers
+from ..shared.logging import get_logger
 from ..shared.save import save_json
+
+logger = get_logger()
 
 BASE_URL = "https://theweddingnotebook.com/api/v1/listings"
 PAGE_BASE_URL = "https://theweddingnotebook.com/catalog/venues"
@@ -34,7 +37,7 @@ def scrape_venues(category="venues", state=None, limit=None):
         List of venue dictionaries with detail fields merged in
     """
     listings = _fetch_all_listings(category=category, state=state, limit=limit)
-    print(f"Fetching details for {len(listings)} venues...")
+    logger.info(f"Fetching details for {len(listings)} venues...")
     detailed = asyncio.run(_fetch_all_details(listings))
     return detailed
 
@@ -54,7 +57,7 @@ def _fetch_all_listings(category, state, limit):
                 if response.status_code != 429:
                     break
                 wait = 2**attempt * 10
-                print(f"Rate limited (429) on page {page}, retrying in {wait}s ({attempt + 1}/6)...")
+                logger.info(f"Rate limited (429) on page {page}, retrying in {wait}s ({attempt + 1}/6)...")
                 time.sleep(wait)
                 response = client.get(BASE_URL, params=params)
             if response.status_code == 429:
@@ -68,7 +71,7 @@ def _fetch_all_listings(category, state, limit):
             total_pages = pagination["totalPages"]
 
             all_listings.extend(listings)
-            print(f"Page {page}/{total_pages}: Got {len(listings)} venues (total: {len(all_listings)}/{total})")
+            logger.info(f"Page {page}/{total_pages}: Got {len(listings)} venues (total: {len(all_listings)}/{total})")
 
             if limit and len(all_listings) >= limit:
                 all_listings = all_listings[:limit]
@@ -142,7 +145,7 @@ async def _retry_api_get(client, url, max_retries=5, base_wait=5):
             resp = await client.get(url)
             if resp.status_code == 429:
                 wait = 2**attempt * base_wait
-                print(f"  Rate limited (429) on API, retrying in {wait}s ({attempt + 1}/{max_retries})...")
+                logger.info(f"  Rate limited (429) on API, retrying in {wait}s ({attempt + 1}/{max_retries})...")
                 await asyncio.sleep(wait)
                 continue
             resp.raise_for_status()
@@ -150,14 +153,14 @@ async def _retry_api_get(client, url, max_retries=5, base_wait=5):
         except httpx.HTTPStatusError as e:
             if e.response.status_code == 429:
                 wait = 2**attempt * base_wait
-                print(f"  Rate limited (429) on API, retrying in {wait}s ({attempt + 1}/{max_retries})...")
+                logger.info(f"  Rate limited (429) on API, retrying in {wait}s ({attempt + 1}/{max_retries})...")
                 await asyncio.sleep(wait)
                 continue
             raise
         except (httpx.ConnectError, httpx.ReadError, httpx.TimeoutException) as e:
             last_error = e
             wait = 2**attempt * base_wait
-            print(f"  Network error on API, retrying in {wait}s ({attempt + 1}/{max_retries}): {e}")
+            logger.warning(f"  Network error on API, retrying in {wait}s ({attempt + 1}/{max_retries}): {e}")
             await asyncio.sleep(wait)
             continue
     raise last_error or RuntimeError(f"All {max_retries} retries exhausted for {url}")
@@ -177,7 +180,7 @@ async def _fetch_detail(client, page, listing):
 
         return {**listing, **detail, **page_data}
     except Exception as e:
-        print(f"Warning: failed to fetch detail for {listing['name']}: {e}")
+        logger.warning(f"Warning: failed to fetch detail for {listing['name']}: {e}")
         return listing
 
 
@@ -195,7 +198,7 @@ async def _fetch_all_details(listings):
             for i, listing in enumerate(listings):
                 if i > 0:
                     await asyncio.sleep(DETAIL_DELAY_BETWEEN)
-                print(f"  [{i + 1}/{len(listings)}] Fetching {listing['name']}...")
+                logger.info(f"  [{i + 1}/{len(listings)}] Fetching {listing['name']}...")
                 result = await _fetch_detail(client, page, listing)
                 results.append(result)
         finally:
@@ -239,7 +242,7 @@ def save_venues(venues, filename="data/twn/venues"):
                 ]
                 writer.writerow(row)
 
-    print(f"Saved {len(venues)} venues to {filename}.json and {filename}.csv")
+    logger.info(f"Saved {len(venues)} venues to {filename}.json and {filename}.csv")
 
 
 def main():
@@ -259,20 +262,20 @@ def main():
         elif arg == "--output" and i + 1 < len(args):
             output = args[i + 1]
 
-    print(f"Scraping venues{f' in {state}' if state else ''}...")
+    logger.info(f"Scraping venues{f' in {state}' if state else ''}...")
     venues = scrape_venues(state=state, limit=limit)
 
     save_venues(venues, output)
 
-    print(f"\nScraped {len(venues)} venues")
+    logger.info(f"\nScraped {len(venues)} venues")
     if venues:
         states = {}
         for v in venues:
             s = v.get("state", "Unknown")
             states[s] = states.get(s, 0) + 1
-        print("\nBy state:")
+        logger.info("\nBy state:")
         for s, count in sorted(states.items(), key=lambda x: -x[1]):
-            print(f"  {s}: {count}")
+            logger.info(f"  {s}: {count}")
 
 
 if __name__ == "__main__":

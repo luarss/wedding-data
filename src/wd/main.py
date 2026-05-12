@@ -7,7 +7,9 @@ from urllib.parse import urlparse
 import httpx
 from playwright.async_api import async_playwright
 
-from src.shared import save_json
+from src.shared import get_logger, save_json
+
+logger = get_logger()
 
 
 def parse_venue_slug(url: str) -> str:
@@ -42,7 +44,7 @@ async def download_pdf(url: str, venue_slug: str, filename: str) -> str | None:
             filepath.write_bytes(response.content)
             return str(filepath)
     except Exception as e:
-        print(f"    ! Failed to download PDF: {filename} - {e}")
+        logger.error(f"    ! Failed to download PDF: {filename} - {e}")
         return None
 
 
@@ -99,20 +101,20 @@ async def scrape_all_venues(urls: list[str], concurrent_limit: int = 5) -> list[
 
     async def scrape_with_semaphore(browser, url: str, index: int) -> dict:
         async with semaphore:
-            print(f"[{index}/{len(urls)}] Scraping: {url}")
+            logger.info(f"[{index}/{len(urls)}] Scraping: {url}")
             try:
                 page = await browser.new_page()
                 try:
                     result = await scrape_venue_page(page, url)
                     pdf_count = len(result.get("pdfs", []))
                     pdf_info = f", {pdf_count} PDFs" if pdf_count > 0 else ""
-                    print(f"  -> {result['name']}: {len(result['rooms'])} rooms{pdf_info}")
+                    logger.info(f"  -> {result['name']}: {len(result['rooms'])} rooms{pdf_info}")
                     await asyncio.sleep(1)
                     return result
                 finally:
                     await page.close()
             except Exception as e:
-                print(f"  -> ERROR: {type(e).__name__}: {str(e)[:100]}")
+                logger.error(f"  -> ERROR: {type(e).__name__}: {str(e)[:100]}")
                 return None
 
     async with async_playwright() as p:
@@ -129,7 +131,7 @@ async def scrape_all_venues(urls: list[str], concurrent_limit: int = 5) -> list[
 
 def save_to_csv(venues: list[dict], filename: str):
     if not venues:
-        print("No venues to save")
+        logger.info("No venues to save")
         return
 
     Path(filename).parent.mkdir(parents=True, exist_ok=True)
@@ -221,25 +223,25 @@ def save_to_csv(venues: list[dict], filename: str):
         writer.writeheader()
         writer.writerows(flattened)
 
-    print(f"Saved to {filename}")
+    logger.info(f"Saved to {filename}")
 
 
 async def main(limit: int = 0):
-    print("Fetching venue URLs from sitemap...")
+    logger.info("Fetching venue URLs from sitemap...")
     urls = await fetch_sitemap()
     if limit > 0:
         urls = urls[:limit]
-        print(f"Limited to {limit} venues for testing")
-    print(f"Found {len(urls)} venue URLs to scrape")
+        logger.info(f"Limited to {limit} venues for testing")
+    logger.info(f"Found {len(urls)} venue URLs to scrape")
 
-    print("Scraping venues from wedded.sg using Playwright...")
+    logger.info("Scraping venues from wedded.sg using Playwright...")
     venues = await scrape_all_venues(urls)
 
-    print(f"\nTotal venues scraped: {len(venues)}")
+    logger.info(f"\nTotal venues scraped: {len(venues)}")
 
     total_pdfs = sum(len(v.get("pdfs", [])) for v in venues)
     venues_with_pdfs = sum(1 for v in venues if v.get("pdfs"))
-    print(f"Total PDFs downloaded: {total_pdfs} ({venues_with_pdfs} venues have PDFs)")
+    logger.info(f"Total PDFs downloaded: {total_pdfs} ({venues_with_pdfs} venues have PDFs)")
 
     json_file = "data/wd/venues.json"
     save_json(venues, json_file)
@@ -247,13 +249,13 @@ async def main(limit: int = 0):
     csv_file = "data/wd/venues.csv"
     save_to_csv(venues, csv_file)
 
-    print("\nFirst 3 venues:")
+    logger.info("\nFirst 3 venues:")
     for i, venue in enumerate(venues[:3], 1):
         pdf_count = len(venue.get("pdfs", []))
         pdf_info = f", {pdf_count} PDFs" if pdf_count > 0 else ""
-        print(f"{i}. {venue['name']}{pdf_info}")
+        logger.info(f"{i}. {venue['name']}{pdf_info}")
         for room in venue.get("rooms", []):
-            print(f"   - {room['name']}: {len(room['packages'])} packages")
+            logger.info(f"   - {room['name']}: {len(room['packages'])} packages")
 
 
 if __name__ == "__main__":

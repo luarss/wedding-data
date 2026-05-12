@@ -7,7 +7,10 @@ from bs4 import BeautifulSoup
 
 from ..shared.config import get_headers
 from ..shared.download import download_pdf, slug_from_url
+from ..shared.logging import get_logger
 from ..shared.save import save_json_csv
+
+logger = get_logger()
 
 BASE_URL = "https://www.blissfulbrides.sg"
 
@@ -31,11 +34,11 @@ async def download_pdfs_for_vendor(client: httpx.AsyncClient, vendor_data: dict)
         save_path = pdf_dir / filename
 
         if save_path.exists():
-            print(f"  ⏭️  Skipping {filename} (already exists)")
+            logger.info(f"  ⏭️  Skipping {filename} (already exists)")
             downloaded_pdfs.append(pdf_url)
             continue
 
-        print(f"  📄 Downloading {filename}...")
+        logger.info(f"  📄 Downloading {filename}...")
         success = await download_pdf(client, pdf_url, save_path)
         if success:
             downloaded_pdfs.append(pdf_url)
@@ -90,7 +93,7 @@ async def scrape_venue_booking_details(client: httpx.AsyncClient, venue_id: str)
         return details
 
     except Exception as e:
-        print(f"  ⚠️  Error fetching details for venue {venue_id}: {e}")
+        logger.error(f"  ⚠️  Error fetching details for venue {venue_id}: {e}")
         return {}
 
 
@@ -103,7 +106,7 @@ async def scrape_wedding_venues_booking_async() -> list[dict]:
         async with httpx.AsyncClient(headers=get_headers(), timeout=60) as client:
             while True:
                 url = f"{BASE_URL}/wedding-venues-booking?page={page}"
-                print(f"Fetching page {page}: {url}...")
+                logger.info(f"Fetching page {page}: {url}...")
 
                 response = await client.get(url, timeout=30, follow_redirects=True)
                 response.raise_for_status()
@@ -118,7 +121,7 @@ async def scrape_wedding_venues_booking_async() -> list[dict]:
                         venue_links.append(link)
 
                 if not venue_links:
-                    print(f"No venues found on page {page}, stopping pagination")
+                    logger.info(f"No venues found on page {page}, stopping pagination")
                     break
 
                 seen_ids = set()
@@ -152,7 +155,7 @@ async def scrape_wedding_venues_booking_async() -> list[dict]:
                                     )
 
                         if venue_data.get("name") and venue_data["name"] not in [v.get("name") for v in venues]:
-                            print(f"  Found: {venue_data.get('name', 'N/A')}")
+                            logger.info(f"  Found: {venue_data.get('name', 'N/A')}")
                             details = await scrape_venue_booking_details(client, venue_id)
                             venue_data.update(details)
                             venues.append(venue_data)
@@ -160,14 +163,14 @@ async def scrape_wedding_venues_booking_async() -> list[dict]:
                 page += 1
 
                 if page > 20:
-                    print("Reached page limit (20), stopping")
+                    logger.info("Reached page limit (20), stopping")
                     break
 
-        print(f"\nFound {len(venues)} venues from wedding venues booking")
+        logger.info(f"\nFound {len(venues)} venues from wedding venues booking")
         return venues
 
     except Exception as e:
-        print(f"Error scraping wedding venues booking: {e}")
+        logger.error(f"Error scraping wedding venues booking: {e}")
         return venues
 
 
@@ -176,7 +179,7 @@ async def scrape_banquet_prices_async() -> list[dict]:
     url = f"{BASE_URL}/wedding-banquet-price-list"
 
     try:
-        print(f"Fetching {url}...")
+        logger.info(f"Fetching {url}...")
         async with httpx.AsyncClient(headers=get_headers(), timeout=30, follow_redirects=True) as client:
             response = await client.get(url)
             response.raise_for_status()
@@ -190,7 +193,7 @@ async def scrape_banquet_prices_async() -> list[dict]:
             table = soup.find("table")
 
         if not table:
-            print("⚠️  No table found on banquet price list page")
+            logger.warning("⚠️  No table found on banquet price list page")
             return []
 
         rows = table.find_all("tr")
@@ -257,11 +260,11 @@ async def scrape_banquet_prices_async() -> list[dict]:
                 if vendor_data.get("name"):
                     vendors.append(vendor_data)
 
-        print(f"Found {len(vendors)} vendors from banquet price list")
+        logger.info(f"Found {len(vendors)} vendors from banquet price list")
         return vendors
 
     except Exception as e:
-        print(f"Error scraping banquet prices: {e}")
+        logger.error(f"Error scraping banquet prices: {e}")
         return []
 
 
@@ -312,37 +315,37 @@ def merge_venue_data(banquet_data: list[dict], booking_data: list[dict]) -> list
 async def scrape_all_venues_async() -> list[dict]:
     """Scrape from both sources and merge the data"""
 
-    print("\n" + "=" * 60)
-    print("SCRAPING WEDDING VENUES FROM MULTIPLE SOURCES")
-    print("=" * 60 + "\n")
+    logger.info("\n" + "=" * 60)
+    logger.info("SCRAPING WEDDING VENUES FROM MULTIPLE SOURCES")
+    logger.info("=" * 60 + "\n")
 
-    print("📋 Phase 1: Scraping banquet price list...")
-    print("-" * 60)
+    logger.info("📋 Phase 1: Scraping banquet price list...")
+    logger.info("-" * 60)
     banquet_venues = await scrape_banquet_prices_async()
 
-    print("\n📋 Phase 2: Scraping wedding venues booking...")
-    print("-" * 60)
+    logger.info("\n📋 Phase 2: Scraping wedding venues booking...")
+    logger.info("-" * 60)
     booking_venues = await scrape_wedding_venues_booking_async()
 
-    print("\n🔄 Phase 3: Merging data from both sources...")
-    print("-" * 60)
+    logger.info("\n🔄 Phase 3: Merging data from both sources...")
+    logger.info("-" * 60)
     merged_venues = merge_venue_data(banquet_venues, booking_venues)
 
-    print("\n📊 Summary:")
-    print(f"  - Banquet price list: {len(banquet_venues)} venues")
-    print(f"  - Wedding venues booking: {len(booking_venues)} venues")
-    print(f"  - Total unique venues: {len(merged_venues)}")
+    logger.info("\n📊 Summary:")
+    logger.info(f"  - Banquet price list: {len(banquet_venues)} venues")
+    logger.info(f"  - Wedding venues booking: {len(booking_venues)} venues")
+    logger.info(f"  - Total unique venues: {len(merged_venues)}")
 
     both_sources = [v for v in merged_venues if v.get("source") == "both"]
-    print(f"  - Found in both sources: {len(both_sources)}")
+    logger.info(f"  - Found in both sources: {len(both_sources)}")
 
-    print("\n📥 Phase 4: Downloading PDFs...")
-    print("-" * 60)
+    logger.info("\n📥 Phase 4: Downloading PDFs...")
+    logger.info("-" * 60)
     venues_with_pdfs = [v for v in merged_venues if v.get("price_lists")]
     if venues_with_pdfs:
         async with httpx.AsyncClient(headers=get_headers(), timeout=60) as client:
             for idx, venue in enumerate(venues_with_pdfs, 1):
-                print(f"\n[{idx}/{len(venues_with_pdfs)}] {venue.get('name', 'N/A')}")
+                logger.info(f"\n[{idx}/{len(venues_with_pdfs)}] {venue.get('name', 'N/A')}")
                 await download_pdfs_for_vendor(client, venue)
 
     return merged_venues
@@ -379,14 +382,14 @@ def main():
     args = parser.parse_args()
 
     if args.source == "banquet":
-        print("\n" + "=" * 60)
-        print("SCRAPING BANQUET PRICES ONLY")
-        print("=" * 60 + "\n")
+        logger.info("\n" + "=" * 60)
+        logger.info("SCRAPING BANQUET PRICES ONLY")
+        logger.info("=" * 60 + "\n")
         vendors = scrape_banquet_prices()
     elif args.source == "booking":
-        print("\n" + "=" * 60)
-        print("SCRAPING WEDDING VENUES BOOKING ONLY")
-        print("=" * 60 + "\n")
+        logger.info("\n" + "=" * 60)
+        logger.info("SCRAPING WEDDING VENUES BOOKING ONLY")
+        logger.info("=" * 60 + "\n")
         import asyncio
 
         vendors = asyncio.run(scrape_wedding_venues_booking_async())
@@ -396,8 +399,8 @@ def main():
     save_json_csv(vendors, f"{args.output}/venues")
 
     if vendors:
-        print("\n✅ Scraping complete!")
-        print(f"\n📊 Total venues: {len(vendors)}")
+        logger.info("\n✅ Scraping complete!")
+        logger.info(f"\n📊 Total venues: {len(vendors)}")
 
         sources_count = {}
         for v in vendors:
@@ -405,32 +408,32 @@ def main():
             sources_count[source] = sources_count.get(source, 0) + 1
 
         if sources_count:
-            print("\nVenues by source:")
+            logger.info("\nVenues by source:")
             for source, count in sorted(sources_count.items()):
-                print(f"  - {source}: {count}")
+                logger.info(f"  - {source}: {count}")
 
-        print("\nSample venues:")
+        logger.info("\nSample venues:")
         for idx, vendor in enumerate(vendors[:5], 1):
-            print(f"\n{idx}. {vendor.get('name', 'N/A')}")
+            logger.info(f"\n{idx}. {vendor.get('name', 'N/A')}")
             if "source" in vendor:
-                print(f"   Source: {vendor['source']}")
+                logger.info(f"   Source: {vendor['source']}")
             if "vendor_name" in vendor:
-                print(f"   Vendor: {vendor['vendor_name']}")
+                logger.info(f"   Vendor: {vendor['vendor_name']}")
             if "rating" in vendor:
-                print(f"   Rating: {vendor['rating']}/5")
+                logger.info(f"   Rating: {vendor['rating']}/5")
             if "lunch_price" in vendor:
-                print(f"   Lunch: {vendor['lunch_price']}")
+                logger.info(f"   Lunch: {vendor['lunch_price']}")
             if "dinner_price" in vendor:
-                print(f"   Dinner: {vendor['dinner_price']}")
+                logger.info(f"   Dinner: {vendor['dinner_price']}")
             if "tables_range" in vendor:
-                print(f"   Tables: {vendor['tables_range']}")
+                logger.info(f"   Tables: {vendor['tables_range']}")
             if "capacity_seated_min" in vendor:
                 seated = f"{vendor['capacity_seated_min']}"
                 if "capacity_seated_max" in vendor:
                     seated += f"-{vendor['capacity_seated_max']}"
-                print(f"   Capacity (seated): {seated}")
+                logger.info(f"   Capacity (seated): {seated}")
             if "location" in vendor:
-                print(f"   Location: {vendor['location']}")
+                logger.info(f"   Location: {vendor['location']}")
 
 
 if __name__ == "__main__":

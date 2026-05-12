@@ -11,8 +11,9 @@ from typing import Any
 
 import httpx
 
-from src.shared import get_browser_page, save_json_csv
+from src.shared import get_browser_page, get_logger, save_json_csv, setup_logging
 
+logger = get_logger()
 BASE_URL = "https://singaporebrides.com"
 PRICE_LIST_URL = f"{BASE_URL}/wedding-banquet-price-list/"
 
@@ -148,9 +149,9 @@ async def scrape_price_list_async(headless: bool = True) -> list[dict[str, Any]]
                 venues = await extract_venues_from_page(page)
                 if venues:
                     return venues
-                print(f"  Attempt {attempt + 1}: no venues found, retrying...")
+                logger.warning("Attempt %d: no venues found, retrying...", attempt + 1)
         except Exception as e:
-            print(f"  Attempt {attempt + 1} failed: {e}")
+            logger.warning("Attempt %d failed: %s", attempt + 1, e)
         if attempt < max_retries - 1:
             await asyncio.sleep(2**attempt)
     return []
@@ -172,7 +173,7 @@ async def download_pdf(client: httpx.AsyncClient, url: str, save_path: Path) -> 
 
         return True
     except Exception as e:
-        print(f"    ! Failed to download {save_path.name}: {e}")
+        logger.error("Failed to download %s: %s", save_path.name, e)
         return False
 
 
@@ -246,7 +247,7 @@ async def scrape_venue_details(client: httpx.AsyncClient, slug: str) -> dict[str
         return details
 
     except Exception as e:
-        print(f"    ! Error fetching details for {slug}: {e}")
+        logger.error(f"    ! Error fetching details for {slug}: {e}")
         return {}
 
 
@@ -265,10 +266,10 @@ async def enrich_venues_with_details(venues: list[dict[str, Any]], download_pdfs
                         venue["slug"] = slug
 
             if not slug:
-                print(f"  Skipping {venue.get('name', 'N/A')}: no detail URL found")
+                logger.info(f"  Skipping {venue.get('name', 'N/A')}: no detail URL found")
                 continue
 
-            print(f"[{idx}/{len(venues)}] Fetching details for {venue.get('name', 'N/A')}")
+            logger.info(f"[{idx}/{len(venues)}] Fetching details for {venue.get('name', 'N/A')}")
 
             details = await scrape_venue_details(client, slug)
 
@@ -308,10 +309,10 @@ async def scrape_all_async(
     headless: bool = True, fetch_details: bool = True, download_pdfs: bool = True
 ) -> list[dict[str, Any]]:
     """Main async function to scrape all data"""
-    print("Scraping SingaporeBrides.com wedding venues...")
+    logger.info("Scraping SingaporeBrides.com wedding venues...")
 
     venues = await scrape_price_list_async(headless=headless)
-    print(f"Found {len(venues)} venues")
+    logger.info(f"Found {len(venues)} venues")
 
     if fetch_details and venues:
         venues = await enrich_venues_with_details(venues, download_pdfs=download_pdfs)
@@ -341,7 +342,7 @@ def main():
     if venues:
         with_details = sum(1 for v in venues if v.get("about"))
         with_pdfs = sum(1 for v in venues if v.get("pdf_urls"))
-        print(f"\nTotal: {len(venues)} venues ({with_details} with details, {with_pdfs} with PDFs)")
+        logger.info(f"\nTotal: {len(venues)} venues ({with_details} with details, {with_pdfs} with PDFs)")
 
 
 if __name__ == "__main__":

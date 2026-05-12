@@ -7,7 +7,10 @@ import pandas as pd
 from dotenv import load_dotenv
 
 from ..shared.config import get_headers
+from ..shared.logging import get_logger
 from ..shared.save import save_json
+
+logger = get_logger()
 
 load_dotenv()
 
@@ -32,9 +35,9 @@ VENDOR_ENDPOINTS = {
 def fetch_vendors_from_endpoint(
     client: httpx.Client, category: str, endpoint_path: str, max_records: int | None = None
 ):
-    print(f"\n{'=' * 80}")
-    print(f"Fetching: {category}")
-    print(f"{'=' * 80}")
+    logger.info(f"\n{'=' * 80}")
+    logger.info(f"Fetching: {category}")
+    logger.info(f"{'=' * 80}")
 
     url = f"{BASE_URL}/{APP_ID}/{endpoint_path}/data"
 
@@ -44,7 +47,7 @@ def fetch_vendors_from_endpoint(
     limit = 100
 
     while True:
-        print(f"  Batch (offset={offset}, limit={limit})...", end=" ")
+        logger.info("  Batch (offset=%d, limit=%d)...", offset, limit)
 
         payload = {"limit": limit, "offset": offset}
         response = client.post(url, json=payload)
@@ -54,7 +57,7 @@ def fetch_vendors_from_endpoint(
         records = data.get("records", [])
 
         if not records:
-            print("No more records")
+            logger.info("No more records")
             break
 
         new_records = []
@@ -66,15 +69,15 @@ def fetch_vendors_from_endpoint(
                 new_records.append(record)
 
         all_vendors.extend(new_records)
-        print(f"{len(records)} fetched, {len(new_records)} unique (total: {len(all_vendors)})")
+        logger.info(f"{len(records)} fetched, {len(new_records)} unique (total: {len(all_vendors)})")
 
         if max_records and len(all_vendors) >= max_records:
             all_vendors = all_vendors[:max_records]
-            print(f"✅ Reached max limit: {max_records}")
+            logger.info(f"✅ Reached max limit: {max_records}")
             break
 
         if len(new_records) == 0:
-            print("⚠️  No new unique records - stopping")
+            logger.warning("⚠️  No new unique records - stopping")
             break
 
         if len(records) < limit:
@@ -82,15 +85,15 @@ def fetch_vendors_from_endpoint(
 
         offset += limit
 
-    print(f"✅ {category}: {len(all_vendors)} unique vendors")
+    logger.info(f"✅ {category}: {len(all_vendors)} unique vendors")
     return all_vendors
 
 
 def fetch_all_vendors(max_records_per_category: int | None = None):
-    print("=" * 80)
-    print("BRIDELY.SG COMPLETE VENDOR SCRAPER")
-    print("=" * 80)
-    print(f"\nFetching from {len(VENDOR_ENDPOINTS)} vendor categories...")
+    logger.info("=" * 80)
+    logger.info("BRIDELY.SG COMPLETE VENDOR SCRAPER")
+    logger.info("=" * 80)
+    logger.info(f"\nFetching from {len(VENDOR_ENDPOINTS)} vendor categories...")
 
     all_vendors = []
     global_seen_ids = set()
@@ -114,13 +117,13 @@ def fetch_all_vendors(max_records_per_category: int | None = None):
 
             category_stats[category] = {"fetched": len(category_vendors), "unique_globally": unique_in_category}
 
-        print(f"\n{'=' * 80}")
-        print("SUMMARY")
-        print(f"{'=' * 80}")
+        logger.info(f"\n{'=' * 80}")
+        logger.info("SUMMARY")
+        logger.info(f"{'=' * 80}")
         for category, stats in category_stats.items():
-            print(f"  {category}: {stats['fetched']} fetched, {stats['unique_globally']} globally unique")
+            logger.info(f"  {category}: {stats['fetched']} fetched, {stats['unique_globally']} globally unique")
 
-        print(f"\n✅ Total unique vendors across all categories: {len(all_vendors)}")
+        logger.info(f"\n✅ Total unique vendors across all categories: {len(all_vendors)}")
         return all_vendors
 
     finally:
@@ -163,7 +166,7 @@ def transform_vendors(raw_vendors: list):
 
 def save_vendors(vendors: list, filename: str = "data/bly/vendors"):
     if not vendors:
-        print("No data to save")
+        logger.info("No data to save")
         return
 
     output_path = Path(filename)
@@ -177,27 +180,27 @@ def save_vendors(vendors: list, filename: str = "data/bly/vendors"):
     df = pd.DataFrame(vendors)
     df.to_csv(csv_path, index=False, encoding="utf-8")
 
-    print(f"\n✅ Saved {len(vendors)} vendors to:")
-    print(f"   - {json_path}")
-    print(f"   - {csv_path}")
+    logger.info(f"\n✅ Saved {len(vendors)} vendors to:")
+    logger.info(f"   - {json_path}")
+    logger.info(f"   - {csv_path}")
 
-    print("\n📊 Data Quality:")
+    logger.info("\n📊 Data Quality:")
     names_pct = df["name"].notna().sum() / len(df) * 100
-    print(f"  - Vendors with names: {df['name'].notna().sum()} ({names_pct:.1f}%)")
+    logger.info(f"  - Vendors with names: {df['name'].notna().sum()} ({names_pct:.1f}%)")
     categories_pct = df["category"].notna().sum() / len(df) * 100
-    print(f"  - Vendors with categories: {df['category'].notna().sum()} ({categories_pct:.1f}%)")
+    logger.info(f"  - Vendors with categories: {df['category'].notna().sum()} ({categories_pct:.1f}%)")
     email_pct = df["email"].notna().sum() / len(df) * 100
-    print(f"  - Vendors with email: {df['email'].notna().sum()} ({email_pct:.1f}%)")
+    logger.info(f"  - Vendors with email: {df['email'].notna().sum()} ({email_pct:.1f}%)")
     phone_pct = df["phone"].notna().sum() / len(df) * 100
-    print(f"  - Vendors with phone: {df['phone'].notna().sum()} ({phone_pct:.1f}%)")
+    logger.info(f"  - Vendors with phone: {df['phone'].notna().sum()} ({phone_pct:.1f}%)")
     website_pct = df["website"].notna().sum() / len(df) * 100
-    print(f"  - Vendors with website: {df['website'].notna().sum()} ({website_pct:.1f}%)")
+    logger.info(f"  - Vendors with website: {df['website'].notna().sum()} ({website_pct:.1f}%)")
 
     if df["category"].notna().sum() > 0:
-        print("\n📋 Top 15 Vendor Categories:")
+        logger.info("\n📋 Top 15 Vendor Categories:")
         category_counts = df["category"].value_counts().head(15)
         for category, count in category_counts.items():
-            print(f"  - {category}: {count}")
+            logger.info(f"  - {category}: {count}")
 
 
 def main():
@@ -209,15 +212,15 @@ def main():
 
     raw_vendors = fetch_all_vendors(max_records_per_category=args.limit_per_category)
 
-    print("\nTransforming data...")
+    logger.info("\nTransforming data...")
     vendors = transform_vendors(raw_vendors)
 
-    print("\nSaving data...")
+    logger.info("\nSaving data...")
     save_vendors(vendors, args.output)
 
-    print("\n" + "=" * 80)
-    print("✅ SCRAPING COMPLETE")
-    print("=" * 80)
+    logger.info("\n" + "=" * 80)
+    logger.info("✅ SCRAPING COMPLETE")
+    logger.info("=" * 80)
 
 
 if __name__ == "__main__":

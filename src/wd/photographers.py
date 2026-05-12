@@ -7,7 +7,9 @@ from urllib.parse import urlparse
 import httpx
 from playwright.async_api import async_playwright
 
-from src.shared import save_json
+from src.shared import get_logger, save_json
+
+logger = get_logger()
 
 
 def parse_photographer_slug(url: str) -> str:
@@ -89,20 +91,20 @@ async def scrape_all_photographers(urls: list[str], concurrent_limit: int = 5) -
 
     async def scrape_with_semaphore(browser, url: str, index: int) -> dict:
         async with semaphore:
-            print(f"[{index}/{len(urls)}] Scraping: {url}")
+            logger.info(f"[{index}/{len(urls)}] Scraping: {url}")
             try:
                 page = await browser.new_page()
                 try:
                     result = await scrape_photographer_page(page, url)
                     package_count = len(result.get("packages", []))
                     photobook_count = result.get("portfolio", {}).get("photobook_count", 0)
-                    print(f"  -> {result['name']}: {package_count} packages, {photobook_count} photobooks")
+                    logger.info(f"  -> {result['name']}: {package_count} packages, {photobook_count} photobooks")
                     await asyncio.sleep(1)
                     return result
                 finally:
                     await page.close()
             except Exception as e:
-                print(f"  -> ERROR: {type(e).__name__}: {str(e)[:100]}")
+                logger.error(f"  -> ERROR: {type(e).__name__}: {str(e)[:100]}")
                 return None
 
     async with async_playwright() as p:
@@ -118,7 +120,7 @@ async def scrape_all_photographers(urls: list[str], concurrent_limit: int = 5) -
 
 def save_to_csv(photographers: list[dict], filename: str):
     if not photographers:
-        print("No photographers to save")
+        logger.info("No photographers to save")
         return
 
     Path(filename).parent.mkdir(parents=True, exist_ok=True)
@@ -205,27 +207,27 @@ def save_to_csv(photographers: list[dict], filename: str):
         writer.writeheader()
         writer.writerows(flattened)
 
-    print(f"Saved to {filename}")
+    logger.info(f"Saved to {filename}")
 
 
 async def main(limit: int = 0):
-    print("Fetching photographer URLs from sitemap...")
+    logger.info("Fetching photographer URLs from sitemap...")
     urls = await fetch_photographer_sitemap()
     if limit > 0:
         urls = urls[:limit]
-        print(f"Limited to {limit} photographers for testing")
-    print(f"Found {len(urls)} photographer URLs to scrape")
+        logger.info(f"Limited to {limit} photographers for testing")
+    logger.info(f"Found {len(urls)} photographer URLs to scrape")
 
-    print("Scraping photographers from wedded.sg using Playwright...")
+    logger.info("Scraping photographers from wedded.sg using Playwright...")
     photographers = await scrape_all_photographers(urls)
 
-    print(f"\nTotal photographers scraped: {len(photographers)}")
+    logger.info(f"\nTotal photographers scraped: {len(photographers)}")
 
     total_packages = sum(len(p.get("packages", [])) for p in photographers)
     total_photobooks = sum(p.get("portfolio", {}).get("photobook_count", 0) for p in photographers)
     photographers_with_packages = sum(1 for p in photographers if p.get("packages"))
-    print(f"Total packages: {total_packages} ({photographers_with_packages} photographers have packages)")
-    print(f"Total photobooks: {total_photobooks}")
+    logger.info(f"Total packages: {total_packages} ({photographers_with_packages} photographers have packages)")
+    logger.info(f"Total photobooks: {total_photobooks}")
 
     json_file = "data/wd/photographers.json"
     save_json(photographers, json_file)
@@ -233,11 +235,11 @@ async def main(limit: int = 0):
     csv_file = "data/wd/photographers.csv"
     save_to_csv(photographers, csv_file)
 
-    print("\nFirst 3 photographers:")
+    logger.info("\nFirst 3 photographers:")
     for i, photographer in enumerate(photographers[:3], 1):
         package_count = len(photographer.get("packages", []))
         photobook_count = photographer.get("portfolio", {}).get("photobook_count", 0)
-        print(f"{i}. {photographer['name']}: {package_count} packages, {photobook_count} photobooks")
+        logger.info(f"{i}. {photographer['name']}: {package_count} packages, {photobook_count} photobooks")
 
 
 if __name__ == "__main__":
