@@ -4184,7 +4184,7 @@
   },
   {
     "id": "4581e4ca-8221-49a0-b180-ffaa0f290919",
-    "name": "One World Hotel Petaling Jaya",
+    "name": "One World Hotel",
     "slug": "one-world-hotel-petaling-jaya",
     "vendorType": "venue",
     "status": "live",
@@ -4236,18 +4236,18 @@
     ],
     "description": "One World Hotel is a luxurious 5-star hotel located in Petaling Jaya, Malaysia. One World Hotel is ideally situated in the vibrant heart of Petaling Jaya, just 12 kilometers from Kuala Lumpur City Centre. The hotel offers direct access to the Bandar Utama MRT station, ensuring convenient city exploration for guests. With 452 rooms and suites, the accommodation options are diverse, including Superior Rooms, Deluxe Rooms, Executive Deluxe Rooms, Junior Suites, and Executive Suites, along with a specially designed superior room for guests with disabilities. Each room is equipped with top-notch amenities, from 50” LED televisions and complimentary wireless internet access to spacious bathrooms with bathtubs, coffee and tea making facilities, and personal safes, providing a comfortable and convenient stay. To view more packages, kindly WhatsApp +60163391027",
     "createdAt": "2025-03-24T11:13:48.353Z",
-    "vendorId": "user_3Cy3Yz8yDkM9kiVwKHPBOi17yo1",
+    "vendorId": "user_3E1cfiGyzN1kGk4tCPKmO1OGvAQ",
     "address": "First Avenue, City Centre, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor, Malaysia",
     "postCode": "47800",
     "googlePlaceId": "ChIJdwqXWCtJzDER12q71TDpPy0",
     "latitude": "3.1471287",
     "longitude": "101.6169801",
-    "googlePlaceName": "First Avenue, City Centre, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor, Malaysia",
-    "neighbourhood": null,
-    "googleMapsLink": null,
-    "wazeLink": null,
-    "googleRating": null,
-    "googleTotalReviews": null,
+    "googlePlaceName": "One World Hotel",
+    "neighbourhood": "Bandar Utama",
+    "googleMapsLink": "https://maps.google.com/?cid=3260581051193060055",
+    "wazeLink": "https://waze.com/ul?ll=3.1471287,101.6169801&navigate=yes",
+    "googleRating": "4.4",
+    "googleTotalReviews": 6884,
     "whatsappNumber": null,
     "whatsappMessage": null,
     "youtubeLink": "",
@@ -4281,13 +4281,13 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'+60163391027':135B '12':34B '452':59B '5':12B '50':102B 'access':45B,109B 'accommod':64B 'along':81B 'amen':100B 'bandar':48B 'bathroom':112B 'bathtub':114B 'centr':40B 'citi':39B,54B 'coffe':115B 'comfort':125B 'complimentari':106B 'conveni':53B,127B 'delux':71B,74B 'design':85B 'direct':44B 'disabl':91B 'divers':67B 'ensur':52B 'equip':95B 'execut':73B,79B 'explor':55B 'facil':119B 'guest':57B,89B 'heart':29B 'hotel':3A,8B,14B,22B,42B 'ideal':24B 'includ':68B 'internet':108B 'jaya':5A,18B,32B,137C 'junior':76B 'kilomet':35B 'kind':133B 'kuala':37B 'led':103B 'locat':15B 'lumpur':38B 'luxuri':11B 'make':118B 'malaysia':19B 'mrt':50B 'notch':99B 'offer':43B 'one':1A,6B,20B 'option':65B 'packag':132B 'person':121B 'petal':4A,17B,31B,136C 'provid':123B 'room':60B,70B,72B,75B,87B,93B 'safe':122B 'selangor':138C 'situat':25B 'spacious':111B 'special':84B 'star':13B 'station':51B 'stay':128B 'suit':62B,77B,80B 'superior':69B,86B 'tea':117B 'televis':104B 'top':98B 'top-notch':97B 'utama':49B 'vibrant':28B 'view':130B 'whatsapp':134B 'wireless':107B 'world':2A,7B,21B",
+    "fts": "'+60163391027':133B '12':32B '452':57B '5':10B '50':100B 'access':43B,107B 'accommod':62B 'along':79B 'amen':98B 'bandar':46B,137C 'bathroom':110B 'bathtub':112B 'centr':38B 'citi':37B,52B 'coffe':113B 'comfort':123B 'complimentari':104B 'conveni':51B,125B 'delux':69B,72B 'design':83B 'direct':42B 'disabl':89B 'divers':65B 'ensur':50B 'equip':93B 'execut':71B,77B 'explor':53B 'facil':117B 'guest':55B,87B 'heart':27B 'hotel':3A,6B,12B,20B,40B 'ideal':22B 'includ':66B 'internet':106B 'jaya':16B,30B,135C 'junior':74B 'kilomet':33B 'kind':131B 'kuala':35B 'led':101B 'locat':13B 'lumpur':36B 'luxuri':9B 'make':116B 'malaysia':17B 'mrt':48B 'notch':97B 'offer':41B 'one':1A,4B,18B 'option':63B 'packag':130B 'person':119B 'petal':15B,29B,134C 'provid':121B 'room':58B,68B,70B,73B,85B,91B 'safe':120B 'selangor':136C 'situat':23B 'spacious':109B 'special':82B 'star':11B 'station':49B 'stay':126B 'suit':60B,75B,78B 'superior':67B,84B 'tea':115B 'televis':102B 'top':96B 'top-notch':95B 'utama':47B,138C 'vibrant':26B 'view':128B 'whatsapp':132B 'wireless':105B 'world':2A,5B,19B",
     "textEmbedding": null,
     "catalogPosition": 5,
     "isSpotlight": true,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-04-28T07:40:50.105Z",
+    "updatedAt": "2026-05-21T08:01:46.886Z",
     "spaces": [
       {
         "id": "56374e0f-a16f-4899-9496-f5719eb6d6b7",
@@ -5523,11 +5523,29 @@
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/2b857cdf-fe0d-48cb-aa8e-5824df40cc2d/428f273b-c0e5-4911-9f79-0829aa21549d/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1779355564336-20251025_091217620_iOS/original.jpg"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1779355569185-20251025_092600390_iOS/original.jpg"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1779355572159-20251025_084335910_iOS/original.jpg"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1779355575092-20251025_090600520_iOS/original.jpg"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1779355579948-20251025_113539860_iOS/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1779355583716-20251025_130207080_iOS/original.jpg"
       }
     ],
     "description": "Celebrate your once-in-a-lifetime moment in the timeless sophistication of Sofitel Kuala Lumpur Damansara. Nestled in the prestigious Damansara Heights, our luxurious ballroom features a striking curved design, dark wood accents, and a sculpted, avant-garde ceiling — creating a pillarless, breathtaking setting for your grand celebration. With the capacity to host up to 420 guests, every detail is thoughtfully curated to leave a lasting impression.\r\n\r\nFor more intimate weddings, Wan Chun Ting offers a refined space inspired by Imperial China, complete with intricate carved screens, a whimsical chandelier, and exquisite Cantonese cuisine. Perfect for receptions of up to 120 guests, it promises a truly bespoke dining experience.\r\n\r\nAt Sofitel Kuala Lumpur Damansara, your wedding dreams come alive with French elegance and heartfelt Malaysian hospitality. From lavish ballroom banquets to intimate cultural ceremonies, our dedicated wedding specialists are here to craft unforgettable moments tailored just for you.",
     "createdAt": "2025-04-27T09:32:51.254Z",
-    "vendorId": "pending_6b73c8e22c8f3bc2",
+    "vendorId": "user_3E1oZ9TtVL60PWVr2jS8i6dQsaj",
     "address": "6, Jalan Damanlela, Bukit Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
     "postCode": "50490",
     "googlePlaceId": "ChIJkR-v5alJzDERgumlMpcTL_M",
@@ -5602,7 +5620,7 @@
     "isSpotlight": true,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-04-24T01:11:01.559Z",
+    "updatedAt": "2026-05-21T09:26:27.947Z",
     "spaces": [
       {
         "id": "e9a024be-5762-49d8-ac6c-5d088cef7aff",
@@ -10218,7 +10236,7 @@
     ],
     "description": "The award-winning Visitor Centre at Tanarimba is the heart of most wedding celebrations—a stunning architectural masterpiece crafted from timber that harmoniously blends with the natural beauty that surrounds it. Designed to seat 250 guests with a total capacity of up to 500, this grand space features soaring timber columns and a romantic glow from cascading fairy lights, creating an enchanting setting that’s perfect for your unforgettable “I do.”",
     "createdAt": "2025-07-23T05:51:02.780Z",
-    "vendorId": "user_3Cy3Yz8yDkM9kiVwKHPBOi17yo1",
+    "vendorId": "user_3CRoLUwQJApirl7TEUvgKfe4upM",
     "address": "C1, Jalan Tanarimba Pine, Tanarimba, Janda Baik, 28750 Bentong, Pahang, Malaysia",
     "postCode": "28750",
     "googlePlaceId": "ChIJZ2CPjY09zDERUfC1spjy71k",
@@ -10254,7 +10272,7 @@
     "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-04-24T01:11:01.559Z",
+    "updatedAt": "2026-05-21T06:55:46.162Z",
     "spaces": [
       {
         "id": "491f978c-204f-45c7-93ce-27a1a4e1ce11",
@@ -14347,7 +14365,7 @@
         "priceMax": null,
         "priceFixture": "all_inclusive",
         "pricePerPax": null,
-        "description": "$72",
+        "description": "$73",
         "includes": [
           "8-course Chinese set menu",
           "Unlimited Chinese tea and fizzy orange throughout dinner or lunch",
