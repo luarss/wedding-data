@@ -34,11 +34,11 @@ async def download_pdfs_for_vendor(client: httpx.AsyncClient, vendor_data: dict)
         save_path = pdf_dir / filename
 
         if save_path.exists():
-            logger.info(f"  ⏭️  Skipping {filename} (already exists)")
+            logger.debug(f"  ⏭️  Skipping {filename} (already exists)")
             downloaded_pdfs.append(pdf_url)
             continue
 
-        logger.info(f"  📄 Downloading {filename}...")
+        logger.debug(f"  📄 Downloading {filename}...")
         success = await download_pdf(client, pdf_url, save_path)
         if success:
             downloaded_pdfs.append(pdf_url)
@@ -155,7 +155,7 @@ async def scrape_wedding_venues_booking_async() -> list[dict]:
                                     )
 
                         if venue_data.get("name") and venue_data["name"] not in [v.get("name") for v in venues]:
-                            logger.info(f"  Found: {venue_data.get('name', 'N/A')}")
+                            logger.debug(f"  Found: {venue_data.get('name', 'N/A')}")
                             details = await scrape_venue_booking_details(client, venue_id)
                             venue_data.update(details)
                             venues.append(venue_data)
@@ -345,7 +345,7 @@ async def scrape_all_venues_async() -> list[dict]:
     if venues_with_pdfs:
         async with httpx.AsyncClient(headers=get_headers(), timeout=60) as client:
             for idx, venue in enumerate(venues_with_pdfs, 1):
-                logger.info(f"\n[{idx}/{len(venues_with_pdfs)}] {venue.get('name', 'N/A')}")
+                logger.debug(f"\n[{idx}/{len(venues_with_pdfs)}] {venue.get('name', 'N/A')}")
                 await download_pdfs_for_vendor(client, venue)
 
     return merged_venues
@@ -363,7 +363,6 @@ def scrape_all_venues() -> list[dict]:
     import asyncio
 
     return asyncio.run(scrape_all_venues_async())
-
 
 
 def main():

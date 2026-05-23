@@ -187,19 +187,16 @@ async def _fetch_detail(client, page, listing):
 
 async def _fetch_all_details(listings):
     results = []
-    async with httpx.AsyncClient(headers=get_headers(), timeout=30) as client, \
-               async_playwright() as p:
+    async with httpx.AsyncClient(headers=get_headers(), timeout=30) as client, async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         try:
             context = await browser.new_context(user_agent=BROWSER_UA)
             page = await context.new_page()
-            await page.add_init_script(
-                "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
-            )
+            await page.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
             for i, listing in enumerate(listings):
                 if i > 0:
                     await asyncio.sleep(DETAIL_DELAY_BETWEEN)
-                logger.info(f"  [{i + 1}/{len(listings)}] Fetching {listing['name']}...")
+                logger.debug(f"  [{i + 1}/{len(listings)}] Fetching {listing['name']}...")
                 result = await _fetch_detail(client, page, listing)
                 results.append(result)
         finally:

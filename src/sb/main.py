@@ -11,7 +11,7 @@ from typing import Any
 
 import httpx
 
-from src.shared import get_browser_page, get_logger, save_json_csv, setup_logging
+from src.shared import get_browser_page, get_logger, save_json_csv
 
 logger = get_logger()
 BASE_URL = "https://singaporebrides.com"
@@ -266,10 +266,10 @@ async def enrich_venues_with_details(venues: list[dict[str, Any]], download_pdfs
                         venue["slug"] = slug
 
             if not slug:
-                logger.info(f"  Skipping {venue.get('name', 'N/A')}: no detail URL found")
+                logger.debug(f"  Skipping {venue.get('name', 'N/A')}: no detail URL found")
                 continue
 
-            logger.info(f"[{idx}/{len(venues)}] Fetching details for {venue.get('name', 'N/A')}")
+            logger.debug(f"[{idx}/{len(venues)}] Fetching details for {venue.get('name', 'N/A')}")
 
             details = await scrape_venue_details(client, slug)
 
@@ -297,7 +297,6 @@ async def enrich_venues_with_details(venues: list[dict[str, Any]], download_pdfs
             await asyncio.sleep(0.5)
 
     return venues
-
 
 
 def scrape_price_list(headless: bool = True) -> list[dict[str, Any]]:

@@ -47,7 +47,7 @@ def fetch_vendors_from_endpoint(
     limit = 100
 
     while True:
-        logger.info("  Batch (offset=%d, limit=%d)...", offset, limit)
+        logger.debug("  Batch (offset=%d, limit=%d)...", offset, limit)
 
         payload = {"limit": limit, "offset": offset}
         response = client.post(url, json=payload)
@@ -69,7 +69,7 @@ def fetch_vendors_from_endpoint(
                 new_records.append(record)
 
         all_vendors.extend(new_records)
-        logger.info(f"{len(records)} fetched, {len(new_records)} unique (total: {len(all_vendors)})")
+        logger.debug(f"{len(records)} fetched, {len(new_records)} unique (total: {len(all_vendors)})")
 
         if max_records and len(all_vendors) >= max_records:
             all_vendors = all_vendors[:max_records]

@@ -102,14 +102,14 @@ async def scrape_all_venues(urls: list[str], concurrent_limit: int = 5) -> list[
 
     async def scrape_with_semaphore(browser, url: str, index: int) -> dict:
         async with semaphore:
-            logger.info(f"[{index}/{len(urls)}] Scraping: {url}")
+            logger.debug(f"[{index}/{len(urls)}] Scraping: {url}")
             try:
                 page = await browser.new_page()
                 try:
                     result = await scrape_venue_page(page, url)
                     pdf_count = len(result.get("pdfs", []))
                     pdf_info = f", {pdf_count} PDFs" if pdf_count > 0 else ""
-                    logger.info(f"  -> {result['name']}: {len(result['rooms'])} rooms{pdf_info}")
+                    logger.debug(f"  -> {result['name']}: {len(result['rooms'])} rooms{pdf_info}")
                     await asyncio.sleep(1)
                     return result
                 finally:
@@ -127,7 +127,6 @@ async def scrape_all_venues(urls: list[str], concurrent_limit: int = 5) -> list[
             await browser.close()
 
     return [r for r in results if r is not None]
-
 
 
 def save_to_csv(venues: list[dict], filename: str):
@@ -250,13 +249,13 @@ async def main(limit: int = 0):
     csv_file = "data/wd/venues.csv"
     save_to_csv(venues, csv_file)
 
-    logger.info("\nFirst 3 venues:")
+    logger.debug("\nFirst 3 venues:")
     for i, venue in enumerate(venues[:3], 1):
         pdf_count = len(venue.get("pdfs", []))
         pdf_info = f", {pdf_count} PDFs" if pdf_count > 0 else ""
-        logger.info(f"{i}. {venue['name']}{pdf_info}")
+        logger.debug(f"{i}. {venue['name']}{pdf_info}")
         for room in venue.get("rooms", []):
-            logger.info(f"   - {room['name']}: {len(room['packages'])} packages")
+            logger.debug(f"   - {room['name']}: {len(room['packages'])} packages")
 
 
 if __name__ == "__main__":

@@ -92,14 +92,14 @@ async def scrape_all_photographers(urls: list[str], concurrent_limit: int = 5) -
 
     async def scrape_with_semaphore(browser, url: str, index: int) -> dict:
         async with semaphore:
-            logger.info(f"[{index}/{len(urls)}] Scraping: {url}")
+            logger.debug(f"[{index}/{len(urls)}] Scraping: {url}")
             try:
                 page = await browser.new_page()
                 try:
                     result = await scrape_photographer_page(page, url)
                     package_count = len(result.get("packages", []))
                     photobook_count = result.get("portfolio", {}).get("photobook_count", 0)
-                    logger.info(f"  -> {result['name']}: {package_count} packages, {photobook_count} photobooks")
+                    logger.debug(f"  -> {result['name']}: {package_count} packages, {photobook_count} photobooks")
                     await asyncio.sleep(1)
                     return result
                 finally:
@@ -236,11 +236,11 @@ async def main(limit: int = 0):
     csv_file = "data/wd/photographers.csv"
     save_to_csv(photographers, csv_file)
 
-    logger.info("\nFirst 3 photographers:")
+    logger.debug("\nFirst 3 photographers:")
     for i, photographer in enumerate(photographers[:3], 1):
         package_count = len(photographer.get("packages", []))
         photobook_count = photographer.get("portfolio", {}).get("photobook_count", 0)
-        logger.info(f"{i}. {photographer['name']}: {package_count} packages, {photobook_count} photobooks")
+        logger.debug(f"{i}. {photographer['name']}: {package_count} packages, {photobook_count} photobooks")
 
 
 if __name__ == "__main__":

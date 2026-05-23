@@ -1,6 +1,6 @@
 import asyncio
 
-from src.shared import get_logger, get_browser_page, save_csv, save_json
+from src.shared import get_browser_page, get_logger, save_csv, save_json
 
 logger = get_logger()
 
@@ -19,7 +19,7 @@ async def click_see_more_until_loaded(page):
             await see_more_button.scroll_into_view_if_needed()
             await see_more_button.click(timeout=5000)
             click_count += 1
-            logger.info(f"  Clicked 'See more' {click_count} times")
+            logger.debug(f"  Clicked 'See more' {click_count} times")
             await asyncio.sleep(1)
         except Exception as e:
             logger.info(f"Could not click 'See more' button: {e}")
@@ -27,7 +27,7 @@ async def click_see_more_until_loaded(page):
 
 
 async def extract_venues_from_dom(page):
-    logger.info("\nDebugging DOM structure...")
+    logger.debug("\nDebugging DOM structure...")
     debug_info = await page.evaluate(r"""() => {
         const venueCards = document.querySelectorAll('.vertical-list-item');
         const firstCard = venueCards[0];
@@ -40,9 +40,9 @@ async def extract_venues_from_dom(page):
         };
     }""")
 
-    logger.info(f"Debug info: {debug_info}")
+    logger.debug(f"Debug info: {debug_info}")
 
-    logger.info("\nExtracting venue data from DOM...")
+    logger.debug("\nExtracting venue data from DOM...")
     venues = await page.evaluate(r"""() => {
         const wrappers = document.querySelectorAll('.list-item-wrapper.vertical');
         const venues = [];
@@ -124,7 +124,17 @@ async def main():
     save_csv(
         venues,
         "data/bly/venues.csv",
-        fieldnames=["recordId", "name", "url", "price", "capacity", "venueRating", "serviceRating", "foodRating", "reviews"],
+        fieldnames=[
+            "recordId",
+            "name",
+            "url",
+            "price",
+            "capacity",
+            "venueRating",
+            "serviceRating",
+            "foodRating",
+            "reviews",
+        ],
     )
     save_json(venues, "data/bly/venues.json")
 
