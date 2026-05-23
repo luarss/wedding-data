@@ -49,36 +49,43 @@ jobs:
           EOF
 
       - name: Run TWN scraper
+        id: twn
         run: uv run python -m src.twn.main
         timeout-minutes: 15
         continue-on-error: true
 
       - name: Run BlissfulBrides scraper
+        id: bb
         run: uv run python -m src.bb.main
         timeout-minutes: 15
         continue-on-error: true
 
       - name: Run Bridely venues scraper
+        id: bly-venues
         run: uv run python -m src.bly.main
         timeout-minutes: 15
         continue-on-error: true
 
       - name: Run Bridely vendors scraper
+        id: bly-vendors
         run: uv run python -m src.bly.vendors
         timeout-minutes: 15
         continue-on-error: true
 
       - name: Run Wedded.sg venues scraper
+        id: wd-venues
         run: uv run python -m src.wd.main
         timeout-minutes: 15
         continue-on-error: true
 
       - name: Run Wedded.sg photographers scraper
+        id: wd-photographers
         run: uv run python -m src.wd.photographers
         timeout-minutes: 15
         continue-on-error: true
 
       - name: Run SingaporeBrides scraper
+        id: sb
         run: uv run python -m src.sb.main
         timeout-minutes: 15
         continue-on-error: true
@@ -86,9 +93,20 @@ jobs:
       - name: Report scraper failures
         if: ${{ !cancelled() }}
         run: |
-          echo "## Scraper Results" >> $GITHUB_STEP_SUMMARY
-          echo "Check the step results above for each scraper." >> $GITHUB_STEP_SUMMARY
-          echo "Steps with continue-on-error: true will show as green even on failure — check logs." >> $GITHUB_STEP_SUMMARY
+          FAILED=""
+          [ "${{ steps.twn.outcome }}" = "failure" ] && FAILED="$FAILED twn"
+          [ "${{ steps.bb.outcome }}" = "failure" ] && FAILED="$FAILED bb"
+          [ "${{ steps.bly-venues.outcome }}" = "failure" ] && FAILED="$FAILED bly-venues"
+          [ "${{ steps.bly-vendors.outcome }}" = "failure" ] && FAILED="$FAILED bly-vendors"
+          [ "${{ steps.wd-venues.outcome }}" = "failure" ] && FAILED="$FAILED wd-venues"
+          [ "${{ steps.wd-photographers.outcome }}" = "failure" ] && FAILED="$FAILED wd-photographers"
+          [ "${{ steps.sb.outcome }}" = "failure" ] && FAILED="$FAILED sb"
+          if [ -n "$FAILED" ]; then
+            echo "## Scraper Failures" >> $GITHUB_STEP_SUMMARY
+            echo "The following scrapers failed:" >> $GITHUB_STEP_SUMMARY
+            for s in $FAILED; do echo "  - $s" >> $GITHUB_STEP_SUMMARY; done
+            echo "Check the step logs above for error details." >> $GITHUB_STEP_SUMMARY
+          fi
 
       - name: Commit and push data
         uses: stefanzweifel/git-auto-commit-action@v5
