@@ -13111,7 +13111,7 @@
     ],
     "description": "A premium event space for unforgettable celebrations. Spacious, elegant, and highly customizable perfect for weddings, corporate events, and private parties. Photo ready ambience, great facilities, and a welcoming experience for every guest.",
     "createdAt": "2026-01-16T02:31:58.896Z",
-    "vendorId": "pending_d7e93710b3e7e3fa",
+    "vendorId": "user_3ECv1Ca4594N8e22xqS9YRQsUQD",
     "address": "Unit 3-0, 65, Jalan Raja Bot, Kawasan 18, 41400 Klang, Selangor, Malaysia",
     "postCode": "41400",
     "googlePlaceId": "ChIJiwhEhUNTzDERQMetsSdSbDY",
@@ -14139,11 +14139,17 @@
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/2d898646-ee15-443a-af15-9209c46d0ece/29c482ce-3a98-4798-a3c4-09fc83448064/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/parkroyal-penang-resort/1779680843471-26/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/parkroyal-penang-resort/1779680855159-02/original.jpg"
       }
     ],
     "description": "PARKROYAL Penang Resort offers versatile venues for weddings and events. The Andaman Grand Ballroom, featuring one of the largest built‑in LED screens in Batu Ferringhi, is perfect for grand weddings, gala dinners, and corporate functions. For intimate gatherings, Jintan 1 provides a cozy and private space. The garden venue, surrounded by lush greenery with stunning sea views, is ideal for exchanging vows, romantic ceremonies, and outdoor celebrations, creating a picturesque and memorable backdrop for your special day.",
     "createdAt": "2026-03-08T13:33:28.682Z",
-    "vendorId": "pending_55c9f660330f1396",
+    "vendorId": "user_3ECRbOgfDtgqEPdisJOwodDw0um",
     "address": "PARKROYAL Penang Resort Batu Ferringhi Beach, 11100 Batu Ferringhi, Pulau Pinang, Malaysia",
     "postCode": "11100",
     "googlePlaceId": "ChIJtSLIKFLdSjARxavjNKIoN-U",
@@ -14237,7 +14243,7 @@
     "isSpotlight": true,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-04-24T01:11:01.559Z",
+    "updatedAt": "2026-05-25T03:47:56.131Z",
     "spaces": [
       {
         "id": "9704800c-3704-4676-806f-b6fddb264379",
