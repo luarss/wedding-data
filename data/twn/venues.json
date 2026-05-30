@@ -5866,9 +5866,24 @@
     "venueDetails": null,
     "photographerDetails": null,
     "adminOverrides": {
+      "brochure": {
+        "value": "brochure",
+        "overriddenAt": "2026-05-29T06:50:59.479Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
       "packages": {
         "value": "packages",
-        "overriddenAt": "2026-04-28T08:01:43.901Z",
+        "overriddenAt": "2026-05-29T07:04:10.754Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "services": {
+        "value": "services",
+        "overriddenAt": "2026-05-29T07:05:02.281Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "amenities": {
+        "value": "amenities",
+        "overriddenAt": "2026-05-29T07:05:29.296Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "food-menu": {
@@ -5926,46 +5941,63 @@
         "priceFixture": "per_pax",
         "pricePerPax": 268,
         "description": "Exchange your vows in the lush, romantic setting of PARKROYAL COLLECTION Kuala Lumpur, where design and nature meet to captivate your senses. Encompassing artfully designed ballrooms, nature-inspired themes and exquisite culinary creations tailored to your tastes, we offer the perfect setting for you to celebrate the start of a life with the one you love.",
-        "includes": [],
+        "includes": [
+          "A sumptuous 8-course Chinese set menu",
+          "PARKROYAL COLLECTION wedding favours for all invited guests",
+          "An elegantly designed decorative wedding cake for the cake cutting ceremony",
+          "Usage of basic in-house PA system",
+          "One (1) complimentary night stay for the newlyweds in a Bridal Suite with breakfast at the COLLECTION Club Lounge",
+          "One (1) complimentary parking on wedding day"
+        ],
         "guestMin": 200,
         "guestMax": 350,
-        "brochureUrl": "documents/bd1c1680-a6dc-4fe3-b1ed-8b0e8f8cafde/brochure-8b81c0d9-9e6f-432d-8cac-188b677c345c.pdf"
+        "brochureUrl": "documents/bd1c1680-a6dc-4fe3-b1ed-8b0e8f8cafde/brochure-1780037462558-Chinese_Wedding_Packages_20266.pdf"
       },
       {
         "name": "Western Wedding Packages",
-        "price": 200,
-        "priceMax": 250,
+        "price": 338,
+        "priceMax": 398,
         "priceFixture": "per_pax",
-        "pricePerPax": 200,
+        "pricePerPax": 338,
         "description": "Exchange your vows in the lush, romantic setting of PARKROYAL COLLECTION Kuala Lumpur, where design and\nnature meet to captivate your senses. Encompassing artfully designed ballrooms, nature-inspired themes and exquisite culinary creations tailored to your tastes, we offer the perfect setting for you to celebrate the start of a life\nwith the one you love.",
-        "includes": [],
+        "includes": [
+          "A sumptuous Western set menu",
+          "One (1) complimentary night stay for the newlyweds in a Bridal Suite with breakfast at the COLLECTION Club Lounge",
+          "Usage of basic in-house PA system",
+          "One (1) complimentary parking on wedding day",
+          "An elegantly designed decorative wedding cake for the cake cutting ceremony"
+        ],
         "guestMin": 200,
         "guestMax": 350,
-        "brochureUrl": "documents/bd1c1680-a6dc-4fe3-b1ed-8b0e8f8cafde/brochure-70bfcd4f-4793-444a-9ad2-5eda5c2d3dd1.pdf"
+        "brochureUrl": "documents/bd1c1680-a6dc-4fe3-b1ed-8b0e8f8cafde/brochure-1780037471580-Western_Wedding_Packages_20266.pdf"
       },
       {
         "name": "Indian Wedding Package",
-        "price": 97,
-        "priceMax": null,
+        "price": 298,
+        "priceMax": 368,
         "priceFixture": "per_pax",
-        "pricePerPax": 97,
+        "pricePerPax": 298,
         "description": "Exchange your vows in the lush, romantic setting of PARKROYAL COLLECTION Kuala Lumpur, where design and\nnature meet to captivate your senses. Encompassing artfully designed ballrooms, nature-inspired themes and exquisite culinary creations tailored to your tastes, we offer the perfect setting for you to celebrate the start of a life\nwith the one you love.",
         "includes": [],
         "guestMin": 200,
         "guestMax": 350,
-        "brochureUrl": "documents/bd1c1680-a6dc-4fe3-b1ed-8b0e8f8cafde/brochure-b3dece92-dd06-49bb-b031-85dde44686f3.pdf"
+        "brochureUrl": "documents/bd1c1680-a6dc-4fe3-b1ed-8b0e8f8cafde/brochure-1780037475163-Indian_Wedding_Packages_20266.pdf"
       },
       {
         "name": "Malay Wedding Package",
-        "price": 100,
-        "priceMax": null,
+        "price": 298,
+        "priceMax": 368,
         "priceFixture": "per_pax",
-        "pricePerPax": 100,
+        "pricePerPax": 298,
         "description": "Exchange your vows in the lush, romantic setting of PARKROYAL COLLECTION Kuala Lumpur, where design and\nnature meet to captivate your senses. Encompassing artfully designed ballrooms, nature-inspired themes and exquisite culinary creations tailored to your tastes, we offer the perfect setting for you to celebrate the start of a life\nwith the one you love.",
-        "includes": [],
+        "includes": [
+          "A sumptuous Malay set menu",
+          "PARKROYAL COLLECTION wedding favours for all invited guests",
+          "Usage of basic in-house PA system & more!"
+        ],
         "guestMin": 200,
         "guestMax": 350,
-        "brochureUrl": "documents/bd1c1680-a6dc-4fe3-b1ed-8b0e8f8cafde/brochure-9807a68b-1e46-467c-9e15-e3abd5d33753.pdf"
+        "brochureUrl": "documents/bd1c1680-a6dc-4fe3-b1ed-8b0e8f8cafde/brochure-1780037478531-Malay_Wedding_Packages_20266.pdf"
       }
     ],
     "venueCapacity": {
