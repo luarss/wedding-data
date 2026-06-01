@@ -1,147 +1,138 @@
-import asyncio
+import json
 
-from src.shared import get_browser_page, get_logger, save_csv, save_json
+import httpx
+
+from src.shared import get_logger, save_csv, save_json
 
 logger = get_logger()
 
-
-async def click_see_more_until_loaded(page):
-    logger.info("Clicking 'See more' until all venues are loaded...")
-    click_count = 0
-    while True:
-        see_more_button = page.locator('button:has-text("See more")')
-
-        if await see_more_button.count() == 0:
-            logger.info("No 'See more' button found - all venues loaded")
-            break
-
-        try:
-            await see_more_button.scroll_into_view_if_needed()
-            await see_more_button.click(timeout=5000)
-            click_count += 1
-            logger.debug(f"  Clicked 'See more' {click_count} times")
-            await asyncio.sleep(1)
-        except Exception as e:
-            logger.info(f"Could not click 'See more' button: {e}")
-            break
+BASE_URL = "https://www.bridely.sg"
+HEADERS = {
+    "accept": "application/json",
+    "referer": f"{BASE_URL}/venues",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+}
 
 
-async def extract_venues_from_dom(page):
-    logger.debug("\nDebugging DOM structure...")
-    debug_info = await page.evaluate(r"""() => {
-        const venueCards = document.querySelectorAll('.vertical-list-item');
-        const firstCard = venueCards[0];
+def _format_price(room: dict) -> str:
+    price = room.get("startingPrice")
+    if not price:
+        return ""
+    amount = price.get("amount", 0)
+    if price.get("kind") == "per_pax":
+        return f"From ${amount}/pax"
+    if price.get("kind") == "min_spend":
+        return f"From ${amount:,}"
+    return f"${amount}"
 
-        return {
-            totalCards: venueCards.length,
-            firstCardHTML: firstCard ? firstCard.outerHTML.substring(0, 500) : 'No cards found',
-            firstCardLinks: firstCard ? firstCard.querySelectorAll('a').length : 0,
-            hasRecordId: firstCard ? !!firstCard.querySelector('a[href*="recordId"]') : false
-        };
-    }""")
 
-    logger.debug(f"Debug info: {debug_info}")
+def _format_capacity(room: dict) -> str:
+    min_pax = room.get("minPax")
+    max_pax = room.get("maxPax")
+    if min_pax and max_pax:
+        return f"{min_pax}-{max_pax} pax"
+    if min_pax:
+        return f"From {min_pax} pax"
+    return ""
 
-    logger.debug("\nExtracting venue data from DOM...")
-    venues = await page.evaluate(r"""() => {
-        const wrappers = document.querySelectorAll('.list-item-wrapper.vertical');
-        const venues = [];
 
-        for (let i = 0; i < wrappers.length; i++) {
-            const wrapper = wrappers[i];
-
-            const linkElement = wrapper.querySelector('.list-action-wrapper a[href*="recordId"]');
-            if (!linkElement) continue;
-
-            const url = linkElement.href;
-            const recordIdMatch = url.match(/recordId=([^&]+)/);
-            const recordId = recordIdMatch ? recordIdMatch[1] : '';
-
-            const card = wrapper.querySelector('.vertical-list-item');
-            if (!card) continue;
-
-            const allText = card.innerText || card.textContent || '';
-            const lines = allText.split('\n').map(l => l.trim()).filter(l => l);
-
-            const priceLine = lines.find(l => l.includes('++') || l.includes('/pax') || l.includes('$'));
-            const price = priceLine || '';
-
-            const capacityLine = lines.find(l => l.includes('Capacity:'));
-            const capacity = capacityLine ? capacityLine.replace('Capacity:', '').trim() : '';
-
-            const nameElement = card.querySelector('h3');
-            const name = nameElement ? nameElement.textContent.trim() : '';
-
-            const venueLabel = lines.find(l => l.startsWith('Venue:'));
-            const venueRating = venueLabel ? venueLabel.replace('Venue:', '').trim() : '';
-
-            const serviceLabel = lines.find(l => l.startsWith('Service:'));
-            const serviceRating = serviceLabel ? serviceLabel.replace('Service:', '').trim() : '';
-
-            const foodLabel = lines.find(l => l.startsWith('Food:'));
-            const foodRating = foodLabel ? foodLabel.replace('Food:', '').trim() : '';
-
-            const reviewMatch = allText.match(/(\d+)\s*reviews?/i);
-            const reviews = reviewMatch ? reviewMatch[1] : '';
-
-            venues.push({
-                recordId,
-                name,
-                url,
-                price,
-                capacity,
-                venueRating,
-                serviceRating,
-                foodRating,
-                reviews
-            });
+def _transform(venue: dict) -> dict:
+    rooms = [
+        {
+            "name": r.get("name", ""),
+            "capacity": _format_capacity(r),
+            "price": _format_price(r),
         }
+        for r in venue.get("rooms", [])
+    ]
+    first_room = rooms[0] if rooms else {}
+    tags = [t["label"] for t in venue.get("displayTags", [])]
 
-        return venues;
-    }""")
+    return {
+        "recordId": venue["recordId"],
+        "name": venue["name"],
+        "url": f"{BASE_URL}{venue['href']}",
+        "location": venue.get("location", ""),
+        "overallRating": venue.get("rating", ""),
+        "venueRating": venue.get("ratings", {}).get("venue", ""),
+        "serviceRating": venue.get("ratings", {}).get("service", ""),
+        "foodRating": venue.get("ratings", {}).get("food", ""),
+        "reviews": venue.get("reviewCount", ""),
+        "tags": ", ".join(tags),
+        "price": first_room.get("price", ""),
+        "capacity": first_room.get("capacity", ""),
+        "rooms": json.dumps(rooms),
+    }
 
-    logger.info(f"Extracted {len(venues)} venues")
+
+def fetch_all_venues() -> list[dict]:
+    venues = []
+    offset = 0
+    sponsor_ids: list[str] = []
+
+    seen_ids: set[str] = set()
+    total_count: int | None = None
+
+    with httpx.Client(headers=HEADERS, timeout=30) as client:
+        while True:
+            params: dict = {"offset": offset}
+            if sponsor_ids:
+                params["sponsorVendorIds"] = ",".join(sponsor_ids)
+
+            logger.info(f"Fetching offset={offset}...")
+            resp = client.get(f"{BASE_URL}/api/venues/directory", params=params)
+            resp.raise_for_status()
+            data = resp.json()
+
+            if total_count is None:
+                total_count = data.get("totalCount", 0)
+
+            results = data.get("results", [])
+            new_results = [v for v in results if v["recordId"] not in seen_ids]
+            for v in new_results:
+                seen_ids.add(v["recordId"])
+            venues.extend(new_results)
+
+            logger.info(f"  Got {len(new_results)} new venues (total: {len(venues)} / {total_count})")
+
+            next_offset = data.get("nextOffset")
+            if not data.get("hasMore") or next_offset == offset or len(venues) >= (total_count or 0):
+                break
+
+            offset = next_offset
+            if data.get("sponsorVendorIds"):
+                sponsor_ids = data["sponsorVendorIds"]
+
     return venues
 
 
-async def fetch_all_venues():
-    async with get_browser_page() as page:
-        logger.info("Navigating to venues page...")
-        await page.goto("https://www.bridely.sg/venues", wait_until="networkidle")
+def main():
+    logger.info("Fetching all venues from Bridely.sg API...")
+    raw = fetch_all_venues()
 
-        await click_see_more_until_loaded(page)
-        venues = await extract_venues_from_dom(page)
+    logger.info(f"\nTotal venues fetched: {len(raw)}")
 
-        return venues
+    if len(raw) == 0:
+        logger.error("No venues found — skipping save to avoid overwriting existing data")
+        return
 
-
-async def main():
-    logger.info("Fetching all venues from Bridely.sg using Playwright...")
-    venues = await fetch_all_venues()
-
-    logger.info(f"\nTotal venues fetched: {len(venues)}")
+    venues = [_transform(v) for v in raw]
 
     save_csv(
         venues,
         "data/bly/venues.csv",
         fieldnames=[
-            "recordId",
-            "name",
-            "url",
-            "price",
-            "capacity",
-            "venueRating",
-            "serviceRating",
-            "foodRating",
-            "reviews",
+            "recordId", "name", "url", "location",
+            "overallRating", "venueRating", "serviceRating", "foodRating",
+            "reviews", "tags", "price", "capacity", "rooms",
         ],
     )
     save_json(venues, "data/bly/venues.json")
 
     logger.info("\nFirst 5 venues:")
     for i, venue in enumerate(venues[:5], 1):
-        logger.info(f"{i}. {venue['name']} - {venue['price']} - {venue['capacity']}")
+        logger.info(f"{i}. {venue['name']} — {venue['price']} — {venue['capacity']} — {venue['location']}")
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
