@@ -30,19 +30,19 @@
     "rooms": "[{\"name\": \"Jade Restaurant\", \"capacity\": \"100-120 pax\", \"price\": \"From $225/pax\"}, {\"name\": \"The Lighthouse\", \"capacity\": \"30-40 pax\", \"price\": \"From $261/pax\"}, {\"name\": \"The Ballroom\", \"capacity\": \"200-480 pax\", \"price\": \"From $273/pax\"}, {\"name\": \"The Straits Room\", \"capacity\": \"100-140 pax\", \"price\": \"From $273/pax\"}]"
   },
   {
-    "recordId": "recBjzDZV6Tmy22FL",
-    "name": "The Acacia Geneo",
-    "url": "https://www.bridely.sg/venue/the-acacia-geneo/r/recBjzDZV6Tmy22FL",
-    "location": "1 Science Park Dr, #01-07, Singapore 118221",
-    "overallRating": 5,
-    "venueRating": 5,
-    "serviceRating": 5,
-    "foodRating": 5,
-    "reviews": 17,
-    "tags": "Restaurant, Fusion, Indian, Muslim-friendly, Peranakan, Vegetarian, Western",
-    "price": "From $55/pax",
-    "capacity": "100-500 pax",
-    "rooms": "[{\"name\": \"The Acacia Geneo\", \"capacity\": \"100-500 pax\", \"price\": \"From $55/pax\"}]"
+    "recordId": "recDE70TqO66tuVMT",
+    "name": "Little Island Brewing Co",
+    "url": "https://www.bridely.sg/venue/little-island-brewing-co/r/recDE70TqO66tuVMT",
+    "location": "Changi",
+    "overallRating": 4.8,
+    "venueRating": 4.9,
+    "serviceRating": 4.8,
+    "foodRating": 4.9,
+    "reviews": 34,
+    "tags": "Restaurant, Western",
+    "price": "From $68/pax",
+    "capacity": "50-350 pax",
+    "rooms": "[{\"name\": \"Changi Village\", \"capacity\": \"50-350 pax\", \"price\": \"From $68/pax\"}]"
   },
   {
     "recordId": "rec4OTGIpBfuMuvQw",
@@ -105,19 +105,19 @@
     "rooms": "[{\"name\": \"Garden Ballroom\", \"capacity\": \"200-500 pax\", \"price\": \"From $214/pax\"}, {\"name\": \"Atrium Ballroom\", \"capacity\": \"150-250 pax\", \"price\": \"From $214/pax\"}]"
   },
   {
-    "recordId": "recmxPCwL2El6uzin",
-    "name": "Amaris D'Arena Ballroom",
-    "url": "https://www.bridely.sg/venue/amaris-d-arena-ballroom/r/recmxPCwL2El6uzin",
-    "location": "Jurong West",
-    "overallRating": 4.3,
-    "venueRating": 4.6,
-    "serviceRating": 4.4,
+    "recordId": "recmnhQh4ANr89IdH",
+    "name": "Mount Faber Peak",
+    "url": "https://www.bridely.sg/venue/mount-faber-peak/r/recmnhQh4ANr89IdH",
+    "location": "Bukit Merah",
+    "overallRating": 4.7,
+    "venueRating": 4.7,
+    "serviceRating": 4.7,
     "foodRating": 4.7,
-    "reviews": 79,
-    "tags": "Event Hall, Muslim-friendly",
-    "price": "From $55/pax",
-    "capacity": "50-320 pax",
-    "rooms": "[{\"name\": \"Amaris D'Arena Ballroom\", \"capacity\": \"50-320 pax\", \"price\": \"From $55/pax\"}]"
+    "reviews": 35,
+    "tags": "Event Hall, Restaurant, Chinese, Fusion, Western, Ballroom, Garden & Greenery, Glasshouse, Indoor, Outdoor, Rooftop, Waterfront",
+    "price": "From $118/pax",
+    "capacity": "1-100 pax",
+    "rooms": "[{\"name\": \"Arbora\", \"capacity\": \"1-100 pax\", \"price\": \"From $118/pax\"}, {\"name\": \"The Ballroom\", \"capacity\": \"100-200 pax\", \"price\": \"From $148/pax\"}, {\"name\": \"Angsana Glasshouse\", \"capacity\": \"40-70 pax\", \"price\": \"From $148/pax\"}, {\"name\": \"Dusk & The Mirabilis Bar\", \"capacity\": \"1-100 pax\", \"price\": \"From $168/pax\"}]"
   },
   {
     "recordId": "recNs8QOEuCPsy834",
@@ -206,8 +206,8 @@
     "reviews": 39,
     "tags": "Event Hall, Western",
     "price": "From $78/pax",
-    "capacity": "120-160 pax",
-    "rooms": "[{\"name\": \"Whole Venue\", \"capacity\": \"120-160 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Main Room\", \"capacity\": \"50-120 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Bar Room\", \"capacity\": \"1-50 pax\", \"price\": \"From $78/pax\"}]"
+    "capacity": "1-300 pax",
+    "rooms": "[{\"name\": \"Whole Venue\", \"capacity\": \"1-300 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Main Room\", \"capacity\": \"1-200 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Bar Room\", \"capacity\": \"1-70 pax\", \"price\": \"From $78/pax\"}]"
   },
   {
     "recordId": "recfHEKdi2Pvj2eya",
@@ -790,9 +790,9 @@
     "foodRating": 5,
     "reviews": 6,
     "tags": "Hotel, Chinese, Vegetarian, Ballroom, Indoor, Pet Friendly",
-    "price": "From $118/pax",
-    "capacity": "100-160 pax",
-    "rooms": "[{\"name\": \"Sugarcane\", \"capacity\": \"100-160 pax\", \"price\": \"From $118/pax\"}, {\"name\": \"Lime\", \"capacity\": \"1-60 pax\", \"price\": \"From $118/pax\"}]"
+    "price": "From $113/pax",
+    "capacity": "30-80 pax",
+    "rooms": "[{\"name\": \"Lime\", \"capacity\": \"30-80 pax\", \"price\": \"From $113/pax\"}, {\"name\": \"Sugarcane\", \"capacity\": \"100-200 pax\", \"price\": \"From $123/pax\"}]"
   },
   {
     "recordId": "reckSeDSohHZwJX4B",
