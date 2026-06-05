@@ -588,6 +588,14 @@
     "tables_range": "12 - 35Mon - Sun"
   },
   {
+    "venue_id": "248",
+    "source": "wedding-venues-booking",
+    "name": "Grand Ballroom",
+    "vendor_name": "METT Singapore",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1386/METT-Singapore",
+    "location": "11 Canning Walk, Singapore 178881"
+  },
+  {
     "source": "banquet-price-list",
     "name": "Grand Banquet",
     "lunch_price": "$986Mon - Sun",
@@ -825,6 +833,14 @@
     "tables_min": "10",
     "tables_max": "28",
     "tables_range": "10 - 28Mon - Sun"
+  },
+  {
+    "venue_id": "249",
+    "source": "wedding-venues-booking",
+    "name": "Junior Ballroom",
+    "vendor_name": "METT Singapore",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1386/METT-Singapore",
+    "location": "11 Canning Walk, Singapore 178881"
   },
   {
     "source": "banquet-price-list",
