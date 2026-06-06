@@ -593,7 +593,11 @@
     "name": "Grand Ballroom",
     "vendor_name": "METT Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/1386/METT-Singapore",
-    "location": "11 Canning Walk, Singapore 178881"
+    "location": "11 Canning Walk, Singapore 178881",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/mett-singapore_wedding-menus-2026.pdf",
+      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/mett-singapore-wedding-themes.pdf"
+    ]
   },
   {
     "source": "banquet-price-list",
@@ -840,7 +844,11 @@
     "name": "Junior Ballroom",
     "vendor_name": "METT Singapore",
     "profile_url": "https://www.blissfulbrides.sg/detail/1386/METT-Singapore",
-    "location": "11 Canning Walk, Singapore 178881"
+    "location": "11 Canning Walk, Singapore 178881",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/mett-singapore_wedding-menus-2026.pdf",
+      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/mett-singapore-wedding-themes.pdf"
+    ]
   },
   {
     "source": "banquet-price-list",
