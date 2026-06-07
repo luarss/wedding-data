@@ -70,6 +70,18 @@ def resolve_llm() -> tuple[OpenAI, str, str]:
     sys.exit(1)
 
 
+def resolve_vision_client() -> tuple[OpenAI, str] | None:
+    """Return a vision-capable (client, model) for image-based PDF fallback.
+
+    Always uses OpenRouter/Owl-Alpha — minimax-m3 on OpenGateway does not
+    accept image payloads. Returns None if no OpenRouter key is set.
+    """
+    openrouter_key = os.getenv("OPENROUTER_API_KEY")
+    if not openrouter_key:
+        return None
+    return OpenAI(api_key=openrouter_key, base_url=OPENROUTER_BASE_URL), OPENROUTER_MODEL
+
+
 def vision_ocr(client: OpenAI, model: str, pdf_path: Path) -> str:
     """Render each page as PNG and extract text via vision LLM."""
     doc = fitz.open(str(pdf_path))
@@ -92,12 +104,18 @@ def vision_ocr(client: OpenAI, model: str, pdf_path: Path) -> str:
     return "\n\n---\n\n".join(pages)
 
 
-def extract_pdf(converter: MarkItDown, client: OpenAI, model: str, pdf_path: Path) -> str:
+def extract_pdf(
+    converter: MarkItDown,
+    vision: tuple[OpenAI, str] | None,
+    pdf_path: Path,
+) -> str:
     result = converter.convert(str(pdf_path))
     text = result.text_content.strip()
     if not text:
-        print("  [vision fallback] no text layer — using vision OCR")
-        text = vision_ocr(client, model, pdf_path)
+        if vision is None:
+            raise RuntimeError("image-based PDF but OPENROUTER_API_KEY not set for vision fallback")
+        print("  [vision fallback] no text layer — using OpenRouter/Owl-Alpha OCR")
+        text = vision_ocr(vision[0], vision[1], pdf_path)
     return text
 
 
@@ -125,13 +143,16 @@ def main() -> None:
     client, model, provider_label = resolve_llm()
     print(f"Using: {provider_label}")
     converter = MarkItDown(llm_client=client, llm_model=model)
+    vision = resolve_vision_client()
+    if vision:
+        print(f"Vision fallback: OpenRouter ({OPENROUTER_MODEL})")
 
     processed = failed = 0
     for pdf in pdfs:
         rel = pdf.relative_to(DATA_DIR)
         try:
             print(f"Processing: {rel}")
-            text = extract_pdf(converter, client, model, pdf_path=pdf)
+            text = extract_pdf(converter, vision, pdf_path=pdf)
             md_path = pdf.with_suffix(".md")
             md_path.write_text(text, encoding="utf-8")
             print(f"  -> saved {md_path.name}")

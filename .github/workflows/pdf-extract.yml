@@ -31,6 +31,8 @@ jobs:
         run: uv sync --all-extras
 
       - name: Extract PDFs to markdown
+        id: extract
+        continue-on-error: true
         env:
           OPENGATEWAY_API_KEY: ${{ secrets.OPENGATEWAY_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
