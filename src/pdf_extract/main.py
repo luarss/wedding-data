@@ -1,5 +1,5 @@
 """
-PDF to markdown extraction using markitdown + LLM (OpenGateway primary, OpenRouter fallback).
+PDF to markdown extraction using markitdown + LLM (OpenGateway/minimax-m3 primary, OpenRouter fallback).
 
 Usage:
     python -m src.pdf_extract.main [--source bb|wd|sb] [--limit N] [--dry-run] [--reprocess]
@@ -20,7 +20,7 @@ DATA_DIR = Path(__file__).parent.parent.parent / "data"
 SOURCES = ["bb", "wd", "sb"]
 
 OPENGATEWAY_BASE_URL = "https://opengateway.gitlawb.com/v1"
-OPENGATEWAY_MODEL = "mimo-v2.5-pro"
+OPENGATEWAY_MODEL = "minimax/minimax-m3"
 
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 # Owl Alpha: free, 1M context, native PDF + image support, strong agentic/tool use
