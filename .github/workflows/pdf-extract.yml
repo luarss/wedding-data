@@ -2,6 +2,11 @@ name: PDF Text Extraction
 
 on:
   workflow_dispatch:
+    inputs:
+      limit:
+        description: "Max PDFs to process (leave empty for all)"
+        required: false
+        default: ""
   workflow_run:
     workflows: ["Daily Wedding Data Scrape"]
     types: [completed]
@@ -29,7 +34,10 @@ jobs:
         env:
           OPENGATEWAY_API_KEY: ${{ secrets.OPENGATEWAY_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-        run: uv run python -m src.pdf_extract.main
+        run: |
+          ARGS=""
+          [ -n "${{ inputs.limit }}" ] && ARGS="--limit ${{ inputs.limit }}"
+          uv run python -m src.pdf_extract.main $ARGS
 
       - name: Commit extracted markdown files
         uses: stefanzweifel/git-auto-commit-action@v5
