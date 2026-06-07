@@ -43,6 +43,9 @@ jobs:
           [ -n "${{ inputs.limit }}" ] && ARGS="$ARGS --limit ${{ inputs.limit }}"
           uv run python -m src.pdf_extract.main $ARGS
 
+      - name: Pull latest changes
+        run: git pull --rebase origin main
+
       - name: Commit extracted markdown files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
