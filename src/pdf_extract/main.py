@@ -33,6 +33,7 @@ OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 GEMINI_BASE_URL = "https://generativelanguage.googleapis.com/v1beta/openai/"
 CEREBRAS_BASE_URL = "https://api.cerebras.ai/v1"
 GROQ_BASE_URL = "https://api.groq.com/openai/v1"
+COHERE_BASE_URL = "https://api.cohere.com/compatibility/v1"
 
 # Text models — tried in order, first with a valid API key wins.
 # Used by markitdown for LLM-enhanced extraction (e.g. embedded image descriptions).
@@ -40,10 +41,13 @@ _OR = ("OpenRouter", "OPENROUTER_API_KEY", OPENROUTER_BASE_URL)
 _GV = ("Google AI Studio", "GEMINI_API_KEY", GEMINI_BASE_URL)
 _CB = ("Cerebras", "CEREBRAS_API_KEY", CEREBRAS_BASE_URL)
 _GC = ("GroqCloud", "GROQCLOUD_API_KEY", GROQ_BASE_URL)
+_CO = ("Cohere", "COHERE_API_KEY", COHERE_BASE_URL)
 TEXT_MODELS = [
     ("OpenGateway", "OPENGATEWAY_API_KEY", OPENGATEWAY_BASE_URL, "mimo-v2.5-pro"),
     (*_GV, "gemini-2.5-flash"),                          # 1M ctx
     (*_CB, "gpt-oss-120b"),                              # 131K ctx
+    (*_CO, "command-a-plus-05-2026"),                    # 256K ctx / 1K req/month
+    (*_CO, "command-a-03-2025"),                         # 256K ctx / 1K req/month
     (*_GC, "llama-3.3-70b-versatile"),                      # free: 30 RPM / 12K TPM / 100K TPD / 131K ctx
     (*_GC, "openai/gpt-oss-120b"),                          # free: 30 RPM / 8K TPM / 200K TPD / 131K ctx
     (*_GC, "qwen/qwen3-32b"),                               # free: 60 RPM / 6K TPM / 500K TPD / 131K ctx
