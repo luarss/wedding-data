@@ -10,8 +10,10 @@ Usage:
 
 import argparse
 import base64
+import concurrent.futures
 import os
 import sys
+import threading
 import time
 import traceback
 from pathlib import Path
@@ -81,24 +83,44 @@ def find_pdfs(sources: list[str], reprocess: bool) -> list[Path]:
     return pdfs
 
 
-def resolve_text_client() -> tuple[OpenAI, str, str]:
-    """Return (client, model, label) for the first text model with a valid key."""
+API_TIMEOUT = 120  # seconds per API call
+
+
+def resolve_text_config() -> tuple[str, str, str, str]:
+    """Return (label, env_key, base_url, model) for the first text model with a valid key."""
     for label, env_key, base_url, model in TEXT_MODELS:
-        api_key = os.getenv(env_key)
-        if api_key:
-            return OpenAI(api_key=api_key, base_url=base_url), model, f"{label} ({model})"
+        if os.getenv(env_key):
+            return label, env_key, base_url, model
     keys = " or ".join(k for _, k, _, _ in TEXT_MODELS)
     print(f"Error: set {keys}", file=sys.stderr)
     sys.exit(1)
 
 
-def resolve_vision_clients() -> list[tuple[OpenAI, str, str]]:
-    """Return list of (client, model, label) for vision OCR, in fallback order."""
-    clients = []
+def _make_text_client(label: str, env_key: str, base_url: str, model: str) -> tuple[OpenAI, str, str, str]:
+    """Create an OpenAI client for a text model config (thread-safe factory)."""
+    return OpenAI(api_key=os.getenv(env_key), base_url=base_url, timeout=API_TIMEOUT), model, f"{label} ({model})", label
+
+
+def resolve_vision_configs() -> list[tuple[str, str, str, str]]:
+    """Return list of (label, env_key, base_url, model) for vision OCR, in fallback order."""
+    configs = []
     for label, env_key, base_url, model in VISION_MODELS:
-        api_key = os.getenv(env_key)
-        if api_key:
-            clients.append((OpenAI(api_key=api_key, base_url=base_url), model, f"{label} ({model})"))
+        if os.getenv(env_key):
+            configs.append((label, env_key, base_url, model))
+    return configs
+
+
+def _make_vision_clients(
+    configs: list[tuple[str, str, str, str]],
+) -> list[tuple[OpenAI, str, str]]:
+    """Create vision clients from configs (thread-safe factory)."""
+    clients = []
+    for label, env_key, base_url, model in configs:
+        clients.append((
+            OpenAI(api_key=os.getenv(env_key), base_url=base_url, timeout=API_TIMEOUT),
+            model,
+            f"{label} ({model})",
+        ))
     return clients
 
 
@@ -155,25 +177,52 @@ def vision_ocr(vision_clients: list[tuple[OpenAI, str, str]], pdf_path: Path) ->
     return "\n\n---\n\n".join(pages)
 
 
-def extract_pdf(
-    converter: MarkItDown,
-    vision_clients: list[tuple[OpenAI, str, str]],
+def _process_one(
     pdf_path: Path,
-) -> str:
-    result = converter.convert(str(pdf_path))
-    text = result.text_content.strip()
-    if not text:
-        if not vision_clients:
-            raise RuntimeError("image-based PDF but no vision API key configured")
-        print("  [vision fallback] no text layer detected")
-        text = vision_ocr(vision_clients, pdf_path)
-    return text
+    text_config: tuple[str, str, str, str],
+    vision_configs: list[tuple[str, str, str, str]],
+    print_lock: threading.Lock,
+    idx: int,
+    total: int,
+) -> bool:
+    """Process a single PDF (called by worker threads). Returns True on success."""
+    rel = pdf_path.relative_to(DATA_DIR)
+
+    text_client, text_model, _, _ = _make_text_client(*text_config)
+    converter = MarkItDown(llm_client=text_client, llm_model=text_model)
+    vision_clients = _make_vision_clients(vision_configs)
+
+    try:
+        with print_lock:
+            print(f"[{idx}/{total}] Processing: {rel}")
+
+        result = converter.convert(str(pdf_path))
+        text = result.text_content.strip()
+
+        if not text:
+            if not vision_clients:
+                raise RuntimeError("image-based PDF but no vision API key configured")
+            with print_lock:
+                print(f"  [vision fallback] {rel} — no text layer")
+            text = vision_ocr(vision_clients, pdf_path)
+
+        pdf_path.with_suffix(".md").write_text(text, encoding="utf-8")
+        with print_lock:
+            print(f"  [{idx}/{total}] saved {pdf_path.with_suffix('.md').name}")
+        return True
+
+    except Exception as e:
+        with print_lock:
+            print(f"  [error] {rel}: {type(e).__name__}: {e}", file=sys.stderr)
+            traceback.print_exc(file=sys.stderr)
+        return False
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Extract PDF price lists to markdown")
     parser.add_argument("--source", choices=SOURCES, help="Process only this source")
     parser.add_argument("--limit", type=int, help="Max number of PDFs to process")
+    parser.add_argument("--concurrency", "-c", type=int, default=4, help="Number of parallel workers (default: 4)")
     parser.add_argument("--dry-run", action="store_true", help="List PDFs without processing")
     parser.add_argument("--reprocess", action="store_true", help="Re-extract even if .md exists")
     args = parser.parse_args()
@@ -190,30 +239,32 @@ def main() -> None:
             print(f"  [dry-run] {pdf.relative_to(DATA_DIR)}")
         return
 
-    client, model, text_label = resolve_text_client()
-    print(f"Text model:   {text_label}")
-    converter = MarkItDown(llm_client=client, llm_model=model)
+    text_config = resolve_text_config()
+    print(f"Text model:   {text_config[0]} ({text_config[3]})")
 
-    vision_clients = resolve_vision_clients()
-    if vision_clients:
-        for _, _, label in vision_clients:
-            print(f"Vision model: {label}")
+    vision_configs = resolve_vision_configs()
+    if vision_configs:
+        for label, _, _, model in vision_configs:
+            print(f"Vision model: {label} ({model})")
     else:
-        print("Vision OCR:   disabled (no OPENROUTER_API_KEY)", file=sys.stderr)
+        print("Vision OCR:   disabled (no vision API keys)")
 
+    print(f"Concurrency:  {args.concurrency} workers")
+
+    print_lock = threading.Lock()
+    total = len(pdfs)
     processed = failed = 0
-    for pdf in pdfs:
-        rel = pdf.relative_to(DATA_DIR)
-        try:
-            print(f"Processing: {rel}")
-            text = extract_pdf(converter, vision_clients, pdf_path=pdf)
-            pdf.with_suffix(".md").write_text(text, encoding="utf-8")
-            print(f"  -> saved {pdf.with_suffix('.md').name}")
-            processed += 1
-        except Exception as e:
-            print(f"  [error] {rel}: {type(e).__name__}: {e}", file=sys.stderr)
-            traceback.print_exc(file=sys.stderr)
-            failed += 1
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=args.concurrency) as executor:
+        futures = {
+            executor.submit(_process_one, pdf, text_config, vision_configs, print_lock, i, total): pdf
+            for i, pdf in enumerate(pdfs, 1)
+        }
+        for future in concurrent.futures.as_completed(futures):
+            if future.result():
+                processed += 1
+            else:
+                failed += 1
 
     print(f"\nDone — processed: {processed}, failed: {failed}")
     if failed:
