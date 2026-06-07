@@ -86,14 +86,17 @@ def find_pdfs(sources: list[str], reprocess: bool) -> list[Path]:
 API_TIMEOUT = 120  # seconds per API call
 
 
-def resolve_text_config() -> tuple[str, str, str, str]:
-    """Return (label, env_key, base_url, model) for the first text model with a valid key."""
+def resolve_text_configs() -> list[tuple[str, str, str, str]]:
+    """Return list of (label, env_key, base_url, model) for all text models with valid keys."""
+    configs = []
     for label, env_key, base_url, model in TEXT_MODELS:
         if os.getenv(env_key):
-            return label, env_key, base_url, model
-    keys = " or ".join(k for _, k, _, _ in TEXT_MODELS)
-    print(f"Error: set {keys}", file=sys.stderr)
-    sys.exit(1)
+            configs.append((label, env_key, base_url, model))
+    if not configs:
+        keys = " or ".join(k for _, k, _, _ in TEXT_MODELS)
+        print(f"Error: set {keys}", file=sys.stderr)
+        sys.exit(1)
+    return configs
 
 
 def _make_text_client(label: str, env_key: str, base_url: str, model: str) -> tuple[OpenAI, str, str, str]:
@@ -124,8 +127,16 @@ def _make_vision_clients(
     return clients
 
 
-def call_vision_api(client: OpenAI, model: str, label: str, b64: str) -> str:
-    """Call vision API with exponential backoff on rate limit (3 attempts)."""
+def _is_openrouter(label: str) -> bool:
+    return "openrouter" in label.lower()
+
+
+def call_vision_api(client: OpenAI, model: str, label: str, b64: str) -> tuple[str, str | None]:
+    """Call vision API. Returns (content, RateLimit-Remaining header value).
+
+    On 429 from OpenRouter, raises immediately without retry — each OR model has
+    its own rate limit, so retrying the same model is pointless.
+    """
     for attempt in range(3):
         try:
             resp = client.chat.completions.create(
@@ -138,21 +149,30 @@ def call_vision_api(client: OpenAI, model: str, label: str, b64: str) -> str:
                     ],
                 }],
             )
-            return resp.choices[0].message.content
-        except RateLimitError as e:
+            content = resp.choices[0].message.content
+            remaining = resp.headers.get("RateLimit-Remaining") or resp.headers.get("x-ratelimit-remaining")
+            return content, remaining
+        except RateLimitError:
+            if _is_openrouter(label):
+                raise  # no retry — each OR model has its own quota, just move on
             if attempt == 2:
                 raise
             wait = 30 * (2 ** attempt)  # 30s, then 60s
-            print(f"  [rate limit] {label} — waiting {wait}s before retry {attempt + 2}/3: {e}", file=sys.stderr)
+            print(f"  [rate limit] {label} — waiting {wait}s before retry {attempt + 2}/3", file=sys.stderr)
             time.sleep(wait)
     raise RuntimeError("unreachable")
 
 
 def vision_ocr(vision_clients: list[tuple[OpenAI, str, str]], pdf_path: Path) -> str:
-    """Render each page as JPEG and OCR via vision models, falling back on error."""
+    """Render each page as JPEG and OCR via vision models, falling back on error.
+
+    Tracks per-model rate limit exhaustion via RateLimit-Remaining header and 429
+    responses. Each model has its own quota so only the specific model is skipped.
+    """
     doc = fitz.open(str(pdf_path))
     page_count = len(doc)
     pages = []
+    exhausted: set[str] = set()
 
     for i, page in enumerate(doc):
         print(f"  [vision OCR] page {i + 1}/{page_count}")
@@ -162,10 +182,18 @@ def vision_ocr(vision_clients: list[tuple[OpenAI, str, str]], pdf_path: Path) ->
 
         page_text = None
         for client, model, label in vision_clients:
+            if model in exhausted:
+                continue
             try:
                 print(f"  [vision OCR] trying {label}")
-                page_text = call_vision_api(client, model, label, b64)
+                page_text, remaining = call_vision_api(client, model, label, b64)
+                if remaining == "0":
+                    exhausted.add(model)
+                    print(f"  [quota] {label} quota exhausted, will skip")
                 break
+            except RateLimitError:
+                exhausted.add(model)
+                print(f"  [rate limit] {label} — trying next", file=sys.stderr)
             except Exception as e:
                 print(f"  [vision error] {label}: {type(e).__name__}: {e} — trying next", file=sys.stderr)
 
@@ -179,43 +207,63 @@ def vision_ocr(vision_clients: list[tuple[OpenAI, str, str]], pdf_path: Path) ->
 
 def _process_one(
     pdf_path: Path,
-    text_config: tuple[str, str, str, str],
+    text_configs: list[tuple[str, str, str, str]],
     vision_configs: list[tuple[str, str, str, str]],
     print_lock: threading.Lock,
     idx: int,
     total: int,
 ) -> bool:
-    """Process a single PDF (called by worker threads). Returns True on success."""
+    """Process a single PDF (called by worker threads). Returns True on success.
+
+    Iterates text models in order. On RateLimitError, tries the next model.
+    Each model has its own rate limit, so we only skip the specific model that 429'd.
+    """
     rel = pdf_path.relative_to(DATA_DIR)
+    last_error = None
 
-    text_client, text_model, _, _ = _make_text_client(*text_config)
-    converter = MarkItDown(llm_client=text_client, llm_model=text_model)
-    vision_clients = _make_vision_clients(vision_configs)
+    for ti, (label, env_key, base_url, model) in enumerate(text_configs):
+        text_client, text_model, _, _ = _make_text_client(label, env_key, base_url, model)
+        converter = MarkItDown(llm_client=text_client, llm_model=text_model)
+        vision_clients = _make_vision_clients(vision_configs)
 
-    try:
-        with print_lock:
-            print(f"[{idx}/{total}] Processing: {rel}")
-
-        result = converter.convert(str(pdf_path))
-        text = result.text_content.strip()
-
-        if not text:
-            if not vision_clients:
-                raise RuntimeError("image-based PDF but no vision API key configured")
+        try:
             with print_lock:
-                print(f"  [vision fallback] {rel} — no text layer")
-            text = vision_ocr(vision_clients, pdf_path)
+                msg = f"[{idx}/{total}] Processing: {rel}"
+                if ti > 0:
+                    msg += f" (fallback: {label})"
+                print(msg)
 
-        pdf_path.with_suffix(".md").write_text(text, encoding="utf-8")
-        with print_lock:
-            print(f"  [{idx}/{total}] saved {pdf_path.with_suffix('.md').name}")
-        return True
+            result = converter.convert(str(pdf_path))
+            text = result.text_content.strip()
 
-    except Exception as e:
-        with print_lock:
-            print(f"  [error] {rel}: {type(e).__name__}: {e}", file=sys.stderr)
+            if not text:
+                if not vision_clients:
+                    raise RuntimeError("image-based PDF but no vision API key configured")
+                with print_lock:
+                    print(f"  [vision fallback] {rel} — no text layer")
+                text = vision_ocr(vision_clients, pdf_path)
+
+            pdf_path.with_suffix(".md").write_text(text, encoding="utf-8")
+            with print_lock:
+                print(f"  [{idx}/{total}] saved {pdf_path.with_suffix('.md').name}")
+            return True
+
+        except RateLimitError:
+            last_error = RateLimitError()
+            with print_lock:
+                print(f"  [rate limit] {label} — trying next model", file=sys.stderr)
+            continue
+        except Exception as e:
+            last_error = e
+            with print_lock:
+                print(f"  [error] {label}: {type(e).__name__}: {e}", file=sys.stderr)
+            continue
+
+    with print_lock:
+        print(f"  [error] {rel}: all models failed (last: {type(last_error).__name__})", file=sys.stderr)
+        if last_error:
             traceback.print_exc(file=sys.stderr)
-        return False
+    return False
 
 
 def main() -> None:
@@ -239,8 +287,12 @@ def main() -> None:
             print(f"  [dry-run] {pdf.relative_to(DATA_DIR)}")
         return
 
-    text_config = resolve_text_config()
-    print(f"Text model:   {text_config[0]} ({text_config[3]})")
+    text_configs = resolve_text_configs()
+    print(f"Text models:  {len(text_configs)} available")
+    for label, _, _, model in text_configs[:3]:
+        print(f"  - {label} ({model})")
+    if len(text_configs) > 3:
+        print(f"  ... and {len(text_configs) - 3} more")
 
     vision_configs = resolve_vision_configs()
     if vision_configs:
@@ -257,7 +309,7 @@ def main() -> None:
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.concurrency) as executor:
         futures = {
-            executor.submit(_process_one, pdf, text_config, vision_configs, print_lock, i, total): pdf
+            executor.submit(_process_one, pdf, text_configs, vision_configs, print_lock, i, total): pdf
             for i, pdf in enumerate(pdfs, 1)
         }
         for future in concurrent.futures.as_completed(futures):
