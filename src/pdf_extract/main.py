@@ -44,7 +44,10 @@ TEXT_MODELS = [
     ("OpenGateway", "OPENGATEWAY_API_KEY", OPENGATEWAY_BASE_URL, "minimax/minimax-m3"),
     (*_GV, "gemini-2.5-flash"),                          # 1M ctx
     (*_CB, "gpt-oss-120b"),                              # 131K ctx
-    (*_GC, "meta-llama/llama-4-scout-17b-16e-instruct"),   # free: 30 RPM / 30K TPM
+    (*_GC, "llama-3.3-70b-versatile"),                      # free: 30 RPM / 12K TPM / 100K TPD / 131K ctx
+    (*_GC, "openai/gpt-oss-120b"),                          # free: 30 RPM / 8K TPM / 200K TPD / 131K ctx
+    (*_GC, "qwen/qwen3-32b"),                               # free: 60 RPM / 6K TPM / 500K TPD / 131K ctx
+    (*_GC, "meta-llama/llama-4-scout-17b-16e-instruct"),   # free: 30 RPM / 30K TPM / 131K ctx
     (*_OR, "openrouter/owl-alpha"),                      # 1.05M ctx
     (*_OR, "nvidia/nemotron-3-ultra-550b-a55b:free"),   # 1M ctx
     (*_OR, "nvidia/nemotron-3-super-120b-a12b:free"),   # 1M ctx
