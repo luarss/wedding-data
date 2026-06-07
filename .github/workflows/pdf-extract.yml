@@ -36,6 +36,8 @@ jobs:
         env:
           OPENGATEWAY_API_KEY: ${{ secrets.OPENGATEWAY_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
         run: |
           ARGS=""
           [ -n "${{ inputs.limit }}" ] && ARGS="--limit ${{ inputs.limit }}"
