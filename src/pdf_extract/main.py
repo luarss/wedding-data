@@ -41,7 +41,7 @@ _GV = ("Google AI Studio", "GEMINI_API_KEY", GEMINI_BASE_URL)
 _CB = ("Cerebras", "CEREBRAS_API_KEY", CEREBRAS_BASE_URL)
 _GC = ("GroqCloud", "GROQCLOUD_API_KEY", GROQ_BASE_URL)
 TEXT_MODELS = [
-    ("OpenGateway", "OPENGATEWAY_API_KEY", OPENGATEWAY_BASE_URL, "minimax/minimax-m3"),
+    ("OpenGateway", "OPENGATEWAY_API_KEY", OPENGATEWAY_BASE_URL, "mimo-v2.5-pro"),
     (*_GV, "gemini-2.5-flash"),                          # 1M ctx
     (*_CB, "gpt-oss-120b"),                              # 131K ctx
     (*_GC, "llama-3.3-70b-versatile"),                      # free: 30 RPM / 12K TPM / 100K TPD / 131K ctx
@@ -57,8 +57,6 @@ TEXT_MODELS = [
     (*_OR, "openai/gpt-oss-20b:free"),                   # 131K ctx
     (*_OR, "z-ai/glm-4.5-air:free"),                     # 131K ctx
     (*_OR, "nvidia/nemotron-nano-9b-v2:free"),           # 128K ctx
-    (*_OR, "qwen/qwen-2.5-72b-instruct:free"),          # 128K ctx
-    (*_OR, "qwen/qwq-32b:free"),                        # 128K ctx
 ]
 
 # Vision OCR models — tried in order when a PDF has no text layer.
@@ -158,6 +156,8 @@ def call_vision_api(client: OpenAI, model: str, label: str, b64: str) -> tuple[s
                 }],
             )
             content = resp.choices[0].message.content
+            if content is None:
+                raise RuntimeError(f"model returned None content (finish_reason={resp.choices[0].finish_reason})")
             remaining = resp.headers.get("RateLimit-Remaining") or resp.headers.get("x-ratelimit-remaining")
             return content, remaining
         except RateLimitError:
