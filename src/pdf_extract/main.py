@@ -31,16 +31,27 @@ OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 
 # Text models — tried in order, first with a valid API key wins.
 # Used by markitdown for LLM-enhanced extraction (e.g. embedded image descriptions).
+_OR = ("OpenRouter", "OPENROUTER_API_KEY", OPENROUTER_BASE_URL)
 TEXT_MODELS = [
     ("OpenGateway", "OPENGATEWAY_API_KEY", OPENGATEWAY_BASE_URL, "minimax/minimax-m3"),
-    ("OpenRouter",  "OPENROUTER_API_KEY",  OPENROUTER_BASE_URL,  "nvidia/nemotron-3-super-120b-a12b:free"),
+    (*_OR, "openrouter/owl-alpha"),                      # 1.05M ctx
+    (*_OR, "nvidia/nemotron-3-ultra-550b-a55b:free"),   # 1M ctx
+    (*_OR, "nvidia/nemotron-3-super-120b-a12b:free"),   # 1M ctx
+    (*_OR, "nvidia/nemotron-3-nano-30b-a3b:free"),       # 256K ctx
+    (*_OR, "openai/gpt-oss-120b:free"),                  # 131K ctx
+    (*_OR, "openai/gpt-oss-20b:free"),                   # 131K ctx
+    (*_OR, "z-ai/glm-4.5-air:free"),                     # 131K ctx
+    (*_OR, "nvidia/nemotron-nano-9b-v2:free"),           # 128K ctx
 ]
 
 # Vision OCR models — tried in order when a PDF has no text layer.
 # Falls back to next model on rate limit or error.
 VISION_MODELS = [
-    ("OpenRouter", "OPENROUTER_API_KEY", OPENROUTER_BASE_URL, "google/gemma-4-31b-it:free"),
-    ("OpenRouter", "OPENROUTER_API_KEY", OPENROUTER_BASE_URL, "qwen/qwen2.5-vl-72b-instruct:free"),
+    (*_OR, "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free"), # 300K
+    (*_OR, "moonshotai/kimi-k2.6:free"),                         # 262K
+    (*_OR, "google/gemma-4-31b-it:free"),                        # 256K
+    (*_OR, "google/gemma-4-26b-a4b-it:free"),                    # 256K
+    (*_OR, "nvidia/nemotron-nano-12b-v2-vl:free"),               # 128K
 ]
 
 VISION_PROMPT = (
