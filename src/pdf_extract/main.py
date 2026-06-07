@@ -10,13 +10,14 @@ import argparse
 import base64
 import os
 import sys
+import time
 import traceback
 from pathlib import Path
 
 import fitz  # pymupdf
 from dotenv import load_dotenv
 from markitdown import MarkItDown
-from openai import OpenAI
+from openai import OpenAI, RateLimitError
 
 load_dotenv()
 
@@ -86,26 +87,37 @@ def resolve_vision_client() -> tuple[OpenAI, str] | None:
 
 
 def vision_ocr(client: OpenAI, model: str, pdf_path: Path) -> str:
-    """Render each page as PNG and extract text via vision LLM."""
+    """Render each page as JPEG and extract text via vision LLM, with retry on rate limit."""
     doc = fitz.open(str(pdf_path))
     page_count = len(doc)
     pages = []
     for i, page in enumerate(doc):
         print(f"  [vision OCR] page {i + 1}/{page_count} via {model}")
         pix = page.get_pixmap(matrix=fitz.Matrix(2, 2))
-        b64 = base64.b64encode(pix.tobytes("png")).decode()
-        print(f"  [vision OCR] page {i + 1} image size: {len(b64) // 1024}KB (base64)")
-        resp = client.chat.completions.create(
-            model=model,
-            messages=[{
-                "role": "user",
-                "content": [
-                    {"type": "image_url", "image_url": {"url": f"data:image/png;base64,{b64}"}},
-                    {"type": "text", "text": VISION_PROMPT},
-                ],
-            }],
-        )
-        pages.append(resp.choices[0].message.content)
+        b64 = base64.b64encode(pix.tobytes("jpeg", jpg_quality=85)).decode()
+        print(f"  [vision OCR] page {i + 1} image size: {len(b64) // 1024}KB (base64 JPEG)")
+
+        for attempt in range(3):
+            try:
+                resp = client.chat.completions.create(
+                    model=model,
+                    messages=[{
+                        "role": "user",
+                        "content": [
+                            {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{b64}"}},
+                            {"type": "text", "text": VISION_PROMPT},
+                        ],
+                    }],
+                )
+                pages.append(resp.choices[0].message.content)
+                break
+            except RateLimitError as e:
+                if attempt == 2:
+                    raise
+                wait = 30 * (2 ** attempt)  # 30s, then 60s
+                print(f"  [rate limit] waiting {wait}s before retry {attempt + 2}/3: {e}", file=sys.stderr)
+                time.sleep(wait)
+
     doc.close()
     return "\n\n---\n\n".join(pages)
 
