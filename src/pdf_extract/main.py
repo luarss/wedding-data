@@ -45,6 +45,7 @@ TEXT_MODELS = [
     (*_OR, "openrouter/owl-alpha"),                      # 1.05M ctx
     (*_OR, "nvidia/nemotron-3-ultra-550b-a55b:free"),   # 1M ctx
     (*_OR, "nvidia/nemotron-3-super-120b-a12b:free"),   # 1M ctx
+    (*_OR, "openrouter/free"),                           # auto-selects cheapest
     (*_OR, "nvidia/nemotron-3-nano-30b-a3b:free"),       # 256K ctx
     (*_OR, "openai/gpt-oss-120b:free"),                  # 131K ctx
     (*_OR, "openai/gpt-oss-20b:free"),                   # 131K ctx
@@ -56,6 +57,7 @@ TEXT_MODELS = [
 # Falls back to next model on rate limit or error.
 VISION_MODELS = [
     (*_GV, "gemini-2.5-flash"),                                    # 1M ctx
+    (*_OR, "openrouter/free"),                                   # auto-selects cheapest
     (*_OR, "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free"), # 300K
     (*_OR, "moonshotai/kimi-k2.6:free"),                         # 262K
     (*_OR, "google/gemma-4-31b-it:free"),                        # 256K
