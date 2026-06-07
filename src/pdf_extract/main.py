@@ -32,16 +32,19 @@ OPENGATEWAY_BASE_URL = "https://opengateway.gitlawb.com/v1"
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 GEMINI_BASE_URL = "https://generativelanguage.googleapis.com/v1beta/openai/"
 CEREBRAS_BASE_URL = "https://api.cerebras.ai/v1"
+GROQ_BASE_URL = "https://api.groq.com/openai/v1"
 
 # Text models — tried in order, first with a valid API key wins.
 # Used by markitdown for LLM-enhanced extraction (e.g. embedded image descriptions).
 _OR = ("OpenRouter", "OPENROUTER_API_KEY", OPENROUTER_BASE_URL)
 _GV = ("Google AI Studio", "GEMINI_API_KEY", GEMINI_BASE_URL)
 _CB = ("Cerebras", "CEREBRAS_API_KEY", CEREBRAS_BASE_URL)
+_GC = ("GroqCloud", "GROQCLOUD_API_KEY", GROQ_BASE_URL)
 TEXT_MODELS = [
     ("OpenGateway", "OPENGATEWAY_API_KEY", OPENGATEWAY_BASE_URL, "minimax/minimax-m3"),
     (*_GV, "gemini-2.5-flash"),                          # 1M ctx
     (*_CB, "gpt-oss-120b"),                              # 131K ctx
+    (*_GC, "meta-llama/llama-4-scout-17b-16e-instruct"),   # free: 30 RPM / 30K TPM
     (*_OR, "openrouter/owl-alpha"),                      # 1.05M ctx
     (*_OR, "nvidia/nemotron-3-ultra-550b-a55b:free"),   # 1M ctx
     (*_OR, "nvidia/nemotron-3-super-120b-a12b:free"),   # 1M ctx
@@ -51,6 +54,8 @@ TEXT_MODELS = [
     (*_OR, "openai/gpt-oss-20b:free"),                   # 131K ctx
     (*_OR, "z-ai/glm-4.5-air:free"),                     # 131K ctx
     (*_OR, "nvidia/nemotron-nano-9b-v2:free"),           # 128K ctx
+    (*_OR, "qwen/qwen-2.5-72b-instruct:free"),          # 128K ctx
+    (*_OR, "qwen/qwq-32b:free"),                        # 128K ctx
 ]
 
 # Vision OCR models — tried in order when a PDF has no text layer.
@@ -269,7 +274,7 @@ def _process_one(
 def main() -> None:
     parser = argparse.ArgumentParser(description="Extract PDF price lists to markdown")
     parser.add_argument("--source", choices=SOURCES, help="Process only this source")
-    parser.add_argument("--limit", type=int, help="Max number of PDFs to process")
+    parser.add_argument("--limit", type=int, default=50, help="Max number of PDFs to process (default: 50)")
     parser.add_argument("--concurrency", "-c", type=int, default=4, help="Number of parallel workers (default: 4)")
     parser.add_argument("--dry-run", action="store_true", help="List PDFs without processing")
     parser.add_argument("--reprocess", action="store_true", help="Re-extract even if .md exists")

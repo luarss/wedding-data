@@ -11,6 +11,10 @@ on:
     workflows: ["Daily Wedding Data Scrape"]
     types: [completed]
 
+concurrency:
+  group: pdf-extract
+  cancel-in-progress: false
+
 jobs:
   extract:
     runs-on: ubuntu-latest
@@ -38,19 +42,21 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+          GROQCLOUD_API_KEY: ${{ secrets.GROQCLOUD_API_KEY }}
         run: |
           ARGS="--concurrency 8"
           [ -n "${{ inputs.limit }}" ] && ARGS="$ARGS --limit ${{ inputs.limit }}"
           uv run python -m src.pdf_extract.main $ARGS
 
-      - name: Pull latest changes
-        run: git pull --rebase origin main
-
-      - name: Commit extracted markdown files
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore(data): automated pdf text extraction"
-          file_pattern: "data/**/*.md"
-          commit_user_name: "github-actions[bot]"
-          commit_user_email: "github-actions[bot]@users.noreply.github.com"
-          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+      - name: Commit and push extracted markdown files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -- 'data/**/*.md'
+          if git diff --cached --quiet; then
+            echo "No .md files changed, skipping commit"
+            exit 0
+          fi
+          git commit -m "chore(data): automated pdf text extraction"
+          git pull --rebase origin main
+          git push origin main
