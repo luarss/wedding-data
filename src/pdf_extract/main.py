@@ -1,15 +1,18 @@
 """
 PDF to markdown extraction using markitdown + LLM (OpenGateway/minimax-m3 primary, OpenRouter fallback).
+Image-based PDFs (no text layer) fall back to page-by-page vision OCR via the same LLM.
 
 Usage:
     python -m src.pdf_extract.main [--source bb|wd|sb] [--limit N] [--dry-run] [--reprocess]
 """
 
 import argparse
+import base64
 import os
 import sys
 from pathlib import Path
 
+import fitz  # pymupdf
 from dotenv import load_dotenv
 from markitdown import MarkItDown
 from openai import OpenAI
@@ -26,6 +29,11 @@ OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 # Owl Alpha: free, 1M context, native PDF + image support, strong agentic/tool use
 OPENROUTER_MODEL = "openrouter/owl-alpha"
 
+VISION_PROMPT = (
+    "Extract all text from this wedding venue price list page. "
+    "Preserve structure, package names, prices, and terms exactly as shown."
+)
+
 
 def find_pdfs(sources: list[str], reprocess: bool) -> list[Path]:
     pdfs = []
@@ -40,26 +48,57 @@ def find_pdfs(sources: list[str], reprocess: bool) -> list[Path]:
     return pdfs
 
 
-def resolve_converter() -> tuple[MarkItDown, str]:
-    """Return a configured MarkItDown instance and a label for logging."""
+def resolve_llm() -> tuple[OpenAI, str, str]:
+    """Return (client, model, provider_label) based on available API keys."""
     opengateway_key = os.getenv("OPENGATEWAY_API_KEY")
     openrouter_key = os.getenv("OPENROUTER_API_KEY")
 
     if opengateway_key:
-        client = OpenAI(api_key=opengateway_key, base_url=OPENGATEWAY_BASE_URL)
-        return MarkItDown(llm_client=client, llm_model=OPENGATEWAY_MODEL), f"OpenGateway ({OPENGATEWAY_MODEL})"
-
+        return (
+            OpenAI(api_key=opengateway_key, base_url=OPENGATEWAY_BASE_URL),
+            OPENGATEWAY_MODEL,
+            f"OpenGateway ({OPENGATEWAY_MODEL})",
+        )
     if openrouter_key:
-        client = OpenAI(api_key=openrouter_key, base_url=OPENROUTER_BASE_URL)
-        return MarkItDown(llm_client=client, llm_model=OPENROUTER_MODEL), f"OpenRouter ({OPENROUTER_MODEL})"
+        return (
+            OpenAI(api_key=openrouter_key, base_url=OPENROUTER_BASE_URL),
+            OPENROUTER_MODEL,
+            f"OpenRouter ({OPENROUTER_MODEL})",
+        )
 
     print("Error: set OPENGATEWAY_API_KEY or OPENROUTER_API_KEY", file=sys.stderr)
     sys.exit(1)
 
 
-def extract_pdf(converter: MarkItDown, pdf_path: Path) -> str:
+def vision_ocr(client: OpenAI, model: str, pdf_path: Path) -> str:
+    """Render each page as PNG and extract text via vision LLM."""
+    doc = fitz.open(str(pdf_path))
+    pages = []
+    for page in doc:
+        pix = page.get_pixmap(matrix=fitz.Matrix(2, 2))
+        b64 = base64.b64encode(pix.tobytes("png")).decode()
+        resp = client.chat.completions.create(
+            model=model,
+            messages=[{
+                "role": "user",
+                "content": [
+                    {"type": "image_url", "image_url": {"url": f"data:image/png;base64,{b64}"}},
+                    {"type": "text", "text": VISION_PROMPT},
+                ],
+            }],
+        )
+        pages.append(resp.choices[0].message.content)
+    doc.close()
+    return "\n\n---\n\n".join(pages)
+
+
+def extract_pdf(converter: MarkItDown, client: OpenAI, model: str, pdf_path: Path) -> str:
     result = converter.convert(str(pdf_path))
-    return result.text_content
+    text = result.text_content.strip()
+    if not text:
+        print("  [vision fallback] no text layer — using vision OCR")
+        text = vision_ocr(client, model, pdf_path)
+    return text
 
 
 def main() -> None:
@@ -83,15 +122,16 @@ def main() -> None:
             print(f"  [dry-run] {pdf.relative_to(DATA_DIR)}")
         return
 
-    converter, provider_label = resolve_converter()
+    client, model, provider_label = resolve_llm()
     print(f"Using: {provider_label}")
+    converter = MarkItDown(llm_client=client, llm_model=model)
 
     processed = failed = 0
     for pdf in pdfs:
         rel = pdf.relative_to(DATA_DIR)
         try:
             print(f"Processing: {rel}")
-            text = extract_pdf(converter, pdf)
+            text = extract_pdf(converter, client, model, pdf_path=pdf)
             md_path = pdf.with_suffix(".md")
             md_path.write_text(text, encoding="utf-8")
             print(f"  -> saved {md_path.name}")
