@@ -40,7 +40,6 @@ _GV = ("Google AI Studio", "GEMINI_API_KEY", GEMINI_BASE_URL)
 _CB = ("Cerebras", "CEREBRAS_API_KEY", CEREBRAS_BASE_URL)
 TEXT_MODELS = [
     ("OpenGateway", "OPENGATEWAY_API_KEY", OPENGATEWAY_BASE_URL, "minimax/minimax-m3"),
-    (*_GV, "gemini-3-flash"),                            # 1M ctx
     (*_GV, "gemini-2.5-flash"),                          # 1M ctx
     (*_CB, "gpt-oss-120b"),                              # 131K ctx
     (*_OR, "openrouter/owl-alpha"),                      # 1.05M ctx
@@ -56,7 +55,6 @@ TEXT_MODELS = [
 # Vision OCR models — tried in order when a PDF has no text layer.
 # Falls back to next model on rate limit or error.
 VISION_MODELS = [
-    (*_GV, "gemini-3-flash"),                                      # 1M ctx
     (*_GV, "gemini-2.5-flash"),                                    # 1M ctx
     (*_OR, "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free"), # 300K
     (*_OR, "moonshotai/kimi-k2.6:free"),                         # 262K
