@@ -1,6 +1,8 @@
 """
-PDF to markdown extraction using markitdown + LLM (OpenGateway/minimax-m3 primary, OpenRouter fallback).
-Image-based PDFs (no text layer) fall back to page-by-page vision OCR via OpenRouter/Gemma-4.
+PDF to markdown extraction pipeline.
+
+Text-layer PDFs: markitdown + text LLM (pdfminer does the work, LLM for embedded images).
+Image-based PDFs: page-by-page vision OCR via vision LLM chain.
 
 Usage:
     python -m src.pdf_extract.main [--source bb|wd|sb] [--limit N] [--dry-run] [--reprocess]
@@ -25,12 +27,21 @@ DATA_DIR = Path(__file__).parent.parent.parent / "data"
 SOURCES = ["bb", "wd", "sb"]
 
 OPENGATEWAY_BASE_URL = "https://opengateway.gitlawb.com/v1"
-OPENGATEWAY_MODEL = "minimax/minimax-m3"
-
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
-OPENROUTER_TEXT_MODEL = "openrouter/owl-alpha"
-# Gemma 4 31B: confirmed multimodal vision support, used exclusively for vision OCR fallback
-OPENROUTER_VISION_MODEL = "google/gemma-4-31b-it:free"
+
+# Text models — tried in order, first with a valid API key wins.
+# Used by markitdown for LLM-enhanced extraction (e.g. embedded image descriptions).
+TEXT_MODELS = [
+    ("OpenGateway", "OPENGATEWAY_API_KEY", OPENGATEWAY_BASE_URL, "minimax/minimax-m3"),
+    ("OpenRouter",  "OPENROUTER_API_KEY",  OPENROUTER_BASE_URL,  "nvidia/nemotron-3-super-120b-a12b:free"),
+]
+
+# Vision OCR models — tried in order when a PDF has no text layer.
+# Falls back to next model on rate limit or error.
+VISION_MODELS = [
+    ("OpenRouter", "OPENROUTER_API_KEY", OPENROUTER_BASE_URL, "google/gemma-4-31b-it:free"),
+    ("OpenRouter", "OPENROUTER_API_KEY", OPENROUTER_BASE_URL, "qwen/qwen2.5-vl-72b-instruct:free"),
+]
 
 VISION_PROMPT = (
     "Extract all text from this wedding venue price list page. "
@@ -45,78 +56,80 @@ def find_pdfs(sources: list[str], reprocess: bool) -> list[Path]:
         if not price_lists_dir.exists():
             continue
         for pdf in sorted(price_lists_dir.rglob("*.pdf")):
-            md_path = pdf.with_suffix(".md")
-            if reprocess or not md_path.exists():
+            if reprocess or not pdf.with_suffix(".md").exists():
                 pdfs.append(pdf)
     return pdfs
 
 
-def resolve_llm() -> tuple[OpenAI, str, str]:
-    """Return (client, model, provider_label) based on available API keys."""
-    opengateway_key = os.getenv("OPENGATEWAY_API_KEY")
-    openrouter_key = os.getenv("OPENROUTER_API_KEY")
-
-    if opengateway_key:
-        return (
-            OpenAI(api_key=opengateway_key, base_url=OPENGATEWAY_BASE_URL),
-            OPENGATEWAY_MODEL,
-            f"OpenGateway ({OPENGATEWAY_MODEL})",
-        )
-    if openrouter_key:
-        return (
-            OpenAI(api_key=openrouter_key, base_url=OPENROUTER_BASE_URL),
-            OPENROUTER_TEXT_MODEL,
-            f"OpenRouter ({OPENROUTER_TEXT_MODEL})",
-        )
-
-    print("Error: set OPENGATEWAY_API_KEY or OPENROUTER_API_KEY", file=sys.stderr)
+def resolve_text_client() -> tuple[OpenAI, str, str]:
+    """Return (client, model, label) for the first text model with a valid key."""
+    for label, env_key, base_url, model in TEXT_MODELS:
+        api_key = os.getenv(env_key)
+        if api_key:
+            return OpenAI(api_key=api_key, base_url=base_url), model, f"{label} ({model})"
+    keys = " or ".join(k for _, k, _, _ in TEXT_MODELS)
+    print(f"Error: set {keys}", file=sys.stderr)
     sys.exit(1)
 
 
-def resolve_vision_client() -> tuple[OpenAI, str] | None:
-    """Return (client, model) for vision OCR fallback, or None if key not set.
-
-    Uses OpenRouter/Gemma-4-31B — a confirmed multimodal model.
-    Owl Alpha was tried but returned 404 'No endpoints found that support image input'.
-    minimax-m3 on OpenGateway also rejects image payloads.
-    """
-    openrouter_key = os.getenv("OPENROUTER_API_KEY")
-    if not openrouter_key:
-        return None
-    return OpenAI(api_key=openrouter_key, base_url=OPENROUTER_BASE_URL), OPENROUTER_VISION_MODEL
+def resolve_vision_clients() -> list[tuple[OpenAI, str, str]]:
+    """Return list of (client, model, label) for vision OCR, in fallback order."""
+    clients = []
+    for label, env_key, base_url, model in VISION_MODELS:
+        api_key = os.getenv(env_key)
+        if api_key:
+            clients.append((OpenAI(api_key=api_key, base_url=base_url), model, f"{label} ({model})"))
+    return clients
 
 
-def vision_ocr(client: OpenAI, model: str, pdf_path: Path) -> str:
-    """Render each page as JPEG and extract text via vision LLM, with retry on rate limit."""
+def call_vision_api(client: OpenAI, model: str, label: str, b64: str) -> str:
+    """Call vision API with exponential backoff on rate limit (3 attempts)."""
+    for attempt in range(3):
+        try:
+            resp = client.chat.completions.create(
+                model=model,
+                messages=[{
+                    "role": "user",
+                    "content": [
+                        {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{b64}"}},
+                        {"type": "text", "text": VISION_PROMPT},
+                    ],
+                }],
+            )
+            return resp.choices[0].message.content
+        except RateLimitError as e:
+            if attempt == 2:
+                raise
+            wait = 30 * (2 ** attempt)  # 30s, then 60s
+            print(f"  [rate limit] {label} — waiting {wait}s before retry {attempt + 2}/3: {e}", file=sys.stderr)
+            time.sleep(wait)
+    raise RuntimeError("unreachable")
+
+
+def vision_ocr(vision_clients: list[tuple[OpenAI, str, str]], pdf_path: Path) -> str:
+    """Render each page as JPEG and OCR via vision models, falling back on error."""
     doc = fitz.open(str(pdf_path))
     page_count = len(doc)
     pages = []
+
     for i, page in enumerate(doc):
-        print(f"  [vision OCR] page {i + 1}/{page_count} via {model}")
+        print(f"  [vision OCR] page {i + 1}/{page_count}")
         pix = page.get_pixmap(matrix=fitz.Matrix(2, 2))
         b64 = base64.b64encode(pix.tobytes("jpeg", jpg_quality=85)).decode()
-        print(f"  [vision OCR] page {i + 1} image size: {len(b64) // 1024}KB (base64 JPEG)")
+        print(f"  [vision OCR] page {i + 1} size: {len(b64) // 1024}KB (JPEG)")
 
-        for attempt in range(3):
+        page_text = None
+        for client, model, label in vision_clients:
             try:
-                resp = client.chat.completions.create(
-                    model=model,
-                    messages=[{
-                        "role": "user",
-                        "content": [
-                            {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{b64}"}},
-                            {"type": "text", "text": VISION_PROMPT},
-                        ],
-                    }],
-                )
-                pages.append(resp.choices[0].message.content)
+                print(f"  [vision OCR] trying {label}")
+                page_text = call_vision_api(client, model, label, b64)
                 break
-            except RateLimitError as e:
-                if attempt == 2:
-                    raise
-                wait = 30 * (2 ** attempt)  # 30s, then 60s
-                print(f"  [rate limit] waiting {wait}s before retry {attempt + 2}/3: {e}", file=sys.stderr)
-                time.sleep(wait)
+            except Exception as e:
+                print(f"  [vision error] {label}: {type(e).__name__}: {e} — trying next", file=sys.stderr)
+
+        if page_text is None:
+            raise RuntimeError(f"all vision models failed on page {i + 1}/{page_count}")
+        pages.append(page_text)
 
     doc.close()
     return "\n\n---\n\n".join(pages)
@@ -124,17 +137,16 @@ def vision_ocr(client: OpenAI, model: str, pdf_path: Path) -> str:
 
 def extract_pdf(
     converter: MarkItDown,
-    vision: tuple[OpenAI, str] | None,
+    vision_clients: list[tuple[OpenAI, str, str]],
     pdf_path: Path,
 ) -> str:
     result = converter.convert(str(pdf_path))
     text = result.text_content.strip()
     if not text:
-        if vision is None:
-            raise RuntimeError("image-based PDF but OPENROUTER_API_KEY not set for vision fallback")
-        vision_client, vision_model = vision
-        print(f"  [vision fallback] no text layer — OCR via {vision_model}")
-        text = vision_ocr(vision_client, vision_model, pdf_path)
+        if not vision_clients:
+            raise RuntimeError("image-based PDF but no vision API key configured")
+        print("  [vision fallback] no text layer detected")
+        text = vision_ocr(vision_clients, pdf_path)
     return text
 
 
@@ -148,7 +160,6 @@ def main() -> None:
 
     sources = [args.source] if args.source else SOURCES
     pdfs = find_pdfs(sources, args.reprocess)
-
     if args.limit:
         pdfs = pdfs[: args.limit]
 
@@ -159,24 +170,25 @@ def main() -> None:
             print(f"  [dry-run] {pdf.relative_to(DATA_DIR)}")
         return
 
-    client, model, provider_label = resolve_llm()
-    print(f"Using: {provider_label}")
+    client, model, text_label = resolve_text_client()
+    print(f"Text model:   {text_label}")
     converter = MarkItDown(llm_client=client, llm_model=model)
-    vision = resolve_vision_client()
-    if vision:
-        print(f"Vision fallback: OpenRouter ({OPENROUTER_VISION_MODEL})")
+
+    vision_clients = resolve_vision_clients()
+    if vision_clients:
+        for _, _, label in vision_clients:
+            print(f"Vision model: {label}")
     else:
-        print("Vision fallback: disabled (no OPENROUTER_API_KEY)", file=sys.stderr)
+        print("Vision OCR:   disabled (no OPENROUTER_API_KEY)", file=sys.stderr)
 
     processed = failed = 0
     for pdf in pdfs:
         rel = pdf.relative_to(DATA_DIR)
         try:
             print(f"Processing: {rel}")
-            text = extract_pdf(converter, vision, pdf_path=pdf)
-            md_path = pdf.with_suffix(".md")
-            md_path.write_text(text, encoding="utf-8")
-            print(f"  -> saved {md_path.name}")
+            text = extract_pdf(converter, vision_clients, pdf_path=pdf)
+            pdf.with_suffix(".md").write_text(text, encoding="utf-8")
+            print(f"  -> saved {pdf.with_suffix('.md').name}")
             processed += 1
         except Exception as e:
             print(f"  [error] {rel}: {type(e).__name__}: {e}", file=sys.stderr)
