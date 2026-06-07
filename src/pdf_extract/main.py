@@ -55,6 +55,9 @@ TEXT_MODELS = [
     (*_OR, "nvidia/nemotron-3-nano-30b-a3b:free"),       # 256K ctx
     (*_OR, "openai/gpt-oss-120b:free"),                  # 131K ctx
     (*_OR, "openai/gpt-oss-20b:free"),                   # 131K ctx
+    (*_OR, "qwen/qwen3-next-80b-a3b-instruct:free"),     # 80B / 262K ctx
+    (*_OR, "meta-llama/llama-3.3-70b-instruct:free"),   # 131K ctx
+    (*_OR, "moonshotai/kimi-k2.6:free"),                # 262K ctx
     (*_OR, "z-ai/glm-4.5-air:free"),                     # 131K ctx
     (*_OR, "nvidia/nemotron-nano-9b-v2:free"),           # 128K ctx
 ]
