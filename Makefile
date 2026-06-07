@@ -14,3 +14,7 @@ check:
 .PHONY: sb
 sb:
 	@uv run python -m src.sb.main
+
+.PHONY: extract-pdfs
+extract-pdfs:
+	@uv run python -m src.pdf_extract.main
