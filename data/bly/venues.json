@@ -1089,7 +1089,7 @@
     "serviceRating": 5,
     "foodRating": null,
     "reviews": 4,
-    "tags": "Restaurant",
+    "tags": "Event Hall",
     "price": "From $480",
     "capacity": "1-36 pax",
     "rooms": "[{\"name\": \"Wedding Solemnisation Space\", \"capacity\": \"1-36 pax\", \"price\": \"From $480\"}]"
