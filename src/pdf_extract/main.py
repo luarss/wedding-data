@@ -14,7 +14,6 @@ import concurrent.futures
 import os
 import sys
 import threading
-import time
 import traceback
 from pathlib import Path
 
@@ -68,7 +67,6 @@ TEXT_MODELS = [
     (*_OR, "openai/gpt-oss-20b:free"),                   # 131K ctx
     (*_OR, "qwen/qwen3-next-80b-a3b-instruct:free"),     # 80B / 262K ctx
     (*_OR, "meta-llama/llama-3.3-70b-instruct:free"),   # 131K ctx
-    (*_OR, "moonshotai/kimi-k2.6:free"),                # 262K ctx
     (*_OR, "z-ai/glm-4.5-air:free"),                     # 131K ctx
     (*_OR, "nvidia/nemotron-nano-9b-v2:free"),           # 128K ctx
 ]
@@ -81,7 +79,6 @@ VISION_MODELS = [
     (*_OC, "nemotron-3-ultra-free"),                               # free
     (*_OR, "openrouter/free"),                                   # auto-selects cheapest
     (*_OR, "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free"), # 300K
-    (*_OR, "moonshotai/kimi-k2.6:free"),                         # 262K
     (*_OR, "google/gemma-4-31b-it:free"),                        # 256K
     (*_OR, "google/gemma-4-26b-a4b-it:free"),                    # 256K
     (*_OR, "nvidia/nemotron-nano-12b-v2-vl:free"),               # 128K
@@ -153,50 +150,40 @@ def _is_openrouter(label: str) -> bool:
     return "openrouter" in label.lower()
 
 
-def call_vision_api(client: OpenAI, model: str, label: str, b64: str) -> tuple[str, str | None]:
+def call_vision_api(client: OpenAI, model: str, b64: str) -> tuple[str, str | None]:
     """Call vision API. Returns (content, RateLimit-Remaining header value).
 
-    On 429 from OpenRouter, raises immediately without retry — each OR model has
-    its own rate limit, so retrying the same model is pointless.
+    OpenRouter rate limits are shared across all models — a 429 means the entire
+    provider is exhausted, so we raise immediately and let the caller skip all
+    remaining OR models.
     """
-    for attempt in range(3):
-        try:
-            resp = client.chat.completions.create(
-                model=model,
-                messages=[{
-                    "role": "user",
-                    "content": [
-                        {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{b64}"}},
-                        {"type": "text", "text": VISION_PROMPT},
-                    ],
-                }],
-            )
-            content = resp.choices[0].message.content
-            if content is None:
-                raise RuntimeError(f"model returned None content (finish_reason={resp.choices[0].finish_reason})")
-            remaining = resp.headers.get("RateLimit-Remaining") or resp.headers.get("x-ratelimit-remaining")
-            return content, remaining
-        except RateLimitError:
-            if _is_openrouter(label):
-                raise  # no retry — each OR model has its own quota, just move on
-            if attempt == 2:
-                raise
-            wait = 30 * (2 ** attempt)  # 30s, then 60s
-            print(f"  [rate limit] {label} — waiting {wait}s before retry {attempt + 2}/3", file=sys.stderr)
-            time.sleep(wait)
-    raise RuntimeError("unreachable")
+    resp = client.chat.completions.create(
+        model=model,
+        messages=[{
+            "role": "user",
+            "content": [
+                {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{b64}"}},
+                {"type": "text", "text": VISION_PROMPT},
+            ],
+        }],
+    )
+    content = resp.choices[0].message.content
+    if content is None:
+        raise RuntimeError(f"model returned None content (finish_reason={resp.choices[0].finish_reason})")
+    remaining = resp.headers.get("RateLimit-Remaining") or resp.headers.get("x-ratelimit-remaining")
+    return content, remaining
 
 
 def vision_ocr(vision_clients: list[tuple[OpenAI, str, str]], pdf_path: Path) -> str:
     """Render each page as JPEG and OCR via vision models, falling back on error.
 
-    Tracks per-model rate limit exhaustion via RateLimit-Remaining header and 429
-    responses. Each model has its own quota so only the specific model is skipped.
+    OpenRouter rate limits are shared — a single 429 skips all remaining OR models.
     """
     doc = fitz.open(str(pdf_path))
     page_count = len(doc)
     pages = []
     exhausted: set[str] = set()
+    or_exhausted = False
 
     for i, page in enumerate(doc):
         print(f"  [vision OCR] page {i + 1}/{page_count}")
@@ -208,16 +195,22 @@ def vision_ocr(vision_clients: list[tuple[OpenAI, str, str]], pdf_path: Path) ->
         for client, model, label in vision_clients:
             if model in exhausted:
                 continue
+            if or_exhausted and _is_openrouter(label):
+                continue
             try:
                 print(f"  [vision OCR] trying {label}")
-                page_text, remaining = call_vision_api(client, model, label, b64)
+                page_text, remaining = call_vision_api(client, model, b64)
                 if remaining == "0":
                     exhausted.add(model)
                     print(f"  [quota] {label} quota exhausted, will skip")
                 break
             except RateLimitError:
                 exhausted.add(model)
-                print(f"  [rate limit] {label} — trying next", file=sys.stderr)
+                if _is_openrouter(label):
+                    or_exhausted = True
+                    print(f"  [rate limit] OpenRouter exhausted — skipping remaining OR models", file=sys.stderr)
+                else:
+                    print(f"  [rate limit] {label} — trying next", file=sys.stderr)
             except Exception as e:
                 print(f"  [vision error] {label}: {type(e).__name__}: {e} — trying next", file=sys.stderr)
 
@@ -240,7 +233,7 @@ def _process_one(
     """Process a single PDF (called by worker threads). Returns True on success.
 
     Iterates text models in order. On RateLimitError, tries the next model.
-    Each model has its own rate limit, so we only skip the specific model that 429'd.
+    OpenRouter rate limits are shared, so a 429 from one OR model skips all OR models.
     """
     rel = pdf_path.relative_to(DATA_DIR)
     last_error = None
