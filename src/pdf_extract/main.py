@@ -29,6 +29,7 @@ DATA_DIR = Path(__file__).parent.parent.parent / "data"
 SOURCES = ["bb", "wd", "sb"]
 
 OPENGATEWAY_BASE_URL = "https://opengateway.gitlawb.com/v1"
+OPENCODE_ZEN_BASE_URL = "https://opencode.ai/zen/v1"
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 GEMINI_BASE_URL = "https://generativelanguage.googleapis.com/v1beta/openai/"
 CEREBRAS_BASE_URL = "https://api.cerebras.ai/v1"
@@ -38,12 +39,18 @@ COHERE_BASE_URL = "https://api.cohere.com/compatibility/v1"
 # Text models — tried in order, first with a valid API key wins.
 # Used by markitdown for LLM-enhanced extraction (e.g. embedded image descriptions).
 _OR = ("OpenRouter", "OPENROUTER_API_KEY", OPENROUTER_BASE_URL)
+_OC = ("OpenCode Zen", "OPENCODE_API_KEY", OPENCODE_ZEN_BASE_URL)
 _GV = ("Google AI Studio", "GEMINI_API_KEY", GEMINI_BASE_URL)
 _CB = ("Cerebras", "CEREBRAS_API_KEY", CEREBRAS_BASE_URL)
 _GC = ("GroqCloud", "GROQCLOUD_API_KEY", GROQ_BASE_URL)
 _CO = ("Cohere", "COHERE_API_KEY", COHERE_BASE_URL)
 TEXT_MODELS = [
     ("OpenGateway", "OPENGATEWAY_API_KEY", OPENGATEWAY_BASE_URL, "mimo-v2.5-pro"),
+    (*_OC, "big-pickle"),                                 # free
+    (*_OC, "deepseek-v4-flash-free"),                     # free
+    (*_OC, "mimo-v2.5-free"),                             # free
+    (*_OC, "north-mini-code-free"),                       # free
+    (*_OC, "nemotron-3-ultra-free"),                      # free
     (*_GV, "gemini-2.5-flash"),                          # 1M ctx
     (*_CB, "gpt-oss-120b"),                              # 131K ctx
     (*_CO, "command-a-plus-05-2026"),                    # 256K ctx / 1K req/month
@@ -70,6 +77,8 @@ TEXT_MODELS = [
 # Falls back to next model on rate limit or error.
 VISION_MODELS = [
     (*_GV, "gemini-2.5-flash"),                                    # 1M ctx
+    (*_OC, "big-pickle"),                                          # free
+    (*_OC, "nemotron-3-ultra-free"),                               # free
     (*_OR, "openrouter/free"),                                   # auto-selects cheapest
     (*_OR, "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free"), # 300K
     (*_OR, "moonshotai/kimi-k2.6:free"),                         # 262K
