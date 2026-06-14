@@ -103,9 +103,17 @@ def fetch_all_vendors(max_records_per_category: int | None = None):
 
     try:
         for category, endpoint_path in VENDOR_ENDPOINTS.items():
-            category_vendors = fetch_vendors_from_endpoint(
-                client, category, endpoint_path, max_records=max_records_per_category
-            )
+            if not endpoint_path:
+                logger.warning(f"Skipping {category}: endpoint not configured")
+                continue
+            try:
+                category_vendors = fetch_vendors_from_endpoint(
+                    client, category, endpoint_path, max_records=max_records_per_category
+                )
+            except Exception as e:
+                logger.error(f"Failed to fetch {category}: {e}")
+                category_stats[category] = {"fetched": 0, "unique_globally": 0}
+                continue
 
             unique_in_category = 0
             for vendor in category_vendors:

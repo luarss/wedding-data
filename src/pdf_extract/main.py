@@ -157,7 +157,7 @@ def call_vision_api(client: OpenAI, model: str, b64: str) -> tuple[str, str | No
     provider is exhausted, so we raise immediately and let the caller skip all
     remaining OR models.
     """
-    resp = client.chat.completions.create(
+    raw = client.chat.completions.with_raw_response.create(
         model=model,
         messages=[{
             "role": "user",
@@ -167,10 +167,11 @@ def call_vision_api(client: OpenAI, model: str, b64: str) -> tuple[str, str | No
             ],
         }],
     )
+    resp = raw.parse()
     content = resp.choices[0].message.content
     if content is None:
         raise RuntimeError(f"model returned None content (finish_reason={resp.choices[0].finish_reason})")
-    remaining = resp.headers.get("RateLimit-Remaining") or resp.headers.get("x-ratelimit-remaining")
+    remaining = raw.headers.get("RateLimit-Remaining") or raw.headers.get("x-ratelimit-remaining")
     return content, remaining
 
 
