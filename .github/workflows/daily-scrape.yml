@@ -2,7 +2,7 @@ name: Daily Wedding Data Scrape
 
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '23 19 * * *'
   workflow_dispatch:
 
 jobs:
