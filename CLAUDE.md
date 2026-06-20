@@ -19,6 +19,7 @@ Each subdirectory in `src/` is an independent scraper with its own entry point:
 | `bly/` | Bridely.sg | Singapore venues & vendors (API + Playwright) | `python -m src.bly.main` / `python -m src.bly.vendors` |
 | `wd/` | Wedded.sg | Singapore venues & photographers (Playwright) | `python -m src.wd.main` / `python -m src.wd.photographers` |
 | `sb/` | SingaporeBrides.com | Singapore wedding banquet prices | `python -m src.sb.main` |
+| `tv/` | Tagvenue.com | Singapore wedding venues (JSON API) | `python -m src.tv.main` |
 | `shared/` | - | Common utilities (HTTP headers, config) | - |
 
 ### Data Flow Pattern
@@ -32,6 +33,7 @@ Each subdirectory in `src/` is an independent scraper with its own entry point:
 
 - **HTTP + HTML parsing**: `bb`, `twn` - Direct HTTP requests with BeautifulSoup
 - **GraphQL API**: `twn` - Uses `gql` library with HTTPX transport
+- **Session-based AJAX API**: `tv` - Session cookies from search page, then JSON API (`/ajax/search-list`)
 - **Browser automation**: `bly`, `wd`, `sb` - Playwright for JavaScript-rendered content
 - **External JS scrapers**: `wd` loads JavaScript files (`scraper.js`, `photographers_scraper.js`) for page evaluation
 
@@ -73,6 +75,10 @@ uv run python -m src.wd.main 5                     # Limit to 5 for testing
 uv run python -m src.sb.main
 uv run python -m src.sb.main --no-headless         # Show browser window
 uv run python -m src.sb.main --no-details          # Skip detail pages
+
+# Tagvenue
+uv run python -m src.tv.main
+uv run python -m src.tv.main --limit 10            # Limit for testing
 ```
 
 ### Code Quality
@@ -119,10 +125,13 @@ data/
 │   ├── venues.csv
 │   ├── photographers.json
 │   └── price-lists/ # Downloaded PDFs
-└── sb/              # SingaporeBrides
+├── sb/              # SingaporeBrides
+│   ├── venues.json
+│   ├── venues.csv
+│   └── price-lists/ # Downloaded PDFs
+└── tv/              # Tagvenue
     ├── venues.json
-    ├── venues.csv
-    └── price-lists/ # Downloaded PDFs
+    └── venues.csv
 ```
 
 ## CI/CD

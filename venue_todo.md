@@ -11,6 +11,7 @@ Tracks potential new data sources, scouting status, and what each would add.
 | `wd` | Wedded.sg | ~142 | Room types (Rooftop/Garden/Glasshouse), PDFs |
 | `sb` | SingaporeBrides.com | ~128 | Full day-of-week pricing, phone/email |
 | `vrf` | Venuerific.com | ~50 | Geocoords, standing/seated cap, MRT station |
+| `tv` | Tagvenue.com | ~304 | Geo coords, MRT + distance, venue/space type, per-person pricing |
 | `twn` | TheWeddingNotebook.com | — | Malaysia venues only |
 
 ---
@@ -28,19 +29,18 @@ Tracks potential new data sources, scouting status, and what each would add.
 - **Potential salvage:** Query by `venue_type` (Rooftop / Garden / Gallery / Ballroom) and post-filter for wedding-suitable spaces; would surface art galleries, shophouses, lofts not on bridal platforms
 - **API:** `GET /api/v1/spaces/search-listing?venue_types=<type>&page=<n>&limit=9` — clean REST, no auth
 
----
-
-## Candidates — Not Yet Scouted
-
 ### Tagvenue (tagvenue.com/sg)
-- **Priority:** Medium
-- **Why:** International platform with SG coverage; good for non-traditional spaces (warehouses, rooftops, galleries)
-- **What to check:** Whether it has a public API or structured JSON; SG-specific venue count; whether it overlaps heavily with VRF
+- **Status:** ✅ Done — `src/tv/` (304 venues scraped)
+- **Data:** Geo coords, MRT + distance, venue/space type, per-person pricing, standing/seated capacity, reviews, cuisine, opening hours
+- **Approach:** Session-based AJAX API (`/ajax/search-list`) — init session for cookies, then paginate JSON. No Playwright needed.
+- **Overlap with VRF:** Partial — Tagvenue has more hotel/banquet venues, room-level granularity, and per-person pricing; VRF has unique boutique venues
 
 ### Giggster (giggster.com/find/singapore--sg)
-- **Priority:** Medium
-- **Why:** 641 SG locations, skews heavily toward unique/creative spaces (photography studios, heritage homes, rooftops) — very different from hotel-focused platforms
-- **What to check:** API structure; whether it has capacity/pricing or just hire rates by the hour; overlap with existing sources
+- **Status:** ⚠️ Skip for now
+- **Why:** 615 locations but pricing is **per-hour venue hire only** ($65–200 SGD/hr) — not per-pax wedding packages. Skews toward photography studios, coworking, creative spaces. No wedding-specific data (no banquet, no F&B).
+- **Overlap:** Low overlap with hotel-focused platforms, but also low relevance for wedding banquet planning
+- **Scraping approach:** Client-side rendered, no visible API/JSON. Would need Playwright.
+- **Verdict:** Not useful for wedding data — it's a venue hire platform, not a wedding platform
 
 ### NParks Venue Booking (nparks.gov.sg/services/book-event-venue)
 - **Priority:** Low

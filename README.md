@@ -12,6 +12,8 @@ This project is for **educational purposes only** and **not for profit**. The da
 - **TheWeddingNotebook.com** - Malaysia wedding venues
 - **Bridely.sg** - Singapore wedding venues and vendors
 - **Wedded.sg** - Singapore wedding venues
+- **SingaporeBrides.com** - Singapore wedding banquet prices
+- **Venuerific.com** - Singapore wedding venues (geocoords, capacity, MRT)
 
 ## Setup
 

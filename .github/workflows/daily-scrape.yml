@@ -96,6 +96,12 @@ jobs:
         timeout-minutes: 15
         continue-on-error: true
 
+      - name: Run Tagvenue scraper
+        id: tv
+        run: uv run python -m src.tv.main
+        timeout-minutes: 15
+        continue-on-error: true
+
       - name: Report scraper failures
         if: ${{ !cancelled() }}
         run: |
@@ -108,6 +114,7 @@ jobs:
           [ "${{ steps.wd-photographers.outcome }}" = "failure" ] && FAILED="$FAILED wd-photographers"
           [ "${{ steps.sb.outcome }}" = "failure" ] && FAILED="$FAILED sb"
           [ "${{ steps.vrf.outcome }}" = "failure" ] && FAILED="$FAILED vrf"
+          [ "${{ steps.tv.outcome }}" = "failure" ] && FAILED="$FAILED tv"
           if [ -n "$FAILED" ]; then
             echo "## Scraper Failures" >> $GITHUB_STEP_SUMMARY
             echo "The following scrapers failed:" >> $GITHUB_STEP_SUMMARY
