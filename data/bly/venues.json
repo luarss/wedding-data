@@ -1705,9 +1705,9 @@
     "foodRating": 4.1,
     "reviews": 8,
     "tags": "Event Hall",
-    "price": "From $268/pax",
+    "price": "From $308/pax",
     "capacity": "150-220 pax",
-    "rooms": "[{\"name\": \"Ocean Gallery\", \"capacity\": \"150-220 pax\", \"price\": \"From $268/pax\"}, {\"name\": \"Ocean Dome (Solemnization Package)\", \"capacity\": \"1-50 pax\", \"price\": \"From $10,888\"}]"
+    "rooms": "[{\"name\": \"Ocean Gallery\", \"capacity\": \"150-220 pax\", \"price\": \"From $308/pax\"}, {\"name\": \"Ocean Dome (Solemnization Package)\", \"capacity\": \"1-50 pax\", \"price\": \"From $10,888\"}]"
   },
   {
     "recordId": "reckkpfsXXbELp3ax",
