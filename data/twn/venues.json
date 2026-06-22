@@ -10673,72 +10673,8 @@
         "capacitySeatedMax": 500
       }
     ],
-    "packages": [
-      {
-        "name": "Conference Package Club 360, Setia Ecohill Semenyih",
-        "price": 70,
-        "priceMax": 130,
-        "priceFixture": "per_pax",
-        "pricePerPax": 70,
-        "description": "Club 360 at Setia EcoHill offers a refined and contemporary venue ideal for conferences, seminars, corporate meetings, training sessions, and product launches. Set amidst a serene environment with modern facilities and dedicated service, Club 360 is designed to support professional events of all scales with efficiency and excellence.\n\nOur versatile event halls â Sapphire Hall and Amber Hall â are fully equipped to meet the demands of todayâs business functions. Whether you're organizing a full-day seminar or an executive briefing, we provide comprehensive packages tailored to deliver convenience, comfort, and corporate professionalism.",
-        "includes": [],
-        "guestMin": 60,
-        "guestMax": 250,
-        "brochureUrl": "documents/fc83bc40-5119-486a-8339-b0cdaa653a59/brochure-cf550581-3faf-4fb9-98aa-04fe955c8ab5.pdf"
-      },
-      {
-        "name": "Rassdeco Event Malay Wedding Package",
-        "price": 30000,
-        "priceMax": 40000,
-        "priceFixture": "all_inclusive",
-        "pricePerPax": null,
-        "description": "In collaboration with Rassdeco Event - Celebrate your dream wedding at Club 360, Setia Ecohill Semenyih â a refined and stylish venue set within the serene hills and greenery of Setia Ecohill. Perfect for intimate to mid-scale wedding receptions, Sapphire Hall and Amber Hall at Club 360 offer elegant, fully air-conditioned spaces with modern interiors and flexible layout options to suit your celebration.In partnership with Rassdeco Event, renowned for their exceptional service and delectable cuisine, this all-in-one wedding reception package is thoughtfully crafted to deliver a seamless, beautiful, and memorable celebration for you and your guests.",
-        "includes": [],
-        "guestMin": 500,
-        "guestMax": 1000,
-        "brochureUrl": "documents/fc83bc40-5119-486a-8339-b0cdaa653a59/brochure-7818a6ce-a5b7-4acb-98ab-1baae472f4e0.pdf"
-      },
-      {
-        "name": "Sanggul Event Malay Wedding Package",
-        "price": 61500,
-        "priceMax": null,
-        "priceFixture": "all_inclusive",
-        "pricePerPax": null,
-        "description": "In collaboration with Sanggul Event - Celebrate your dream wedding at Club 360, Setia Ecohill Semenyih â a refined and stylish venue set within the serene hills and greenery of Setia Ecohill. Perfect for intimate to mid-scale wedding receptions, Sapphire Hall and Amber Hall at Club 360 offer elegant, fully air-conditioned spaces with modern interiors and flexible layout options to suit your celebration.In partnership with Sanggul Event, renowned for their exceptional service and delectable cuisine, this all-in-one wedding reception package is thoughtfully crafted to deliver a seamless, beautiful, and memorable celebration for you and your guests.",
-        "includes": [],
-        "guestMin": 200,
-        "guestMax": 500,
-        "brochureUrl": "documents/fc83bc40-5119-486a-8339-b0cdaa653a59/brochure-6de87e09-e938-464d-85f5-4533797f0977.pdf"
-      },
-      {
-        "name": "Fast Event Entertainment Indian Wedding Package",
-        "price": 28000,
-        "priceMax": 73000,
-        "priceFixture": "all_inclusive",
-        "pricePerPax": null,
-        "description": "In collaboration with Fast Event Entertainment - Celebrate your dream wedding at Club 360, Setia Ecohill Semenyih â a refined and stylish venue set within the serene hills and greenery of Setia Ecohill. Perfect for intimate to mid-scale wedding receptions, Sapphire Hall and Amber Hall at Club 360 offer elegant, fully air-conditioned spaces with modern interiors and flexible layout options to suit your celebration.In partnership with Fast Event Entertainment, renowned for their exceptional service and delectable cuisine, this all-in-one wedding reception package is thoughtfully crafted to deliver a seamless, beautiful, and memorable celebration for you and your guests.",
-        "includes": [],
-        "guestMin": 200,
-        "guestMax": 500,
-        "brochureUrl": "documents/fc83bc40-5119-486a-8339-b0cdaa653a59/brochure-4244bec3-3785-4ae9-bb43-7da43faa0a54.pdf"
-      },
-      {
-        "name": "Event Space Rental",
-        "price": 4500,
-        "priceMax": 15000,
-        "priceFixture": "all_inclusive",
-        "pricePerPax": null,
-        "description": "Located in the heart of Setia EcoHill, Club 360 offers two contemporary event spaces â Sapphire Hall and Amber Hall â designed to host a variety of events in a stylish and comfortable setting. Whether you're planning a wedding, corporate seminar, birthday celebration, or community gathering, Club 360 provides the perfect venue with flexible configurations and modern amenities.\n\nâ¨ Sapphire Hall\nA spacious, pillarless hall with high ceilings and elegant finishes, Sapphire Hall is ideal for wedding receptions, annual dinners, and large-scale functions. With a capacity of up to 30 banquet tables (300 pax), the hall is fully air-conditioned and equipped with essential AV facilities to support a seamless event experience.\n\nð Amber Hall\nPerfect for smaller events or breakout sessions, Amber Hall offers a cozy yet professional environment. Suitable for up to 15 banquet tables (150 pax) or seminar-style seating, this hall is ideal for intimate weddings, corporate trainings, or private celebrations.",
-        "includes": [],
-        "guestMin": 300,
-        "guestMax": 500,
-        "brochureUrl": "documents/fc83bc40-5119-486a-8339-b0cdaa653a59/brochure-ccbc7c5a-fb1b-4254-a77b-4d087ab42a47.pdf"
-      }
-    ],
-    "venueCapacity": {
-      "min": 100,
-      "max": 1000
-    }
+    "packages": [],
+    "venueCapacity": {}
   },
   {
     "id": "daa8d1bc-aaee-4dfe-9b72-297b3e783d3e",
@@ -11856,7 +11792,7 @@
       },
       "packages": {
         "value": "packages",
-        "overriddenAt": "2026-04-15T09:11:08.985Z",
+        "overriddenAt": "2026-06-22T07:39:50.410Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "photos-videos": {
@@ -11919,7 +11855,7 @@
         "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-9414a5ab-0c40-48c1-a9f6-69905e9009be.pdf"
       },
       {
-        "name": "Jutarasa Catering Malay Wedding Package",
+        "name": "Jutarasa Catering Malay Wedding Packages",
         "price": 54500,
         "priceMax": null,
         "priceFixture": "all_inclusive",

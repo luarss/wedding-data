@@ -43,7 +43,7 @@
       "Team Bonding"
     ],
     "fast_response": true,
-    "response_time": "14 hrs"
+    "response_time": "12 hrs"
   },
   {
     "name": "Maduro",
@@ -114,7 +114,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "27 mins"
+    "response_time": "26 mins"
   },
   {
     "name": "The Spot Singapore",
@@ -209,7 +209,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "20 hrs"
+    "response_time": null
   },
   {
     "name": "KOMYUNITI Bar & Restaurant",
@@ -326,7 +326,7 @@
       "Reception"
     ],
     "fast_response": true,
-    "response_time": "17 hrs"
+    "response_time": "16 hrs"
   },
   {
     "name": "Artyzen Singapore",
@@ -350,6 +350,30 @@
       "Wedding"
     ],
     "fast_response": false,
+    "response_time": null
+  },
+  {
+    "name": "Pen & Inc One North",
+    "url": "https://www.venuerific.com/sg/venues/pen-inc-one-north",
+    "slug": "pen-inc-one-north",
+    "area": "Bukit Timah, Buona Vista, One North",
+    "address": "11 Slim Barracks Rise, NTU@one-north, #03-00/01, Singapore 138664",
+    "lat": 1.3040177,
+    "lng": 103.7898873,
+    "capacity_standing": 480,
+    "capacity_seated": 380,
+    "rooms_count": 3,
+    "price": "S$48",
+    "price_unit": "Per pax",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Buona Vista, One North, ",
+    "event_types": [
+      "Party",
+      "Dinner and Dance",
+      "Wedding"
+    ],
+    "fast_response": true,
     "response_time": null
   },
   {
@@ -422,7 +446,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "14 hrs"
+    "response_time": "13 hrs"
   },
   {
     "name": "Plume",
@@ -580,7 +604,7 @@
       "Corporate Seminar",
       "Team Building"
     ],
-    "fast_response": true,
+    "fast_response": false,
     "response_time": null
   },
   {
@@ -909,29 +933,6 @@
     ],
     "fast_response": false,
     "response_time": null
-  },
-  {
-    "name": "Pen & Inc One North",
-    "url": "https://www.venuerific.com/sg/venues/pen-inc-one-north",
-    "slug": "pen-inc-one-north",
-    "area": "Bukit Timah, Buona Vista, One North",
-    "address": "11 Slim Barracks Rise, #03 01, Singapore 138664",
-    "lat": 1.3040177,
-    "lng": 103.7898873,
-    "capacity_standing": 450,
-    "capacity_seated": 370,
-    "rooms_count": 3,
-    "price": "S$20",
-    "price_unit": "Per pax",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "",
-    "event_types": [
-      "Party",
-      "Wedding"
-    ],
-    "fast_response": true,
-    "response_time": "8 hrs"
   },
   {
     "name": " M Hotel Singapore ",

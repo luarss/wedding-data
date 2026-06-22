@@ -285,6 +285,21 @@
     "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"220-420 pax\", \"price\": \"From $309/pax\"}]"
   },
   {
+    "recordId": "recBjzDZV6Tmy22FL",
+    "name": "The Acacia Geneo",
+    "url": "https://www.bridely.sg/venue/the-acacia-geneo/r/recBjzDZV6Tmy22FL",
+    "location": "1 Science Park Dr, #01-07, Singapore 118221",
+    "overallRating": 5,
+    "venueRating": 5,
+    "serviceRating": 5,
+    "foodRating": 5,
+    "reviews": 17,
+    "tags": "Restaurant, Fusion, Indian, Muslim-friendly, Peranakan, Vegetarian, Western",
+    "price": "From $55/pax",
+    "capacity": "100-500 pax",
+    "rooms": "[{\"name\": \"The Acacia Geneo\", \"capacity\": \"100-500 pax\", \"price\": \"From $55/pax\"}]"
+  },
+  {
     "recordId": "recjssjp75IRHLGQY",
     "name": "PARKROYAL COLLECTION Pickering",
     "url": "https://www.bridely.sg/venue/parkroyal-collection-pickering/r/recjssjp75IRHLGQY",
@@ -853,21 +868,6 @@
     "price": "From $168/pax",
     "capacity": "150-440 pax",
     "rooms": "[{\"name\": \"Concorde Ballroom\", \"capacity\": \"150-440 pax\", \"price\": \"From $168/pax\"}]"
-  },
-  {
-    "recordId": "recuWFeIus5aceTNN",
-    "name": "Into the Woods",
-    "url": "https://www.bridely.sg/venue/into-the-woods/r/recuWFeIus5aceTNN",
-    "location": "Kallang",
-    "overallRating": 5,
-    "venueRating": 5,
-    "serviceRating": 5,
-    "foodRating": 5,
-    "reviews": 7,
-    "tags": "Event Hall",
-    "price": "From $1,010",
-    "capacity": "1-50 pax",
-    "rooms": "[{\"name\": \"Into the Woods\", \"capacity\": \"1-50 pax\", \"price\": \"From $1,010\"}]"
   },
   {
     "recordId": "recpchlyo5QV8gm7b",
