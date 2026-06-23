@@ -114,7 +114,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "26 mins"
+    "response_time": "44 mins"
   },
   {
     "name": "The Spot Singapore",
@@ -162,7 +162,7 @@
       "Party"
     ],
     "fast_response": true,
-    "response_time": "20 hrs"
+    "response_time": "6 hrs"
   },
   {
     "name": "METT Hotel",
@@ -233,7 +233,7 @@
       "Media Event"
     ],
     "fast_response": true,
-    "response_time": "7 hrs"
+    "response_time": "15 hrs"
   },
   {
     "name": "Singapore EXPO",
@@ -353,7 +353,7 @@
     "response_time": null
   },
   {
-    "name": "Pen & Inc One North",
+    "name": "PEN & INC · One-North",
     "url": "https://www.venuerific.com/sg/venues/pen-inc-one-north",
     "slug": "pen-inc-one-north",
     "area": "Bukit Timah, Buona Vista, One North",
@@ -367,9 +367,9 @@
     "price_unit": "Per pax",
     "rating": 0,
     "reviews": 0,
-    "mrt_station": "Buona Vista, One North, ",
+    "mrt_station": "Buona Vista MRT, One North MRT",
     "event_types": [
-      "Party",
+      "Corporate Seminar",
       "Dinner and Dance",
       "Wedding"
     ],
@@ -397,7 +397,7 @@
       "Baby Shower",
       "Kid's 1st Birthday"
     ],
-    "fast_response": true,
+    "fast_response": false,
     "response_time": null
   },
   {
@@ -792,7 +792,7 @@
       "Conference"
     ],
     "fast_response": true,
-    "response_time": "18 hrs"
+    "response_time": "15 hrs"
   },
   {
     "name": "Park Regis by Prince Singapore  ",

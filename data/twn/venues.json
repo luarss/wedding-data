@@ -5578,7 +5578,7 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1779355583716-20251025_130207080_iOS/original.jpg"
       }
     ],
-    "description": "Celebrate your once-in-a-lifetime moment in the timeless sophistication of Sofitel Kuala Lumpur Damansara. Nestled in the prestigious Damansara Heights, our luxurious ballroom features a striking curved design, dark wood accents, and a sculpted, avant-garde ceiling — creating a pillarless, breathtaking setting for your grand celebration. With the capacity to host up to 420 guests, every detail is thoughtfully curated to leave a lasting impression.\r\n\r\nFor more intimate weddings, Wan Chun Ting offers a refined space inspired by Imperial China, complete with intricate carved screens, a whimsical chandelier, and exquisite Cantonese cuisine. Perfect for receptions of up to 120 guests, it promises a truly bespoke dining experience.\r\n\r\nAt Sofitel Kuala Lumpur Damansara, your wedding dreams come alive with French elegance and heartfelt Malaysian hospitality. From lavish ballroom banquets to intimate cultural ceremonies, our dedicated wedding specialists are here to craft unforgettable moments tailored just for you.",
+    "description": "Celebrate your once-in-a-lifetime moment in the timeless sophistication of Sofitel Kuala Lumpur Damansara. Nestled in the prestigious Damansara Heights, our luxurious ballroom features a striking curved design, dark wood accents, and a sculpted, avant-garde ceiling — creating a pillarless, breathtaking setting for your grand celebration. With the capacity to host up to 420 guests, every detail is thoughtfully curated to leave a lasting impression.\r\n\r\nFor more intimate weddings, Wan Chun Ting offers a refined space inspired by Imperial China, complete with intricate carved screens, a whimsical chandelier, and exquisite Cantonese cuisine. Perfect for receptions of up to 120 guests, it promises a truly bespoke dining experience.",
     "createdAt": "2025-04-27T09:32:51.254Z",
     "vendorId": "user_3E1oZ9TtVL60PWVr2jS8i6dQsaj",
     "address": "6, Jalan Damanlela, Bukit Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
@@ -5630,6 +5630,11 @@
     "venueDetails": null,
     "photographerDetails": null,
     "adminOverrides": {
+      "spaces": {
+        "value": "spaces",
+        "overriddenAt": "2026-06-23T14:40:31.397Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
       "packages": {
         "value": "packages",
         "overriddenAt": "2026-04-13T08:01:30.267Z",
@@ -5637,12 +5642,12 @@
       },
       "photos-videos": {
         "value": "photos-videos",
-        "overriddenAt": "2026-04-13T09:02:30.611Z",
+        "overriddenAt": "2026-06-23T14:41:30.752Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "venue-details": {
         "value": "venue-details",
-        "overriddenAt": "2026-04-13T07:59:41.130Z",
+        "overriddenAt": "2026-06-23T14:39:08.756Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       }
     },
@@ -5650,16 +5655,16 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'120':107B '420':62B 'accent':38B 'aliv':125B 'avant':43B 'avant-gard':42B 'ballroom':30B,135B 'banquet':136B 'bespok':113B 'breathtak':49B 'cantones':99B 'capac':57B 'carv':92B 'ceil':45B 'celebr':5B,54B 'ceremoni':140B 'chandeli':96B 'china':88B 'chun':79B 'come':124B 'complet':89B 'craft':148B 'creat':46B 'cuisin':100B 'cultur':139B 'curat':68B 'curv':34B 'damansara':4A,21B,26B,120B 'dark':36B 'dedic':142B 'design':35B 'detail':65B 'dine':114B 'dream':123B 'eleg':128B 'everi':64B 'experi':115B 'exquisit':98B 'featur':31B 'french':127B 'gard':44B 'grand':53B 'guest':63B,108B 'heartfelt':130B 'height':27B 'hospit':132B 'host':59B 'imperi':87B 'impress':73B 'inspir':85B 'intim':76B,138B 'intric':91B 'kuala':2A,19B,118B,152C,156C 'last':72B 'lavish':134B 'leav':70B 'lifetim':11B 'lumpur':3A,20B,119B,153C,157C 'luxuri':29B 'malaysian':131B 'moment':12B,150B 'nestl':22B 'offer':81B 'once-in-a-lifetim':7B 'perfect':101B 'persekutuan':155C 'pillarless':48B 'prestigi':25B 'promis':110B 'recept':103B 'refin':83B 'screen':93B 'sculpt':41B 'set':50B 'sofitel':1A,18B,117B 'sophist':16B 'space':84B 'specialist':144B 'strike':33B 'tailor':151B 'thought':67B 'timeless':15B 'ting':80B 'truli':112B 'unforgett':149B 'wan':78B 'wed':77B,122B,143B 'whimsic':95B 'wilayah':154C 'wood':37B",
+    "fts": "'120':107B '420':62B 'accent':38B 'avant':43B 'avant-gard':42B 'ballroom':30B 'bespok':113B 'breathtak':49B 'cantones':99B 'capac':57B 'carv':92B 'ceil':45B 'celebr':5B,54B 'chandeli':96B 'china':88B 'chun':79B 'complet':89B 'creat':46B 'cuisin':100B 'curat':68B 'curv':34B 'damansara':4A,21B,26B 'dark':36B 'design':35B 'detail':65B 'dine':114B 'everi':64B 'experi':115B 'exquisit':98B 'featur':31B 'gard':44B 'grand':53B 'guest':63B,108B 'height':27B 'host':59B 'imperi':87B 'impress':73B 'inspir':85B 'intim':76B 'intric':91B 'kuala':2A,19B,116C,120C 'last':72B 'leav':70B 'lifetim':11B 'lumpur':3A,20B,117C,121C 'luxuri':29B 'moment':12B 'nestl':22B 'offer':81B 'once-in-a-lifetim':7B 'perfect':101B 'persekutuan':119C 'pillarless':48B 'prestigi':25B 'promis':110B 'recept':103B 'refin':83B 'screen':93B 'sculpt':41B 'set':50B 'sofitel':1A,18B 'sophist':16B 'space':84B 'strike':33B 'thought':67B 'timeless':15B 'ting':80B 'truli':112B 'wan':78B 'wed':77B 'whimsic':95B 'wilayah':118C 'wood':37B",
     "textEmbedding": null,
     "catalogPosition": 4,
     "isSpotlight": true,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-06-19T01:57:03.586Z",
+    "updatedAt": "2026-06-23T14:41:30.689Z",
     "spaces": [
       {
-        "id": "e9a024be-5762-49d8-ac6c-5d088cef7aff",
+        "id": "3b14d872-3d73-44e3-b199-45b147695852",
         "name": "Wau Bulan Ballroom",
         "type": "Ballrooms",
         "indoorOutdoor": "Indoor",
@@ -5668,7 +5673,7 @@
         "capacitySeatedMax": 420
       },
       {
-        "id": "82d88354-6e81-4de2-b0df-5746d69b8a15",
+        "id": "758c118c-39f5-447e-be73-ce48716bf6b0",
         "name": "Wan Chun Ting",
         "type": "Restaurants",
         "indoorOutdoor": "Indoor",
@@ -8369,7 +8374,7 @@
     ],
     "description": "Colony’s wedding venue in KL features breathtaking views and vibrant greenery, setting the stage for a truly memorable celebration. Exchange vows in the captivating Glass Box, where towering windows and a draped fabric ceiling create an airy, romantic ambiance. Or celebrate beneath the stars at the Rooftop Terrace, a peaceful garden hideaway above the bustling city. Whether you're planning a cozy ceremony or a lavish affair, every wedding here is crafted with elegance, charm, and personal flair.",
     "createdAt": "2025-07-09T03:48:34.614Z",
-    "vendorId": "user_3Cy3Yz8yDkM9kiVwKHPBOi17yo1",
+    "vendorId": "user_3FKuqSs34dKLmn1C7z4pnkShJeD",
     "address": "20, Jalan Dutamas 2, Kompleks Kerajaan, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
     "postCode": "50480",
     "googlePlaceId": "ChIJlfwMMmNIzDERjdYCmdsvdFM",
@@ -8437,7 +8442,7 @@
     "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-06-19T01:57:03.586Z",
+    "updatedAt": "2026-06-23T09:54:23.214Z",
     "spaces": [
       {
         "id": "1d41a50b-d537-4c84-83e2-d7812b3d6749",
@@ -10655,22 +10660,31 @@
     "updatedAt": "2026-06-19T01:57:03.586Z",
     "spaces": [
       {
-        "id": "aa738e5f-5fa4-468c-8760-f99c3ea759b7",
-        "name": "Sapphire Hall, Club 360 @ Setia Ecohill, Semenyih",
-        "type": "Banquet Halls",
-        "indoorOutdoor": "Covered Outdoor",
-        "area": 3200,
-        "capacitySeatedMin": 100,
-        "capacitySeatedMax": 300
+        "id": "bf83148e-6b0a-4c32-b9bd-193c0bded824",
+        "name": "Grand Ballroom, Templer's Club @ Setia Eco Templer",
+        "type": "Ballroom",
+        "indoorOutdoor": "INDOOR",
+        "area": 30000,
+        "capacitySeatedMin": 300,
+        "capacitySeatedMax": 600
       },
       {
-        "id": "e42b6459-3192-4cf7-a0ae-fb711076e738",
-        "name": "Amber Hall, Club 360 @ Setia Ecohill, Semenyih",
-        "type": "Banquet Halls",
-        "indoorOutdoor": "Covered Outdoor",
-        "area": 25000,
-        "capacitySeatedMin": 250,
+        "id": "8f699af6-a06e-4322-a63b-0789fa632671",
+        "name": "Amantara Hall, Templer's Club @ Setia Eco Templer",
+        "type": "Banquet Hall",
+        "indoorOutdoor": "INDOOR_OUTDOOR",
+        "area": 20000,
+        "capacitySeatedMin": 100,
         "capacitySeatedMax": 500
+      },
+      {
+        "id": "9f87a283-6a23-4120-84b0-5cdce8dc6867",
+        "name": "Alia Hall, Templer's Club @ Setia Eco Templer",
+        "type": "Banquet Hall",
+        "indoorOutdoor": "INDOOR_OUTDOOR",
+        "area": 18000,
+        "capacitySeatedMin": 100,
+        "capacitySeatedMax": 250
       }
     ],
     "packages": [],
@@ -14034,7 +14048,7 @@
     "adminOverrides": {
       "packages": {
         "value": "packages",
-        "overriddenAt": "2026-04-13T07:35:49.116Z",
+        "overriddenAt": "2026-06-23T14:31:36.512Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "photos-videos": {
@@ -14108,12 +14122,12 @@
     ],
     "packages": [
       {
-        "name": "Joyous Celebrations",
-        "price": 178,
+        "name": "Joyous Celebrations - Chinese 8-Course Package",
+        "price": 228,
         "priceMax": 268,
         "priceFixture": "per_pax",
-        "pricePerPax": 178,
-        "description": "Terms & Conditions applies, All rates are subject to prevailing 8% Government Tax. Offer valid from 01st January 2026 to 31st December 2026. Packages are applicable for a minimum of 20 tables at 10 persons per table.",
+        "pricePerPax": 228,
+        "description": "Customize your own eight course meal to best serve your guests. Packages are applicable for a minimum of 20 tables at 10 persons per table.",
         "includes": [
           "F&B",
           "Pre dinner reception tidbits & Complimentary food tasting",
@@ -14123,15 +14137,15 @@
         ],
         "guestMin": 200,
         "guestMax": 1000,
-        "brochureUrl": null
+        "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1782224909064-CCEC-Chinese-Wedding-3-Packages-VIEW-1_compressed_compressed.pdf"
       },
       {
-        "name": "Eternal-Bonds",
+        "name": "Eternal Bonds - Indian Wedding Package",
         "price": 150,
         "priceMax": 225,
         "priceFixture": "per_pax",
         "pricePerPax": 150,
-        "description": "Terms & Conditions applies, All rates are subject to prevailing 8% Government Tax. Offer valid from 01st January 2026 to 31st December 2026. Packages are applicable for a minimum of 20 tables at 10 persons per table.",
+        "description": "Tie the knot with classic Indian wedding customs. Whether itâs vegetarian dishes or authentic Indian cuisinePackages are applicable for a minimum of 20 tables at 10 persons per table.",
         "includes": [
           "F&B",
           "Pre dinner reception tidbits & Complimentary food tasting",
@@ -14141,15 +14155,15 @@
         ],
         "guestMin": 200,
         "guestMax": 1000,
-        "brochureUrl": null
+        "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1782224998010-CCEC-Indian-Wedding-Package-FA-VIEW_compressed.pdf"
       },
       {
-        "name": "A-Toast-to-Love",
+        "name": "A-Toast-to-Love - Western Wedding Package",
         "price": 220,
         "priceMax": 260,
         "priceFixture": "per_pax",
         "pricePerPax": 220,
-        "description": "Terms & Conditions applies, All rates are subject to prevailing 8% Government Tax. Offer valid from 01st January 2026 to 31st December 2026. Packages are applicable for a minimum of 20 tables at 10 persons per table.",
+        "description": "Celebrate your union with our all-new western wedding packages, featuring exclusive 4-course set menus. Packages are applicable for a minimum of 20 tables at 10 persons per table.",
         "includes": [
           "F&B",
           "Pre dinner reception tidbits & Complimentary food tasting",
@@ -14159,7 +14173,7 @@
         ],
         "guestMin": null,
         "guestMax": null,
-        "brochureUrl": null
+        "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1782225077308-CCEC-Western-Wedding-Package-FA-VIEW_compressed.pdf"
       }
     ],
     "venueCapacity": {
@@ -14306,7 +14320,7 @@
     "adminOverrides": {
       "packages": {
         "value": "packages",
-        "overriddenAt": "2026-04-13T11:08:38.247Z",
+        "overriddenAt": "2026-06-23T14:36:17.261Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "photos-videos": {
@@ -14453,7 +14467,7 @@
         "priceMax": null,
         "priceFixture": "all_inclusive",
         "pricePerPax": null,
-        "description": "$73",
+        "description": "Eternity Love Wedding PackageFrom MYR2,188 nett per table (Minimum 20 tables) The Eternity Love Wedding Package at PARKROYAL Penang Resort is thoughtfully curated for couples seeking a wedding celebration that blends elegance, convenience and unforgettable moments by the sea. Set along the scenic shores of Batu Ferringhi, the package offers a seamless wedding experience where every detail  from delightful dining to elegant dÃ©cor and modern audiovisual facilities is carefully arranged to create a celebration that feels both grand and effortless.",
         "includes": [
           "8-course Chinese set menu",
           "Unlimited Chinese tea and fizzy orange throughout dinner or lunch",
@@ -14483,7 +14497,7 @@
         "priceMax": null,
         "priceFixture": "all_inclusive",
         "pricePerPax": null,
-        "description": "Ultimate Love Wedding Package\nFrom MYR2,388 nett per table (Minimum 20 tables)\n\nThe Ultimate Love Wedding Package at PARKROYAL Penang Resort is crafted for couples seeking a truly elevated and unforgettable wedding by the sea. The package combines exquisite dining, elegant dÃ©cor, and thoughtful touches from a pre-dinner cocktail session to a ceremonial cake-cutting moment, ensuring every celebration feels special and effortless against the tropical backdrop of Batu Ferringhi.\n\nBeyond the reception, the package enhances the entire wedding journey for the couple and their guests. Highlights include a luxurious stay in the Lanai Suite with welcome amenities, a voucher for the first anniversary, and access to scenic resort grounds for photography or a romantic garden ceremony. With attentive service, spa treatments, and exclusive membership upgrades, this package creates a seamless, meaningful, and truly memorable wedding celebration from start to finish.",
+        "description": "Ultimate Love Wedding PackageFrom MYR2,388 nett per table (Minimum 20 tables) The Ultimate Love Wedding Package at PARKROYAL Penang Resort is crafted for couples seeking a truly elevated and unforgettable wedding by the sea. The package combines exquisite dining, elegant dÃ©cor, and thoughtful touches from a pre-dinner cocktail session to a ceremonial cake-cutting moment, ensuring every celebration feels special and effortless against the tropical backdrop of Batu Ferringhi.",
         "includes": [
           "8-course Chinese set menu",
           "Unlimited Chinese tea and fizzy orange throughout dinner or lunch",
@@ -14520,7 +14534,7 @@
         "priceMax": null,
         "priceFixture": "all_inclusive",
         "pricePerPax": null,
-        "description": "Everlasting Love Wedding Package\nFrom MYR2,888 nett per table (Minimum 20 tables)\n\nThe Everlasting Love Wedding Package at PARKROYAL Penang Resort is perfect for couples who want their wedding to be truly unforgettable. Set against the stunning tropical backdrop of Batu Ferringhi, it offers a sophisticated and elegant celebration by the sea, where every moment from saying vows to celebrating with family and friends is surrounded by breathtaking scenery and a serene, romantic atmosphere.\n\nThis package is designed to make the entire wedding experience effortless and memorable. Couples can enjoy the beauty of the resortâs landscaped grounds, the charm of an optional garden ceremony, and the convenience of seamless planning with expert support, ensuring a stress-free day that feels intimate yet grand. With comfortable accommodations and thoughtful touches throughout, the Everlasting Love Wedding Package transforms your dream wedding into a reality that will be cherished for a lifetime.",
+        "description": "Everlasting Love Wedding PackageFrom MYR2,888 nett per table (Minimum 20 tables)The Everlasting Love Wedding Package at PARKROYAL Penang Resort is perfect for couples who want their wedding to be truly unforgettable. Set against the stunning tropical backdrop of Batu Ferringhi, it offers a sophisticated and elegant celebration by the sea, where every moment from saying vows to celebrating with family and friends is surrounded by breathtaking scenery and a serene, romantic atmosphere.This package is designed to make the entire wedding experience effortless and memorable. Couples can enjoy the beauty of the resortâs landscaped grounds, the charm of an optional garden ceremony, and the convenience of seamless planning with expert support, ensuring a stress-free day that feels intimate yet grand. ",
         "includes": [
           "8-course Chinese set menu",
           "Unlimited Chinese tea and fizzy orange throughout dinner or lunch",
