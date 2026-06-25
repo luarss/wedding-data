@@ -23,6 +23,30 @@
     "response_time": null
   },
   {
+    "name": "Mexican Bar and Grill @ Clarke Quay",
+    "url": "https://www.venuerific.com/sg/venues/mexican-bar-and-grill-clarke-quay",
+    "slug": "mexican-bar-and-grill-clarke-quay",
+    "area": "Clarke Quay",
+    "address": "3D River Valley Rd, Singapore 179023",
+    "lat": 1.2899366,
+    "lng": 103.8456239,
+    "capacity_standing": 100,
+    "capacity_seated": 100,
+    "rooms_count": 0,
+    "price": "S$48",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Clarke Quay MRT Station (200 m)",
+    "event_types": [
+      "Business Breakfast",
+      "Business Luncheon",
+      "Business Dinner"
+    ],
+    "fast_response": true,
+    "response_time": "16 hrs"
+  },
+  {
     "name": "HomeTeamNS Bedok Reservoir Clubhouse",
     "url": "https://www.venuerific.com/sg/venues/hometeamns-bedok-reservoir-clubhouse",
     "slug": "hometeamns-bedok-reservoir-clubhouse",
@@ -43,7 +67,7 @@
       "Team Bonding"
     ],
     "fast_response": true,
-    "response_time": "12 hrs"
+    "response_time": "11 hrs"
   },
   {
     "name": "Maduro",
@@ -61,30 +85,6 @@
     "rating": 0,
     "reviews": 0,
     "mrt_station": "HarbourFront MRT Station",
-    "event_types": [
-      "Business Dinner",
-      "Birthday",
-      "Wedding"
-    ],
-    "fast_response": false,
-    "response_time": null
-  },
-  {
-    "name": "Wolfgang’s Steakhouse Singapore",
-    "url": "https://www.venuerific.com/sg/venues/wolfgang-s-steakhouse-singapore",
-    "slug": "wolfgang-s-steakhouse-singapore",
-    "area": "Clarke Quay, River Valley",
-    "address": "1 Nanson Road, Robertson Quay, #02-01 InterContinental Singapore, Singapore 238909",
-    "lat": 1.2898797,
-    "lng": 103.8385339,
-    "capacity_standing": 100,
-    "capacity_seated": 100,
-    "rooms_count": 4,
-    "price": "S$800",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Fort Canning MRT Station / Havelock MRT Station",
     "event_types": [
       "Business Dinner",
       "Birthday",
@@ -162,7 +162,7 @@
       "Party"
     ],
     "fast_response": true,
-    "response_time": "6 hrs"
+    "response_time": "7 hrs"
   },
   {
     "name": "METT Hotel",
@@ -209,7 +209,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": null
+    "response_time": "21 hrs"
   },
   {
     "name": "KOMYUNITI Bar & Restaurant",
@@ -233,7 +233,7 @@
       "Media Event"
     ],
     "fast_response": true,
-    "response_time": "15 hrs"
+    "response_time": "17 hrs"
   },
   {
     "name": "Singapore EXPO",
@@ -910,6 +910,30 @@
     ],
     "fast_response": true,
     "response_time": "7 hrs"
+  },
+  {
+    "name": "Wolfgang’s Steakhouse Singapore",
+    "url": "https://www.venuerific.com/sg/venues/wolfgang-s-steakhouse-singapore",
+    "slug": "wolfgang-s-steakhouse-singapore",
+    "area": "Clarke Quay, River Valley",
+    "address": "1 Nanson Road, Robertson Quay, #02-01 InterContinental Singapore, Singapore 238909",
+    "lat": 1.2898797,
+    "lng": 103.8385339,
+    "capacity_standing": 100,
+    "capacity_seated": 100,
+    "rooms_count": 4,
+    "price": "S$800",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Fort Canning MRT Station / Havelock MRT Station",
+    "event_types": [
+      "Business Dinner",
+      "Birthday",
+      "Wedding"
+    ],
+    "fast_response": false,
+    "response_time": null
   },
   {
     "name": "Singapore’s Iconic City Venue",

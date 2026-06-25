@@ -494,7 +494,7 @@
       },
       "packages": {
         "value": "packages",
-        "overriddenAt": "2026-04-28T08:10:09.919Z",
+        "overriddenAt": "2026-06-25T03:03:19.855Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "photos-videos": {
@@ -570,7 +570,7 @@
         "pricePerPax": 288.8,
         "description": "Our signature collection (For Majestic Ballroom) would include a complimentary one-night stay at The Majestic Wing. Our signature collection menu requires a minimum of seventy tables/ minimum spending of RM180,000++. For more information, download our menu below.",
         "includes": [],
-        "guestMin": 70,
+        "guestMin": 700,
         "guestMax": 1200,
         "brochureUrl": "documents/5764534f-6443-4c1b-b013-6fcdf5ead301/brochure-b0ae97ae-4825-4ec0-9d77-49dec77102f5.pdf"
       }
