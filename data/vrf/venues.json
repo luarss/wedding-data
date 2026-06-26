@@ -23,6 +23,26 @@
     "response_time": null
   },
   {
+    "name": "Creative co-working and event venue @ 20 Jln Kilang",
+    "url": "https://www.venuerific.com/sg/venues/creative-co-working-and-event-venue-20-jln-kilang",
+    "slug": "creative-co-working-and-event-venue-20-jln-kilang",
+    "area": "Alexandra, Queenstown, Tiong Bahru",
+    "address": "20 Jln Kilang, level 4, Singapore 159418",
+    "lat": 1.2858102,
+    "lng": 103.8087208,
+    "capacity_standing": 200,
+    "capacity_seated": 100,
+    "rooms_count": 1,
+    "price": "S$500",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Redhill ",
+    "event_types": [],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
     "name": "Mexican Bar and Grill @ Clarke Quay",
     "url": "https://www.venuerific.com/sg/venues/mexican-bar-and-grill-clarke-quay",
     "slug": "mexican-bar-and-grill-clarke-quay",
@@ -67,31 +87,7 @@
       "Team Bonding"
     ],
     "fast_response": true,
-    "response_time": "11 hrs"
-  },
-  {
-    "name": "Maduro",
-    "url": "https://www.venuerific.com/sg/venues/maduro",
-    "slug": "maduro",
-    "area": "Sentosa",
-    "address": "2 Bukit Manis Rd, Lower Lobby of Sofitel Singapore Sentosa, Singapore 099891",
-    "lat": 1.2456916,
-    "lng": 103.8278754,
-    "capacity_standing": 150,
-    "capacity_seated": 100,
-    "rooms_count": 5,
-    "price": "S$2,000",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "HarbourFront MRT Station",
-    "event_types": [
-      "Business Dinner",
-      "Birthday",
-      "Wedding"
-    ],
-    "fast_response": false,
-    "response_time": null
+    "response_time": "10 hrs"
   },
   {
     "name": "The Inspire Space Sg",
@@ -114,7 +110,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "1 hr"
+    "response_time": "4 hrs"
   },
   {
     "name": "The Spot Singapore",
@@ -256,7 +252,7 @@
       "Meeting"
     ],
     "fast_response": true,
-    "response_time": "24 hrs"
+    "response_time": "14 hrs"
   },
   {
     "name": "Cargo39",
@@ -910,6 +906,30 @@
     ],
     "fast_response": true,
     "response_time": "7 hrs"
+  },
+  {
+    "name": "Maduro",
+    "url": "https://www.venuerific.com/sg/venues/maduro",
+    "slug": "maduro",
+    "area": "Sentosa",
+    "address": "2 Bukit Manis Rd, Lower Lobby of Sofitel Singapore Sentosa, Singapore 099891",
+    "lat": 1.2456916,
+    "lng": 103.8278754,
+    "capacity_standing": 150,
+    "capacity_seated": 100,
+    "rooms_count": 5,
+    "price": "S$2,000",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "HarbourFront MRT Station",
+    "event_types": [
+      "Business Dinner",
+      "Birthday",
+      "Wedding"
+    ],
+    "fast_response": false,
+    "response_time": null
   },
   {
     "name": "Wolfgang’s Steakhouse Singapore",

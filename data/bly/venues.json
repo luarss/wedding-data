@@ -120,6 +120,21 @@
     "rooms": "[{\"name\": \"Sentosa Room\", \"capacity\": \"30-180 pax\", \"price\": \"From $288/pax\"}, {\"name\": \"Grand Ballroom\", \"capacity\": \"1-400 pax\", \"price\": \"From $298/pax\"}, {\"name\": \"Garden of Dreams\", \"capacity\": \"1-80 pax\", \"price\": \"From $9,888\"}, {\"name\": \"Horizon's Verge\", \"capacity\": \"1-80 pax\", \"price\": \"From $8,888\"}]"
   },
   {
+    "recordId": "recssYSWy0BAMkBKH",
+    "name": "The Masons Table",
+    "url": "https://www.bridely.sg/venue/the-masons-table/r/recssYSWy0BAMkBKH",
+    "location": "Central Area",
+    "overallRating": 4.7,
+    "venueRating": 4.9,
+    "serviceRating": 4.8,
+    "foodRating": 4.8,
+    "reviews": 40,
+    "tags": "Event Hall, Western",
+    "price": "From $78/pax",
+    "capacity": "1-300 pax",
+    "rooms": "[{\"name\": \"Whole Venue\", \"capacity\": \"1-300 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Main Room\", \"capacity\": \"1-200 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Bar Room\", \"capacity\": \"1-70 pax\", \"price\": \"From $78/pax\"}]"
+  },
+  {
     "recordId": "recQpPPBl9LBtl9ft",
     "name": "CHIJMES",
     "url": "https://www.bridely.sg/venue/chijmes/r/recQpPPBl9LBtl9ft",
@@ -163,21 +178,6 @@
     "price": "From $238/pax",
     "capacity": "400-1000 pax",
     "rooms": "[{\"name\": \"Island Ballroom\", \"capacity\": \"400-1000 pax\", \"price\": \"From $238/pax\"}, {\"name\": \"Tower Ballroom\", \"capacity\": \"250-590 pax\", \"price\": \"From $238/pax\"}, {\"name\": \"Azalea Room\", \"capacity\": \"160-220 pax\", \"price\": \"From $238/pax\"}, {\"name\": \"The Dutch Pavilion\", \"capacity\": \"60-100 pax\", \"price\": \"From $262/pax\"}]"
-  },
-  {
-    "recordId": "recssYSWy0BAMkBKH",
-    "name": "The Masons Table",
-    "url": "https://www.bridely.sg/venue/the-masons-table/r/recssYSWy0BAMkBKH",
-    "location": "Central Area",
-    "overallRating": 4.7,
-    "venueRating": 4.9,
-    "serviceRating": 4.8,
-    "foodRating": 4.8,
-    "reviews": 39,
-    "tags": "Event Hall, Western",
-    "price": "From $78/pax",
-    "capacity": "1-300 pax",
-    "rooms": "[{\"name\": \"Whole Venue\", \"capacity\": \"1-300 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Main Room\", \"capacity\": \"1-200 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Bar Room\", \"capacity\": \"1-70 pax\", \"price\": \"From $78/pax\"}]"
   },
   {
     "recordId": "recfHEKdi2Pvj2eya",
