@@ -1,6 +1,8 @@
 import argparse
 import asyncio
+import json
 import time
+from pathlib import Path
 
 import httpx
 from bs4 import BeautifulSoup
@@ -83,7 +85,12 @@ def parse_messages(soup: BeautifulSoup, channel: str) -> list[dict]:
     return messages
 
 
-async def scrape_channel(channel: str, limit: int | None = None, delay: float = 1.0) -> list[dict]:
+async def scrape_channel(
+    channel: str,
+    limit: int | None = None,
+    delay: float = 1.0,
+    since_id: int = 0,
+) -> list[dict]:
     all_messages: list[dict] = []
     before: int | None = None
 
@@ -104,8 +111,17 @@ async def scrape_channel(channel: str, limit: int | None = None, delay: float = 
                 logger.info("No messages found on page, stopping.")
                 break
 
-            all_messages.extend(page_messages)
-            logger.info(f"  Got {len(page_messages)} messages (total: {len(all_messages)})")
+            # In incremental mode, drop already-seen messages and stop paginating
+            if since_id > 0:
+                new_msgs = [m for m in page_messages if m["message_id"] > since_id]
+                all_messages.extend(new_msgs)
+                logger.info(f"  Got {len(new_msgs)} new messages (total: {len(all_messages)})")
+                if len(new_msgs) < len(page_messages):
+                    logger.info(f"  Reached already-scraped messages (since_id={since_id}), stopping.")
+                    break
+            else:
+                all_messages.extend(page_messages)
+                logger.info(f"  Got {len(page_messages)} messages (total: {len(all_messages)})")
 
             if limit and len(all_messages) >= limit:
                 all_messages = all_messages[:limit]
@@ -113,7 +129,6 @@ async def scrape_channel(channel: str, limit: int | None = None, delay: float = 
 
             min_id = min(m["message_id"] for m in page_messages)
             if before is not None and min_id >= before:
-                # no progress, stop
                 break
             before = min_id
 
@@ -129,6 +144,7 @@ def main():
     parser.add_argument("--limit", type=int, default=None, help="Max number of messages to fetch")
     parser.add_argument("--delay", type=float, default=1.0, help="Seconds between page requests (default: 1.0)")
     parser.add_argument("--output", type=str, default=None, help="Output base path (default: data/tg/<channel>/messages)")
+    parser.add_argument("--incremental", action="store_true", help="Only fetch messages newer than existing data and merge")
     args = parser.parse_args()
 
     output = args.output or f"data/tg/{args.channel}/messages"
@@ -137,7 +153,28 @@ def main():
     logger.info(f"SCRAPING TELEGRAM CHANNEL: @{args.channel}")
     logger.info("=" * 60)
 
-    messages = asyncio.run(scrape_channel(args.channel, limit=args.limit, delay=args.delay))
+    existing: list[dict] = []
+    since_id = 0
+
+    if args.incremental:
+        output_path = Path(output).with_suffix(".json")
+        if output_path.exists():
+            with open(output_path, encoding="utf-8") as f:
+                existing = json.load(f)
+            if existing:
+                since_id = max(m["message_id"] for m in existing)
+                logger.info(f"Incremental mode: {len(existing)} existing messages, fetching since id={since_id}")
+
+    new_messages = asyncio.run(scrape_channel(args.channel, limit=args.limit, delay=args.delay, since_id=since_id))
+
+    if args.incremental and existing:
+        existing_by_id = {m["message_id"]: m for m in existing}
+        for m in new_messages:
+            existing_by_id[m["message_id"]] = m
+        messages = sorted(existing_by_id.values(), key=lambda m: m["message_id"], reverse=True)
+        logger.info(f"Merged: {len(new_messages)} new + {len(existing)} existing = {len(messages)} total")
+    else:
+        messages = new_messages
 
     if messages:
         save_json_csv(messages, output)
