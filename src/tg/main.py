@@ -138,25 +138,17 @@ async def scrape_channel(
     return all_messages
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Scrape a public Telegram channel via t.me/s/")
-    parser.add_argument("--channel", type=str, default="blissfulbrides", help="Telegram channel username")
-    parser.add_argument("--limit", type=int, default=None, help="Max number of messages to fetch")
-    parser.add_argument("--delay", type=float, default=1.0, help="Seconds between page requests (default: 1.0)")
-    parser.add_argument("--output", type=str, default=None, help="Output base path (default: data/tg/<channel>/messages)")
-    parser.add_argument("--incremental", action="store_true", help="Only fetch messages newer than existing data and merge")
-    args = parser.parse_args()
-
-    output = args.output or f"data/tg/{args.channel}/messages"
+def run_channel(channel: str, limit: int | None, delay: float, incremental: bool) -> None:
+    output = f"data/tg/{channel}/messages"
 
     logger.info("=" * 60)
-    logger.info(f"SCRAPING TELEGRAM CHANNEL: @{args.channel}")
+    logger.info(f"SCRAPING TELEGRAM CHANNEL: @{channel}")
     logger.info("=" * 60)
 
     existing: list[dict] = []
     since_id = 0
 
-    if args.incremental:
+    if incremental:
         output_path = Path(output).with_suffix(".json")
         if output_path.exists():
             with open(output_path, encoding="utf-8") as f:
@@ -165,9 +157,9 @@ def main():
                 since_id = max(m["message_id"] for m in existing)
                 logger.info(f"Incremental mode: {len(existing)} existing messages, fetching since id={since_id}")
 
-    new_messages = asyncio.run(scrape_channel(args.channel, limit=args.limit, delay=args.delay, since_id=since_id))
+    new_messages = asyncio.run(scrape_channel(channel, limit=limit, delay=delay, since_id=since_id))
 
-    if args.incremental and existing:
+    if incremental and existing:
         existing_by_id = {m["message_id"]: m for m in existing}
         for m in new_messages:
             existing_by_id[m["message_id"]] = m
@@ -181,6 +173,21 @@ def main():
         logger.info(f"\n✅ Saved {len(messages)} messages to {output}.json / .csv")
     else:
         logger.warning("No messages scraped.")
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Scrape public Telegram channels listed in channels.json")
+    parser.add_argument("--limit", type=int, default=None, help="Max number of messages to fetch per channel")
+    parser.add_argument("--delay", type=float, default=1.0, help="Seconds between page requests (default: 1.0)")
+    parser.add_argument("--incremental", action="store_true", help="Only fetch messages newer than existing data and merge")
+    args = parser.parse_args()
+
+    channels_path = Path(__file__).parent / "channels.json"
+    with open(channels_path, encoding="utf-8") as f:
+        channels: list[str] = json.load(f)
+
+    for channel in channels:
+        run_channel(channel, limit=args.limit, delay=args.delay, incremental=args.incremental)
 
 
 if __name__ == "__main__":

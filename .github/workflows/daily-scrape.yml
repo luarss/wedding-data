@@ -102,10 +102,12 @@ jobs:
         timeout-minutes: 15
         continue-on-error: true
 
-      - name: Run Telegram scraper (blissfulbrides)
+      - name: Run Telegram scraper + enrich links (blissfulbrides)
         id: tg
-        run: uv run python -m src.tg.main --channel blissfulbrides --incremental
-        timeout-minutes: 10
+        run: |
+          uv run python -m src.tg.main --incremental
+          uv run python -m src.tg.enrich_links
+        timeout-minutes: 15
         continue-on-error: true
 
       - name: Report scraper failures
