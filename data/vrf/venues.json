@@ -87,7 +87,7 @@
       "Team Bonding"
     ],
     "fast_response": true,
-    "response_time": "10 hrs"
+    "response_time": "12 hrs"
   },
   {
     "name": "The Inspire Space Sg",
@@ -110,7 +110,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "4 hrs"
+    "response_time": "3 hrs"
   },
   {
     "name": "The Spot Singapore",
@@ -534,7 +534,7 @@
       "Product Launch",
       "Wedding"
     ],
-    "fast_response": false,
+    "fast_response": true,
     "response_time": null
   },
   {
@@ -791,6 +791,29 @@
     "response_time": "15 hrs"
   },
   {
+    "name": "Viva Loca Changi",
+    "url": "https://www.venuerific.com/sg/venues/viva-loca-changi",
+    "slug": "viva-loca-changi",
+    "area": "Changi",
+    "address": "Changi City Point, 5 Changi Business Park Central 1, #01-68/69, Singapore 486038",
+    "lat": 1.3336691,
+    "lng": 103.9630059,
+    "capacity_standing": 200,
+    "capacity_seated": 200,
+    "rooms_count": 3,
+    "price": "",
+    "price_unit": null,
+    "rating": 5.0,
+    "reviews": 2,
+    "mrt_station": "Expo MRT Station",
+    "event_types": [
+      "Party",
+      "Company Cocktail Party"
+    ],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
     "name": "Park Regis by Prince Singapore  ",
     "url": "https://www.venuerific.com/sg/venues/park-regis-by-prince-singapore",
     "slug": "park-regis-by-prince-singapore",
@@ -1038,29 +1061,6 @@
       "Corporate Retreat",
       "Corporate Seminar",
       "Product Launch"
-    ],
-    "fast_response": false,
-    "response_time": null
-  },
-  {
-    "name": "Viva Loca Changi",
-    "url": "https://www.venuerific.com/sg/venues/viva-loca-changi",
-    "slug": "viva-loca-changi",
-    "area": "Changi",
-    "address": "Changi City Point, 5 Changi Business Park Central 1, #01-68/69, Singapore 486038",
-    "lat": 1.3336691,
-    "lng": 103.9630059,
-    "capacity_standing": 200,
-    "capacity_seated": 200,
-    "rooms_count": 3,
-    "price": "",
-    "price_unit": null,
-    "rating": 5.0,
-    "reviews": 2,
-    "mrt_station": "Expo MRT Station",
-    "event_types": [
-      "Party",
-      "Company Cocktail Party"
     ],
     "fast_response": false,
     "response_time": null
