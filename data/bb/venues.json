@@ -986,11 +986,14 @@
     "name": "Mandai Rainforest Resort by Banyan Tree",
     "profile_url": "https://www.blissfulbrides.sg/detail/1396/mandai-rainforest-resort-by-banyan-tree",
     "rating": "0",
-    "lunch_price": "$2288++Mon - Sun",
-    "dinner_price": "$2388++Sun - Fri$2488++Saturday",
-    "tables_min": "15",
-    "tables_max": "30",
-    "tables_range": "15 - 30Mon - Sun"
+    "lunch_price": "$1888++Mon - Sun",
+    "dinner_price": "$1888++Mon - Thu$1988++Friday$2088++Saturday$1988++Sunday",
+    "tables_min": "12",
+    "tables_max": "26",
+    "tables_range": "12 - 26Mon - Sun",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet/mandai-rainforest-resort-by-banyan-tree/wedding-banquet-price-list/pricelist_2026.pdf"
+    ]
   },
   {
     "venue_id": "207",

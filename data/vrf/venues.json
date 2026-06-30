@@ -23,9 +23,9 @@
     "response_time": null
   },
   {
-    "name": "Creative co-working and event venue @ 20 Jln Kilang",
-    "url": "https://www.venuerific.com/sg/venues/creative-co-working-and-event-venue-20-jln-kilang",
-    "slug": "creative-co-working-and-event-venue-20-jln-kilang",
+    "name": "Industrial-Chic Event Venue at 20 Jln Kilang",
+    "url": "https://www.venuerific.com/sg/venues/industrial-chic-event-venue-at-20-jln-kilang",
+    "slug": "industrial-chic-event-venue-at-20-jln-kilang",
     "area": "Alexandra, Queenstown, Tiong Bahru",
     "address": "20 Jln Kilang, level 4, Singapore 159418",
     "lat": 1.2858102,
@@ -205,7 +205,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "21 hrs"
+    "response_time": null
   },
   {
     "name": "KOMYUNITI Bar & Restaurant",
@@ -229,7 +229,7 @@
       "Media Event"
     ],
     "fast_response": true,
-    "response_time": "17 hrs"
+    "response_time": "15 hrs"
   },
   {
     "name": "Singapore EXPO",
@@ -465,7 +465,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "2 hrs"
+    "response_time": "1 hr"
   },
   {
     "name": "The Standard Singapore",
@@ -791,13 +791,13 @@
     "response_time": "15 hrs"
   },
   {
-    "name": "Viva Loca Changi",
-    "url": "https://www.venuerific.com/sg/venues/viva-loca-changi",
-    "slug": "viva-loca-changi",
+    "name": "VIVA LOCA INTERNATIONAL @ NSRCC",
+    "url": "https://www.venuerific.com/sg/venues/viva-loca-international-nsrcc",
+    "slug": "viva-loca-international-nsrcc",
     "area": "Changi",
-    "address": "Changi City Point, 5 Changi Business Park Central 1, #01-68/69, Singapore 486038",
-    "lat": 1.3336691,
-    "lng": 103.9630059,
+    "address": "10 Changi Coast Walk, #5th Floor of Sky Range, Singapore 499739",
+    "lat": 1.3206738,
+    "lng": 103.9742651,
     "capacity_standing": 200,
     "capacity_seated": 200,
     "rooms_count": 3,
@@ -805,10 +805,10 @@
     "price_unit": null,
     "rating": 5.0,
     "reviews": 2,
-    "mrt_station": "Expo MRT Station",
+    "mrt_station": "Expo MRT Station,",
     "event_types": [
-      "Party",
-      "Company Cocktail Party"
+      "Company Cocktail Party",
+      "Party"
     ],
     "fast_response": false,
     "response_time": null
