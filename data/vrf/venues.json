@@ -1,5 +1,28 @@
 [
   {
+    "name": "La Table d’Emma ",
+    "url": "https://www.venuerific.com/sg/venues/la-table-d-emma",
+    "slug": "la-table-d-emma",
+    "area": "Chinatown, Raffles Place, Telok Ayer",
+    "address": "8 Club St, #01-04, Singapore 069472",
+    "lat": 1.2829829,
+    "lng": 103.8468773,
+    "capacity_standing": 200,
+    "capacity_seated": 120,
+    "rooms_count": 3,
+    "price": "S$6,000",
+    "price_unit": "Per full-day",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Telok Ayer Station, Raffles Place (EW14/NS26), Chinatown (DT19/NE4)",
+    "event_types": [
+      "Business Luncheon",
+      "Business Dinner"
+    ],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
     "name": "Industrial-Chic Event Venue at 20 Jln Kilang",
     "url": "https://www.venuerific.com/sg/venues/industrial-chic-event-venue-at-20-jln-kilang",
     "slug": "industrial-chic-event-venue-at-20-jln-kilang",
@@ -16,8 +39,8 @@
     "reviews": 0,
     "mrt_station": "Redhill ",
     "event_types": [],
-    "fast_response": false,
-    "response_time": null
+    "fast_response": true,
+    "response_time": "1 hr"
   },
   {
     "name": "Mexican Bar and Grill @ Clarke Quay",
@@ -64,7 +87,7 @@
       "Team Bonding"
     ],
     "fast_response": true,
-    "response_time": "13 hrs"
+    "response_time": "14 hrs"
   },
   {
     "name": "The Inspire Space Sg",
@@ -80,7 +103,7 @@
     "price": "S$80",
     "price_unit": "Per hour",
     "rating": 5.0,
-    "reviews": 1,
+    "reviews": 2,
     "mrt_station": "🚆 Farrer Park MRT Station (NE8)  🚆 Jalan Besar MRT Station (DT22)",
     "event_types": [
       "Product Launch",
@@ -323,7 +346,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "15 hrs"
+    "response_time": "13 hrs"
   },
   {
     "name": "The Spot Singapore",
@@ -883,29 +906,6 @@
     ],
     "fast_response": true,
     "response_time": "21 hrs"
-  },
-  {
-    "name": "La Table d’Emma ",
-    "url": "https://www.venuerific.com/sg/venues/la-table-d-emma",
-    "slug": "la-table-d-emma",
-    "area": "Chinatown, Raffles Place, Telok Ayer",
-    "address": "8 Club St, #01-04, Singapore 069472",
-    "lat": 1.2829829,
-    "lng": 103.8468773,
-    "capacity_standing": 200,
-    "capacity_seated": 120,
-    "rooms_count": 3,
-    "price": "S$6,000",
-    "price_unit": "Per full-day",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Telok Ayer Station, Raffles Place (EW14/NS26), Chinatown (DT19/NE4)",
-    "event_types": [
-      "Business Luncheon",
-      "Business Dinner"
-    ],
-    "fast_response": false,
-    "response_time": null
   },
   {
     "name": "Asia Grand Restaurant",

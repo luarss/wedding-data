@@ -265,9 +265,9 @@
     "foodRating": 4.1,
     "reviews": 100,
     "tags": "Hotel, Chinese, Ballroom, Garden & Greenery, Indoor, Waterfront",
-    "price": "From $229/pax",
-    "capacity": "200-280 pax",
-    "rooms": "[{\"name\": \"Waterfront Ballroom\", \"capacity\": \"200-280 pax\", \"price\": \"From $229/pax\"}, {\"name\": \"Riverfront Ballroom\", \"capacity\": \"150-200 pax\", \"price\": \"From $229/pax\"}, {\"name\": \"Galleria Ballroom\", \"capacity\": \"100-160 pax\", \"price\": \"From $229/pax\"}, {\"name\": \"Grand Ballroom\", \"capacity\": \"300-600 pax\", \"price\": \"From $241/pax\"}]"
+    "price": "From $158/pax",
+    "capacity": "300-550 pax",
+    "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"300-550 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Waterfront Ballroom\", \"capacity\": \"200-280 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Riverfront Ballroom\", \"capacity\": \"150-200 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Galleria Ballroom\", \"capacity\": \"100-160 pax\", \"price\": \"From $158/pax\"}]"
   },
   {
     "recordId": "recEVqHq1aNQ9gkfi",

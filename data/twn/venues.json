@@ -3980,7 +3980,7 @@
     ],
     "description": "Depicted as an urban resort in the heart of Kuala Lumpur City Center with intriguing offerings for a new sense of the destination. Renaissance Kuala Lumpur Hotel and Convention Centre invites guests to discover authentic experiences that will immerse them in the neighborhood's DNA. Our hotel in Kuala Lumpur features 406 redesigned guest rooms comprising themed family suites and extensive family-friendly facilities ranging from one of the largest pools in the city with water slides to an expansive outdoor play area. Enjoy spontaneous evenings at R Bar with its locally-inspired Bar Ritual experience or celebrate important milestones in one of the many design-led event spaces at the hotel's integrated convention center. From business to leisure Renaissance Kuala Lumpur Hotel and Convention Centre has it all.",
     "createdAt": "2025-03-24T10:12:07.833Z",
-    "vendorId": "pending_5b4e14999db8bbc3",
+    "vendorId": "user_3FtB0oBoyqofRRiB9zubQIOlviy",
     "address": "Corner Of Jalan Sultan Ismail, &, Jln Ampang, Kampung Baru, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
     "postCode": "50450",
     "googlePlaceId": "ChIJs0F4lClIzDERZyDPQDoNbXQ",
@@ -4027,7 +4027,7 @@
     "isSpotlight": true,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-07-01T08:10:55.547Z",
+    "updatedAt": "2026-07-02T03:34:35.654Z",
     "spaces": [
       {
         "id": "855dd4c2-464b-4c00-8736-71fcdaa336ca",
@@ -5664,19 +5664,19 @@
     "updatedAt": "2026-07-01T08:10:55.547Z",
     "spaces": [
       {
-        "id": "3b14d872-3d73-44e3-b199-45b147695852",
+        "id": "9ca67343-c942-477c-99b3-00455f112db0",
         "name": "Wau Bulan Ballroom",
-        "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "type": "Ballroom",
+        "indoorOutdoor": "INDOOR",
         "area": 12270,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 420
       },
       {
-        "id": "758c118c-39f5-447e-be73-ce48716bf6b0",
+        "id": "bc8a4754-6f98-4171-83f8-a8eef31be749",
         "name": "Wan Chun Ting",
-        "type": "Restaurants",
-        "indoorOutdoor": "Indoor",
+        "type": "Restaurant",
+        "indoorOutdoor": "INDOOR",
         "area": 2200,
         "capacitySeatedMin": 80,
         "capacitySeatedMax": 120
@@ -12787,7 +12787,7 @@
         "pricePerPax": null,
         "description": "Create a memorable and elegant celebration with our Tulips Package, designed for up to 500 guests.\nFeaturing refined dÃ©cor, delicious cuisine, and a beautifully arranged venue, this package ensures your special day unfolds seamlessly from start to finish.",
         "includes": [
-          "$45"
+          "$65"
         ],
         "guestMin": null,
         "guestMax": 500,
