@@ -87,7 +87,7 @@
       "Team Bonding"
     ],
     "fast_response": true,
-    "response_time": "13 hrs"
+    "response_time": "10 hrs"
   },
   {
     "name": "The Inspire Space Sg",
@@ -103,14 +103,14 @@
     "price": "S$80",
     "price_unit": "Per hour",
     "rating": 5.0,
-    "reviews": 3,
+    "reviews": 4,
     "mrt_station": "🚆 Farrer Park MRT Station (NE8)  🚆 Jalan Besar MRT Station (DT22)",
     "event_types": [
       "Product Launch",
       "Training"
     ],
     "fast_response": true,
-    "response_time": "1 hr"
+    "response_time": "35 mins"
   },
   {
     "name": "Moon Rooftop Bar and Lounge",
@@ -250,7 +250,7 @@
       "Office Party",
       "Wedding"
     ],
-    "fast_response": true,
+    "fast_response": false,
     "response_time": null
   },
   {
@@ -346,7 +346,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "12 hrs"
+    "response_time": "11 hrs"
   },
   {
     "name": "The Spot Singapore",

@@ -4030,22 +4030,22 @@
     "updatedAt": "2026-07-02T03:34:35.654Z",
     "spaces": [
       {
-        "id": "855dd4c2-464b-4c00-8736-71fcdaa336ca",
+        "id": "c7f29372-3fbb-4d5c-9cd5-c3fd8a449ac4",
         "name": "Grand Ballroom",
-        "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "type": "Ballroom",
+        "indoorOutdoor": "INDOOR",
         "area": 1320,
-        "capacitySeatedMin": 200,
-        "capacitySeatedMax": 750
+        "capacitySeatedMin": 300,
+        "capacitySeatedMax": 650
       },
       {
-        "id": "2154a55e-03f7-4a0d-9d9f-b39087a6af8f",
-        "name": "Inspire Room 1 & 2",
-        "type": "Event Space",
-        "indoorOutdoor": "Indoor",
-        "area": 1076,
-        "capacitySeatedMin": 10,
-        "capacitySeatedMax": 6080
+        "id": "ad388cf9-6523-4587-a7fd-42fec604ad57",
+        "name": "R-Studio",
+        "type": "Banquet Hall",
+        "indoorOutdoor": "INDOOR",
+        "area": 454,
+        "capacitySeatedMin": 100,
+        "capacitySeatedMax": 120
       }
     ],
     "packages": [
@@ -4067,7 +4067,7 @@
         "priceMax": 3277.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$55",
+        "description": "$6a",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4079,7 +4079,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$56",
+        "description": "$6b",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4091,7 +4091,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$57",
+        "description": "$6c",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4103,7 +4103,7 @@
         "priceMax": 3227,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$58",
+        "description": "$6d",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4115,7 +4115,7 @@
         "priceMax": 3659,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$59",
+        "description": "$6e",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4127,7 +4127,7 @@
         "priceMax": 4307,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$5a",
+        "description": "$6f",
         "includes": null,
         "guestMin": 399,
         "guestMax": 431,
@@ -4139,7 +4139,7 @@
         "priceMax": 3227.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$5b",
+        "description": "$70",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4151,7 +4151,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$5c",
+        "description": "$71",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4163,7 +4163,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$5d",
+        "description": "$72",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4175,7 +4175,7 @@
         "priceMax": 3227.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$5e",
+        "description": "$73",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4187,7 +4187,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$5f",
+        "description": "$74",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4199,7 +4199,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$60",
+        "description": "$75",
         "includes": null,
         "guestMin": 100,
         "guestMax": 298,
@@ -4207,8 +4207,8 @@
       }
     ],
     "venueCapacity": {
-      "min": 10,
-      "max": 6080
+      "min": 100,
+      "max": 650
     }
   },
   {
@@ -12787,7 +12787,7 @@
         "pricePerPax": null,
         "description": "Create a memorable and elegant celebration with our Tulips Package, designed for up to 500 guests.\nFeaturing refined dÃ©cor, delicious cuisine, and a beautifully arranged venue, this package ensures your special day unfolds seamlessly from start to finish.",
         "includes": [
-          "$67"
+          "$6b"
         ],
         "guestMin": null,
         "guestMax": 500,
