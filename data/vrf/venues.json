@@ -23,6 +23,53 @@
     "response_time": null
   },
   {
+    "name": "DOMO",
+    "url": "https://www.venuerific.com/sg/venues/domo",
+    "slug": "domo",
+    "area": "City Hall, Esplanade, Raffles Place",
+    "address": "252 N Bridge Rd, #03-00 Fairmont Singapore, Singapore 179103",
+    "lat": 1.2942831,
+    "lng": 103.8529487,
+    "capacity_standing": 400,
+    "capacity_seated": 220,
+    "rooms_count": 4,
+    "price": "S$80",
+    "price_unit": "Per hour",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "City Hall MRT Station",
+    "event_types": [
+      "Product Launch",
+      "Wedding"
+    ],
+    "fast_response": true,
+    "response_time": "20 hrs"
+  },
+  {
+    "name": "Wolfgang’s Steakhouse Singapore",
+    "url": "https://www.venuerific.com/sg/venues/wolfgang-s-steakhouse-singapore",
+    "slug": "wolfgang-s-steakhouse-singapore",
+    "area": "Clarke Quay, River Valley",
+    "address": "1 Nanson Road, Robertson Quay, #02-01 InterContinental Singapore, Singapore 238909",
+    "lat": 1.2898797,
+    "lng": 103.8385339,
+    "capacity_standing": 100,
+    "capacity_seated": 100,
+    "rooms_count": 4,
+    "price": "S$800",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Fort Canning MRT Station / Havelock MRT Station",
+    "event_types": [
+      "Business Dinner",
+      "Birthday",
+      "Wedding"
+    ],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
     "name": "Industrial-Chic Event Venue at 20 Jln Kilang",
     "url": "https://www.venuerific.com/sg/venues/industrial-chic-event-venue-at-20-jln-kilang",
     "slug": "industrial-chic-event-venue-at-20-jln-kilang",
@@ -43,60 +90,13 @@
     "response_time": "1 hr"
   },
   {
-    "name": "Mexican Bar and Grill @ Clarke Quay",
-    "url": "https://www.venuerific.com/sg/venues/mexican-bar-and-grill-clarke-quay",
-    "slug": "mexican-bar-and-grill-clarke-quay",
-    "area": "Clarke Quay",
-    "address": "3D River Valley Rd, Singapore 179023",
-    "lat": 1.2899366,
-    "lng": 103.8456239,
-    "capacity_standing": 100,
-    "capacity_seated": 100,
-    "rooms_count": 0,
-    "price": "S$48",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Clarke Quay MRT Station (200 m)",
-    "event_types": [
-      "Business Breakfast",
-      "Business Luncheon",
-      "Business Dinner"
-    ],
-    "fast_response": true,
-    "response_time": "16 hrs"
-  },
-  {
-    "name": "HomeTeamNS Bedok Reservoir Clubhouse",
-    "url": "https://www.venuerific.com/sg/venues/hometeamns-bedok-reservoir-clubhouse",
-    "slug": "hometeamns-bedok-reservoir-clubhouse",
-    "area": "Bedok",
-    "address": "900 Bedok North Rd, Singapore 479994",
-    "lat": 1.3409594,
-    "lng": 103.9195417,
-    "capacity_standing": 380,
-    "capacity_seated": 380,
-    "rooms_count": 6,
-    "price": "S$478",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Bedok North MRT Station (DT29)",
-    "event_types": [
-      "Conference",
-      "Team Bonding"
-    ],
-    "fast_response": true,
-    "response_time": "10 hrs"
-  },
-  {
     "name": "The Inspire Space Sg",
     "url": "https://www.venuerific.com/sg/venues/the-inspire-space-sg",
     "slug": "the-inspire-space-sg",
     "area": "Farrer Park, Jalan Besar, Little India",
-    "address": "11 Sam Leong Rd, level 4, Singapore 207903",
-    "lat": null,
-    "lng": null,
+    "address": "Sam Leong Rd, #04-01 11 TRIO, Singapore 207903",
+    "lat": 1.3094051,
+    "lng": 103.8568364,
     "capacity_standing": 250,
     "capacity_seated": 140,
     "rooms_count": 5,
@@ -110,7 +110,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "35 mins"
+    "response_time": "31 mins"
   },
   {
     "name": "Moon Rooftop Bar and Lounge",
@@ -182,6 +182,29 @@
     ],
     "fast_response": true,
     "response_time": "24 hrs"
+  },
+  {
+    "name": "HomeTeamNS Bedok Reservoir Clubhouse",
+    "url": "https://www.venuerific.com/sg/venues/hometeamns-bedok-reservoir-clubhouse",
+    "slug": "hometeamns-bedok-reservoir-clubhouse",
+    "area": "Bedok",
+    "address": "900 Bedok North Rd, Singapore 479994",
+    "lat": 1.3409594,
+    "lng": 103.9195417,
+    "capacity_standing": 380,
+    "capacity_seated": 380,
+    "rooms_count": 6,
+    "price": "S$478",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Bedok North MRT Station (DT29)",
+    "event_types": [
+      "Conference",
+      "Team Bonding"
+    ],
+    "fast_response": true,
+    "response_time": "12 hrs"
   },
   {
     "name": "KOMYUNITI Bar & Restaurant",
@@ -486,7 +509,7 @@
       "Business Dinner"
     ],
     "fast_response": true,
-    "response_time": "5 hrs"
+    "response_time": "4 hrs"
   },
   {
     "name": "ARC.",
@@ -513,29 +536,6 @@
     "response_time": null
   },
   {
-    "name": "DOMO",
-    "url": "https://www.venuerific.com/sg/venues/domo",
-    "slug": "domo",
-    "area": "City Hall, Esplanade, Raffles Place",
-    "address": "252 N Bridge Rd, #03-00 Fairmont Singapore, Singapore 179103",
-    "lat": 1.2942831,
-    "lng": 103.8529487,
-    "capacity_standing": 400,
-    "capacity_seated": 220,
-    "rooms_count": 4,
-    "price": "S$80",
-    "price_unit": "Per hour",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "City Hall MRT Station",
-    "event_types": [
-      "Product Launch",
-      "Wedding"
-    ],
-    "fast_response": true,
-    "response_time": null
-  },
-  {
     "name": "ONE°15 Marina Sentosa Cove",
     "url": "https://www.venuerific.com/sg/venues/one-15-marina-sentosa-cove",
     "slug": "one-15-marina-sentosa-cove",
@@ -557,7 +557,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "13 hrs"
+    "response_time": "8 hrs"
   },
   {
     "name": "Unfolded",
@@ -646,30 +646,6 @@
     "event_types": [
       "Wedding",
       "ROM"
-    ],
-    "fast_response": false,
-    "response_time": null
-  },
-  {
-    "name": "Wolfgang’s Steakhouse Singapore",
-    "url": "https://www.venuerific.com/sg/venues/wolfgang-s-steakhouse-singapore",
-    "slug": "wolfgang-s-steakhouse-singapore",
-    "area": "Clarke Quay, River Valley",
-    "address": "1 Nanson Road, Robertson Quay, #02-01 InterContinental Singapore, Singapore 238909",
-    "lat": 1.2898797,
-    "lng": 103.8385339,
-    "capacity_standing": 100,
-    "capacity_seated": 100,
-    "rooms_count": 4,
-    "price": "S$800",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Fort Canning MRT Station / Havelock MRT Station",
-    "event_types": [
-      "Business Dinner",
-      "Birthday",
-      "Wedding"
     ],
     "fast_response": false,
     "response_time": null
@@ -789,7 +765,7 @@
       "Company Dinner and Dance"
     ],
     "fast_response": true,
-    "response_time": null
+    "response_time": "23 hrs"
   },
   {
     "name": "Chui Huay Lim Teochew Cuisines ",
@@ -931,28 +907,28 @@
     "response_time": null
   },
   {
-    "name": "Barouv Rooftop Bar",
-    "url": "https://www.venuerific.com/sg/venues/barouv-rooftop-bar",
-    "slug": "barouv-rooftop-bar",
-    "area": "Chinatown, Outram, Tanjong Pagar",
-    "address": "33 Erskine Rd, Level 4 Scarlet Hotel, Singapore 069333",
-    "lat": 1.2807689,
-    "lng": 103.8454104,
-    "capacity_standing": 300,
-    "capacity_seated": 150,
+    "name": "Mexican Bar and Grill @ Clarke Quay",
+    "url": "https://www.venuerific.com/sg/venues/mexican-bar-and-grill-clarke-quay",
+    "slug": "mexican-bar-and-grill-clarke-quay",
+    "area": "Clarke Quay",
+    "address": "3D River Valley Rd, Singapore 179023",
+    "lat": 1.2899366,
+    "lng": 103.8456239,
+    "capacity_standing": 100,
+    "capacity_seated": 100,
     "rooms_count": 0,
-    "price": "S$2,500",
+    "price": "S$48",
     "price_unit": "Min spend",
-    "rating": 5.0,
-    "reviews": 3,
-    "mrt_station": "Maxwell MRT Station",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Clarke Quay MRT Station (200 m)",
     "event_types": [
-      "Office Party",
-      "Cocktail Party",
-      "Party"
+      "Business Breakfast",
+      "Business Luncheon",
+      "Business Dinner"
     ],
     "fast_response": true,
-    "response_time": "5 hrs"
+    "response_time": "16 hrs"
   },
   {
     "name": " M Hotel Singapore ",
