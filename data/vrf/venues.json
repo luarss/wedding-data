@@ -110,7 +110,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "31 mins"
+    "response_time": "18 mins"
   },
   {
     "name": "Moon Rooftop Bar and Lounge",
@@ -204,7 +204,7 @@
       "Team Bonding"
     ],
     "fast_response": true,
-    "response_time": "12 hrs"
+    "response_time": "10 hrs"
   },
   {
     "name": "KOMYUNITI Bar & Restaurant",
@@ -296,7 +296,7 @@
       "Corporate Seminar",
       "Conference"
     ],
-    "fast_response": false,
+    "fast_response": true,
     "response_time": null
   },
   {
@@ -345,7 +345,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": null
+    "response_time": "23 hrs"
   },
   {
     "name": "PEN & INC · One-North",
@@ -369,7 +369,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "11 hrs"
+    "response_time": "10 hrs"
   },
   {
     "name": "The Spot Singapore",
