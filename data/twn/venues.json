@@ -14123,9 +14123,9 @@
     "packages": [
       {
         "name": "Joyous Celebrations - Chinese 8-Course Package",
-        "price": 228,
-        "priceMax": 268,
-        "priceFixture": "per_pax",
+        "price": 2280,
+        "priceMax": 2680,
+        "priceFixture": "per_table",
         "pricePerPax": 228,
         "description": "Customize your own eight course meal to best serve your guests. Packages are applicable for a minimum of 20 tables at 10 persons per table.",
         "includes": [
@@ -14141,10 +14141,10 @@
       },
       {
         "name": "Eternal Bonds - Indian Wedding Package",
-        "price": 150,
-        "priceMax": 225,
-        "priceFixture": "per_pax",
-        "pricePerPax": 150,
+        "price": 1900,
+        "priceMax": 2250,
+        "priceFixture": "per_table",
+        "pricePerPax": 190,
         "description": "Tie the knot with classic Indian wedding customs. Whether itâs vegetarian dishes or authentic Indian cuisinePackages are applicable for a minimum of 20 tables at 10 persons per table.",
         "includes": [
           "F&B",
@@ -14159,9 +14159,9 @@
       },
       {
         "name": "A-Toast-to-Love - Western Wedding Package",
-        "price": 220,
-        "priceMax": 260,
-        "priceFixture": "per_pax",
+        "price": 2200,
+        "priceMax": 2600,
+        "priceFixture": "per_table",
         "pricePerPax": 220,
         "description": "Celebrate your union with our all-new western wedding packages, featuring exclusive 4-course set menus. Packages are applicable for a minimum of 20 tables at 10 persons per table.",
         "includes": [
@@ -14171,9 +14171,53 @@
           "Hotel stay",
           "Basic AV system, along with a 5-tier mock cake and 5-tier Champagne fountain"
         ],
-        "guestMin": null,
-        "guestMax": null,
+        "guestMin": 200,
+        "guestMax": 10,
         "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1782225077308-CCEC-Western-Wedding-Package-FA-VIEW_compressed.pdf"
+      },
+      {
+        "name": "Intimate Wedding Package",
+        "price": 9000,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": 180,
+        "description": "An all-inclusive intimate wedding package from RM9,000, perfect for celebrations from 50 persons. Choose from Chinese, Malay, Indian or Contemporary wedding menus, complete with dining, dÃ©cor, AV support and special wedding privileges.",
+        "includes": [
+          "Set menu or International Buffet",
+          "Free flow of selected beverages",
+          "5-tier champagne fountain with 1 bottle of sparkling juice",
+          "5-tier mock cake with floral arrangements",
+          "Fresh floral arrangements for all guest tables",
+          "E â Backdrop design"
+        ],
+        "guestMin": 50,
+        "guestMax": 199,
+        "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1783669493433-CCEC_Intimate_Wedding_Package_V3.pdf"
+      },
+      {
+        "name": "Malay Wedding Package",
+        "price": 100,
+        "priceMax": 155,
+        "priceFixture": "per_pax",
+        "pricePerPax": 100,
+        "description": "Celebrate your special day with CCECâs Malay Wedding Package, from RM100 per person. Choose from Turquoise, Aquamarine or Emerald Dome options, complete with buffet or dome dining, dÃ©cor, AV support and wedding privileges for a minimum of 200 guests.",
+        "includes": [
+          "Buffet menu or 9-dish dome set",
+          "Free flow soft drinks and cordial",
+          "5-tier mock cake with floral arrangements",
+          "Floral dÃ©cor and backdrop",
+          "In-house AV system",
+          "LCD projectors",
+          "2 wireless microphones",
+          "Pre-dinner reception tidbits",
+          "Food tasting for 10 persons",
+          "Wedding favours",
+          "3 VIP parking spots",
+          "1-night hotel stay with breakfast"
+        ],
+        "guestMin": 200,
+        "guestMax": 1,
+        "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1783671249536-CCEC_Malay_Wedding_Package.pdf"
       }
     ],
     "venueCapacity": {
