@@ -6,7 +6,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/e52f666f-c6c1-4d0f-81f0-37c10c9a54f4/25b8f020-22aa-45b7-aeb8-34423c6f7fac/high.webp"
@@ -73,7 +73,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'5':52B 'adjac':25B 'amen':54B 'arriv':72B 'better':28B 'buggi':102B 'car':103B 'carpark':90B 'citi':39B 'construct':40B 'coupl':60B 'depot':31B 'design':98B 'drive':36B,80B 'entranc':93B 'event':12B,66B 'finish':50B 'fit':100B 'glasshous':43B 'group':19B 'guest':71B 'kl':3A 'known':29B 'kuala':108C,112C 'landscap':46B 'latest':11B 'look':61B 'lumpur':109C,113C 'manag':16B 'need':107B 'nestl':20B 'one':8B,105B 'overlook':44B 'park':24B,85B 'pavilion':2A,96B 'pavillion':5B 'perfect':58B 'persekutuan':111C 'place':56B 'plan':84B 'privat':23B 'rememb':68B 'reward':76B 'scenic':79B 'sentul':1A,4B,30B 'short':35B 'space':13B 'star':53B 'tast':49B 'upscal':65B 'vista':47B 'walkway':87B 'well':83B 'wilayah':110C 'within':21B 'ytl':18B",
+    "fts": "'5':52B 'adjac':25B 'amen':54B 'arriv':72B 'better':28B 'buggi':102B 'car':103B 'carpark':90B 'citi':39B 'construct':40B 'coupl':60B 'depot':31B 'design':98B 'drive':36B,80B 'entranc':93B 'event':12B,66B 'finish':50B 'fit':100B 'glasshous':43B 'group':19B 'guest':71B 'kl':3A 'known':29B 'kuala':108C,110C 'landscap':46B 'latest':11B 'look':61B 'lumpur':109C,111C 'manag':16B 'need':107B 'nestl':20B 'one':8B,105B 'overlook':44B 'park':24B,85B 'pavilion':2A,96B 'pavillion':5B 'perfect':58B 'place':56B 'plan':84B 'privat':23B 'rememb':68B 'reward':76B 'scenic':79B 'sentul':1A,4B,30B 'short':35B 'space':13B 'star':53B 'tast':49B 'upscal':65B 'vista':47B 'walkway':87B 'well':83B 'within':21B 'ytl':18B",
     "textEmbedding": null,
     "catalogPosition": 84,
     "isSpotlight": false,
@@ -85,7 +85,7 @@
         "id": "d5c1061e-a0cd-4908-9910-04a8dc066461",
         "name": "The Hall",
         "type": "Retreat",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 7000,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 300
@@ -94,7 +94,7 @@
         "id": "f4594f55-30bd-4bf1-83a7-63c5e94b56a7",
         "name": "The Foyer",
         "type": "Event Space",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 2775,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 100
@@ -215,7 +215,7 @@
         "id": "10b53457-1f48-4ef3-b135-203d26e1f390",
         "name": "Epitro House",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2000,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 50
@@ -224,7 +224,7 @@
         "id": "4a874ae9-40ca-4a70-aa06-47f3fe49b485",
         "name": "Family Area",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1000,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 30
@@ -282,7 +282,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ad072a4e-0346-4def-a12c-74e71edf9ea6/98dc8ee1-977d-4ce7-8525-7e86b3ff984a/high.webp"
@@ -344,7 +344,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'-330':128B '20':127B '360':103B '412':160B '42':163B '450':50B '700':40B 'also':158B 'art':144B 'ballroom':38B,74B,106B 'best':184B 'capac':35B,48B,125B 'chandeli':93B 'cocktail':153B 'cover':102B 'crystal':92B 'cuisin':187B 'date':63B 'dazzl':79B 'dine':168B 'due':31B 'easili':107B 'effici':91B 'energi':90B 'energy-effici':89B 'entertain':135B 'especi':84B 'event':83B,147B 'excit':167B 'exclus':150B 'exhibit':145B 'favourit':195B 'featur':159B,190B 'free':72B 'function':134B 'gala':82B 'grand':1A,5B,37B,44B,73B,76B,121B,155B 'guest':129B 'guestroom':161B 'hand':119B 'healthi':191B 'high':34B 'hotel':25B 'hyatt':2A,6B,156B 'icon':15B 'ideal':139B 'includ':162B 'instal':98B 'intern':192B 'jp':180B 'kl':157B 'kuala':3A,7B,196C,200C 'launch':142B 'led':99B 'local':194B 'locat':9B 'lumpur':4A,8B,197C,201C 'malaysian':186B 'match':112B 'maximum':47B 'meet':151B 'nett':57B 'offer':171B 'one':20B 'option':80B,169B 'oval':68B 'oval-shap':67B 'packag':53B 'pax':41B,51B 'per':58B 'persekutuan':199C 'person':59B 'petrona':16B 'pillar':71B 'pillar-fre':70B 'poolsid':189B 'popular':24B 'product':141B 'public':65B 'recent':97B 'recept':154B 'resid':122B 'rm455':56B 'salon':45B,77B 'sashimi':179B 'screen':100B 'seafood':176B 'select':173B 'serv':182B 'shape':69B 'space':110B,136B 'start':54B 'steak':175B 'suit':164B 'sushi':177B 'tere':181B 'thank':86B 'theme':115B 'thirty8':170B 'three':166B 'tower':18B 'transform':108B 'twin':17B 'venu':26B 'vicin':12B 'wed':28B,52B,85B,114B 'welcom':132B 'wilayah':198C",
+    "fts": "'-330':128B '20':127B '360':103B '412':160B '42':163B '450':50B '700':40B 'also':158B 'art':144B 'ballroom':38B,74B,106B 'best':184B 'capac':35B,48B,125B 'chandeli':93B 'cocktail':153B 'cover':102B 'crystal':92B 'cuisin':187B 'date':63B 'dazzl':79B 'dine':168B 'due':31B 'easili':107B 'effici':91B 'energi':90B 'energy-effici':89B 'entertain':135B 'especi':84B 'event':83B,147B 'excit':167B 'exclus':150B 'exhibit':145B 'favourit':195B 'featur':159B,190B 'free':72B 'function':134B 'gala':82B 'grand':1A,5B,37B,44B,73B,76B,121B,155B 'guest':129B 'guestroom':161B 'hand':119B 'healthi':191B 'high':34B 'hotel':25B 'hyatt':2A,6B,156B 'icon':15B 'ideal':139B 'includ':162B 'instal':98B 'intern':192B 'jp':180B 'kl':157B 'kuala':3A,7B,196C,198C 'launch':142B 'led':99B 'local':194B 'locat':9B 'lumpur':4A,8B,197C,199C 'malaysian':186B 'match':112B 'maximum':47B 'meet':151B 'nett':57B 'offer':171B 'one':20B 'option':80B,169B 'oval':68B 'oval-shap':67B 'packag':53B 'pax':41B,51B 'per':58B 'person':59B 'petrona':16B 'pillar':71B 'pillar-fre':70B 'poolsid':189B 'popular':24B 'product':141B 'public':65B 'recent':97B 'recept':154B 'resid':122B 'rm455':56B 'salon':45B,77B 'sashimi':179B 'screen':100B 'seafood':176B 'select':173B 'serv':182B 'shape':69B 'space':110B,136B 'start':54B 'steak':175B 'suit':164B 'sushi':177B 'tere':181B 'thank':86B 'theme':115B 'thirty8':170B 'three':166B 'tower':18B 'transform':108B 'twin':17B 'venu':26B 'vicin':12B 'wed':28B,52B,85B,114B 'welcom':132B",
     "textEmbedding": null,
     "catalogPosition": 76,
     "isSpotlight": false,
@@ -356,7 +356,7 @@
         "id": "311af0ec-c5f3-45ea-8bc0-fc3a906ba099",
         "name": "Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 11248,
         "capacitySeatedMin": 400,
         "capacitySeatedMax": 700
@@ -365,7 +365,7 @@
         "id": "e14675d4-c68d-470f-8951-d3c119ac48b8",
         "name": "Grand Salon",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 6956,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 450
@@ -429,7 +429,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/5764534f-6443-4c1b-b013-6fcdf5ead301/51278011-86ce-498d-a27d-feecc9cbf157/high.webp"
@@ -507,7 +507,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'1930s':35B 'access':132B 'accommod':142B 'add':126B 'addit':114B 'affair':66B 'ambianc':31B 'amen':139B 'architectur':36B 'attract':137B 'blend':13B,163B 'charm':28B 'choic':158B 'citi':135B 'coloni':15B 'contemporari':168B 'conveni':127B 'coupl':160B 'culinari':74B,98B 'custom':88B 'day':173B 'delight':99B 'dine':83B,94B 'easi':131B 'eleg':16B,46B,166B 'ensur':103B 'event':47B 'experi':95B 'expertis':75B 'fine':93B 'fit':54B 'gastronom':106B 'gather':70B 'grand':65B 'guest':113B,129B 'heart':122B 'highlight':78B 'histor':27B,165B 'hotel':3A,8B,44B,72B,102B,116B,151B 'ideal':22B 'intim':69B 'journey':107B 'kuala':4A,9B,124B,152B,174C,178C 'local':97B 'locat':119B 'lumpur':5A,10B,125B,153B,175C,179C 'luxuri':19B,141B,169B 'majest':2A,7B,101B,150B 'make':154B 'memor':105B 'modern':18B 'need':57B 'notch':146B 'offer':45B,79B 'option':84B 'parti':111B 'persekutuan':177C 'prefer':157B 'present':20B 'provid':37B,130B 'rang':81B 'recept':91B 'romant':39B 'root':32B 'seek':161B 'servic':147B 'set':42B 'sophist':30B 'space':48B 'special':172B 'specif':56B 'strateg':118B 'tailor':52B 'timeless':41B 'top':145B 'top-notch':144B 'venu':23B 'wed':25B,60B,90B,110B 'whether':61B 'wilayah':176C",
+    "fts": "'1930s':35B 'access':132B 'accommod':142B 'add':126B 'addit':114B 'affair':66B 'ambianc':31B 'amen':139B 'architectur':36B 'attract':137B 'blend':13B,163B 'charm':28B 'choic':158B 'citi':135B 'coloni':15B 'contemporari':168B 'conveni':127B 'coupl':160B 'culinari':74B,98B 'custom':88B 'day':173B 'delight':99B 'dine':83B,94B 'easi':131B 'eleg':16B,46B,166B 'ensur':103B 'event':47B 'experi':95B 'expertis':75B 'fine':93B 'fit':54B 'gastronom':106B 'gather':70B 'grand':65B 'guest':113B,129B 'heart':122B 'highlight':78B 'histor':27B,165B 'hotel':3A,8B,44B,72B,102B,116B,151B 'ideal':22B 'intim':69B 'journey':107B 'kuala':4A,9B,124B,152B,174C,176C 'local':97B 'locat':119B 'lumpur':5A,10B,125B,153B,175C,177C 'luxuri':19B,141B,169B 'majest':2A,7B,101B,150B 'make':154B 'memor':105B 'modern':18B 'need':57B 'notch':146B 'offer':45B,79B 'option':84B 'parti':111B 'prefer':157B 'present':20B 'provid':37B,130B 'rang':81B 'recept':91B 'romant':39B 'root':32B 'seek':161B 'servic':147B 'set':42B 'sophist':30B 'space':48B 'special':172B 'specif':56B 'strateg':118B 'tailor':52B 'timeless':41B 'top':145B 'top-notch':144B 'venu':23B 'wed':25B,60B,90B,110B 'whether':61B",
     "textEmbedding": null,
     "catalogPosition": 75,
     "isSpotlight": false,
@@ -587,7 +587,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/44d81001-d976-48c5-8e22-aef943a1ce35/0d2459d3-fc39-4406-a012-6efc062e8307/high.webp"
@@ -680,7 +680,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'access':105B 'accommod':79B 'addit':70B,129B 'afar':123B 'also':127B 'amen':16B 'appoint':78B 'arrang':134B 'attract':111B 'ballroom':23B 'boast':21B 'budget':165B 'cater':48B,158B 'celebr':92B 'choic':116B 'citi':110B 'comfort':74B 'commit':171B 'conveni':115B 'culinari':68B 'custom':30B 'customiz':153B 'design':156B 'dietari':60B 'differ':59B 'divers':52B 'easi':104B 'eleg':22B 'enhanc':86B 'ensur':146B 'entertain':137B 'equip':39B 'especi':119B 'event':25B,142B 'excel':18B,45B 'experi':89B,179B 'experienc':141B 'facil':42B 'floral':133B 'guest':81B,118B 'heart':97B 'hilton':1A,4B,124B 'hotel':44B,72B 'known':12B 'kuala':2A,5B,99B,125B,180C,184C 'locat':94B 'lumpur':3A,6B,100B,126B,181C,185C 'luxuri':15B 'make':112B 'memor':150B 'menu':55B 'modern':41B 'need':61B,163B 'offer':50B,103B,128B 'option':56B 'overal':88B 'packag':155B 'parti':85B 'persekutuan':183C 'photographi':135B 'plan':143B 'prefer':63B 'premier':9B 'prepar':64B 'provid':73B,173B 'proxim':107B 'rang':53B 'seamless':148B 'servic':19B,49B,130B 'size':35B 'skill':67B 'space':26B 'strateg':93B 'style':37B 'suit':58B 'support':138B 'team':69B,144B 'travel':121B 'underscor':167B 'unforgett':177B 'uniqu':175B 'varieti':161B 'various':109B 'venu':11B,102B,169B 'wed':10B,32B,84B,151B,154B,178B 'well':77B 'well-appoint':76B 'wilayah':182C",
+    "fts": "'access':105B 'accommod':79B 'addit':70B,129B 'afar':123B 'also':127B 'amen':16B 'appoint':78B 'arrang':134B 'attract':111B 'ballroom':23B 'boast':21B 'budget':165B 'cater':48B,158B 'celebr':92B 'choic':116B 'citi':110B 'comfort':74B 'commit':171B 'conveni':115B 'culinari':68B 'custom':30B 'customiz':153B 'design':156B 'dietari':60B 'differ':59B 'divers':52B 'easi':104B 'eleg':22B 'enhanc':86B 'ensur':146B 'entertain':137B 'equip':39B 'especi':119B 'event':25B,142B 'excel':18B,45B 'experi':89B,179B 'experienc':141B 'facil':42B 'floral':133B 'guest':81B,118B 'heart':97B 'hilton':1A,4B,124B 'hotel':44B,72B 'known':12B 'kuala':2A,5B,99B,125B,180C,182C 'locat':94B 'lumpur':3A,6B,100B,126B,181C,183C 'luxuri':15B 'make':112B 'memor':150B 'menu':55B 'modern':41B 'need':61B,163B 'offer':50B,103B,128B 'option':56B 'overal':88B 'packag':155B 'parti':85B 'photographi':135B 'plan':143B 'prefer':63B 'premier':9B 'prepar':64B 'provid':73B,173B 'proxim':107B 'rang':53B 'seamless':148B 'servic':19B,49B,130B 'size':35B 'skill':67B 'space':26B 'strateg':93B 'style':37B 'suit':58B 'support':138B 'team':69B,144B 'travel':121B 'underscor':167B 'unforgett':177B 'uniqu':175B 'varieti':161B 'various':109B 'venu':11B,102B,169B 'wed':10B,32B,84B,151B,154B,178B 'well':77B 'well-appoint':76B",
     "textEmbedding": null,
     "catalogPosition": 74,
     "isSpotlight": false,
@@ -692,7 +692,7 @@
         "id": "d6294816-5015-40a0-8feb-ff90e9dcfb1c",
         "name": "Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 10000,
         "capacitySeatedMin": 10,
         "capacitySeatedMax": 1100
@@ -701,7 +701,7 @@
         "id": "37e9c80a-4ef7-4d9b-b66c-06f700c60818",
         "name": "Sentral Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3500,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 130
@@ -710,7 +710,7 @@
         "id": "896f068e-c767-41b5-8ad0-3e115091fcf9",
         "name": "Grand Suite",
         "type": "Banquet Halls",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2174,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 100
@@ -719,7 +719,7 @@
         "id": "89be8a25-1f86-4c0f-b79e-8a5953d3413e",
         "name": "Vascoâs (All Day Dining)",
         "type": "Restaurants",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2000,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 180
@@ -728,7 +728,7 @@
         "id": "ec56e48b-8c49-49b0-837b-43a86006132b",
         "name": "Graze (Italian Restaurant)",
         "type": "Restaurants",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2000,
         "capacitySeatedMin": 20,
         "capacitySeatedMax": 30
@@ -737,7 +737,7 @@
         "id": "f951b6d7-891a-429d-b9c1-bf468c2ea339",
         "name": "Chynna (Chinese Restaurant)",
         "type": "Restaurants",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2000,
         "capacitySeatedMin": 30,
         "capacitySeatedMax": 60
@@ -886,7 +886,7 @@
         "id": "0da61be0-cfa7-446a-93d6-7ed63f806e6a",
         "name": "Saujana Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 5000,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 300
@@ -895,7 +895,7 @@
         "id": "8d1997b5-0cbc-4be6-b7bd-afb472071c35",
         "name": "Zamrud Room",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2000,
         "capacitySeatedMin": 120,
         "capacitySeatedMax": 180
@@ -939,7 +939,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/0472d052-6ad9-4a7b-975d-057c8f83c4f8/58a340eb-2820-4fe4-927a-aaf64a97a520/high.webp"
@@ -1062,7 +1062,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'325':129B 'abund':106B 'access':64B 'addit':90B 'all-day':220B 'along':135B 'alor':99B 'amen':165B 'appoint':131B 'area':25B 'art':184B 'atop':56B 'attract':45B 'ballroom':142B 'banyan':11B 'bar':228B 'bath':150B 'bintang':24B 'boutiqu':74B 'breathtak':177B 'budget':77B 'budget-friend':76B 'bukit':23B 'busi':36B 'bustl':35B 'cater':229B 'center':32B 'children':196B 'chines':217B 'close':95B 'club':194B,202B 'conveni':94B 'cuisin':89B 'day':222B 'daylight​​':153B 'dedic':191B 'dine':46B,108B,207B,223B 'district':39B 'easi':63B 'eleg':138B 'enhanc':167B 'entertain':38B,198B 'enthusiast':189B 'event':147B 'exclus':205B 'experi':122B,170B 'experiences​​​​​​':50B 'featur':128B 'fit':188B 'free':216B 'friend':78B 'guest':169B 'gym':186B 'heart':17B 'hotel':2A,6B,52B,92B,111B,155B,211B 'impecc':118B 'includ':172B,212B 'infin':174B 'intern':88B 'jalan':98B 'kid':192B 'known':103B,113B 'kuala':3A,7B,19B,156B,237C,241C 'less':141B 'local':86B 'locat':27B 'loung':203B 'lumpur':4A,8B,20B,157B,238C,242C 'luxuri':73B,201B 'mall':61B 'manag':9B 'market':102B 'mega':59B 'metropolis​​​​':126B 'multi':146B 'multi-ev':145B 'natur':152B 'night':100B 'offer':62B,176B,204B 'on-sit':162B 'option':47B,71B,208B 'options​​':109B 'pavilion':1A,5B,58B,154B 'persekutuan':240C 'pillar':140B 'pillar-less':139B 'place':28B 'plethora':43B 'pool':175B 'pork':215B 'pork-fre':214B 'posit':55B 'preferences​​​​':236B 'privileg':206B 'provid':158B 'rang':68B,160B 'restaur':218B,224B 'room':132B 'servic':119B 'shop':49B,60B,70B 'site':164B 'situat':14B 'six':144B 'sky':185B 'space':148B 'spacious':130B 'speakeasi':227B 'state':181B 'state-of-the-art':180B 'store':79B 'street':101B,107B 'suit':134B 'surround':40B 'tast':234B 'tree':12B 'tropic':125B 'underst':116B 'uniqu':54B 'unmatch':121B 'varieti':84B,232B 'vibrant':22B 'view':178B 'warmth':117B 'well':81B 'wide':67B 'wilayah':239C",
+    "fts": "'325':129B 'abund':106B 'access':64B 'addit':90B 'all-day':220B 'along':135B 'alor':99B 'amen':165B 'appoint':131B 'area':25B 'art':184B 'atop':56B 'attract':45B 'ballroom':142B 'banyan':11B 'bar':228B 'bath':150B 'bintang':24B 'boutiqu':74B 'breathtak':177B 'budget':77B 'budget-friend':76B 'bukit':23B 'busi':36B 'bustl':35B 'cater':229B 'center':32B 'children':196B 'chines':217B 'close':95B 'club':194B,202B 'conveni':94B 'cuisin':89B 'day':222B 'daylight​​':153B 'dedic':191B 'dine':46B,108B,207B,223B 'district':39B 'easi':63B 'eleg':138B 'enhanc':167B 'entertain':38B,198B 'enthusiast':189B 'event':147B 'exclus':205B 'experi':122B,170B 'experiences​​​​​​':50B 'featur':128B 'fit':188B 'free':216B 'friend':78B 'guest':169B 'gym':186B 'heart':17B 'hotel':2A,6B,52B,92B,111B,155B,211B 'impecc':118B 'includ':172B,212B 'infin':174B 'intern':88B 'jalan':98B 'kid':192B 'known':103B,113B 'kuala':3A,7B,19B,156B,237C,239C 'less':141B 'local':86B 'locat':27B 'loung':203B 'lumpur':4A,8B,20B,157B,238C,240C 'luxuri':73B,201B 'mall':61B 'manag':9B 'market':102B 'mega':59B 'metropolis​​​​':126B 'multi':146B 'multi-ev':145B 'natur':152B 'night':100B 'offer':62B,176B,204B 'on-sit':162B 'option':47B,71B,208B 'options​​':109B 'pavilion':1A,5B,58B,154B 'pillar':140B 'pillar-less':139B 'place':28B 'plethora':43B 'pool':175B 'pork':215B 'pork-fre':214B 'posit':55B 'preferences​​​​':236B 'privileg':206B 'provid':158B 'rang':68B,160B 'restaur':218B,224B 'room':132B 'servic':119B 'shop':49B,60B,70B 'site':164B 'situat':14B 'six':144B 'sky':185B 'space':148B 'spacious':130B 'speakeasi':227B 'state':181B 'state-of-the-art':180B 'store':79B 'street':101B,107B 'suit':134B 'surround':40B 'tast':234B 'tree':12B 'tropic':125B 'underst':116B 'uniqu':54B 'unmatch':121B 'varieti':84B,232B 'vibrant':22B 'view':178B 'warmth':117B 'well':81B 'wide':67B",
     "textEmbedding": null,
     "catalogPosition": 72,
     "isSpotlight": false,
@@ -1074,7 +1074,7 @@
         "id": "cfcf294a-9e43-4fc8-aadd-1f37e3946d61",
         "name": "Pavilion Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 6803,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 300
@@ -1083,7 +1083,7 @@
         "id": "3f994281-dce1-443f-bf1f-1443469dc50b",
         "name": "The Crescent",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2971,
         "capacitySeatedMin": 40,
         "capacitySeatedMax": 100
@@ -1092,7 +1092,7 @@
         "id": "a7152a0b-2ba2-41e3-b52e-d115dee147be",
         "name": "Disa",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 710,
         "capacitySeatedMin": 10,
         "capacitySeatedMax": 40
@@ -1136,7 +1136,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/40f5351b-b9a8-4039-8c87-97d8c6047e4c/b32436cb-4624-41e9-9eb5-8e809ff80779/high.webp"
@@ -1188,7 +1188,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'architectur':54B 'array':83B 'art':120B 'astor':102B 'atmospher':128B 'backdrop':71B 'ballroom':86B,103B 'beacon':11B 'boast':81B 'breathtak':70B 'capit':32B 'ceremoni':73B 'chandeli':114B 'combin':36B 'crystal':113B 'cultur':64B 'day':23B 'design':92B,110B 'destin':19B 'eleg':15B 'event':88B 'exquisit':34B 'featur':111B 'grand':53B 'grandeur':98B 'heart':27B 'heritag':62B 'hotel':51B 'inspir':58B 'interior':57B 'intimaci':100B 'kuala':4A,8B,66B,79B,132C,136C 'light':121B 'lumpur':5A,9B,67B,80B,133C,137C 'luxuri':13B 'magnific':112B 'majest':127B 'make':42B 'malaysia':29B 'masterpiec':108B 'meticul':91B 'modern':40B 'nestl':24B 'nuptial':131B 'offer':94B 'opul':41B 'particular':105B 'perfect':45B 'persekutuan':135C 'present':16B 'provid':68B 'recept':75B 'regi':3A,7B,78B 'rich':61B 'romant':125B 'sens':96B 'set':46B,123B 'sophist':38B 'space':89B 'special':22B 'st':2A,6B,77B 'state':117B 'state-of-the-art':116B 'stun':85B 'sumptuous':56B 'system':122B 'timeless':37B 'unparallel':18B 'venu':35B 'vibrant':31B 'wed':49B 'wilayah':134C",
+    "fts": "'architectur':54B 'array':83B 'art':120B 'astor':102B 'atmospher':128B 'backdrop':71B 'ballroom':86B,103B 'beacon':11B 'boast':81B 'breathtak':70B 'capit':32B 'ceremoni':73B 'chandeli':114B 'combin':36B 'crystal':113B 'cultur':64B 'day':23B 'design':92B,110B 'destin':19B 'eleg':15B 'event':88B 'exquisit':34B 'featur':111B 'grand':53B 'grandeur':98B 'heart':27B 'heritag':62B 'hotel':51B 'inspir':58B 'interior':57B 'intimaci':100B 'kuala':4A,8B,66B,79B,132C,134C 'light':121B 'lumpur':5A,9B,67B,80B,133C,135C 'luxuri':13B 'magnific':112B 'majest':127B 'make':42B 'malaysia':29B 'masterpiec':108B 'meticul':91B 'modern':40B 'nestl':24B 'nuptial':131B 'offer':94B 'opul':41B 'particular':105B 'perfect':45B 'present':16B 'provid':68B 'recept':75B 'regi':3A,7B,78B 'rich':61B 'romant':125B 'sens':96B 'set':46B,123B 'sophist':38B 'space':89B 'special':22B 'st':2A,6B,77B 'state':117B 'state-of-the-art':116B 'stun':85B 'sumptuous':56B 'system':122B 'timeless':37B 'unparallel':18B 'venu':35B 'vibrant':31B 'wed':49B",
     "textEmbedding": null,
     "catalogPosition": 12,
     "isSpotlight": false,
@@ -1200,7 +1200,7 @@
         "id": "3587756c-7c11-4022-84ac-b58281d40591",
         "name": "Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 14000,
         "capacitySeatedMin": 400,
         "capacitySeatedMax": 1060
@@ -1209,7 +1209,7 @@
         "id": "56948ba8-5aa5-4f6f-8017-58058e4301f3",
         "name": "Astor Room",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 5500,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 350
@@ -1218,7 +1218,7 @@
         "id": "8808f3d1-47fe-4a30-b7a5-5a1ab93fa4f3",
         "name": "The Bridal Salon",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1000,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 100
@@ -1227,7 +1227,7 @@
         "id": "01d687e9-d4b2-4d3f-bcc7-4d536bc93af7",
         "name": "The Crystal",
         "type": "Event Space",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 2000,
         "capacitySeatedMin": 80,
         "capacitySeatedMax": 100
@@ -1365,7 +1365,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c14898c5-3e19-4192-93ce-7048b82338ca/decba855-4557-4637-976d-e0320f9dd600/high.webp"
@@ -1439,7 +1439,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'access':70B 'accommod':218B 'affair':112B 'allur':138B 'also':215B 'amen':220B 'amidst':34B 'aspect':155B 'attent':183B,210B 'attract':76B 'backdrop':80B 'balanc':57B 'ballroom':89B 'beacon':10B 'bespok':122B 'beyond':136B 'bring':175B 'bustl':20B 'capit':21B 'cater':101B 'celebr':103B,261B 'character':93B 'charm':62B 'choic':52B 'cityscap':37B 'class':46B 'combin':40B 'complement':129B 'contemporari':12B,235B 'coupl':27B,177B,206B,227B 'craft':121B 'creat':189B 'culinari':114B 'cultur':243B 'dedic':166B 'deep':239B 'design':97B 'destin':25B,85B 'detail':187B 'dine':126B 'distinguish':255B 'dream':28B 'easi':69B 'eleg':42B 'ensur':124B,152B 'event':91B 'everi':154B 'excel':119B 'execut':160B 'expect':208B 'experi':127B,196B 'expertis':212B 'exquisit':24B 'facil':141B 'final':204B 'flexibl':99B 'free':195B 'fusion':233B 'gather':109B 'grace':164B 'grand':88B 'guest':230B 'heart':16B 'honor':270B 'hospit':47B 'hotel':39B,64B,171B,214B 'ideal':51B 'impecc':150B 'initi':199B 'intim':61B,108B 'key':75B 'kuala':3A,7B,72B,144B,250B,271C,275C 'lavish':111B 'layout':100B 'le':1A,5B,117B,142B,248B 'life':181B 'local':83B 'locat':67B 'love':268B 'lumpur':4A,8B,73B,145B,251B,272C,276C 'luxuri':13B,217B,236B 'make':48B 'malaysia':18B 'malaysian':246B 'memor':263B 'menus':123B 'meridien':2A,6B,118B,143B,249B 'modern':41B 'nestl':33B 'nuanc':244B 'offer':68B,216B 'pay':182B 'perfect':79B 'persekutuan':274C 'person':209B 'plan':200B 'planner':168B 'precis':162B 'present':22B 'prime':66B 'promis':258B 'provid':77B,221B 'renown':147B 'retreat':224B 'seamless':191B 'seren':223B 'servic':151B 'size':106B 'sleek':96B 'smallest':186B 'sophist':59B 'space':92B 'spirit':132B 'stage':201B 'stand':252B 'stress':194B 'stress-fre':193B 'team':115B 'tireless':173B 'toast':205B 'understand':240B 'unforgett':31B 'uniqu':131B,265B 'urban':58B 'venu':256B 'vibrant':36B 'vision':179B 'wed':32B,55B,86B,135B,158B,167B,247B,260B 'wilayah':273C 'work':172B 'world':45B 'world-class':44B",
+    "fts": "'access':70B 'accommod':218B 'affair':112B 'allur':138B 'also':215B 'amen':220B 'amidst':34B 'aspect':155B 'attent':183B,210B 'attract':76B 'backdrop':80B 'balanc':57B 'ballroom':89B 'beacon':10B 'bespok':122B 'beyond':136B 'bring':175B 'bustl':20B 'capit':21B 'cater':101B 'celebr':103B,261B 'character':93B 'charm':62B 'choic':52B 'cityscap':37B 'class':46B 'combin':40B 'complement':129B 'contemporari':12B,235B 'coupl':27B,177B,206B,227B 'craft':121B 'creat':189B 'culinari':114B 'cultur':243B 'dedic':166B 'deep':239B 'design':97B 'destin':25B,85B 'detail':187B 'dine':126B 'distinguish':255B 'dream':28B 'easi':69B 'eleg':42B 'ensur':124B,152B 'event':91B 'everi':154B 'excel':119B 'execut':160B 'expect':208B 'experi':127B,196B 'expertis':212B 'exquisit':24B 'facil':141B 'final':204B 'flexibl':99B 'free':195B 'fusion':233B 'gather':109B 'grace':164B 'grand':88B 'guest':230B 'heart':16B 'honor':270B 'hospit':47B 'hotel':39B,64B,171B,214B 'ideal':51B 'impecc':150B 'initi':199B 'intim':61B,108B 'key':75B 'kuala':3A,7B,72B,144B,250B,271C,273C 'lavish':111B 'layout':100B 'le':1A,5B,117B,142B,248B 'life':181B 'local':83B 'locat':67B 'love':268B 'lumpur':4A,8B,73B,145B,251B,272C,274C 'luxuri':13B,217B,236B 'make':48B 'malaysia':18B 'malaysian':246B 'memor':263B 'menus':123B 'meridien':2A,6B,118B,143B,249B 'modern':41B 'nestl':33B 'nuanc':244B 'offer':68B,216B 'pay':182B 'perfect':79B 'person':209B 'plan':200B 'planner':168B 'precis':162B 'present':22B 'prime':66B 'promis':258B 'provid':77B,221B 'renown':147B 'retreat':224B 'seamless':191B 'seren':223B 'servic':151B 'size':106B 'sleek':96B 'smallest':186B 'sophist':59B 'space':92B 'spirit':132B 'stage':201B 'stand':252B 'stress':194B 'stress-fre':193B 'team':115B 'tireless':173B 'toast':205B 'understand':240B 'unforgett':31B 'uniqu':131B,265B 'urban':58B 'venu':256B 'vibrant':36B 'vision':179B 'wed':32B,55B,86B,135B,158B,167B,247B,260B 'work':172B 'world':45B 'world-class':44B",
     "textEmbedding": null,
     "catalogPosition": 71,
     "isSpotlight": false,
@@ -1451,7 +1451,7 @@
         "id": "44c59df1-82b0-4eef-8a05-510b2eb7e105",
         "name": "Clarke Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 4360,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 300
@@ -1460,7 +1460,7 @@
         "id": "42a817f2-8b57-4034-9cdd-52dba08af74f",
         "name": "The Glasshouse",
         "type": "Event Space",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 1550,
         "capacitySeatedMin": 80,
         "capacitySeatedMax": 150
@@ -1492,7 +1492,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/6efec416-4baa-4b00-894b-db73effb4d58/1e4c66da-d959-48aa-a355-eae26f86b7c0/high.webp"
@@ -1570,7 +1570,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'access':60B 'add':54B 'allur':57B 'ballroom':10B 'celebr':16B 'central':39B 'cozi':23B 'district':53B 'easi':59B 'endless':64B 'ensur':29B 'entertain':52B 'everi':30B 'experi':35B 'gather':24B 'grand':13B 'guest':62B 'hotel':3A,37B 'intim':19B 'jw':1A,25B 'kuala':4A,27B,46B,70C,74C 'lavish':15B 'locat':40B 'lumpur':5A,28B,47B,71C,75C 'magnific':67B 'marriott':2A,26B 'midst':44B 'opportun':65B 'opul':8B 'perfect':11B 'persekutuan':73C 'photographi':69B 'provid':58B 'right':41B 'shop':50B 'smaller':22B 'space':20B 'starhil':9B 'unforgett':34B 'vibrant':49B 'wed':31B,68B 'wilayah':72C",
+    "fts": "'access':60B 'add':54B 'allur':57B 'ballroom':10B 'celebr':16B 'central':39B 'cozi':23B 'district':53B 'easi':59B 'endless':64B 'ensur':29B 'entertain':52B 'everi':30B 'experi':35B 'gather':24B 'grand':13B 'guest':62B 'hotel':3A,37B 'intim':19B 'jw':1A,25B 'kuala':4A,27B,46B,70C,72C 'lavish':15B 'locat':40B 'lumpur':5A,28B,47B,71C,73C 'magnific':67B 'marriott':2A,26B 'midst':44B 'opportun':65B 'opul':8B 'perfect':11B 'photographi':69B 'provid':58B 'right':41B 'shop':50B 'smaller':22B 'space':20B 'starhil':9B 'unforgett':34B 'vibrant':49B 'wed':31B,68B",
     "textEmbedding": null,
     "catalogPosition": 70,
     "isSpotlight": false,
@@ -1582,7 +1582,7 @@
         "id": "4f5859db-f487-4a13-b06a-261ab6a40221",
         "name": "Mayang Sari Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 8912,
         "capacitySeatedMin": 250,
         "capacitySeatedMax": 700
@@ -1591,7 +1591,7 @@
         "id": "1151fc93-11e4-4b5c-9e2a-b01461766ea3",
         "name": "Bayu Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 4800,
         "capacitySeatedMin": 150,
         "capacitySeatedMax": 320
@@ -1623,7 +1623,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/65e20398-a534-4cd3-9b9e-36d0cd0a591d/87223e9f-3302-454c-bcdf-6d5c0e30ebaf/high.webp"
@@ -1712,7 +1712,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'access':100B 'adorn':35B 'also':97B 'arrang':77B 'art':44B 'attent':63B 'backdrop':49B 'ballroom':34B 'bespok':68B 'blend':21B 'celebr':56B 'central':93B 'coupl':57B 'culinari':28B,72B 'day':81B 'decor':26B 'detail':66B 'easi':99B 'ensur':78B 'everi':65B 'excel':29B 'expect':59B 'experi':117B 'expert':73B 'exquisit':75B 'facil':45B 'flawless':84B 'floral':76B 'grand':33B 'guest':102B 'hotel':3A,8B,31B 'idyl':15B 'impecc':23B 'interior':38B 'intim':52B 'kuala':118C,122C 'lavish':54B 'locat':16B,94B 'love':89B 'lumpur':119C,123C 'make':103B 'menu':69B 'offer':19B,98B 'part':112B 'persekutuan':121C 'person':60B 'plan':70B 'provid':46B 'resid':5A,10B 'ruma':2A,7B,96B 'seamless':111B 'servic':24B,61B 'special':80B 'splendid':48B 'stand':11B 'state':41B 'state-of-the-art':40B 'stori':90B 'stun':25B 'tast':37B 'unforgett':115B 'uniqu':86B 'venu':108B 'wed':18B,55B,116B 'wilayah':120C",
+    "fts": "'access':100B 'adorn':35B 'also':97B 'arrang':77B 'art':44B 'attent':63B 'backdrop':49B 'ballroom':34B 'bespok':68B 'blend':21B 'celebr':56B 'central':93B 'coupl':57B 'culinari':28B,72B 'day':81B 'decor':26B 'detail':66B 'easi':99B 'ensur':78B 'everi':65B 'excel':29B 'expect':59B 'experi':117B 'expert':73B 'exquisit':75B 'facil':45B 'flawless':84B 'floral':76B 'grand':33B 'guest':102B 'hotel':3A,8B,31B 'idyl':15B 'impecc':23B 'interior':38B 'intim':52B 'kuala':118C,120C 'lavish':54B 'locat':16B,94B 'love':89B 'lumpur':119C,121C 'make':103B 'menu':69B 'offer':19B,98B 'part':112B 'person':60B 'plan':70B 'provid':46B 'resid':5A,10B 'ruma':2A,7B,96B 'seamless':111B 'servic':24B,61B 'special':80B 'splendid':48B 'stand':11B 'state':41B 'state-of-the-art':40B 'stori':90B 'stun':25B 'tast':37B 'unforgett':115B 'uniqu':86B 'venu':108B 'wed':18B,55B,116B",
     "textEmbedding": null,
     "catalogPosition": 3,
     "isSpotlight": true,
@@ -1724,7 +1724,7 @@
         "id": "f24adef7-776b-4b22-97a6-203b41900546",
         "name": "The Pavilion",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1519,
         "capacitySeatedMin": 70,
         "capacitySeatedMax": 90
@@ -1733,7 +1733,7 @@
         "id": "786ba45b-6e69-4a79-bf5e-e05b15c71d7f",
         "name": "The Frangipani",
         "type": "Banquet Halls",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 4000,
         "capacitySeatedMin": 70,
         "capacitySeatedMax": 80
@@ -1777,7 +1777,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c92cb098-e6f5-43b4-b5c8-d1f035a7a328/8d26dcd0-3423-4741-847d-f20cf51c0e69/high.webp"
@@ -1860,7 +1860,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'architectur':33B 'art':68B 'ballroom':77B 'blend':22B 'capit':16B 'celebr':102B 'citi':39B 'contemporari':25B 'coupl':52B,92B 'craft':116B 'creat':118B 'dedic':106B 'detail':113B 'dream':88B 'eleg':26B 'ensur':111B 'eq':1A,4B,70B 'event':79B 'everi':112B 'except':61B 'experi':50B,121B 'exquisit':76B 'facil':69B 'gather':98B 'grand':101B 'heart':11B 'hotel':5B,29B,71B,104B 'icon':28B,43B 'includ':41B 'intim':97B 'kuala':2A,6B,122C,126C 'lumpur':3A,7B,123C,127C 'luxuri':23B 'malaysia':13B 'marvel':21B 'match':86B 'meticul':115B 'modern':20B 'offer':47B 'panoram':35B 'perfect':55B 'persekutuan':125C 'petrona':44B 'present':72B 'rang':74B 'renown':58B 'seek':53B 'servic':62B 'situat':8B 'skylin':40B 'sleek':32B 'space':80B 'specialist':110B 'stand':17B 'state':65B 'state-of-the-art':64B 'team':107B 'theme':89B 'tower':46B 'transform':84B 'twin':45B 'unforgett':120B 'unparallel':49B 'venu':57B 'vibrant':15B 'view':36B 'wed':56B,109B 'whether':93B 'wilayah':124C",
+    "fts": "'architectur':33B 'art':68B 'ballroom':77B 'blend':22B 'capit':16B 'celebr':102B 'citi':39B 'contemporari':25B 'coupl':52B,92B 'craft':116B 'creat':118B 'dedic':106B 'detail':113B 'dream':88B 'eleg':26B 'ensur':111B 'eq':1A,4B,70B 'event':79B 'everi':112B 'except':61B 'experi':50B,121B 'exquisit':76B 'facil':69B 'gather':98B 'grand':101B 'heart':11B 'hotel':5B,29B,71B,104B 'icon':28B,43B 'includ':41B 'intim':97B 'kuala':2A,6B,122C,124C 'lumpur':3A,7B,123C,125C 'luxuri':23B 'malaysia':13B 'marvel':21B 'match':86B 'meticul':115B 'modern':20B 'offer':47B 'panoram':35B 'perfect':55B 'petrona':44B 'present':72B 'rang':74B 'renown':58B 'seek':53B 'servic':62B 'situat':8B 'skylin':40B 'sleek':32B 'space':80B 'specialist':110B 'stand':17B 'state':65B 'state-of-the-art':64B 'team':107B 'theme':89B 'tower':46B 'transform':84B 'twin':45B 'unforgett':120B 'unparallel':49B 'venu':57B 'vibrant':15B 'view':36B 'wed':56B,109B 'whether':93B",
     "textEmbedding": null,
     "catalogPosition": 69,
     "isSpotlight": false,
@@ -1872,7 +1872,7 @@
         "id": "b080fe13-c381-4dc9-9370-1a0d0af3a5c0",
         "name": "Diamond Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 8000,
         "capacitySeatedMin": 300,
         "capacitySeatedMax": 450
@@ -1881,7 +1881,7 @@
         "id": "6f965ea8-dc21-4856-be05-0b7898d68f57",
         "name": "Conservatory",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3500,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 150
@@ -2014,7 +2014,7 @@
         "id": "4460bd8a-f3a3-4e74-84ea-cac25aec7e52",
         "name": "Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 12669,
         "capacitySeatedMin": 250,
         "capacitySeatedMax": 750
@@ -2023,7 +2023,7 @@
         "id": "7628aa36-70e1-49c5-8270-a026bdf2318c",
         "name": "Junior Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 6038,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 380
@@ -2148,7 +2148,7 @@
         "id": "6d8d95f5-2878-4f55-8aba-3ec7d820120e",
         "name": "Grand Lagoon Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 22600,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 1800
@@ -2157,7 +2157,7 @@
         "id": "2fcdcadf-53ac-47b6-8706-63f892fef0ed",
         "name": "Function Rooms",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3000,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 300
@@ -2268,7 +2268,7 @@
         "id": "79c1cb48-9983-464c-a9a3-e102874254b9",
         "name": "Brick Studio",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3760,
         "capacitySeatedMin": null,
         "capacitySeatedMax": 250
@@ -2277,7 +2277,7 @@
         "id": "0ada960b-fb81-4c4c-bf70-858533f24e96",
         "name": "The Raw Studio",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 4038,
         "capacitySeatedMin": null,
         "capacitySeatedMax": 300
@@ -2286,7 +2286,7 @@
         "id": "4ca05bc5-381e-4d78-8556-ced590918fd3",
         "name": "Edenmill",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 5200,
         "capacitySeatedMin": 150,
         "capacitySeatedMax": 300
@@ -2326,7 +2326,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/127a6e35-8fef-4f9d-9301-3526a71b26b5/a49f300b-a093-4ad7-bbcf-4775a27275e6/high.webp"
@@ -2432,7 +2432,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'allur':86B 'amen':44B 'asian':59B 'attract':109B 'audaci':26B 'away':99B 'bar':77B 'best':75B,108B 'chines':66B 'close':102B 'connect':17B 'cuisin':67B 'culinari':47B 'curat':56B 'deck':79B 'dine':50B 'discov':84B 'domin':6B 'even':91B 'exclus':115B 'experi':23B 'featur':35B 'flock':52B 'fusion':69B 'glam':88B 'globetrott':29B 'grill':60B 'hotel':31B 'inspir':25B 'journey':48B 'kuala':2A,15B,33B,105B,120C,124C 'lifestyl':27B 'limitless':21B 'live':93B 'lumpur':3A,16B,34B,106B,121C,125C 'luxuri':22B 'magnific':9B 'menu':61B 'modern':4B,65B 'pan':58B 'pan-asian':57B 'persekutuan':123C 'petrona':10B 'proxim':103B 'recharg':97B 'rooftop':76B 'room':38B,94B 'seen':72B 'signatur':42B 'skylin':5B,82B 'spa':100B 'special':55B 'stun':81B 'stylish':36B 'suit':40B 'take':45B 'tower':12B 'twin':11B 'twist':70B 'unwind':95B 'vibrant':37B,112B 'view':83B 'w':1A,14B,43B 'welcom':113B 'wet':78B 'whatever/whenever':119B 'wilayah':122C 'within':101B 'world':19B 'yen':63B",
+    "fts": "'allur':86B 'amen':44B 'asian':59B 'attract':109B 'audaci':26B 'away':99B 'bar':77B 'best':75B,108B 'chines':66B 'close':102B 'connect':17B 'cuisin':67B 'culinari':47B 'curat':56B 'deck':79B 'dine':50B 'discov':84B 'domin':6B 'even':91B 'exclus':115B 'experi':23B 'featur':35B 'flock':52B 'fusion':69B 'glam':88B 'globetrott':29B 'grill':60B 'hotel':31B 'inspir':25B 'journey':48B 'kuala':2A,15B,33B,105B,120C,122C 'lifestyl':27B 'limitless':21B 'live':93B 'lumpur':3A,16B,34B,106B,121C,123C 'luxuri':22B 'magnific':9B 'menu':61B 'modern':4B,65B 'pan':58B 'pan-asian':57B 'petrona':10B 'proxim':103B 'recharg':97B 'rooftop':76B 'room':38B,94B 'seen':72B 'signatur':42B 'skylin':5B,82B 'spa':100B 'special':55B 'stun':81B 'stylish':36B 'suit':40B 'take':45B 'tower':12B 'twin':11B 'twist':70B 'unwind':95B 'vibrant':37B,112B 'view':83B 'w':1A,14B,43B 'welcom':113B 'wet':78B 'whatever/whenever':119B 'within':101B 'world':19B 'yen':63B",
     "textEmbedding": null,
     "catalogPosition": 1,
     "isSpotlight": true,
@@ -2444,7 +2444,7 @@
         "id": "b1e69999-7a7b-4887-b222-8a705a87ae3e",
         "name": "Great Room",
         "type": "Banquet Halls",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 10979,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 500
@@ -2453,7 +2453,7 @@
         "id": "e8df2606-45a5-4145-959c-93bc12052dbc",
         "name": "Studio Room",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 28155,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 100
@@ -2462,7 +2462,7 @@
         "id": "c60568f5-7594-430c-94c5-a78aefd228b5",
         "name": "L'Atelier",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1076,
         "capacitySeatedMin": 20,
         "capacitySeatedMax": 50
@@ -2471,7 +2471,7 @@
         "id": "b4bee26b-e0dc-442c-9178-8fb09f76a45b",
         "name": "WET Deck",
         "type": "Restaurants",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 4208,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 120
@@ -2480,7 +2480,7 @@
         "id": "56696dba-0a80-4211-8234-7ac143b8e96a",
         "name": "YEN",
         "type": "Restaurants",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2335,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 80
@@ -2489,7 +2489,7 @@
         "id": "ff2cc93e-ccae-449d-b1df-a722f3536ff5",
         "name": "FLOCK",
         "type": "Restaurants",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 5887,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 150
@@ -2498,7 +2498,7 @@
         "id": "e9ed8f28-bcdc-486f-ad11-1123f34590cb",
         "name": "Living Room",
         "type": "Restaurants",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 14187,
         "capacitySeatedMin": 40,
         "capacitySeatedMax": 60
@@ -2554,7 +2554,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/70b207c9-d215-480f-90e7-93267e14ee6e/50c4fbdd-f4ec-42ee-b983-1001e1444261/high.webp"
@@ -2621,7 +2621,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'ballroom':12B 'banquet':64B 'ceremoni':50B,68B 'cocktail':51B 'conveni':38B 'event':43B 'floor':44B 'four':1A 'hall':65B 'hotel':3A 'hour':52B 'ideal':24B 'intim':17B,67B 'kuala':4A,31B,71B,81C,85C 'lit':10B 'locat':39B 'look':58B 'lumpur':5A,32B,72B,82C,86C 'meet':77B 'modern':11B 'need':80B 'numer':46B 'offer':23B,45B 'option':47B 'persekutuan':84C 'privat':20B 're':57B 'recept':54B,62B 'salon':18B 'season':2A 'set':25B 'site':63B 'space':21B,75B 'two':7B 'varieti':15B 'venu':29B,36B,69B 'versatil':74B 'wed':28B,61B 'well':9B 'well-lit':8B 'whether':55B 'wilayah':83C",
+    "fts": "'ballroom':12B 'banquet':64B 'ceremoni':50B,68B 'cocktail':51B 'conveni':38B 'event':43B 'floor':44B 'four':1A 'hall':65B 'hotel':3A 'hour':52B 'ideal':24B 'intim':17B,67B 'kuala':4A,31B,71B,81C,83C 'lit':10B 'locat':39B 'look':58B 'lumpur':5A,32B,72B,82C,84C 'meet':77B 'modern':11B 'need':80B 'numer':46B 'offer':23B,45B 'option':47B 'privat':20B 're':57B 'recept':54B,62B 'salon':18B 'season':2A 'set':25B 'site':63B 'space':21B,75B 'two':7B 'varieti':15B 'venu':29B,36B,69B 'versatil':74B 'wed':28B,61B 'well':9B 'well-lit':8B 'whether':55B",
     "textEmbedding": null,
     "catalogPosition": 65,
     "isSpotlight": false,
@@ -2633,7 +2633,7 @@
         "id": "8fc3e4e9-21ca-4ce8-882f-65aee4b17ae8",
         "name": "Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 8288,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 400
@@ -2642,7 +2642,7 @@
         "id": "1fcaf881-44f1-46a3-a297-28eb81c54516",
         "name": "Four Seasons Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2028,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 400
@@ -2734,7 +2734,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/e0044fd0-9cec-44aa-89b8-eb8d34c564b0/f786ac58-be2a-4de2-8ff6-e78008a792a3/high.webp"
@@ -2809,7 +2809,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'blend':9B 'busi':25B 'citi':58B 'class':41B 'conveni':54B 'dine':46B 'eleg':35B 'enjoy':52B 'experi':6B 'exquisit':45B 'greeneri':50B 'heart':16B 'hospit':42B 'hotel':59B 'icon':57B 'indulg':43B 'kuala':4A,18B,31B,60C,64C 'la':3A,30B 'leisur':27B 'lumpur':5A,19B,32B,61C,65C 'lush':49B 'luxuri':11B 'offer':33B 'perfect':8B 'persekutuan':63C 're':22B 'retreat':37B 'seamless':53B 'shangri':2A,29B 'shangri-la':1A,28B 'unwind':47B 'urban':36B 'warmth':13B 'whether':20B 'wilayah':62C 'world':40B 'world-class':39B",
+    "fts": "'blend':9B 'busi':25B 'citi':58B 'class':41B 'conveni':54B 'dine':46B 'eleg':35B 'enjoy':52B 'experi':6B 'exquisit':45B 'greeneri':50B 'heart':16B 'hospit':42B 'hotel':59B 'icon':57B 'indulg':43B 'kuala':4A,18B,31B,60C,62C 'la':3A,30B 'leisur':27B 'lumpur':5A,19B,32B,61C,63C 'lush':49B 'luxuri':11B 'offer':33B 'perfect':8B 're':22B 'retreat':37B 'seamless':53B 'shangri':2A,29B 'shangri-la':1A,28B 'unwind':47B 'urban':36B 'warmth':13B 'whether':20B 'world':40B 'world-class':39B",
     "textEmbedding": null,
     "catalogPosition": 64,
     "isSpotlight": false,
@@ -2821,7 +2821,7 @@
         "id": "63ae4c36-3c67-4e76-8051-f542b166a3ea",
         "name": "Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 16243,
         "capacitySeatedMin": 660,
         "capacitySeatedMax": 1800
@@ -2830,7 +2830,7 @@
         "id": "5e129f8b-6f38-4aba-951c-8e34235d1016",
         "name": "Junior Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 8008,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 400
@@ -2862,7 +2862,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/825a4a87-1dba-471e-9bf0-0f2822e50135/23194c01-188c-492b-ab11-d718a1a94016/high.webp"
@@ -2913,7 +2913,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'becom':36B 'cultur':26B 'estat':2A,18B 'everi':34B 'experi':30B 'feder':20B 'heart':9B 'hill':21B 'histori':14B,27B 'inspir':29B 'kl':3A 'kuala':11B,41C,45C 'landmark':6B 'legaci':40B 'lumpur':12B,42C,46C 'meet':15B 'modern':16B 'offer':22B 'part':37B 'persekutuan':44C 'place':32B 'sanctuari':24B 'timeless':5B 'visit':35B 'wilayah':43C",
+    "fts": "'becom':36B 'cultur':26B 'estat':2A,18B 'everi':34B 'experi':30B 'feder':20B 'heart':9B 'hill':21B 'histori':14B,27B 'inspir':29B 'kl':3A 'kuala':11B,41C,43C 'landmark':6B 'legaci':40B 'lumpur':12B,42C,44C 'meet':15B 'modern':16B 'offer':22B 'part':37B 'place':32B 'sanctuari':24B 'timeless':5B 'visit':35B",
     "textEmbedding": null,
     "catalogPosition": 63,
     "isSpotlight": false,
@@ -2925,7 +2925,7 @@
         "id": "0744572f-b64a-4633-a9dc-15ef022f96dc",
         "name": "The Great Hall",
         "type": "Banquet Halls",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3100,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 100
@@ -2934,7 +2934,7 @@
         "id": "84e6170d-3a58-4cfd-821f-14aa488e9f60",
         "name": "The Sky Balcony",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1715,
         "capacitySeatedMin": 20,
         "capacitySeatedMax": 70
@@ -2950,7 +2950,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/826e3ebb-03d0-491f-af03-a0f570314e82/0ca56043-151b-4a09-a47f-5d7442da0e4a/high.webp"
@@ -3017,7 +3017,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'also':86B 'balanc':35B 'believ':22B 'bother':42B 'bustl':66B 'chow':2A,8B,73B 'comfort':32B 'contemporari':19B 'edit':51B 'essenti':59B 'explor':88B 'focus':46B 'frivol':44B 'greatest':25B 'heart':67B 'hotel':6A 'hotelrethink':12B 'inspir':90B 'keep':57B 'kit':3A,9B,74B 'kuala':70B,91C,95C 'life':29B 'live':30B 'locat':63B 'lumpur':71B,92C,96C 'luxuri':16B,26B,62B 'matter':49B 'notion':14B 'old':69B 'ormond':5A,11B 'persekutuan':94C 'purpos':33B 'rest':85B 'sanctuari':79B 'sens':37B 'simplifi':61B 'travel':20B,77B 'unnecessari':55B 'wilayah':93C",
+    "fts": "'also':86B 'balanc':35B 'believ':22B 'bother':42B 'bustl':66B 'chow':2A,8B,73B 'comfort':32B 'contemporari':19B 'edit':51B 'essenti':59B 'explor':88B 'focus':46B 'frivol':44B 'greatest':25B 'heart':67B 'hotel':6A 'hotelrethink':12B 'inspir':90B 'keep':57B 'kit':3A,9B,74B 'kuala':70B,91C,93C 'life':29B 'live':30B 'locat':63B 'lumpur':71B,92C,94C 'luxuri':16B,26B,62B 'matter':49B 'notion':14B 'old':69B 'ormond':5A,11B 'purpos':33B 'rest':85B 'sanctuari':79B 'sens':37B 'simplifi':61B 'travel':20B,77B 'unnecessari':55B",
     "textEmbedding": null,
     "catalogPosition": 62,
     "isSpotlight": false,
@@ -3029,7 +3029,7 @@
         "id": "ab12e099-c9f8-416c-9a70-56d310a3471c",
         "name": "The Chow Kit Kitchen & Bar",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1500,
         "capacitySeatedMin": 60,
         "capacitySeatedMax": 100
@@ -3038,7 +3038,7 @@
         "id": "135b4fb2-0e25-4339-88b6-05dec8e74895",
         "name": "Meeting Rooms",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 820,
         "capacitySeatedMin": 40,
         "capacitySeatedMax": 50
@@ -3070,7 +3070,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/493b80ba-1278-48e7-a2b1-fce9551b0812/1d1fef33-da78-43cb-af82-3da6956414c9/high.webp"
@@ -3133,7 +3133,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'accommod':73B 'area':24B,56B 'authent':40B 'awam':61B 'belt':19B 'busi':85B 'citi':52B 'combin':65B 'comfort':68B 'connect':11B,37B 'conveni':14B 'culinari':74B 'cultur':34B 'damansara':21B 'design':35B 'elit':83B 'escap':13B 'excel':75B 'experi':41B 'exquisit':72B 'golf':59B 'green':18B,55B 'hotel':3A,6B,30B,44B 'inspir':31B 'intuit':70B 'kelab':58B 'kgpa':62B 'kuala':26B,87C,91C 'lifestyl':29B 'local':33B 'lumpur':27B,88C,92C 'luxuri':12B 'm':1A,4B 'nestl':15B 'offer':45B 'one':49B 'perkhidmatan':60B 'persekutuan':90C 'personalis':69B 'picturesqu':43B 'renown':54B 'resort':2A,5B 'seamless':64B 'servic':71B 'spas':80B 'spectacular':79B 'suburban':23B 'travel':86B 'uniqu':46B 'urban':82B 'valu':66B 'view':47B 'well':10B,77B 'well-connect':9B 'wilayah':89C",
+    "fts": "'accommod':73B 'area':24B,56B 'authent':40B 'awam':61B 'belt':19B 'busi':85B 'citi':52B 'combin':65B 'comfort':68B 'connect':11B,37B 'conveni':14B 'culinari':74B 'cultur':34B 'damansara':21B 'design':35B 'elit':83B 'escap':13B 'excel':75B 'experi':41B 'exquisit':72B 'golf':59B 'green':18B,55B 'hotel':3A,6B,30B,44B 'inspir':31B 'intuit':70B 'kelab':58B 'kgpa':62B 'kuala':26B,87C,89C 'lifestyl':29B 'local':33B 'lumpur':27B,88C,90C 'luxuri':12B 'm':1A,4B 'nestl':15B 'offer':45B 'one':49B 'perkhidmatan':60B 'personalis':69B 'picturesqu':43B 'renown':54B 'resort':2A,5B 'seamless':64B 'servic':71B 'spas':80B 'spectacular':79B 'suburban':23B 'travel':86B 'uniqu':46B 'urban':82B 'valu':66B 'view':47B 'well':10B,77B 'well-connect':9B",
     "textEmbedding": null,
     "catalogPosition": 61,
     "isSpotlight": false,
@@ -3145,7 +3145,7 @@
         "id": "52b0ce0e-352c-4672-b0ce-b64ecc15cd21",
         "name": "M Resort & Hotel",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 5000,
         "capacitySeatedMin": 300,
         "capacitySeatedMax": 1000
@@ -3194,7 +3194,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/27322736-0120-40f9-9b78-7afd029a72db/01d6c621-97ab-49e4-9cd9-9ff351ff93e1/high.webp"
@@ -3242,7 +3242,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'11':92B '500':93B 'access':40B 'aloft':1A,8B,31B,81B,120B 'bed':28B 'camp':30B 'captur':112B 'center':72B 'charg':70B 'chill':50B 'citi':114B 'cityscap':62B 'conveni':39B 'day':101B 'done':104B 'energi':117B 'enjoy':64B 'event':97B 'except':125B 'explor':36B 'feet':95B 'fit':71B 'fuel':79B 'host':85B 'hotel':17B,107B 'hub':45B 'inspir':24B 'kl':37B,47B 'kuala':2A,9B,13B,59B,121B,127C,131C 'littl':34B 'loft':23B 'loft-inspir':22B 'lumpur':3A,10B,14B,60B,122B,128C,132C 'main':43B 'match':74B 'meal':76B 'mix':73B 'near':103B 'offer':18B 'one':35B 'outdoor':54B 'persekutuan':130C 'platform':27B 'pool':55B 're':69B,78B 'recharg':6B 'relax':5B 'retreat':105B 'room':20B,108B 'savvi':19B 'sentral':4A,11B,15B,48B,123B 'session':67B 'signatur':26B 'space':98B 'squar':94B 'station':16B,49B 'stay':126B 'suit':25B,110B 'transport':44B 'undeni':116B 'view':57B 'welcom':118B 'wilayah':129C 'workout':66B",
+    "fts": "'11':92B '500':93B 'access':40B 'aloft':1A,8B,31B,81B,120B 'bed':28B 'camp':30B 'captur':112B 'center':72B 'charg':70B 'chill':50B 'citi':114B 'cityscap':62B 'conveni':39B 'day':101B 'done':104B 'energi':117B 'enjoy':64B 'event':97B 'except':125B 'explor':36B 'feet':95B 'fit':71B 'fuel':79B 'host':85B 'hotel':17B,107B 'hub':45B 'inspir':24B 'kl':37B,47B 'kuala':2A,9B,13B,59B,121B,127C,129C 'littl':34B 'loft':23B 'loft-inspir':22B 'lumpur':3A,10B,14B,60B,122B,128C,130C 'main':43B 'match':74B 'meal':76B 'mix':73B 'near':103B 'offer':18B 'one':35B 'outdoor':54B 'platform':27B 'pool':55B 're':69B,78B 'recharg':6B 'relax':5B 'retreat':105B 'room':20B,108B 'savvi':19B 'sentral':4A,11B,15B,48B,123B 'session':67B 'signatur':26B 'space':98B 'squar':94B 'station':16B,49B 'stay':126B 'suit':25B,110B 'transport':44B 'undeni':116B 'view':57B 'welcom':118B 'workout':66B",
     "textEmbedding": null,
     "catalogPosition": 60,
     "isSpotlight": false,
@@ -3254,7 +3254,7 @@
         "id": "be789ec3-3e2d-4f5c-8909-0227a07e405c",
         "name": "Aloft Kuala Lumpur Sentral",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 19623,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 1000
@@ -3270,7 +3270,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9ded14f1-2065-4f18-ae75-4ec9e117c733/296c810c-46cb-4ed4-9f13-e3f0934eb418/high.webp"
@@ -3324,7 +3324,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'443':58B 'affair':75B 'all-day':49B 'bar':59B,69B 'bath':32B 'bed':39B 'bintang':97B 'bodi':34B 'bukit':96B 'busi':85B 'cocktail':56B 'day':42B,51B,86B 'discov':13B 'dynam':79B 'elev':77B 'enrich':16B 'event':80B 'featur':29B 'food':45B 'fresh':44B 'fuel':40B 'golden':93B 'heaven':38B 'hotel':8B,20B 'item':46B 'kuala':3A,10B,27B,98C,102C 'live':54B 'loung':60B 'lumpur':4A,11B,28B,99C,103C 'malaysia':12B 'meet':71B,88B 'offer':63B 'persekutuan':101C 'poolsid':66B 'premium':19B 'product':35B 'restaur':52B,67B 'room':21B,55B 'scenic':62B 'sightse':90B 'social':74B 'space':81B 'splash':70B 'suit':23B 'tea':31B 'thrive':5B 'triangl':94B 'wed':72B 'well':14B 'westin':2A,26B,37B 'white':30B 'wilayah':100C",
+    "fts": "'443':58B 'affair':75B 'all-day':49B 'bar':59B,69B 'bath':32B 'bed':39B 'bintang':97B 'bodi':34B 'bukit':96B 'busi':85B 'cocktail':56B 'day':42B,51B,86B 'discov':13B 'dynam':79B 'elev':77B 'enrich':16B 'event':80B 'featur':29B 'food':45B 'fresh':44B 'fuel':40B 'golden':93B 'heaven':38B 'hotel':8B,20B 'item':46B 'kuala':3A,10B,27B,98C,100C 'live':54B 'loung':60B 'lumpur':4A,11B,28B,99C,101C 'malaysia':12B 'meet':71B,88B 'offer':63B 'poolsid':66B 'premium':19B 'product':35B 'restaur':52B,67B 'room':21B,55B 'scenic':62B 'sightse':90B 'social':74B 'space':81B 'splash':70B 'suit':23B 'tea':31B 'thrive':5B 'triangl':94B 'wed':72B 'well':14B 'westin':2A,26B,37B 'white':30B",
     "textEmbedding": null,
     "catalogPosition": 59,
     "isSpotlight": false,
@@ -3336,7 +3336,7 @@
         "id": "1174d69e-977b-44ee-9d17-7eb2a91297e6",
         "name": "The Westin Kuala Lumpur",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 16146,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 600
@@ -3352,7 +3352,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/28fd5756-3505-42e8-9912-a1d3a6b56126/c4bc69fd-b5de-43dd-8c27-cae110deb457/high.webp"
@@ -3416,7 +3416,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'4':43B '80':46B 'brand':41B 'cdl':24B 'citi':21B 'compani':20B 'contin':44B 'destin':48B 'develop':22B 'estat':19B 'global':17B 'grand':1A 'headquart':25B 'homegrown':36B 'hong':10B 'hotel':5B,29B,40B 'intern':39B 'kl':3A 'kuala':49C,53C 'largest':35B 'leong':11B 'limit':23B 'list':16B 'lumpur':50C,54C 'millennium':2A,4B,28B 'oper':37B 'persekutuan':52C 'real':18B 'resort':7B,31B 'singapor':15B,27B,33B 'singapore-list':14B 'span':42B 'strateg':47B 'subsidiari':12B 'wilayah':51C",
+    "fts": "'4':43B '80':46B 'brand':41B 'cdl':24B 'citi':21B 'compani':20B 'contin':44B 'destin':48B 'develop':22B 'estat':19B 'global':17B 'grand':1A 'headquart':25B 'homegrown':36B 'hong':10B 'hotel':5B,29B,40B 'intern':39B 'kl':3A 'kuala':49C,51C 'largest':35B 'leong':11B 'limit':23B 'list':16B 'lumpur':50C,52C 'millennium':2A,4B,28B 'oper':37B 'real':18B 'resort':7B,31B 'singapor':15B,27B,33B 'singapore-list':14B 'span':42B 'strateg':47B 'subsidiari':12B",
     "textEmbedding": null,
     "catalogPosition": 58,
     "isSpotlight": false,
@@ -3428,7 +3428,7 @@
         "id": "4c00affe-81ec-4fab-a944-8b3019b3e634",
         "name": "Grand Millennium KL",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3541,
         "capacitySeatedMin": 230,
         "capacitySeatedMax": 400
@@ -3460,7 +3460,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/81e9300f-e399-421e-8b3d-7fb71e948d23/10919ad2-ede5-407f-a79a-5e8e0fe4fe1e/high.webp"
@@ -3519,7 +3519,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'centr':6A,23B,52B 'chic':32B 'citi':5A,22B,37B 'convent':51B 'crown':1A,18B 'district':35B 'eateri':33B 'embassi':31B 'experi':7B 'heart':10B 'icon':42B 'kl':50B 'kuala':3A,12B,20B,53C,57C 'landmark':43B 'like':44B 'locat':26B 'lumpur':4A,13B,21B,54C,58C 'nightlif':40B 'persekutuan':56C 'petrona':46B 'place':27B 'plaza':2A,19B 'prime':25B 'pulsat':9B 'shop':34B 'stay':16B 'step':29B 'tower':48B 'twin':47B 'vibrant':39B 'wilayah':55C",
+    "fts": "'centr':6A,23B,52B 'chic':32B 'citi':5A,22B,37B 'convent':51B 'crown':1A,18B 'district':35B 'eateri':33B 'embassi':31B 'experi':7B 'heart':10B 'icon':42B 'kl':50B 'kuala':3A,12B,20B,53C,55C 'landmark':43B 'like':44B 'locat':26B 'lumpur':4A,13B,21B,54C,56C 'nightlif':40B 'petrona':46B 'place':27B 'plaza':2A,19B 'prime':25B 'pulsat':9B 'shop':34B 'stay':16B 'step':29B 'tower':48B 'twin':47B 'vibrant':39B",
     "textEmbedding": null,
     "catalogPosition": 57,
     "isSpotlight": false,
@@ -3531,7 +3531,7 @@
         "id": "9df2ba1b-f1f9-4326-854d-88d606af6b66",
         "name": "Crowne Plaza Kuala Lumpur City Centre",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 5737,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 400
@@ -3599,7 +3599,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Tanjung Bungah",
-    "state": "Pulau Pinang",
+    "state": "Penang",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/23d397de-b214-4a71-83e5-bbb0db439b89/5a6a1e57-8dc2-4a13-8206-6e133fcf54bc/high.webp"
@@ -3669,7 +3669,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'abound':39B 'angsana':1A,6B 'awe':30B 'awe-inspir':29B 'bahang':3A 'becom':43B 'bungah':54C 'canva':52B 'cherish':13B 'citi':32B 'discov':34B 'dream':42B 'embrac':19B 'everi':41B 'forg':11B 'gentl':18B 'inspir':31B 'lose':14B 'majesti':24B 'moment':9B 'mountain':26B 'ocean':22B 'pinang':56C 'playground':36B 'possibl':38B 'pulau':55C 'realiti':45B 'skylin':33B 'tanjung':53C 'teluk':2A 'unforgett':8B 'welcom':4B 'world':49B",
+    "fts": "'abound':39B 'angsana':1A,6B 'awe':30B 'awe-inspir':29B 'bahang':3A 'becom':43B 'bungah':54C 'canva':52B 'cherish':13B 'citi':32B 'discov':34B 'dream':42B 'embrac':19B 'everi':41B 'forg':11B 'gentl':18B 'inspir':31B 'lose':14B 'majesti':24B 'moment':9B 'mountain':26B 'ocean':22B 'penang':55C 'playground':36B 'possibl':38B 'realiti':45B 'skylin':33B 'tanjung':53C 'teluk':2A 'unforgett':8B 'welcom':4B 'world':49B",
     "textEmbedding": null,
     "catalogPosition": 56,
     "isSpotlight": false,
@@ -3681,7 +3681,7 @@
         "id": "6f8e4946-1398-4665-9816-a3935c6fa942",
         "name": "Kebaya Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 4908,
         "capacitySeatedMin": 75,
         "capacitySeatedMax": 216
@@ -3690,7 +3690,7 @@
         "id": "1942c869-7f05-4999-96f6-5defbd2322f6",
         "name": "Cherki",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 840,
         "capacitySeatedMin": 10,
         "capacitySeatedMax": 32
@@ -3699,7 +3699,7 @@
         "id": "61af87b3-e09f-4dc5-a65d-1ff1f1dd4237",
         "name": "Jubilee",
         "type": "Event Space",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 1658,
         "capacitySeatedMin": 30,
         "capacitySeatedMax": 60
@@ -3824,7 +3824,7 @@
         "id": "4c3969c7-061b-40b6-92d0-e1a976c4fe5f",
         "name": "Ruang Rama PJ",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 4950,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 450
@@ -3935,7 +3935,7 @@
         "id": "d97c44a4-43bb-40df-a97a-82aa18ea8f96",
         "name": "THE GARDEN",
         "type": "Event Space",
-        "indoorOutdoor": "Outdoor",
+        "indoorOutdoor": "OUTDOOR",
         "area": 24000,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 150
@@ -3944,7 +3944,7 @@
         "id": "d4fe8a4a-24e4-4cd5-b4e9-4dffb77f99f4",
         "name": "THE MAIN YARD",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3000,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 300
@@ -3960,7 +3960,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/renaissance-kuala-lumpur-hotel/1776742286113-br-kulrn-grand-staircase-25608_Classic-Hor/original.jpeg"
@@ -4021,7 +4021,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'406':56B 'area':88B 'authent':39B 'bar':94B,100B 'busi':125B 'celebr':104B 'center':17B,123B 'centr':34B,134B 'citi':16B,79B 'compris':60B 'convent':33B,122B,133B 'depict':5B 'design':113B 'design-l':112B 'destin':27B 'discov':38B 'dna':49B 'enjoy':89B 'even':91B 'event':115B 'expans':85B 'experi':40B,102B 'extens':65B 'facil':69B 'famili':62B,67B 'family-friend':66B 'featur':55B 'friend':68B 'guest':36B,58B 'heart':12B 'hotel':4A,31B,51B,119B,131B 'immers':43B 'import':105B 'inspir':99B 'integr':121B 'intrigu':19B 'invit':35B 'kuala':2A,14B,29B,53B,129B,135C,139C 'largest':75B 'led':114B 'leisur':127B 'local':98B 'locally-inspir':97B 'lumpur':3A,15B,30B,54B,130B,136C,140C 'mani':111B 'mileston':106B 'neighborhood':47B 'new':23B 'offer':20B 'one':72B,108B 'outdoor':86B 'persekutuan':138C 'play':87B 'pool':76B 'r':93B 'rang':70B 'redesign':57B 'renaiss':1A,28B,128B 'resort':9B 'ritual':101B 'room':59B 'sens':24B 'slide':82B 'space':116B 'spontan':90B 'suit':63B 'theme':61B 'urban':8B 'water':81B 'wilayah':137C",
+    "fts": "'406':56B 'area':88B 'authent':39B 'bar':94B,100B 'busi':125B 'celebr':104B 'center':17B,123B 'centr':34B,134B 'citi':16B,79B 'compris':60B 'convent':33B,122B,133B 'depict':5B 'design':113B 'design-l':112B 'destin':27B 'discov':38B 'dna':49B 'enjoy':89B 'even':91B 'event':115B 'expans':85B 'experi':40B,102B 'extens':65B 'facil':69B 'famili':62B,67B 'family-friend':66B 'featur':55B 'friend':68B 'guest':36B,58B 'heart':12B 'hotel':4A,31B,51B,119B,131B 'immers':43B 'import':105B 'inspir':99B 'integr':121B 'intrigu':19B 'invit':35B 'kuala':2A,14B,29B,53B,129B,135C,137C 'largest':75B 'led':114B 'leisur':127B 'local':98B 'locally-inspir':97B 'lumpur':3A,15B,30B,54B,130B,136C,138C 'mani':111B 'mileston':106B 'neighborhood':47B 'new':23B 'offer':20B 'one':72B,108B 'outdoor':86B 'play':87B 'pool':76B 'r':93B 'rang':70B 'redesign':57B 'renaiss':1A,28B,128B 'resort':9B 'ritual':101B 'room':59B 'sens':24B 'slide':82B 'space':116B 'spontan':90B 'suit':63B 'theme':61B 'urban':8B 'water':81B",
     "textEmbedding": null,
     "catalogPosition": 2,
     "isSpotlight": true,
@@ -4873,7 +4873,7 @@
         "id": "470966bd-f778-4d47-8f8e-f1f3e5f4a24f",
         "name": "Glitz Gala",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 7500,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 450
@@ -4882,7 +4882,7 @@
         "id": "a815b8a1-0f6b-4678-b0ee-6334630a6320",
         "name": "Majestic Marine",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 7500,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 350
@@ -4891,7 +4891,7 @@
         "id": "6b7596a6-30cb-467e-b771-52bad3b9cb9e",
         "name": "Imperial Dynastic",
         "type": "Banquet Halls",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 7606,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 400
@@ -4900,7 +4900,7 @@
         "id": "8d2ae920-9303-4f2c-90a0-e1cf077ddf6b",
         "name": "Grotto",
         "type": "Banquet Halls",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1292,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 70
@@ -4909,7 +4909,7 @@
         "id": "f9d2912f-e681-4014-8efa-e9eeb64217ea",
         "name": "Lei",
         "type": "Banquet Halls",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 800,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 20
@@ -4918,7 +4918,7 @@
         "id": "87032900-3e7f-4ea7-9d1c-52af5f3219a9",
         "name": "Gusto",
         "type": "Banquet Halls",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 715,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 17
@@ -4927,7 +4927,7 @@
         "id": "453472a7-c502-49b0-a59f-c3efa520ca71",
         "name": "EnchantÃ©",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1107,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 30
@@ -4936,7 +4936,7 @@
         "id": "6ee4b927-f462-4d5f-9305-29663ebbcb09",
         "name": "Prelude",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 684,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 20
@@ -4945,7 +4945,7 @@
         "id": "f45fceb0-1f1f-4417-9c5b-996ebcdbf3a9",
         "name": "Honeymoon Suite",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2799,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 2
@@ -5076,7 +5076,7 @@
         "id": "b1f6844c-489c-4874-8bee-472d9903af61",
         "name": "Marriott Putrajaya International Convention Centre",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 17868,
         "capacitySeatedMin": 500,
         "capacitySeatedMax": 1200
@@ -5085,7 +5085,7 @@
         "id": "d91bb69e-5b36-4c98-bc62-a3c67cd72bd4",
         "name": "Garden Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3476,
         "capacitySeatedMin": 80,
         "capacitySeatedMax": 200
@@ -5275,7 +5275,7 @@
         "id": "41363e9d-4168-4179-a94e-283f6b04122e",
         "name": "Millennium Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 9640,
         "capacitySeatedMin": 350,
         "capacitySeatedMax": 600
@@ -5284,7 +5284,7 @@
         "id": "f515275a-a71f-41cd-a561-2b2cfa91626f",
         "name": "Millennium Ballroom 1/2",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 4850,
         "capacitySeatedMin": 180,
         "capacitySeatedMax": 300
@@ -5293,7 +5293,7 @@
         "id": "91e0802f-fc71-4413-927d-cc4d318951f5",
         "name": "Atelier Hall",
         "type": "Banquet Halls",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2953,
         "capacitySeatedMin": 90,
         "capacitySeatedMax": 130
@@ -5423,7 +5423,7 @@
         "id": "865bac31-8513-43c4-b1ee-a36dafdfb944",
         "name": "Rafflesia Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 6781,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 350
@@ -5432,7 +5432,7 @@
         "id": "d2450711-c1ba-4f9c-81d4-3a09e2232e3f",
         "name": "Madam Lee Nyonya Private Dining",
         "type": "Restaurants",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1700,
         "capacitySeatedMin": 30,
         "capacitySeatedMax": 100
@@ -5524,7 +5524,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/2b857cdf-fe0d-48cb-aa8e-5824df40cc2d/70ebf9fb-7b14-4dc6-aaaf-6e11f82adaff/high.webp"
@@ -5655,7 +5655,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'120':107B '420':62B 'accent':38B 'avant':43B 'avant-gard':42B 'ballroom':30B 'bespok':113B 'breathtak':49B 'cantones':99B 'capac':57B 'carv':92B 'ceil':45B 'celebr':5B,54B 'chandeli':96B 'china':88B 'chun':79B 'complet':89B 'creat':46B 'cuisin':100B 'curat':68B 'curv':34B 'damansara':4A,21B,26B 'dark':36B 'design':35B 'detail':65B 'dine':114B 'everi':64B 'experi':115B 'exquisit':98B 'featur':31B 'gard':44B 'grand':53B 'guest':63B,108B 'height':27B 'host':59B 'imperi':87B 'impress':73B 'inspir':85B 'intim':76B 'intric':91B 'kuala':2A,19B,116C,120C 'last':72B 'leav':70B 'lifetim':11B 'lumpur':3A,20B,117C,121C 'luxuri':29B 'moment':12B 'nestl':22B 'offer':81B 'once-in-a-lifetim':7B 'perfect':101B 'persekutuan':119C 'pillarless':48B 'prestigi':25B 'promis':110B 'recept':103B 'refin':83B 'screen':93B 'sculpt':41B 'set':50B 'sofitel':1A,18B 'sophist':16B 'space':84B 'strike':33B 'thought':67B 'timeless':15B 'ting':80B 'truli':112B 'wan':78B 'wed':77B 'whimsic':95B 'wilayah':118C 'wood':37B",
+    "fts": "'120':107B '420':62B 'accent':38B 'avant':43B 'avant-gard':42B 'ballroom':30B 'bespok':113B 'breathtak':49B 'cantones':99B 'capac':57B 'carv':92B 'ceil':45B 'celebr':5B,54B 'chandeli':96B 'china':88B 'chun':79B 'complet':89B 'creat':46B 'cuisin':100B 'curat':68B 'curv':34B 'damansara':4A,21B,26B 'dark':36B 'design':35B 'detail':65B 'dine':114B 'everi':64B 'experi':115B 'exquisit':98B 'featur':31B 'gard':44B 'grand':53B 'guest':63B,108B 'height':27B 'host':59B 'imperi':87B 'impress':73B 'inspir':85B 'intim':76B 'intric':91B 'kuala':2A,19B,116C,118C 'last':72B 'leav':70B 'lifetim':11B 'lumpur':3A,20B,117C,119C 'luxuri':29B 'moment':12B 'nestl':22B 'offer':81B 'once-in-a-lifetim':7B 'perfect':101B 'pillarless':48B 'prestigi':25B 'promis':110B 'recept':103B 'refin':83B 'screen':93B 'sculpt':41B 'set':50B 'sofitel':1A,18B 'sophist':16B 'space':84B 'strike':33B 'thought':67B 'timeless':15B 'ting':80B 'truli':112B 'wan':78B 'wed':77B 'whimsic':95B 'wood':37B",
     "textEmbedding": null,
     "catalogPosition": 6,
     "isSpotlight": true,
@@ -5821,7 +5821,7 @@
         "id": "cf266e76-fe82-4569-aa37-352c6b45c946",
         "name": "Cenderawasih Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3306,
         "capacitySeatedMin": 250,
         "capacitySeatedMax": 500
@@ -5830,7 +5830,7 @@
         "id": "f027b825-10f7-4caf-8331-86c1e2c89767",
         "name": "Glenmarie Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3306,
         "capacitySeatedMin": 250,
         "capacitySeatedMax": 350
@@ -5862,7 +5862,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/bd1c1680-a6dc-4fe3-b1ed-8b0e8f8cafde/fb0f1edd-56aa-4ec3-95a0-832816f52a03/high.webp"
@@ -5979,7 +5979,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'activ':48B 'citi':44B 'collect':2A,6B 'day':17B 'earthi':25B 'environ':22B 'finish':30B 'gorgeous':23B 'greeneri':24B 'haven':12B 'hideaway':38B 'hotel':33B 'kuala':3A,7B,49C,53C 'lumpur':4A,8B,50C,54C 'make':34B 'mall':42B 'modern':16B 'modern-day':15B 'parkroy':1A,5B 'perfect':37B 'persekutuan':52C 'respect':20B 'shop':41B 'skyscrap':40B 'sleek':28B 'street':45B 'teem':46B 'tone':26B 'travel':18B 'welcom':11B 'wilayah':51C 'within':31B 'wooden':29B",
+    "fts": "'activ':48B 'citi':44B 'collect':2A,6B 'day':17B 'earthi':25B 'environ':22B 'finish':30B 'gorgeous':23B 'greeneri':24B 'haven':12B 'hideaway':38B 'hotel':33B 'kuala':3A,7B,49C,51C 'lumpur':4A,8B,50C,52C 'make':34B 'mall':42B 'modern':16B 'modern-day':15B 'parkroy':1A,5B 'perfect':37B 'respect':20B 'shop':41B 'skyscrap':40B 'sleek':28B 'street':45B 'teem':46B 'tone':26B 'travel':18B 'welcom':11B 'within':31B 'wooden':29B",
     "textEmbedding": null,
     "catalogPosition": 11,
     "isSpotlight": false,
@@ -5991,7 +5991,7 @@
         "id": "96e1b6ca-4957-4e8b-a961-b4d20630cc2b",
         "name": "Garden Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 5683,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 300
@@ -6000,7 +6000,7 @@
         "id": "5f7d421e-b5b8-4098-9290-5dad2374be7d",
         "name": "COLLECTION Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 5586,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 260
@@ -6085,7 +6085,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/1d17c54d-496f-4ab5-9bc4-573cbe7f8ff4/c6d94ff3-b9ff-4606-8f21-b57f4f3a000c/high.webp"
@@ -6153,7 +6153,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'address':53B 'ancient':18B 'away':64B 'beckon':25B 'boutiqu':68B 'busi':42B 'capit':61B 'carlton':4A,10B 'citi':24B,62B 'command':50B 'converg':20B 'discov':5B 'district':43B 'downtown':37B 'enviabl':52B 'exclus':7B 'experi':14B 'explor':28B 'flavor':33B 'golden':40B 'guest':26B 'heart':56B 'hotel':46B 'kuala':11B,48B,71C,75C 'locat':36B 'lumpur':12B,49B,72C,76C 'luxuri':45B 'malaysia':35B,58B 'modern':23B 'persekutuan':74C 'place':16B 'ritz':3A,9B 'ritz-carlton':2A,8B 'river':19B 'sight':30B 'skyscrap':70B 'sound':31B 'step':63B 'triangl':41B 'upscal':67B 'vibrant':60B 'wilayah':73C",
+    "fts": "'address':53B 'ancient':18B 'away':64B 'beckon':25B 'boutiqu':68B 'busi':42B 'capit':61B 'carlton':4A,10B 'citi':24B,62B 'command':50B 'converg':20B 'discov':5B 'district':43B 'downtown':37B 'enviabl':52B 'exclus':7B 'experi':14B 'explor':28B 'flavor':33B 'golden':40B 'guest':26B 'heart':56B 'hotel':46B 'kuala':11B,48B,71C,73C 'locat':36B 'lumpur':12B,49B,72C,74C 'luxuri':45B 'malaysia':35B,58B 'modern':23B 'place':16B 'ritz':3A,9B 'ritz-carlton':2A,8B 'river':19B 'sight':30B 'skyscrap':70B 'sound':31B 'step':63B 'triangl':41B 'upscal':67B 'vibrant':60B",
     "textEmbedding": null,
     "catalogPosition": 49,
     "isSpotlight": false,
@@ -6165,7 +6165,7 @@
         "id": "bd92880f-1bfa-4cb6-beda-0de7fe035b7e",
         "name": "The Private Dining Room",
         "type": "Banquet Halls",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1873,
         "capacitySeatedMin": 20,
         "capacitySeatedMax": 120
@@ -6174,7 +6174,7 @@
         "id": "2fa15759-9070-4aed-846a-2d679dbda857",
         "name": "The Banquet Hall",
         "type": "Banquet Halls",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 5221,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 400
@@ -6218,7 +6218,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Federal Territory of Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c6f1e2a0-75c3-4369-8b54-e9de2cfd4e9a/83b2e732-6045-44cb-bfa6-5c8fa8aba854/high.webp"
@@ -6305,7 +6305,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'1991':6B '30':33B 'ampl':66B 'authent':28B 'ceiling':86B 'ciao':1A,7B 'come':14B 'commit':36B 'cosi':51B 'cours':60B 'dine':17B 'disappoint':39B 'event':82B,92B 'experi':31B 'facil':68B 'farm':47B 'feder':95C 'food':30B 'garden':52B 'golf':59B 'greeneri':63B 'high':85B 'high-ceiling':84B 'hous':48B 'indoor':91B 'institut':11B 'italian':16B,29B,46B 'kl':3A 'kuala':19B,93C,98C 'lake':56B 'look':24B 'lumpur':20B,94C,99C 'make':69B 'open':4B 'outdoor':75B 'overlook':57B 'park':67B 'resembl':43B 'restaur':42B 'ristorant':2A,8B 'room':87B 'rustic':45B 'sinc':5B 'small':55B 'spacious':83B 'suitabl':89B 'surround':62B 'territori':96C 'truli':27B 'type':80B 'uniqu':72B 'us':70B 'venu':73B 'wed':76B 'year':34B",
+    "fts": "'1991':6B '30':33B 'ampl':66B 'authent':28B 'ceiling':86B 'ciao':1A,7B 'come':14B 'commit':36B 'cosi':51B 'cours':60B 'dine':17B 'disappoint':39B 'event':82B,92B 'experi':31B 'facil':68B 'farm':47B 'food':30B 'garden':52B 'golf':59B 'greeneri':63B 'high':85B 'high-ceiling':84B 'hous':48B 'indoor':91B 'institut':11B 'italian':16B,29B,46B 'kl':3A 'kuala':19B,93C,95C 'lake':56B 'look':24B 'lumpur':20B,94C,96C 'make':69B 'open':4B 'outdoor':75B 'overlook':57B 'park':67B 'resembl':43B 'restaur':42B 'ristorant':2A,8B 'room':87B 'rustic':45B 'sinc':5B 'small':55B 'spacious':83B 'suitabl':89B 'surround':62B 'truli':27B 'type':80B 'uniqu':72B 'us':70B 'venu':73B 'wed':76B 'year':34B",
     "textEmbedding": null,
     "catalogPosition": 14,
     "isSpotlight": false,
@@ -6317,7 +6317,7 @@
         "id": "7658b2ba-01b6-426d-85cd-6e4bcc978d39",
         "name": "Main Dinning Room",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3235,
         "capacitySeatedMin": 10,
         "capacitySeatedMax": 150
@@ -6326,7 +6326,7 @@
         "id": "dff62a7f-1598-476b-bc53-ec54d7206e43",
         "name": "The Canopy",
         "type": "Event Space",
-        "indoorOutdoor": "Outdoor",
+        "indoorOutdoor": "OUTDOOR",
         "area": 12795,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 300
@@ -6335,7 +6335,7 @@
         "id": "da1cf0bd-e6aa-4e46-b026-c4ad1bb6a164",
         "name": "Glasshouse",
         "type": "Event Space",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 840,
         "capacitySeatedMin": 2,
         "capacitySeatedMax": 80
@@ -6419,7 +6419,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/c56d5c48-8191-4aa8-abaf-9d5bdc7735d3/high.webp"
@@ -6502,7 +6502,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'activ':71B 'altern':72B 'away':45B 'busi':36B 'centr':55B,88B 'citi':27B 'complimentari':77B 'convent':54B 'countless':67B 'distanc':59B 'enjoy':75B 'entertain':70B 'heart':7B,24B 'hotel':2A,41B 'icon':48B 'ideal':31B 'intercontinent':1A,10B 'jewel':4B 'kl':83B 'klcc':86B 'kuala':11B,52B,89C,93C 'leisur':38B 'locat':21B 'lumpur':12B,53B,90C,94C 'make':28B 'malaysia':9B 'may':74B 'metro':62B 'offer':13B 'one':14B 'pavilion':82B 'persekutuan':92C 'petrona':49B 'retreat':33B 'schedul':78B 'servic':80B 'shop':68B,87B 'shuttl':79B 'sought':19B 'sought-aft':18B 'station':63B 'step':44B 'suria':85B 'tower':51B 'travel':39B 'twin':50B 'two':61B 'urban':32B 'walk':58B 'well':65B 'wilayah':91C 'within':57B",
+    "fts": "'activ':71B 'altern':72B 'away':45B 'busi':36B 'centr':55B,88B 'citi':27B 'complimentari':77B 'convent':54B 'countless':67B 'distanc':59B 'enjoy':75B 'entertain':70B 'heart':7B,24B 'hotel':2A,41B 'icon':48B 'ideal':31B 'intercontinent':1A,10B 'jewel':4B 'kl':83B 'klcc':86B 'kuala':11B,52B,89C,91C 'leisur':38B 'locat':21B 'lumpur':12B,53B,90C,92C 'make':28B 'malaysia':9B 'may':74B 'metro':62B 'offer':13B 'one':14B 'pavilion':82B 'petrona':49B 'retreat':33B 'schedul':78B 'servic':80B 'shop':68B,87B 'shuttl':79B 'sought':19B 'sought-aft':18B 'station':63B 'step':44B 'suria':85B 'tower':51B 'travel':39B 'twin':50B 'two':61B 'urban':32B 'walk':58B 'well':65B 'within':57B",
     "textEmbedding": null,
     "catalogPosition": 48,
     "isSpotlight": false,
@@ -6514,7 +6514,7 @@
         "id": "94f5e9db-bef6-4c79-be9c-036115e80b1f",
         "name": "Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 10075,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 650
@@ -6523,7 +6523,7 @@
         "id": "ca259405-55bc-433c-b9db-f6de30724dc5",
         "name": "Junior Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3358,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 220
@@ -6591,7 +6591,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/3347b4a9-30b4-4f2d-b80f-217bb1d2454d/e404bc67-453a-4c7a-9384-13101ae5439d/high.webp"
@@ -6710,7 +6710,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'1':29B,53B '10':191B '2':71B '200':86B '500':68B 'accommod':65B 'acr':30B 'agenda':184B 'air':61B,92B 'air-condit':60B 'airbnb':203B 'ampl':198B,215B 'bayswat':1A,4B,117B 'bayswaterklcc':57B,73B 'beauti':123B 'blend':18B 'build':247B 'casual':169B 'celebr':96B,249B 'centr':40B,129B 'ceremoni':93B 'choic':199B 'choos':141B 'citi':39B,128B,162B,225B 'city-centr':127B 'client':140B 'comfort':70B 'concept':145B,163B 'condit':62B 'conveni':188B 'corpor':108B 'could':226B 'cover':77B,231B 'customis':183B 'design':150B,245B 'differ':239B 'dinner':109B 'distinct':50B,144B 'eleg':20B 'estat':32B 'even':182B,214B 'event':12B,51B,134B,172B,221B 'facil':235B 'fashion':115B 'featur':48B 'flexibl':121B,174B 'formal':171B 'fulli':59B 'garden':72B,79B,159B 'googl':257B 'got':229B 'grand':55B 'greeneri':24B 'group':236B 'guest':69B,87B,208B 'hall':63B 'heart':35B 'host':83B 'hotel':201B 'instal':154B 'intim':95B 'kind':46B 'klcc':3A,6B,119B,195B 'kuala':37B,259C,263C 'land':220B 'landscap':31B 'launch':111B 'layout':122B,177B 'light':153B 'locat':130B 'look':253B 'lumpur':38B,260C,264C 'lush':23B 'make':132B 'matter':98B 'memor':136B 'min':192B 'night':113B 'offer':15B,120B 'one':43B 'one-of-a-kind':42B 'open':91B 'open-air':90B 'outdoor':78B 'outstat':207B 'oversea':205B 'own':238B 'park':216B 'pavilion':56B 'perfect':88B,166B 'persekutuan':262C 'plan':105B 'pleas':252B 'point':212B 'premier':9B 'present':179B 'product':110B,178B 'programm':156B 'prom':112B 'rain':99B 'rare':28B 'review':258B 'runway':116B 'semi':76B 'semi-cov':75B 'servic':210B 'setup':187B 'shine':101B 'showcas':180B 'smart':168B 'space':13B,52B,80B,217B 'suria':194B 'surround':124B,196B 'tabl':176B 'team':251B 'truli':135B 'trust':250B 'two':49B 'uniqu':17B,149B 'us':142B 'usual':138B 'valet':209B 'venu':47B,222B,240B,243B 'versatil':21B 'wed':10B,107B,186B 'whether':102B 'wilayah':261C 'within':26B,157B",
+    "fts": "'1':29B,53B '10':191B '2':71B '200':86B '500':68B 'accommod':65B 'acr':30B 'agenda':184B 'air':61B,92B 'air-condit':60B 'airbnb':203B 'ampl':198B,215B 'bayswat':1A,4B,117B 'bayswaterklcc':57B,73B 'beauti':123B 'blend':18B 'build':247B 'casual':169B 'celebr':96B,249B 'centr':40B,129B 'ceremoni':93B 'choic':199B 'choos':141B 'citi':39B,128B,162B,225B 'city-centr':127B 'client':140B 'comfort':70B 'concept':145B,163B 'condit':62B 'conveni':188B 'corpor':108B 'could':226B 'cover':77B,231B 'customis':183B 'design':150B,245B 'differ':239B 'dinner':109B 'distinct':50B,144B 'eleg':20B 'estat':32B 'even':182B,214B 'event':12B,51B,134B,172B,221B 'facil':235B 'fashion':115B 'featur':48B 'flexibl':121B,174B 'formal':171B 'fulli':59B 'garden':72B,79B,159B 'googl':257B 'got':229B 'grand':55B 'greeneri':24B 'group':236B 'guest':69B,87B,208B 'hall':63B 'heart':35B 'host':83B 'hotel':201B 'instal':154B 'intim':95B 'kind':46B 'klcc':3A,6B,119B,195B 'kuala':37B,259C,261C 'land':220B 'landscap':31B 'launch':111B 'layout':122B,177B 'light':153B 'locat':130B 'look':253B 'lumpur':38B,260C,262C 'lush':23B 'make':132B 'matter':98B 'memor':136B 'min':192B 'night':113B 'offer':15B,120B 'one':43B 'one-of-a-kind':42B 'open':91B 'open-air':90B 'outdoor':78B 'outstat':207B 'oversea':205B 'own':238B 'park':216B 'pavilion':56B 'perfect':88B,166B 'plan':105B 'pleas':252B 'point':212B 'premier':9B 'present':179B 'product':110B,178B 'programm':156B 'prom':112B 'rain':99B 'rare':28B 'review':258B 'runway':116B 'semi':76B 'semi-cov':75B 'servic':210B 'setup':187B 'shine':101B 'showcas':180B 'smart':168B 'space':13B,52B,80B,217B 'suria':194B 'surround':124B,196B 'tabl':176B 'team':251B 'truli':135B 'trust':250B 'two':49B 'uniqu':17B,149B 'us':142B 'usual':138B 'valet':209B 'venu':47B,222B,240B,243B 'versatil':21B 'wed':10B,107B,186B 'whether':102B 'within':26B,157B",
     "textEmbedding": null,
     "catalogPosition": 22,
     "isSpotlight": false,
@@ -6722,7 +6722,7 @@
         "id": "3e4d547e-3909-4122-88fe-2bd4abac4238",
         "name": "Grand Pavilion",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 0,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 500
@@ -6731,7 +6731,7 @@
         "id": "5482b898-3c6c-4f35-8a19-554712e7063a",
         "name": "Gardens @Bayswater KLCC",
         "type": "Garden",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 0,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 150
@@ -6763,7 +6763,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/4f61505e-6a95-4bce-bc76-6347023d6646/a7950bf8-74e2-486e-bdde-922152d35914/high.webp"
@@ -6883,7 +6883,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'180':53B '400':38B 'accommod':35B 'ballroom':4A,10B 'beauti':66B 'ceil':46B 'celebr':76B 'citi':58B 'corpor':70B 'day':77B 'entiti':28B 'event':15B,71B 'floor':44B 'floor-to-ceil':43B 'galact':27B 'glass':47B 'gorgeous':26B 'grand':3A,9B 'kl':57B 'kuala':5A,80C,84C 'launch':73B 'lifestyl':14B 'like':22B 'lumpur':6A,81C,85C 'luna':2A,8B 'make':63B 'modern':13B 'moon':24B 'mysteri':31B 'name':19B 'night':79B 'offer':50B 'pax':39B 'persekutuan':83C 'privat':75B 'product':72B 'set':67B 'skylin':59B 'space':32B 'stun':52B 'trx':61B 'venu':16B,41B 'view':54B,62B 'wed':69B 'wilayah':82C 'window':48B",
+    "fts": "'180':53B '400':38B 'accommod':35B 'ballroom':4A,10B 'beauti':66B 'ceil':46B 'celebr':76B 'citi':58B 'corpor':70B 'day':77B 'entiti':28B 'event':15B,71B 'floor':44B 'floor-to-ceil':43B 'galact':27B 'glass':47B 'gorgeous':26B 'grand':3A,9B 'kl':57B 'kuala':5A,80C,82C 'launch':73B 'lifestyl':14B 'like':22B 'lumpur':6A,81C,83C 'luna':2A,8B 'make':63B 'modern':13B 'moon':24B 'mysteri':31B 'name':19B 'night':79B 'offer':50B 'pax':39B 'privat':75B 'product':72B 'set':67B 'skylin':59B 'space':32B 'stun':52B 'trx':61B 'venu':16B,41B 'view':54B,62B 'wed':69B 'window':48B",
     "textEmbedding": null,
     "catalogPosition": 16,
     "isSpotlight": false,
@@ -6895,7 +6895,7 @@
         "id": "6a738f6d-943b-43a1-93dc-277b7089059f",
         "name": "The Luna Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 0,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 400
@@ -7051,7 +7051,7 @@
         "id": "8f81b35e-4638-40bd-a12a-d366bb4a8a6a",
         "name": "Estate Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3000,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 550
@@ -7060,7 +7060,7 @@
         "id": "54de8ff6-a309-47cb-b472-372534f066b7",
         "name": "The Pandora",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1000,
         "capacitySeatedMin": 150,
         "capacitySeatedMax": 200
@@ -7069,7 +7069,7 @@
         "id": "b63a89e6-40f8-4ac5-917f-3c0ab07c386c",
         "name": "The Centerpiece",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 898,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 100
@@ -7101,7 +7101,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/eaa044b1-e58f-4dac-8f57-8ca268e7bae9/1fe0da41-38a1-4805-ae6f-d14f13abd534/high.webp"
@@ -7152,7 +7152,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'4':41B '7':16B '750':42B 'accommod':109B 'adapt':60B 'area':53B 'art':75B,93B 'artisan':149B 'artist':148B 'backstag':52B 'bazaar':101B 'believ':164B 'bintang':126B 'box':3A,7B,69B,84B,129B,162B 'bright':56B 'bukit':125B 'ceil':18B 'choic':24B 'collabor':114B,138B 'communiti':100B,122B,187B 'confer':38B 'connect':80B,112B,140B 'corpor':182B 'creat':154B,168B 'creativ':57B,66B,121B,144B,184B 'divers':110B 'dynam':10B 'ecosystem':145B 'enterpris':134B 'environ':58B 'event':11B,29B,111B,183B 'except':23B 'exhibit':76B,94B 'expans':40B 'experi':158B 'fashion':32B 'featur':70B 'flexibl':107B 'foster':142B 'front':48B 'front-of-hous':47B 'gather':35B,188B 'gmbb':4A,119B,141B 'grey':2A,6B,68B,128B,161B 'hall':12B 'height':19B 'host':91B 'hous':50B 'hub':135B 'impact':157B 'impress':15B 'includ':30B,46B 'inspir':172B 'kuala':189C,193C 'launch':31B 'line':72B 'locat':115B 'lumpur':190C,194C 'make':20B 'mall':123B 'meaning':155B 'meter':17B 'moretogeth':167B 'music':96B 'need':63B 'offer':54B 'part':131B 'partner':146B 'perfect':73B 'perform':97B 'persekutuan':192C 'practic':86B 'privat':34B 'provid':105B 'public':152B 're':90B 'seamless':79B 'seminar':36B 'show':33B 'showcas':185B 'space':44B,170B 'sqft':43B 'suit':87B 'support':174B 'valu':137B 'varieti':27B 'venu':104B 'versatil':64B,103B 'vibrant':118B 'vision':176B 'wall':71B 'whether':88B,177B 'white':83B 'wilayah':191C",
+    "fts": "'4':41B '7':16B '750':42B 'accommod':109B 'adapt':60B 'area':53B 'art':75B,93B 'artisan':149B 'artist':148B 'backstag':52B 'bazaar':101B 'believ':164B 'bintang':126B 'box':3A,7B,69B,84B,129B,162B 'bright':56B 'bukit':125B 'ceil':18B 'choic':24B 'collabor':114B,138B 'communiti':100B,122B,187B 'confer':38B 'connect':80B,112B,140B 'corpor':182B 'creat':154B,168B 'creativ':57B,66B,121B,144B,184B 'divers':110B 'dynam':10B 'ecosystem':145B 'enterpris':134B 'environ':58B 'event':11B,29B,111B,183B 'except':23B 'exhibit':76B,94B 'expans':40B 'experi':158B 'fashion':32B 'featur':70B 'flexibl':107B 'foster':142B 'front':48B 'front-of-hous':47B 'gather':35B,188B 'gmbb':4A,119B,141B 'grey':2A,6B,68B,128B,161B 'hall':12B 'height':19B 'host':91B 'hous':50B 'hub':135B 'impact':157B 'impress':15B 'includ':30B,46B 'inspir':172B 'kuala':189C,191C 'launch':31B 'line':72B 'locat':115B 'lumpur':190C,192C 'make':20B 'mall':123B 'meaning':155B 'meter':17B 'moretogeth':167B 'music':96B 'need':63B 'offer':54B 'part':131B 'partner':146B 'perfect':73B 'perform':97B 'practic':86B 'privat':34B 'provid':105B 'public':152B 're':90B 'seamless':79B 'seminar':36B 'show':33B 'showcas':185B 'space':44B,170B 'sqft':43B 'suit':87B 'support':174B 'valu':137B 'varieti':27B 'venu':104B 'versatil':64B,103B 'vibrant':118B 'vision':176B 'wall':71B 'whether':88B,177B 'white':83B",
     "textEmbedding": null,
     "catalogPosition": 47,
     "isSpotlight": false,
@@ -7164,7 +7164,7 @@
         "id": "ba95c92c-454e-45b9-9cdc-adf4d262b1cd",
         "name": "The Grey Box (GMBB)",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 4750,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 150
@@ -7196,7 +7196,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c151ae60-e536-42d5-9aae-7e432cef9e0f/8f089994-8623-477b-9c5d-f7b3bf047914/high.webp"
@@ -7263,7 +7263,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'activ':68B 'addit':47B 'afford':28B 'ampl':57B 'ceremoni':62B 'classic':33B 'contemporari':35B 'cuisin':11B,30B 'deliv':27B 'eleg':17B 'especi':44B 'event':43B 'fa':53B 'fa-i':52B 'garden':55B 'intertwin':14B 'intim':42B 'kuala':69C,73C 'launch':51B,64B 'lumpur':70C,74C 'modern':20B 'newli':50B 'outdoor':60B,67B 'perfect':40B 'persekutuan':72C 'pride':24B 'product':63B 'provid':56B 'rama':1A,4B 'restaur':23B 'rom':61B 'seamless':13B 'set':36B 'space':58B 'thai':10B,29B 'timeless':7B 'tradit':8B 'v':2A,5B 'venu':38B 'wilayah':71C 'world':21B 'yet':34B 'ying':54B",
+    "fts": "'activ':68B 'addit':47B 'afford':28B 'ampl':57B 'ceremoni':62B 'classic':33B 'contemporari':35B 'cuisin':11B,30B 'deliv':27B 'eleg':17B 'especi':44B 'event':43B 'fa':53B 'fa-i':52B 'garden':55B 'intertwin':14B 'intim':42B 'kuala':69C,71C 'launch':51B,64B 'lumpur':70C,72C 'modern':20B 'newli':50B 'outdoor':60B,67B 'perfect':40B 'pride':24B 'product':63B 'provid':56B 'rama':1A,4B 'restaur':23B 'rom':61B 'seamless':13B 'set':36B 'space':58B 'thai':10B,29B 'timeless':7B 'tradit':8B 'v':2A,5B 'venu':38B 'world':21B 'yet':34B 'ying':54B",
     "textEmbedding": null,
     "catalogPosition": 46,
     "isSpotlight": false,
@@ -7447,7 +7447,7 @@
         "id": "158cfe76-201d-49dc-974a-663ba114e833",
         "name": "Maison Eleven",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 8000,
         "capacitySeatedMin": 1,
         "capacitySeatedMax": 250
@@ -7657,7 +7657,7 @@
         "id": "6ad122be-1803-44b0-b3fb-58c6a86cb5b3",
         "name": "Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 8293,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 500
@@ -7666,7 +7666,7 @@
         "id": "640978dd-a570-481b-a90d-d5d7db0e2e76",
         "name": "Sapphire Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 4030,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 210
@@ -7675,7 +7675,7 @@
         "id": "f41de919-1894-464e-a5c8-1def447c0083",
         "name": "Diamond Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 4263,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 250
@@ -7731,7 +7731,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/eb0ab8f1-c862-4b02-a710-9e6dc366214a/3e74b06d-000d-4bb8-83d3-5ccf44380a99/high.webp"
@@ -7794,7 +7794,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'back':63B 'ballroom':25B 'celebr':61B 'centr':53B 'ceremoni':58B 'citi':52B 'day':35B 'dream':34B,73B 'eleg':12B 'event':13B 'grand':24B 'guest':19B 'honour':18B 'hotel':3A,54B 'imagin':4B 'klcc':2A 'knot':40B 'kuala':50B,76C,80C 'lifetim':33B 'lumpur':51B,77C,81C 'luxuri':44B 'modern':60B 'once-in-a-lifetim':29B 'one':9B 'opul':22B 'packag':69B 'persekutuan':79C 'pullman':1A,23B,26B,49B 'realiti':37B,75B 'recept':7B,46B 'relax':65B 'resid':55B 'room':14B 'sit':62B 'tie':38B 'toast':16B 'tradit':57B 'turn':27B,71B 'unforgett':43B 'wed':6B,45B,68B 'wilayah':78C",
+    "fts": "'back':63B 'ballroom':25B 'celebr':61B 'centr':53B 'ceremoni':58B 'citi':52B 'day':35B 'dream':34B,73B 'eleg':12B 'event':13B 'grand':24B 'guest':19B 'honour':18B 'hotel':3A,54B 'imagin':4B 'klcc':2A 'knot':40B 'kuala':50B,76C,78C 'lifetim':33B 'lumpur':51B,77C,79C 'luxuri':44B 'modern':60B 'once-in-a-lifetim':29B 'one':9B 'opul':22B 'packag':69B 'pullman':1A,23B,26B,49B 'realiti':37B,75B 'recept':7B,46B 'relax':65B 'resid':55B 'room':14B 'sit':62B 'tie':38B 'toast':16B 'tradit':57B 'turn':27B,71B 'unforgett':43B 'wed':6B,45B,68B",
     "textEmbedding": null,
     "catalogPosition": 41,
     "isSpotlight": false,
@@ -7806,7 +7806,7 @@
         "id": "ad3e9672-4507-4c08-ab7a-40a164b3fe5b",
         "name": "Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 6210,
         "capacitySeatedMin": 250,
         "capacitySeatedMax": 420
@@ -7815,7 +7815,7 @@
         "id": "ef988efb-a965-441a-b2ff-7e110e7c70fc",
         "name": "Pullman Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 5404,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 260
@@ -8003,7 +8003,7 @@
         "id": "e42723b3-4c26-47f5-bf48-a8b81a07cfa5",
         "name": "GRAND BALLROOM",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 7295,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 400
@@ -8035,7 +8035,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9371d852-d43d-4fca-a80a-90bf29bf0eb0/d19fae60-b5fc-4584-910c-9a136e3e37c7/high.webp"
@@ -8089,7 +8089,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'beacon':23B 'burgeon':26B 'connect':14B,46B 'conscious':39B 'content':51B 'cultur':27B 'curat':48B 'deeper':42B 'destin':11B 'downtown':30B 'els':1A,4B,18B 'experi':49B 'facilit':41B 'global':13B 'globally-connect':12B 'hospit':35B 'hotel':10B 'kuala':2A,6B,31B,52C,56C 'latest':9B 'local':16B 'locally-root':15B 'look':19B 'lumpur':3A,7B,32B,53C,57C 'meaning':45B 'mind':34B 'persekutuan':55C 'provid':33B 'root':17B 'scene':28B 'serv':37B 'travel':40B 'wilayah':54C",
+    "fts": "'beacon':23B 'burgeon':26B 'connect':14B,46B 'conscious':39B 'content':51B 'cultur':27B 'curat':48B 'deeper':42B 'destin':11B 'downtown':30B 'els':1A,4B,18B 'experi':49B 'facilit':41B 'global':13B 'globally-connect':12B 'hospit':35B 'hotel':10B 'kuala':2A,6B,31B,52C,54C 'latest':9B 'local':16B 'locally-root':15B 'look':19B 'lumpur':3A,7B,32B,53C,55C 'meaning':45B 'mind':34B 'provid':33B 'root':17B 'scene':28B 'serv':37B 'travel':40B",
     "textEmbedding": null,
     "catalogPosition": 43,
     "isSpotlight": false,
@@ -8101,7 +8101,7 @@
         "id": "0c39f5a7-2bb7-404c-ae14-75b1a5607b41",
         "name": "Raw",
         "type": "Restaurants",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2160,
         "capacitySeatedMin": 30,
         "capacitySeatedMax": 120
@@ -8110,7 +8110,7 @@
         "id": "e465ce56-68fb-4841-838e-f1ab9c11e0b9",
         "name": "Yellow Fin House",
         "type": "Restaurants",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 720,
         "capacitySeatedMin": 10,
         "capacitySeatedMax": 40
@@ -8205,7 +8205,7 @@
         "id": "5de4f435-8313-437d-a432-037587fdb403",
         "name": "WG Glassbox Cyberjaya",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1000,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 150
@@ -8237,7 +8237,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/dd140604-64f0-4259-afd0-9dda3aa8754d/29fdd142-1830-45ba-abc6-a693a4715e8e/high.webp"
@@ -8299,7 +8299,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'ambienc':48B 'boardroom':59B 'boost':8B 'breakout':64B 'casual':63B 'celebr':4B 'compani':16B,33B 'cultur':18B 'dinner':68B,72B 'drive':28B 'employe':10B,21B 'ensur':54B 'even':70B 'glasshous':1A,50B 'keep':20B 'kuala':74C,78C 'larg':35B 'layout':45B 'lead':5B 'lumpur':75C,79C 'memor':67B 'moral':11B 'motiv':22B 'organis':36B 'parti':73B 'persekutuan':77C 'product':24B,26B 'seminar':61B 'seputeh':3A,52B 'session':65B 'small':38B 'smooth':56B 'start':40B 'start-up':39B 'success':30B 'tie':13B 'transform':47B 'transit':57B 'up':41B 'venu':53B 'versatil':44B 'wilayah':76C 'workforc':27B",
+    "fts": "'ambienc':48B 'boardroom':59B 'boost':8B 'breakout':64B 'casual':63B 'celebr':4B 'compani':16B,33B 'cultur':18B 'dinner':68B,72B 'drive':28B 'employe':10B,21B 'ensur':54B 'even':70B 'glasshous':1A,50B 'keep':20B 'kuala':74C,76C 'larg':35B 'layout':45B 'lead':5B 'lumpur':75C,77C 'memor':67B 'moral':11B 'motiv':22B 'organis':36B 'parti':73B 'product':24B,26B 'seminar':61B 'seputeh':3A,52B 'session':65B 'small':38B 'smooth':56B 'start':40B 'start-up':39B 'success':30B 'tie':13B 'transform':47B 'transit':57B 'up':41B 'venu':53B 'versatil':44B 'workforc':27B",
     "textEmbedding": null,
     "catalogPosition": 66,
     "isSpotlight": false,
@@ -8311,7 +8311,7 @@
         "id": "2708abd6-bb34-49b2-a2ee-2ca4ca0bbec6",
         "name": "Glasshouse at Seputeh",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 8000,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 400
@@ -8348,7 +8348,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9f340f44-4556-4a41-bdcf-b71897a0e977/773805e2-5876-4729-9ec6-20843916ade6/high.webp"
@@ -8436,7 +8436,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'affair':71B 'airi':41B 'ambianc':43B 'beneath':46B 'box':30B 'breathtak':11B 'bustl':59B 'captiv':28B 'ceil':38B 'celebr':23B,45B 'ceremoni':67B 'charm':79B 'citi':60B 'coloni':1A,4B 'cozi':66B 'craft':76B 'creat':39B 'drape':36B 'eleg':78B 'everi':72B 'exchang':24B 'fabric':37B 'featur':10B 'flair':82B 'garden':55B 'glass':29B 'greeneri':15B 'hideaway':56B 'kl':9B 'kuala':83C,87C 'lavish':70B 'lumpur':84C,88C 'memor':22B 'met':3A 'peac':54B 'persekutuan':86C 'person':81B 'plan':64B 're':63B 'romant':42B 'rooftop':51B 'set':16B 'stage':18B 'star':48B 'terrac':52B 'tower':32B 'truli':21B 'venu':7B 'vibrant':14B 'view':12B 'vow':25B 'wed':6B,73B 'whether':61B 'wilayah':85C 'window':33B",
+    "fts": "'affair':71B 'airi':41B 'ambianc':43B 'beneath':46B 'box':30B 'breathtak':11B 'bustl':59B 'captiv':28B 'ceil':38B 'celebr':23B,45B 'ceremoni':67B 'charm':79B 'citi':60B 'coloni':1A,4B 'cozi':66B 'craft':76B 'creat':39B 'drape':36B 'eleg':78B 'everi':72B 'exchang':24B 'fabric':37B 'featur':10B 'flair':82B 'garden':55B 'glass':29B 'greeneri':15B 'hideaway':56B 'kl':9B 'kuala':83C,85C 'lavish':70B 'lumpur':84C,86C 'memor':22B 'met':3A 'peac':54B 'person':81B 'plan':64B 're':63B 'romant':42B 'rooftop':51B 'set':16B 'stage':18B 'star':48B 'terrac':52B 'tower':32B 'truli':21B 'venu':7B 'vibrant':14B 'view':12B 'vow':25B 'wed':6B,73B 'whether':61B 'window':33B",
     "textEmbedding": null,
     "catalogPosition": 40,
     "isSpotlight": false,
@@ -8448,7 +8448,7 @@
         "id": "1d41a50b-d537-4c84-83e2-d7812b3d6749",
         "name": "The Glass Box",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 5398,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 300
@@ -8457,7 +8457,7 @@
         "id": "0441e77e-e0f0-4a43-822f-48d82525749c",
         "name": "Rooftop Terrace",
         "type": "Event Space",
-        "indoorOutdoor": "Outdoor",
+        "indoorOutdoor": "OUTDOOR",
         "area": 6800,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 150
@@ -8505,7 +8505,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/5886229a-18f0-4e69-9dd0-c6bfb5676499/a97da17c-30c0-4378-b2c9-3ab8f6d8088e/high.webp"
@@ -8570,7 +8570,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'16':41B 'ballroom':39B,49B 'besid':12B 'boast':36B 'cake':83B 'celebr':59B 'ceremoni':79B 'citi':30B 'coordin':78B 'custom':81B 'destin':35B 'everyth':54B 'experi':66B 'expert':77B 'five':20B 'five-star':19B 'function':43B 'grand':38B 'heart':8B 'honeymoon':94B 'hotel':24B,61B 'icon':14B 'includ':45B 'indulg':91B 'kl':51B 'kuala':3A,10B,96C,100C 'largest':47B 'like':72B 'lumpur':4A,11B,97C,101C 'luxuri':33B 'mandarin':1A,22B 'massag':73B 'need':55B 'nestl':5B 'offer':53B 'one':27B 'opul':58B 'orient':2A,23B 'pamper':71B 'persekutuan':99C 'petrona':15B 'pillarless':48B 'post':89B 'post-wed':88B 'pre':69B 'pre-wed':68B 'provid':62B 'room':44B 'seamless':64B 'stand':25B 'star':21B 'suit':95B 'therapi':75B 'tower':17B 'twin':16B 'two':37B 'versatil':42B 'way':86B 'wed':34B,65B,70B,82B,90B 'wilayah':98C",
+    "fts": "'16':41B 'ballroom':39B,49B 'besid':12B 'boast':36B 'cake':83B 'celebr':59B 'ceremoni':79B 'citi':30B 'coordin':78B 'custom':81B 'destin':35B 'everyth':54B 'experi':66B 'expert':77B 'five':20B 'five-star':19B 'function':43B 'grand':38B 'heart':8B 'honeymoon':94B 'hotel':24B,61B 'icon':14B 'includ':45B 'indulg':91B 'kl':51B 'kuala':3A,10B,96C,98C 'largest':47B 'like':72B 'lumpur':4A,11B,97C,99C 'luxuri':33B 'mandarin':1A,22B 'massag':73B 'need':55B 'nestl':5B 'offer':53B 'one':27B 'opul':58B 'orient':2A,23B 'pamper':71B 'petrona':15B 'pillarless':48B 'post':89B 'post-wed':88B 'pre':69B 'pre-wed':68B 'provid':62B 'room':44B 'seamless':64B 'stand':25B 'star':21B 'suit':95B 'therapi':75B 'tower':17B 'twin':16B 'two':37B 'versatil':42B 'way':86B 'wed':34B,65B,70B,82B,90B",
     "textEmbedding": null,
     "catalogPosition": 29,
     "isSpotlight": false,
@@ -8582,7 +8582,7 @@
         "id": "8d9425e3-f31a-4ea3-b0ec-967dde5bc590",
         "name": "Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 21796,
         "capacitySeatedMin": null,
         "capacitySeatedMax": 1100
@@ -8591,7 +8591,7 @@
         "id": "e2c3d381-3787-4563-84e7-f55162e9bb75",
         "name": "Diamond Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 5752,
         "capacitySeatedMin": null,
         "capacitySeatedMax": 500
@@ -8600,7 +8600,7 @@
         "id": "35bf016d-97f5-48e0-aee1-d89bfb092c28",
         "name": "Crystal Room",
         "type": "Banquet Halls",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2583,
         "capacitySeatedMin": null,
         "capacitySeatedMax": 350
@@ -8668,7 +8668,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/6139379e-dce7-43a5-b476-82d27112c6c7/17493acb-df7c-42ba-90a1-8d21b2fa2ba2/high.webp"
@@ -8719,7 +8719,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'atmospher':42B 'backdrop':20B 'ballroom':54B 'bring':77B 'care':90B 'celebr':55B,116B 'cherish':108B 'chulan':2A,6B,92B 'commit':85B 'creat':17B 'culinari':67B 'day':99B 'dedic':70B 'detail':79B 'dream':26B 'eleg':45B 'ensur':95B 'entranc':35B 'envelop':39B 'envis':51B 'event':64B 'everi':78B 'excel':87B 'exquisit':66B 'gather':59B 'grand':34B 'guest':106B 'harmoni':75B 'hotel':61B 'impecc':15B 'intim':58B 'kuala':3A,7B,93B,117C,121C 'lavish':53B 'leav':102B 'life':81B 'll':37B 'lumpur':4A,8B,94B,118C,122C 'memori':109B 'moment':29B 'offer':68B 'pair':13B 'perfect':19B 'persekutuan':120C 'person':89B 'promis':9B 'refin':47B 'remark':113B 'royal':1A,5B,91B 'seamless':101B 'servic':16B 'set':12B 'sophist':48B 'space':65B 'special':98B 'specialist':72B 'step':31B 'strong':84B 'success':115B 'timeless':44B 'truli':112B 'unfold':100B 'unparallel':11B 'versatil':63B 'wed':23B,71B 'whether':49B 'wilayah':119C 'work':73B",
+    "fts": "'atmospher':42B 'backdrop':20B 'ballroom':54B 'bring':77B 'care':90B 'celebr':55B,116B 'cherish':108B 'chulan':2A,6B,92B 'commit':85B 'creat':17B 'culinari':67B 'day':99B 'dedic':70B 'detail':79B 'dream':26B 'eleg':45B 'ensur':95B 'entranc':35B 'envelop':39B 'envis':51B 'event':64B 'everi':78B 'excel':87B 'exquisit':66B 'gather':59B 'grand':34B 'guest':106B 'harmoni':75B 'hotel':61B 'impecc':15B 'intim':58B 'kuala':3A,7B,93B,117C,119C 'lavish':53B 'leav':102B 'life':81B 'll':37B 'lumpur':4A,8B,94B,118C,120C 'memori':109B 'moment':29B 'offer':68B 'pair':13B 'perfect':19B 'person':89B 'promis':9B 'refin':47B 'remark':113B 'royal':1A,5B,91B 'seamless':101B 'servic':16B 'set':12B 'sophist':48B 'space':65B 'special':98B 'specialist':72B 'step':31B 'strong':84B 'success':115B 'timeless':44B 'truli':112B 'unfold':100B 'unparallel':11B 'versatil':63B 'wed':23B,71B 'whether':49B 'work':73B",
     "textEmbedding": null,
     "catalogPosition": 38,
     "isSpotlight": false,
@@ -8731,7 +8731,7 @@
         "id": "5868522d-448e-4cec-a947-e85db5d5b758",
         "name": "Taman Mahsuri Courtyard",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1130,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 350
@@ -8740,7 +8740,7 @@
         "id": "686b2f23-769c-4780-acb7-8efbc08811de",
         "name": "Tamingsari Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1186,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 1500
@@ -8796,7 +8796,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/79c9ec46-2935-45fb-98c3-25679c60341f/b381762b-139a-467e-88c1-d90fa1f6c8ff/high.webp"
@@ -8867,7 +8867,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'architectur':44B 'celebr':23B 'citi':30B 'day':57B 'eleg':11B 'elev':51B 'everi':52B 'five':34B 'five-star':33B 'grand':43B 'heart':27B 'hotel':36B 'icon':32B 'impecc':48B 'imperi':2A,5B 'interior':46B 'kl':3A 'kuala':6B,58C,62C 'lumpur':7B,59C,63C 'luxuri':41B 'meet':12B 'modern':13B 'moment':53B 'nestl':24B 'offer':15B 'opul':45B 'perfect':17B 'persekutuan':61C 'sanctuari':39B 'servic':49B 'set':18B 'sheraton':1A,4B 'sophist':14B 'special':56B 'star':35B 'timeless':10B 'unforgett':21B 'wed':22B 'wilayah':60C",
+    "fts": "'architectur':44B 'celebr':23B 'citi':30B 'day':57B 'eleg':11B 'elev':51B 'everi':52B 'five':34B 'five-star':33B 'grand':43B 'heart':27B 'hotel':36B 'icon':32B 'impecc':48B 'imperi':2A,5B 'interior':46B 'kl':3A 'kuala':6B,58C,60C 'lumpur':7B,59C,61C 'luxuri':41B 'meet':12B 'modern':13B 'moment':53B 'nestl':24B 'offer':15B 'opul':45B 'perfect':17B 'sanctuari':39B 'servic':49B 'set':18B 'sheraton':1A,4B 'sophist':14B 'special':56B 'star':35B 'timeless':10B 'unforgett':21B 'wed':22B",
     "textEmbedding": null,
     "catalogPosition": 37,
     "isSpotlight": false,
@@ -8879,7 +8879,7 @@
         "id": "0239588c-9e69-4350-86b1-bf0b18ac5db8",
         "name": "Nusantara Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 7180,
         "capacitySeatedMin": null,
         "capacitySeatedMax": 1000
@@ -8888,7 +8888,7 @@
         "id": "151368ff-d568-4409-9fe5-207556ceac0f",
         "name": "Villa Danieli",
         "type": "Event Space",
-        "indoorOutdoor": "Outdoor",
+        "indoorOutdoor": "OUTDOOR",
         "area": 251,
         "capacitySeatedMin": null,
         "capacitySeatedMax": 200
@@ -8956,7 +8956,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/62574c01-8899-4b15-ab97-eef14f48e39d/580df8ba-25c4-444b-b5f3-22e3ec124ad8/high.webp"
@@ -9078,7 +9078,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'adorn':83B 'affair':70B,97B 'beauti':91B 'blend':30B 'breathtak':34B 'bring':107B 'celebr':19B,73B 'citi':13B,92B 'class':81B 'coupl':64B 'creat':37B 'day':44B 'dedic':103B 'design':60B 'décor':86B 'eleg':11B 'ensur':112B 'everi':63B 'exchang':75B 'experi':117B 'extraordinari':116B 'featur':54B 'gather':101B 'grand':72B 'grandeur':31B 'heart':23B,48B 'imagin':74B 'imperi':1A,27B 'intim':69B,96B 'kuala':3A,25B,50B,118C,122C 'lavish':100B 'lexi':2A,28B 'life':111B 'locat':45B 'lumpur':4A,26B,51B,119C,123C 'nestl':20B 'opul':85B 'perfect':39B 'persekutuan':121C 'rang':56B 'refin':10B 'seamless':29B,114B 'set':40B 'skylin':93B 'sophist':32B 'space':59B 'special':43B 'specialist':105B 'step':5B 'stun':58B 'suit':62B 'surround':88B 'transform':16B 'unforgett':18B 'uniqu':66B 'venu':53B,82B 'view':35B 'vision':67B,109B 'vow':76B 'wed':14B,104B 'whether':94B 'wilayah':120C 'world':8B,80B 'world-class':79B",
+    "fts": "'adorn':83B 'affair':70B,97B 'beauti':91B 'blend':30B 'breathtak':34B 'bring':107B 'celebr':19B,73B 'citi':13B,92B 'class':81B 'coupl':64B 'creat':37B 'day':44B 'dedic':103B 'design':60B 'décor':86B 'eleg':11B 'ensur':112B 'everi':63B 'exchang':75B 'experi':117B 'extraordinari':116B 'featur':54B 'gather':101B 'grand':72B 'grandeur':31B 'heart':23B,48B 'imagin':74B 'imperi':1A,27B 'intim':69B,96B 'kuala':3A,25B,50B,118C,120C 'lavish':100B 'lexi':2A,28B 'life':111B 'locat':45B 'lumpur':4A,26B,51B,119C,121C 'nestl':20B 'opul':85B 'perfect':39B 'rang':56B 'refin':10B 'seamless':29B,114B 'set':40B 'skylin':93B 'sophist':32B 'space':59B 'special':43B 'specialist':105B 'step':5B 'stun':58B 'suit':62B 'surround':88B 'transform':16B 'unforgett':18B 'uniqu':66B 'venu':53B,82B 'view':35B 'vision':67B,109B 'vow':76B 'wed':14B,104B 'whether':94B 'world':8B,80B 'world-class':79B",
     "textEmbedding": null,
     "catalogPosition": 13,
     "isSpotlight": false,
@@ -9090,7 +9090,7 @@
         "id": "ab85bae1-f01e-4476-a564-e42b26de8d10",
         "name": "Ballroom",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 6000,
         "capacitySeatedMin": 320,
         "capacitySeatedMax": 360
@@ -9099,7 +9099,7 @@
         "id": "247dc4a9-14b1-4784-a230-7e0e4068dc2e",
         "name": "SkyDeck",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1800,
         "capacitySeatedMin": 10,
         "capacitySeatedMax": 20
@@ -9108,7 +9108,7 @@
         "id": "cafcc6ab-95e2-4c48-b6c9-550174cfd7ea",
         "name": "Rooftop",
         "type": "Event Space",
-        "indoorOutdoor": "Outdoor",
+        "indoorOutdoor": "OUTDOOR",
         "area": 1100,
         "capacitySeatedMin": 40,
         "capacitySeatedMax": 50
@@ -9117,7 +9117,7 @@
         "id": "32d03b13-5975-475d-92dd-89ba4c740c68",
         "name": "Poolside",
         "type": "Event Space",
-        "indoorOutdoor": "Outdoor",
+        "indoorOutdoor": "OUTDOOR",
         "area": 2341,
         "capacitySeatedMin": 30,
         "capacitySeatedMax": 70
@@ -9456,7 +9456,7 @@
         "id": "1708bda3-0163-4034-8cd9-920ae478f3c5",
         "name": "Glasshouse",
         "type": "Waterfront setting",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3100,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 330
@@ -9465,7 +9465,7 @@
         "id": "aa9a6be2-bafa-4029-a335-01a8704ff406",
         "name": "Dome",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2500,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 340
@@ -9572,7 +9572,7 @@
         "id": "d36f4643-38f1-472d-ace9-f8c15659b4dd",
         "name": "Sangkot Tree",
         "type": "Event Space",
-        "indoorOutdoor": "Outdoor",
+        "indoorOutdoor": "OUTDOOR",
         "area": 130680,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 700
@@ -9581,7 +9581,7 @@
         "id": "50a7b33b-3cc1-4e43-ad9e-79d59780d2c8",
         "name": "Sangkot Garden",
         "type": "Event Space",
-        "indoorOutdoor": "Outdoor",
+        "indoorOutdoor": "OUTDOOR",
         "area": 130680,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 300
@@ -9679,7 +9679,7 @@
         "id": "5cd56d09-b78c-472b-a326-d740cba3ec6f",
         "name": "The Pavilion at Changkat Telang 18",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 4790,
         "capacitySeatedMin": 300,
         "capacitySeatedMax": 500
@@ -9786,7 +9786,7 @@
         "id": "f7ad7bc1-7a61-462b-8541-3ee901d21c2b",
         "name": "Cinerea Hall",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 11697,
         "capacitySeatedMin": 500,
         "capacitySeatedMax": 1000
@@ -9795,7 +9795,7 @@
         "id": "7c88f2ff-4d83-46bc-8d23-8179164e25cc",
         "name": "Ruscus Hall",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2975,
         "capacitySeatedMin": 500,
         "capacitySeatedMax": 1000
@@ -9804,7 +9804,7 @@
         "id": "d43ecf65-8644-478f-b0c1-45ec0dba4fc0",
         "name": "Willow Hall",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1500,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 300
@@ -9813,7 +9813,7 @@
         "id": "4a60978f-ad22-4fd4-911b-7ee307d14be0",
         "name": "Monstera Hall",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3980,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 300
@@ -9881,7 +9881,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Federal Territory of Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/821c8d6f-c360-477f-91ce-d74892240526/17b53aa5-5eae-4dcd-b546-bff04d591d5c/high.webp"
@@ -9935,7 +9935,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'backdrop':11B 'bar':28B 'celebr':16B 'charm':33B 'chic':42B 'effortless':32B 'eleg':27B 'enchant':19B 'exud':31B 'feder':53C 'ginger':1A,3B 'glamour':36B 'glass':23B 'glasshous':6B 'guest':50B 'hang':20B 'kl':2A 'kuala':51C,56C 'light':21B 'lumpur':52C,57C 'occas':45B 'offer':8B 'panel':24B 'perfect':10B 'set':7B,37B 'soar':22B 'sophist':14B 'space':30B 'stage':39B 'stun':5B 'territori':54C 'unforgett':44B 'upscal':35B 'wed':15B",
+    "fts": "'backdrop':11B 'bar':28B 'celebr':16B 'charm':33B 'chic':42B 'effortless':32B 'eleg':27B 'enchant':19B 'exud':31B 'ginger':1A,3B 'glamour':36B 'glass':23B 'glasshous':6B 'guest':50B 'hang':20B 'kl':2A 'kuala':51C,53C 'light':21B 'lumpur':52C,54C 'occas':45B 'offer':8B 'panel':24B 'perfect':10B 'set':7B,37B 'soar':22B 'sophist':14B 'space':30B 'stage':39B 'stun':5B 'unforgett':44B 'upscal':35B 'wed':15B",
     "textEmbedding": null,
     "catalogPosition": 39,
     "isSpotlight": false,
@@ -9947,7 +9947,7 @@
         "id": "a9944359-244c-4946-83a9-9293517aa479",
         "name": "Ginger KL",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 850,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 120
@@ -10045,7 +10045,7 @@
         "id": "f4f3b94f-494b-45e8-a164-683e792458ae",
         "name": "Lantera Venue",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 7115,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 500
@@ -10179,7 +10179,7 @@
         "id": "5973516d-3f34-4f03-9f67-cb0467129c40",
         "name": "Tamarind Springs",
         "type": "Restaurants",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 8250,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 200
@@ -10314,7 +10314,7 @@
         "id": "a04c52b8-0d1e-454a-afd7-cb2db396620f",
         "name": "The Acres Resort",
         "type": "Hotels & Resorts",
-        "indoorOutdoor": "Outdoor",
+        "indoorOutdoor": "OUTDOOR",
         "area": 4120,
         "capacitySeatedMin": 76,
         "capacitySeatedMax": 150
@@ -10412,7 +10412,7 @@
         "id": "491f978c-204f-45c7-93ce-27a1a4e1ce11",
         "name": "Tanarimba, Janda Baik (Visitor Centre Hall)",
         "type": "Garden",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 8600,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 250
@@ -11137,7 +11137,7 @@
         "id": "7a4237e8-7151-40ff-893e-e9adf06c5616",
         "name": "Canopy Club, Setia Eco Park Setia Alam",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 3850,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 220
@@ -11284,7 +11284,7 @@
         "id": "05300936-a6aa-493d-a595-e15b881799d4",
         "name": "Anjung Hall",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2152,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 110
@@ -11293,7 +11293,7 @@
         "id": "253d0202-af17-47d9-8404-5d51641736e4",
         "name": "Old Malaya",
         "type": "Event Space",
-        "indoorOutdoor": "Outdoor",
+        "indoorOutdoor": "OUTDOOR",
         "area": 1500,
         "capacitySeatedMin": 30,
         "capacitySeatedMax": 70
@@ -11302,7 +11302,7 @@
         "id": "69a09ddc-bc3a-4a02-839c-9a57ac43b13b",
         "name": "Desawana",
         "type": "Event Space",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 6000,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 250
@@ -11414,7 +11414,7 @@
         "id": "aa49ce08-6cfb-4df6-9869-a07347c74788",
         "name": "Le Meridien Petaling Jaya",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2346,
         "capacitySeatedMin": 250,
         "capacitySeatedMax": 1000
@@ -11518,7 +11518,7 @@
         "id": "6b828b88-a6e0-4a96-87ee-c1306e4857c3",
         "name": "Kristal Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 8917,
         "capacitySeatedMin": 300,
         "capacitySeatedMax": 1000
@@ -11527,7 +11527,7 @@
         "id": "3af8c8b2-8d8c-4167-833d-e49990655205",
         "name": "Serunai Suite",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1426,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 150
@@ -11536,7 +11536,7 @@
         "id": "74075a38-858b-4f06-84f0-bf9048c59691",
         "name": "Toh Yuen Chinese Restaurant",
         "type": "Restaurants",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2980,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 100
@@ -11831,7 +11831,7 @@
         "id": "2aadbe95-2d25-47a1-a7ac-40b29476f387",
         "name": "Grand Ballroom, Templer's Club @ Setia Eco Templer",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 30000,
         "capacitySeatedMin": 300,
         "capacitySeatedMax": 600
@@ -11840,7 +11840,7 @@
         "id": "d537c770-dd44-405a-a20d-90c935a0ea41",
         "name": "Amantara Hall, Templer's Club @ Setia Eco Templer",
         "type": "Event Space",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 20000,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 500
@@ -11849,7 +11849,7 @@
         "id": "19dfe138-9e9c-4a5c-b4b4-1e52e9bdde70",
         "name": "Alia Hall, Templer's Club @ Setia Eco Templer",
         "type": "Event Space",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 18000,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 250
@@ -12460,7 +12460,7 @@
         "id": "16d00e63-27a7-4d26-921e-df224d1c04a0",
         "name": "Chandelier Glasshouse",
         "type": "Event Space",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 4698,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 250
@@ -12469,7 +12469,7 @@
         "id": "75054052-fb08-4ac4-9af2-1420e0fabcfd",
         "name": "Garden Pavillion",
         "type": "Event Space",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 1584,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 120
@@ -12754,7 +12754,7 @@
         "id": "f366901e-e66c-46cb-b625-3e3b6f1c83c8",
         "name": "LUMINARE MAIN HALL",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 6300,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 250
@@ -12763,7 +12763,7 @@
         "id": "25bce576-95be-4a31-b629-03864923cf1d",
         "name": "Luminare Sanctuary (Glass Box) + Tree Area",
         "type": "Event Space",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 5000,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 250
@@ -12772,7 +12772,7 @@
         "id": "6313c118-1f99-425a-bef9-be33df696729",
         "name": "LUMINARE EVENT HALL (Full Venue Experience)",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 10000,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 250
@@ -12896,7 +12896,7 @@
         "id": "220fc377-4573-4cc4-9d59-6258860b57cb",
         "name": "The Hub, A-Park Puchong",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 0,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": 1000
@@ -12905,7 +12905,7 @@
         "id": "2bdf5a45-cb5a-4395-b4b9-4912a5c9daad",
         "name": "The Square, A-Park Puchong",
         "type": "Event Space",
-        "indoorOutdoor": "Covered Outdoor",
+        "indoorOutdoor": "OUTDOOR_COVERED",
         "area": 0,
         "capacitySeatedMin": 400,
         "capacitySeatedMax": 1000
@@ -13276,7 +13276,7 @@
         "id": "f311c72b-d207-4bb1-9fbf-d88ef87e64dd",
         "name": "G Glass House @ Klang",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 7576,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 250
@@ -13285,7 +13285,7 @@
         "id": "b651fe4c-1642-493e-b173-4be9b62c80ae",
         "name": "G Ballroom @ Klang",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 6893,
         "capacitySeatedMin": 100,
         "capacitySeatedMax": 250
@@ -13489,7 +13489,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/743cd4df-3bf2-45ff-a2f7-8b3ecf5133c4/5676b56b-4a10-4dcb-9218-e5e47c73096d/high.webp"
@@ -13573,7 +13573,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'900':36B 'amen':83B 'attract':53B 'award':87B 'award-win':86B 'balanc':19B 'bar':116B 'build':68B 'center':64B 'certifi':71B 'cocktail':112B 'come':22B 'comfort':21B 'complet':125B 'convent':63B 'custom':130B 'eas':120B 'eco':79B 'eco-friend':78B 'element':1A,7B,9B 'enjoy':105B 'event':118B 'expert':127B 'extend':33B 'famili':15B 'family-friend':14B 'feet':37B 'fill':102B 'flavor':109B 'fresh':106B 'friend':16B,80B 'fusion':108B 'green':67B 'ground':39B 'handcraft':111B 'host':117B 'hotel':17B,72B 'icon':42B 'ilham':43B 'includ':54B 'index':70B 'index-certifi':69B 'kl':50B,62B 'klcc':56B,96B 'kuala':2A,10B,58B,132C,136C 'light':101B 'light-fil':100B 'lobbi':103B 'lumpur':3A,11B,59B,133C,137C 'menus':131B 'minut':48B 'modern':123B 'natur':23B 'night':30B 'offer':77B 'pavilion':57B 'perch':35B 'persekutuan':135C 'planner':128B 'proud':75B 're':26B,46B,74B 'restaur':115B 'servic':89B 'skylin':97B 'space':124B 'stay':4B,34B,81B 'suria':55B 'sweep':92B 'take':90B 'thought':82B 'top':52B 'tower':44B 'trace':114B 'view':93B 'warm':85B 'welcom':13B 'western':107B 'whether':24B 'wilayah':134C 'win':88B",
+    "fts": "'900':36B 'amen':83B 'attract':53B 'award':87B 'award-win':86B 'balanc':19B 'bar':116B 'build':68B 'center':64B 'certifi':71B 'cocktail':112B 'come':22B 'comfort':21B 'complet':125B 'convent':63B 'custom':130B 'eas':120B 'eco':79B 'eco-friend':78B 'element':1A,7B,9B 'enjoy':105B 'event':118B 'expert':127B 'extend':33B 'famili':15B 'family-friend':14B 'feet':37B 'fill':102B 'flavor':109B 'fresh':106B 'friend':16B,80B 'fusion':108B 'green':67B 'ground':39B 'handcraft':111B 'host':117B 'hotel':17B,72B 'icon':42B 'ilham':43B 'includ':54B 'index':70B 'index-certifi':69B 'kl':50B,62B 'klcc':56B,96B 'kuala':2A,10B,58B,132C,134C 'light':101B 'light-fil':100B 'lobbi':103B 'lumpur':3A,11B,59B,133C,135C 'menus':131B 'minut':48B 'modern':123B 'natur':23B 'night':30B 'offer':77B 'pavilion':57B 'perch':35B 'planner':128B 'proud':75B 're':26B,46B,74B 'restaur':115B 'servic':89B 'skylin':97B 'space':124B 'stay':4B,34B,81B 'suria':55B 'sweep':92B 'take':90B 'thought':82B 'top':52B 'tower':44B 'trace':114B 'view':93B 'warm':85B 'welcom':13B 'western':107B 'whether':24B 'win':88B",
     "textEmbedding": null,
     "catalogPosition": 83,
     "isSpotlight": false,
@@ -13585,7 +13585,7 @@
         "id": "65f03f9d-ff3e-4e81-a40b-65eae920bd32",
         "name": "Ilham Ballroom 1",
         "type": "Hotels & Resorts",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1356,
         "capacitySeatedMin": 70,
         "capacitySeatedMax": 100
@@ -13594,7 +13594,7 @@
         "id": "361d19bb-8955-4770-9475-b0cd8a704212",
         "name": "Ilham Ballroom 2",
         "type": "Hotels & Resorts",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1334,
         "capacitySeatedMin": 70,
         "capacitySeatedMax": 100
@@ -13603,7 +13603,7 @@
         "id": "7b1a05b8-fa3e-4f51-8059-85eee90a3f4f",
         "name": "Ilham Ballroom",
         "type": "Hotels & Resorts",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2691,
         "capacitySeatedMin": 120,
         "capacitySeatedMax": 240
@@ -13612,7 +13612,7 @@
         "id": "2bbd1c03-aaa9-491e-b6b1-e0e4ee7056db",
         "name": "ERA",
         "type": "Hotels & Resorts",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 1743,
         "capacitySeatedMin": 30,
         "capacitySeatedMax": 50
@@ -13912,7 +13912,7 @@
         "id": "931dd3cf-8869-4d32-a17d-d33395e12c4a",
         "name": "Hilltop Garden",
         "type": "Park, Garden",
-        "indoorOutdoor": "Outdoor",
+        "indoorOutdoor": "OUTDOOR",
         "area": 150,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 200
@@ -13962,7 +13962,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Kuala Lumpur",
-    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "state": "Kuala Lumpur",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/b8dafb13-09ca-4f2c-9eab-d1d0a44c5f27/high.webp"
@@ -14066,7 +14066,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'bangsar':25B 'bridg':57B 'build':53B 'ccec':5A,11B,29B,67B 'center':49B 'centr':4A,10B 'cocktail':43B 'confer':2A,8B 'connect':51B 'connexion':1A,7B 'corpor':40B 'cover':56B 'design':18B 'develop':28B 'dinner':47B 'discov':6B 'dynam':32B 'event':3A,9B,21B,63B,72B 'except':73B 'experi':64B 'explor':65B 'flexibl':62B 'function':41B 'integr':27B 'intim':46B 'kuala':13B,74C,78C 'lumpur':14B,75C,79C 'make':69B 'modern':16B 'next':71B 'nexus':34B 'offer':30B 'perfect':38B 'persekutuan':77C 'provid':58B 'recept':44B 'seamless':50B 'situat':22B 'south':26B 'space':33B 'two':31B 'uniqu':60B 'venu':17B 'versatil':20B 'vertic':37B 'via':54B 'wed':42B 'wilayah':76C 'within':23B",
+    "fts": "'bangsar':25B 'bridg':57B 'build':53B 'ccec':5A,11B,29B,67B 'center':49B 'centr':4A,10B 'cocktail':43B 'confer':2A,8B 'connect':51B 'connexion':1A,7B 'corpor':40B 'cover':56B 'design':18B 'develop':28B 'dinner':47B 'discov':6B 'dynam':32B 'event':3A,9B,21B,63B,72B 'except':73B 'experi':64B 'explor':65B 'flexibl':62B 'function':41B 'integr':27B 'intim':46B 'kuala':13B,74C,76C 'lumpur':14B,75C,77C 'make':69B 'modern':16B 'next':71B 'nexus':34B 'offer':30B 'perfect':38B 'provid':58B 'recept':44B 'seamless':50B 'situat':22B 'south':26B 'space':33B 'two':31B 'uniqu':60B 'venu':17B 'versatil':20B 'vertic':37B 'via':54B 'wed':42B 'within':23B",
     "textEmbedding": null,
     "catalogPosition": 7,
     "isSpotlight": false,
@@ -14078,7 +14078,7 @@
         "id": "559cb728-c040-465d-a26c-0c47c517e9d5",
         "name": "Grand Nexus Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 15312,
         "capacitySeatedMin": 700,
         "capacitySeatedMax": 2000
@@ -14087,7 +14087,7 @@
         "id": "00afbfe9-5dce-435e-8759-f8cf4061667b",
         "name": "The Oak Room",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 14340,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 200
@@ -14096,7 +14096,7 @@
         "id": "09fa7c6f-4e93-4b7c-bdf5-62e83153dda3",
         "name": "The Zenith",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 2990,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 100
@@ -14105,7 +14105,7 @@
         "id": "41f1bdfa-5f7b-4a41-a52b-13f93fef206e",
         "name": "Gazebo",
         "type": "Garden",
-        "indoorOutdoor": "Outdoor",
+        "indoorOutdoor": "OUTDOOR",
         "area": 672,
         "capacitySeatedMin": 20,
         "capacitySeatedMax": 30
@@ -14114,7 +14114,7 @@
         "id": "8a3ff985-f342-46f4-98a0-fe7da54f8036",
         "name": "Function Room",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 5600,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 300
@@ -14232,7 +14232,7 @@
     "vendorType": "venue",
     "status": "live",
     "city": "Batu Ferringhi",
-    "state": "Pulau Pinang",
+    "state": "Penang",
     "images": [
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/2d898646-ee15-443a-af15-9209c46d0ece/c9b0d663-8358-4bd5-a3f6-9b89773f1635/high.webp"
@@ -14377,7 +14377,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'1':44B 'andaman':15B 'backdrop':77B 'ballroom':17B 'batu':28B,82C 'built':23B 'celebr':71B 'ceremoni':68B 'corpor':38B 'cozi':47B 'creat':72B 'day':81B 'dinner':36B 'event':13B 'exchang':65B 'featur':18B 'ferringhi':29B,83C 'function':39B 'gala':35B 'garden':52B 'gather':42B 'grand':16B,33B 'greeneri':57B 'ideal':63B 'intim':41B 'jintan':43B 'largest':22B 'led':25B 'lush':56B 'memor':76B 'offer':7B 'one':19B 'outdoor':70B 'parkroy':1A,4B 'penang':2A,5B 'perfect':31B 'picturesqu':74B 'pinang':85C 'privat':49B 'provid':45B 'pulau':84C 'resort':3A,6B 'romant':67B 'screen':26B 'sea':60B 'space':50B 'special':80B 'stun':59B 'surround':54B 'venu':9B,53B 'versatil':8B 'view':61B 'vow':66B 'wed':11B,34B",
+    "fts": "'1':44B 'andaman':15B 'backdrop':77B 'ballroom':17B 'batu':28B,82C 'built':23B 'celebr':71B 'ceremoni':68B 'corpor':38B 'cozi':47B 'creat':72B 'day':81B 'dinner':36B 'event':13B 'exchang':65B 'featur':18B 'ferringhi':29B,83C 'function':39B 'gala':35B 'garden':52B 'gather':42B 'grand':16B,33B 'greeneri':57B 'ideal':63B 'intim':41B 'jintan':43B 'largest':22B 'led':25B 'lush':56B 'memor':76B 'offer':7B 'one':19B 'outdoor':70B 'parkroy':1A,4B 'penang':2A,5B,84C 'perfect':31B 'picturesqu':74B 'privat':49B 'provid':45B 'resort':3A,6B 'romant':67B 'screen':26B 'sea':60B 'space':50B 'special':80B 'stun':59B 'surround':54B 'venu':9B,53B 'versatil':8B 'view':61B 'vow':66B 'wed':11B,34B",
     "textEmbedding": null,
     "catalogPosition": 4,
     "isSpotlight": true,
@@ -14389,7 +14389,7 @@
         "id": "9704800c-3704-4676-806f-b6fddb264379",
         "name": "Andaman Grand Ballroom",
         "type": "Ballrooms",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 456,
         "capacitySeatedMin": 160,
         "capacitySeatedMax": 300
@@ -14398,7 +14398,7 @@
         "id": "aa64e618-0ec4-4f2b-93f9-f94d614d4760",
         "name": "Jintan 1",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 188,
         "capacitySeatedMin": 54,
         "capacitySeatedMax": 200
@@ -14407,7 +14407,7 @@
         "id": "031f9bf7-e3ac-49e1-a900-df7a55529bff",
         "name": "Garden",
         "type": "Garden",
-        "indoorOutdoor": "Outdoor",
+        "indoorOutdoor": "OUTDOOR",
         "area": 77199,
         "capacitySeatedMin": 10,
         "capacitySeatedMax": 200
@@ -14416,7 +14416,7 @@
         "id": "71155426-a5a3-4d37-b7a8-ca42196d7ae5",
         "name": "Jintan",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 61,
         "capacitySeatedMin": 30,
         "capacitySeatedMax": 120
@@ -14425,7 +14425,7 @@
         "id": "da65fe57-9dbc-48c4-971b-577a33860b86",
         "name": "Lawang",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 66,
         "capacitySeatedMin": 30,
         "capacitySeatedMax": 120
@@ -14434,7 +14434,7 @@
         "id": "ee91db63-1654-4d3f-b7b6-38d34cdbba05",
         "name": "Pala",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 60,
         "capacitySeatedMin": 30,
         "capacitySeatedMax": 120
@@ -14443,7 +14443,7 @@
         "id": "b957be82-41a7-4c06-8538-f6928e56210f",
         "name": "Kayu Manis",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 90,
         "capacitySeatedMin": 30,
         "capacitySeatedMax": 100
@@ -14452,7 +14452,7 @@
         "id": "033ecd93-6fad-41e2-b4e1-46aa6d471f8e",
         "name": "Serai",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 74,
         "capacitySeatedMin": 20,
         "capacitySeatedMax": 64
@@ -14461,7 +14461,7 @@
         "id": "51534c7c-cdba-4411-8075-e613fd2a344b",
         "name": "Pandan",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 133,
         "capacitySeatedMin": 36,
         "capacitySeatedMax": 144
@@ -14470,7 +14470,7 @@
         "id": "268bf0d5-6c3a-47a5-a91c-1adcd1d458a3",
         "name": "Halia",
         "type": "Event Space",
-        "indoorOutdoor": "Indoor",
+        "indoorOutdoor": "INDOOR",
         "area": 50,
         "capacitySeatedMin": 12,
         "capacitySeatedMax": 48
