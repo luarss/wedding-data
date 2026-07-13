@@ -3510,6 +3510,21 @@
     "rooms": "[{\"name\": \"Forest Lodge\", \"capacity\": \"150-220 pax\", \"price\": \"From $229/pax\"}]"
   },
   {
+    "recordId": "sipsociety",
+    "name": "Sip Society: Rooftop Weddings",
+    "url": "https://www.bridely.sg/venue/sip-society-rooftop-weddings/r/sipsociety",
+    "location": "HarbourFront",
+    "overallRating": null,
+    "venueRating": null,
+    "serviceRating": null,
+    "foodRating": null,
+    "reviews": 0,
+    "tags": "Hotel, Chinese, Fusion, Indian, Japanese, Muslim-friendly, Peranakan, Vegetarian, Western, Outdoor, Rooftop, Waterfront",
+    "price": "From $68/pax",
+    "capacity": "60-200 pax",
+    "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"60-200 pax\", \"price\": \"From $68/pax\"}]"
+  },
+  {
     "recordId": "rec8CiMiGaJoy8OOM",
     "name": "THE CLIFF",
     "url": "https://www.bridely.sg/venue/the-cliff/r/rec8CiMiGaJoy8OOM",
