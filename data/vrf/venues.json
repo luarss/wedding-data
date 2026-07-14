@@ -23,6 +23,26 @@
     "response_time": null
   },
   {
+    "name": "Creative lifestyle studio in Kallang",
+    "url": "https://www.venuerific.com/sg/venues/creative-lifestyle-studio-in-kallang",
+    "slug": "creative-lifestyle-studio-in-kallang",
+    "area": "Kallang, Tai Seng",
+    "address": "56 Kallang Pudding Rd, HH@Kallang 349328",
+    "lat": 1.3281716,
+    "lng": 103.878971,
+    "capacity_standing": 80,
+    "capacity_seated": 40,
+    "rooms_count": 1,
+    "price": "S$185",
+    "price_unit": "Per hour",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Mattar MRT Station",
+    "event_types": [],
+    "fast_response": true,
+    "response_time": "6 hrs"
+  },
+  {
     "name": "DOMO",
     "url": "https://www.venuerific.com/sg/venues/domo",
     "slug": "domo",
@@ -43,7 +63,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "17 hrs"
+    "response_time": "12 hrs"
   },
   {
     "name": "Wolfgang’s Steakhouse Singapore",
@@ -70,26 +90,6 @@
     "response_time": null
   },
   {
-    "name": "Industrial-Chic Event Venue at 20 Jln Kilang",
-    "url": "https://www.venuerific.com/sg/venues/industrial-chic-event-venue-at-20-jln-kilang",
-    "slug": "industrial-chic-event-venue-at-20-jln-kilang",
-    "area": "Alexandra, Queenstown, Tiong Bahru",
-    "address": "20 Jln Kilang, level 4, Singapore 159418",
-    "lat": 1.2858102,
-    "lng": 103.8087208,
-    "capacity_standing": 200,
-    "capacity_seated": 100,
-    "rooms_count": 1,
-    "price": "S$500",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Redhill ",
-    "event_types": [],
-    "fast_response": true,
-    "response_time": "1 hr"
-  },
-  {
     "name": "The Inspire Space Sg",
     "url": "https://www.venuerific.com/sg/venues/the-inspire-space-sg",
     "slug": "the-inspire-space-sg",
@@ -110,7 +110,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "33 mins"
+    "response_time": "1 hr"
   },
   {
     "name": "Moon Rooftop Bar and Lounge",
@@ -181,7 +181,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "8 hrs"
+    "response_time": "10 hrs"
   },
   {
     "name": "HomeTeamNS Bedok Reservoir Clubhouse",
@@ -369,7 +369,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "10 hrs"
+    "response_time": "6 hrs"
   },
   {
     "name": "The Spot Singapore",
@@ -536,6 +536,29 @@
     "response_time": null
   },
   {
+    "name": "Industrial-Chic Event Venue at 20 Jln Kilang",
+    "url": "https://www.venuerific.com/sg/venues/industrial-chic-event-venue-at-20-jln-kilang",
+    "slug": "industrial-chic-event-venue-at-20-jln-kilang",
+    "area": "Alexandra, Queenstown, Tiong Bahru",
+    "address": "20 Jln Kilang, level 4, Singapore 159418",
+    "lat": 1.2858102,
+    "lng": 103.8087208,
+    "capacity_standing": 200,
+    "capacity_seated": 100,
+    "rooms_count": 1,
+    "price": "S$500",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Redhill ",
+    "event_types": [
+      "Influencer Event",
+      "Product Launch"
+    ],
+    "fast_response": true,
+    "response_time": "1 hr"
+  },
+  {
     "name": "ONE°15 Marina Sentosa Cove",
     "url": "https://www.venuerific.com/sg/venues/one-15-marina-sentosa-cove",
     "slug": "one-15-marina-sentosa-cove",
@@ -601,7 +624,7 @@
     "mrt_station": "Harbourfront",
     "event_types": [],
     "fast_response": true,
-    "response_time": "6 hrs"
+    "response_time": "5 hrs"
   },
   {
     "name": "The Standard Singapore",
