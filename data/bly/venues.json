@@ -285,6 +285,21 @@
     "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"220-420 pax\", \"price\": \"From $309/pax\"}]"
   },
   {
+    "recordId": "recBjzDZV6Tmy22FL",
+    "name": "The Acacia Geneo",
+    "url": "https://www.bridely.sg/venue/the-acacia-geneo/r/recBjzDZV6Tmy22FL",
+    "location": "1 Science Park Dr, #01-07, Singapore 118221",
+    "overallRating": 5,
+    "venueRating": 5,
+    "serviceRating": 5,
+    "foodRating": 5,
+    "reviews": 17,
+    "tags": "Restaurant, Fusion, Indian, Muslim-friendly, Peranakan, Vegetarian, Western",
+    "price": "From $55/pax",
+    "capacity": "100-500 pax",
+    "rooms": "[{\"name\": \"The Acacia Geneo\", \"capacity\": \"100-500 pax\", \"price\": \"From $55/pax\"}]"
+  },
+  {
     "recordId": "recjssjp75IRHLGQY",
     "name": "PARKROYAL COLLECTION Pickering",
     "url": "https://www.bridely.sg/venue/parkroyal-collection-pickering/r/recjssjp75IRHLGQY",

@@ -63,7 +63,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "12 hrs"
+    "response_time": "2 hrs"
   },
   {
     "name": "Wolfgang’s Steakhouse Singapore",
@@ -181,7 +181,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "10 hrs"
+    "response_time": "9 hrs"
   },
   {
     "name": "HomeTeamNS Bedok Reservoir Clubhouse",
@@ -320,7 +320,7 @@
       "Lunch/dinner",
       "Wedding"
     ],
-    "fast_response": false,
+    "fast_response": true,
     "response_time": null
   },
   {
