@@ -228,7 +228,7 @@
       "Media Event"
     ],
     "fast_response": true,
-    "response_time": "15 hrs"
+    "response_time": "12 hrs"
   },
   {
     "name": "Singapore EXPO",
@@ -297,7 +297,7 @@
       "Conference"
     ],
     "fast_response": true,
-    "response_time": null
+    "response_time": "8 hrs"
   },
   {
     "name": "Artyzen Singapore",
@@ -345,7 +345,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "23 hrs"
+    "response_time": "21 hrs"
   },
   {
     "name": "PEN & INC · One-North",
@@ -624,7 +624,7 @@
     "mrt_station": "Harbourfront",
     "event_types": [],
     "fast_response": true,
-    "response_time": "5 hrs"
+    "response_time": "6 hrs"
   },
   {
     "name": "The Standard Singapore",
