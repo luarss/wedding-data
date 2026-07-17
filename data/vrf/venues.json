@@ -63,7 +63,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "2 hrs"
+    "response_time": "6 hrs"
   },
   {
     "name": "Wolfgang’s Steakhouse Singapore",
@@ -181,7 +181,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "9 hrs"
+    "response_time": "7 hrs"
   },
   {
     "name": "HomeTeamNS Bedok Reservoir Clubhouse",
@@ -369,7 +369,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "6 hrs"
+    "response_time": "3 hrs"
   },
   {
     "name": "The Spot Singapore",
@@ -393,7 +393,7 @@
       "Solemnisation"
     ],
     "fast_response": true,
-    "response_time": "15 hrs"
+    "response_time": "17 hrs"
   },
   {
     "name": "The Mill — A Modern, Versatile Event Venue",
@@ -440,7 +440,7 @@
       "Reception"
     ],
     "fast_response": true,
-    "response_time": null
+    "response_time": "22 hrs"
   },
   {
     "name": "Alta Studio",
@@ -546,8 +546,8 @@
     "capacity_standing": 200,
     "capacity_seated": 100,
     "rooms_count": 1,
-    "price": "S$500",
-    "price_unit": "Min spend",
+    "price": "S$250",
+    "price_unit": "Per hour",
     "rating": 0,
     "reviews": 0,
     "mrt_station": "Redhill ",
@@ -928,30 +928,6 @@
     ],
     "fast_response": true,
     "response_time": null
-  },
-  {
-    "name": "Mexican Bar and Grill @ Clarke Quay",
-    "url": "https://www.venuerific.com/sg/venues/mexican-bar-and-grill-clarke-quay",
-    "slug": "mexican-bar-and-grill-clarke-quay",
-    "area": "Clarke Quay",
-    "address": "3D River Valley Rd, Singapore 179023",
-    "lat": 1.2899366,
-    "lng": 103.8456239,
-    "capacity_standing": 100,
-    "capacity_seated": 100,
-    "rooms_count": 0,
-    "price": "S$48",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Clarke Quay MRT Station (200 m)",
-    "event_types": [
-      "Business Breakfast",
-      "Business Luncheon",
-      "Business Dinner"
-    ],
-    "fast_response": true,
-    "response_time": "16 hrs"
   },
   {
     "name": " M Hotel Singapore ",
