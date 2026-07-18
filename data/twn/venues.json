@@ -14674,5 +14674,2320 @@
       "min": 78,
       "max": 200
     }
+  },
+  {
+    "id": "8d77f47f-d1ec-4182-a427-370370451340",
+    "name": "Seven Terraces",
+    "slug": "seven-terraces",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "George Town",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/seven-terraces/00/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/seven-terraces/01/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/seven-terraces/02/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/seven-terraces/03/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/seven-terraces/04/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/seven-terraces/05/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/seven-terraces/06/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/seven-terraces/07/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/seven-terraces/08/high.webp"
+      }
+    ],
+    "description": "Seven Terraces is a grand row of seven C19th Anglo-Chinese terraces situated in one of Penang's finest and most intact heritage streets in the very heart of the World Heritage Site, next door to the 1810 Goddess of Mercy Temple and a few minutes' walk from all the major icons. It captures and celebrates the spirit of this world heritage town and its unique Peranakan culture. The property offers exceptional service and exquisite venues for weddings, luxury events and dining experiences. Wedding options include an exclusive buyout of the award-winning Kebaya Dining Room (renowned for its modern take on Peranakan and Classic Straits Chinese cuisine in an exquisitely restored interior) or a full buyout of the entire hotel (14 Suites and 4 Apartments) turning the property into a private mansion. Ceremonies can be held in the outdoor courtyard/poolside, with tea ceremonies at the hotel foyer or The Library, and the wedding banquet served in traditional tok panjang style or a contemporary set-up in the Kebaya dining room. Couples spend their special night in an authentic Nyonya wedding bed within the luxurious apartment suites.",
+    "createdAt": "2026-07-17T18:25:18.991Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "14A, Stewart Ln, George Town, 10200 Penang",
+    "postCode": "10200",
+    "googlePlaceId": "ChIJfeAvH5DDSjAR7iVD_6iLeAU",
+    "latitude": "5.4192774",
+    "longitude": "100.33829639999999",
+    "googlePlaceName": "Seven Terraces",
+    "neighbourhood": null,
+    "googleMapsLink": null,
+    "wazeLink": null,
+    "googleRating": null,
+    "googleTotalReviews": null,
+    "metaDescription": null,
+    "whatsappNumber": "+6010-771-5657",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'14':126B '1810':41B '4':129B 'anglo':13B 'anglo-chines':12B 'apart':130B,191B 'authent':184B 'award':96B 'award-win':95B 'banquet':159B 'bed':187B 'buyout':92B,121B 'c19th':11B 'captur':57B 'celebr':59B 'ceremoni':138B,148B 'chines':14B,111B 'classic':109B 'contemporari':168B 'coupl':177B 'courtyard/poolside':145B 'cuisin':112B 'cultur':71B 'dine':85B,99B,175B 'door':38B 'entir':124B 'event':83B 'except':75B 'exclus':91B 'experi':86B 'exquisit':78B,115B 'finest':22B 'foyer':152B 'full':120B 'georg':193C 'goddess':42B 'grand':7B 'heart':31B 'held':141B 'heritag':26B,35B,65B 'hotel':125B,151B 'icon':55B 'includ':89B 'intact':25B 'interior':117B 'kebaya':98B,174B 'librari':155B 'luxuri':82B,190B 'major':54B 'mansion':137B 'merci':44B 'minut':49B 'modern':104B 'next':37B 'night':181B 'nyonya':185B 'offer':74B 'one':18B 'option':88B 'outdoor':144B 'panjang':164B 'penang':20B,195C 'peranakan':70B,107B 'privat':136B 'properti':73B,133B 'renown':101B 'restor':116B 'room':100B,176B 'row':8B 'serv':160B 'servic':76B 'set':170B 'set-up':169B 'seven':1A,3B,10B 'site':36B 'situat':16B 'special':180B 'spend':178B 'spirit':61B 'strait':110B 'street':27B 'style':165B 'suit':127B,192B 'take':105B 'tea':147B 'templ':45B 'terrac':2A,4B,15B 'tok':163B 'town':66B,194C 'tradit':162B 'turn':131B 'uniqu':69B 'venu':79B 'walk':50B 'wed':81B,87B,158B,186B 'win':97B 'within':188B 'world':34B,64B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "liveAt": "2026-07-18T04:10:23.223Z",
+    "updatedAt": "2026-07-18T08:10:26.331Z",
+    "spaces": [
+      {
+        "id": "e432d8de-3c3b-4a66-99f7-a493005c5878",
+        "name": "Kebaya Dining Room (Main Dining Hall)",
+        "type": "restaurant / banquet hall",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": 50,
+        "capacitySeatedMax": 100
+      },
+      {
+        "id": "73e73204-eb5b-4720-8766-dea1b207a0ed",
+        "name": "The Courtyard / The Poolside",
+        "type": "outdoor courtyard / poolside",
+        "indoorOutdoor": "outdoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": null
+      },
+      {
+        "id": "812846c6-c6fd-4be1-b138-f0ea7bed0110",
+        "name": "The Wedding Suite / Apartment Suites",
+        "type": "accommodation suite",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": null
+      },
+      {
+        "id": "abc88724-ac8c-4fc2-a01a-fb3986c0d536",
+        "name": "The Library",
+        "type": "function room (tea ceremony)",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": null
+      },
+      {
+        "id": "5fa37696-0876-414e-82fb-d6ad90a23462",
+        "name": "Hotel Foyer",
+        "type": "foyer (tea ceremony)",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": null
+      }
+    ],
+    "packages": [
+      {
+        "name": "Wedding Option #1 â Kebaya Buyout",
+        "price": 400,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 400,
+        "description": "Event 6:00pmâ10:30pm; venue is Kebaya Dining Room (Main Dining Hall). 5% Service Charge + 8% SST (13%) on top of MYR 400/head. Tea Ceremony @ The Library is a separate add-on (MYR 1,000++/room/day) and is compulsory to book-out Kebaya. Cut-off/confirmation on or before 31 Dec 2025. Non-refundable deposit MYR 5,000 to secure. Guaranteed attendance advised 14 days prior; billed on guaranteed number.",
+        "includes": [
+          "Exclusive use of the Kebaya Dining Room upon agreeing to buyout terms and conditions",
+          "Requires buyout of wedding luncheon OR dinner based on a minimum spend",
+          "Minimum spending per head average at MYR 400 + 13% (5% Service Charge + 8% SST) per adult",
+          "Minimum guaranteed number of guests: 50 persons; Maximum up to 100 persons",
+          "Minimum spending can be achieved by selecting a menu, cocktails and canapes on arrival, wines with dinner, and additional add-ons",
+          "Guest table: 12 x Round Tables max (8 pax each table)",
+          "Complimentary Live Performance: Pianist (only Fri/Sat) or GuZhengist (only Sunday)",
+          "Piped-in music during intervals (Spotify)",
+          "Complimentary use of the hotel (outdoor) courtyard for the pre-dinner / cocktail session by 6PM onward",
+          "Complimentary dinner to sample the menu of your choice (GENERAL MENU ONLY) for 4 persons upon confirmation (upon payment of MYR 5,000.00 deposit)",
+          "Live performance time limit: 6PM to 10:30PM",
+          "Kids do not count as minimum spending"
+        ],
+        "guestMin": 50,
+        "guestMax": 100,
+        "brochureUrl": null
+      },
+      {
+        "name": "Wedding Option #2 â Full Hotel Buyout",
+        "price": 33508,
+        "priceMax": 38744,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "Room/accommodation rate is MYR 33,508â38,744 nett (breakfast excludedâincluded) for 3 days/2 nights covering 44 guests. This is SEPARATE from the Kebaya food & beverage minimum spend (MYR 400++/adult), which still applies on the buy-out night. Rates include 8% SST and Fi Hotel Tax. Full-hotel buyout allows pre-set up from 9:00am on dinner day (vs 2:00pm for non-full buyout).",
+        "includes": [
+          "Exclusive use of Seven Terraces Hotel and Kebaya Dining Room upon agreeing to buyout terms and conditions",
+          "Buy out the hotel's 14 Suites and 4 Apartments (44 guests) for a MINIMUM OF 2 NIGHTS",
+          "One of those nights requires buy-out of the Kebaya Dining Room for wedding luncheon/dinner based on a minimum spend",
+          "The whole hotel becomes your private mansion for 3 days and 2 nights (18 Rooms â est 44 pax max)",
+          "MYR 38,744 nett â breakfast included",
+          "MYR 33,508 nett â breakfast excluded",
+          "Rates quoted include 8% SST and Fi Hotel Tax",
+          "Complimentary use of the hotel facilities for pre-wedding photography",
+          "Complimentary use of the hotel foyer for the tea ceremony",
+          "Tea Ceremony @ The Library complimentary for full hotel buyout",
+          "Utilise different areas for different activities: Courtyard/Poolside for solemnization & vows, pre-dinner cocktails, tea ceremony at hotel foyer, dinner reception at the Kebaya, party after dinner (DJ / Live Band)",
+          "Live performance time limit: up to 12:00 midnight",
+          "Pre-set up from 9:00am onwards on the dinner day"
+        ],
+        "guestMin": null,
+        "guestMax": 44,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 50,
+      "max": 100
+    }
+  },
+  {
+    "id": "623e7e44-2523-44bd-8f0c-fce9e3c4abf6",
+    "name": "Shangri-La Rasa Sayang, Penang",
+    "slug": "rasa-sayang-penang",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "Batu Ferringhi",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/rasa-sayang-penang/00/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/rasa-sayang-penang/01/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/rasa-sayang-penang/02/high.webp"
+      }
+    ],
+    "description": "Shangri-La Rasa Sayang, Penang is a luxury beach resort set on the golden sands of Batu Ferringhi Beach. The resort offers two curated Chinese/Western banquet wedding packages — Rasa Begonia and Rasa Lily — each including free-flowing beverages, pre-function drinks with pass-around canapes, fresh floral decorations (wedding arch, floral stands along the red carpet, deluxe bridal-table centrepiece and posies), a champagne fountain with sparkling wine, complimentary wine or corkage waiver, LCD projector and screen, PA system, a complimentary resort stay for the wedding couple with spa massage, and complimentary use of the resort gardens for wedding photography. A separate garden Wedding Ceremony package delivers a ceremony in the resort's 'fairytale-like' manicured garden with a fresh-flower gazebo, tiffany chairs, refreshment corner and free-flowing signature mocktail. Menus are offered as eight-course Chinese set menus, international buffets, or a Western set menu. Prices are inclusive of 10% service charge and 8% government tax and are subject to change.",
+    "createdAt": "2026-07-17T18:25:28.951Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "Jalan Batu Ferringhi, 11100 Batu Ferringhi, Penang",
+    "postCode": "11100",
+    "googlePlaceId": "ChIJFfkNPlLdSjAR_HRwoDQOFsA",
+    "latitude": "5.4781335",
+    "longitude": "100.2536076",
+    "googlePlaceName": "Shangri-La Rasa Sayang, Penang",
+    "neighbourhood": null,
+    "googleMapsLink": null,
+    "wazeLink": null,
+    "googleRating": null,
+    "googleTotalReviews": null,
+    "metaDescription": null,
+    "whatsappNumber": "+604 888 8888",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'10':167B '8':171B 'along':63B 'arch':60B 'around':54B 'banquet':33B 'batu':24B,179C 'beach':16B,26B 'begonia':37B 'beverag':46B 'bridal':69B 'bridal-t':68B 'buffet':157B 'canap':55B 'carpet':66B 'centrepiec':71B 'ceremoni':116B,120B 'chair':137B 'champagn':75B 'chang':178B 'charg':169B 'chines':153B 'chinese/western':32B 'complimentari':80B,92B,103B 'corkag':83B 'corner':139B 'coupl':98B 'cours':152B 'curat':31B 'decor':58B 'deliv':118B 'delux':67B 'drink':50B 'eight':151B 'eight-cours':150B 'fairytal':126B 'fairytale-lik':125B 'ferringhi':25B,180C 'floral':57B,61B 'flow':45B,143B 'flower':134B 'fountain':76B 'free':44B,142B 'free-flow':43B,141B 'fresh':56B,133B 'fresh-flow':132B 'function':49B 'garden':108B,114B,129B 'gazebo':135B 'golden':21B 'govern':172B 'includ':42B 'inclus':165B 'intern':156B 'la':3A,9B 'lcd':85B 'like':127B 'lili':40B 'luxuri':15B 'manicur':128B 'massag':101B 'menu':162B 'menus':146B,155B 'mocktail':145B 'offer':29B,148B 'pa':89B 'packag':35B,117B 'pass':53B 'pass-around':52B 'penang':6A,12B,181C 'photographi':111B 'posi':73B 'pre':48B 'pre-funct':47B 'price':163B 'projector':86B 'rasa':4A,10B,36B,39B 'red':65B 'refresh':138B 'resort':17B,28B,93B,107B,123B 'sand':22B 'sayang':5A,11B 'screen':88B 'separ':113B 'servic':168B 'set':18B,154B,161B 'shangri':2A,8B 'shangri-la':1A,7B 'signatur':144B 'spa':100B 'sparkl':78B 'stand':62B 'stay':94B 'subject':176B 'system':90B 'tabl':70B 'tax':173B 'tiffani':136B 'two':30B 'use':104B 'waiver':84B 'wed':34B,59B,97B,110B,115B 'western':160B 'wine':79B,81B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "liveAt": "2026-07-18T04:10:23.223Z",
+    "updatedAt": "2026-07-18T08:10:26.560Z",
+    "spaces": [
+      {
+        "id": "a5d657db-cc9b-4415-9d80-cf72ebb52bc8",
+        "name": "Rasa Begonia Ballroom",
+        "type": "ballroom",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": 100,
+        "capacitySeatedMax": null
+      },
+      {
+        "id": "698a5478-6138-4054-8b3a-67560c8e690b",
+        "name": "Rasa Lily Ballroom",
+        "type": "ballroom",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": 200,
+        "capacitySeatedMax": null
+      },
+      {
+        "id": "07e27279-b586-4312-998c-f354eff9ff30",
+        "name": "Resort Manicured Garden (Ceremony Lawn)",
+        "type": "garden ceremony lawn",
+        "indoorOutdoor": "outdoor",
+        "area": null,
+        "capacitySeatedMin": 10,
+        "capacitySeatedMax": 100
+      }
+    ],
+    "packages": [
+      {
+        "name": "Rasa Begonia Wedding Package",
+        "price": 2988,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "RM2,988 nett per table of 10 persons. Minimum of 10 tables of 10 persons per table. Set menu available for indoor function setting only (min 10 tables). Buffet menu minimum 100 persons. Prices inclusive of 10% service charge & 8% government tax.",
+        "includes": [
+          "Choice of three (3) sets of specially created Chinese eight (8) courses menu, Western set menu or a buffet style menu",
+          "Free-flowing soft drinks, coffee and tea throughout the dinner",
+          "One (1) hour pre-function drinks with pass around canape inclusive of free-flowing soft drinks",
+          "Choice of elegantly packed macarons for guest",
+          "Choice of wedding decoration theme",
+          "Fresh floral wedding decorations: floral wedding arch at the entrance; six (6) units of floral stands along the red carpet; a deluxe centerpiece on the bridal table; posies on all guest tables",
+          "Choice of mock wedding cake design",
+          "Champagne fountain inclusive of two (2) bottles of sparkling wine for the wedding toast",
+          "Complimentary one (1) bottle of wine per ten (10) persons",
+          "Complimentary use of one (1) unit of LCD projector and projection screen",
+          "Complimentary use of resort's PA system",
+          "Complimentary one (1) night's stay for the wedding couple in a Rasa Deluxe Room inclusive of a deluxe fruit basket and breakfast for two (2) persons at either Feringgi Grill or Spice Market Cafe",
+          "Complimentary signature Authentic Herbal Asmaradana Massage for the wedding couple at Chi, The Spa",
+          "Complimentary food tasting prior to the wedding for ten (10) persons (arranged upon receipt of deposit and confirmation of the event)",
+          "Complimentary usage of Tea Ceremony room inclusive of coffee, tea and cookies",
+          "Complimentary use of resort gardens for wedding photography",
+          "Complimentary car park space for all guests",
+          "Choice of elegantly designed wedding invitation cards based on sixty percent (60%) of total confirmed attendees (excludes printing)",
+          "Special room rates extended to wedding guests staying at the resort for a minimum of ten (10) rooms"
+        ],
+        "guestMin": 100,
+        "guestMax": 10,
+        "brochureUrl": null
+      },
+      {
+        "name": "Rasa Lily Wedding Package",
+        "price": 2788,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "RM2,788 nett per table of 10 persons. Minimum of 20 tables of 10 persons per table. Set menu available for indoor function setting only (min 20 tables). Buffet menu minimum 200 persons. Prices inclusive of 10% service charge & 8% government tax. Note: Rasa Lily has a higher table minimum (20 tables) than Rasa Begonia (10 tables) despite the lower per-table price.",
+        "includes": [
+          "Design your own eight (8) courses Chinese set menu or a buffet style menu",
+          "Free-flowing soft drinks, Chinese tea or coffee and tea throughout the dinner",
+          "One (1) hour pre-function drinks with pass around canape inclusive of free-flowing soft drinks",
+          "Choice of elegantly packed macarons for guests",
+          "Choice of wedding decoration theme",
+          "Fresh floral wedding decorations: floral wedding arch at the entrance; six (6) units of floral stands along the red carpet; a deluxe centerpiece on the bridal table; posies on all guest tables",
+          "Choice of mock wedding cake design",
+          "Champagne fountain inclusive of two (2) bottles of sparkling wine for the wedding toast",
+          "Complimentary one (1) bottle of wine per table or corkage waiver for first bottle of wine per table",
+          "Complimentary use of one (1) unit of LCD projector and projection screen",
+          "Complimentary use of resort's PA system",
+          "Complimentary two (2) nights stay for the wedding couple in a Rasa Junior Suite Room inclusive of a deluxe fruit basket and breakfast for two (2) persons at either Feringgi Grill or Spice Market Cafe",
+          "Romantic set dinner for wedding couple at Feringgi Grill",
+          "Complimentary signature Authentic Herbal Asmaradana Massage for the wedding couple at Chi, The Spa",
+          "Complimentary food tasting prior to the wedding for ten (10) persons (arranged upon receipt of deposit and confirmation of the event)",
+          "Complimentary usage of Tea Ceremony room inclusive of coffee, tea and cookies",
+          "Complimentary use of resort gardens for wedding photography",
+          "Complimentary car park space for all guests",
+          "Choice of elegantly designed wedding invitation cards based on sixty percent (60%) of total confirmed attendees (excludes printing)",
+          "Special room rates extended to wedding guests staying at the resort for a minimum of ten (10) rooms"
+        ],
+        "guestMin": 200,
+        "guestMax": 10,
+        "brochureUrl": null
+      },
+      {
+        "name": "Wedding Ceremony Package (Garden)",
+        "price": 14288,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "RM14,288 nett. Minimum of 10 guests and a maximum of 100 guests. Standalone garden ceremony package (not a banquet). Refreshment corner: please choose 2 items from the Refreshment Corner Menu. Prices inclusive of 10% service charge & 8% government tax.",
+        "includes": [
+          "Wedding ceremony performed at the resort's 'fairytale-like' manicured garden",
+          "Choice of wedding decoration theme",
+          "Fresh floral wedding decorations: a dazzling gazebo with fresh flower arrangement; six (6) units of floral stands along the red carpet; registration table with flower centerpiece",
+          "A bridal set consisting of one (1) flower bouquet for the bride, one (1) floral boutonniere for the groom and four (4) floral boutonnieres for the marriage witnesses",
+          "Mock wedding cake for cake-cutting ceremony",
+          "Champagne fountain inclusive of two (2) bottles of sparkling wine for wedding toast",
+          "Free-flowing signature mocktail throughout the ceremony",
+          "Refreshment corner consisting of two (2) items",
+          "Exclusive tiffany chairs arrangement",
+          "Complimentary use of resort's PA system",
+          "Speakers with a mixer (CD player or iPod docking station available for ceremony)",
+          "Lapel microphone for the groom",
+          "Wedding march played as background melody for couple's entrance",
+          "Complimentary use of resort gardens for wedding photography",
+          "Complimentary car park space for all guests"
+        ],
+        "guestMin": 10,
+        "guestMax": 100,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 100,
+      "max": 300
+    }
+  },
+  {
+    "id": "07db1e0a-86ff-41f6-8abe-a193fe553b3f",
+    "name": "Eastern & Oriental Hotel",
+    "slug": "eo-hotel-penang",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "George Town",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/00/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/01/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/02/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/03/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/04/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/05/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/06/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/07/high.webp"
+      }
+    ],
+    "description": "The Eastern & Oriental Hotel (E&O), established in 1885, is a landmark heritage luxury hotel on Lebuh Farquhar in George Town, Penang. Its 2026 & 2027 Wedding Package Price List offers a range of banquet options: Chinese set menus (Duchess, Imperial, Opulence), a Western set menu (Elegance), an international buffet, and a Malay-style 'Hidang' menu (Duchess), with pricing quoted both per table of 10 and per person. A separate Wedding Vow Garden Rental is available for garden ceremonies. All rates are nett, inclusive of 10% service charge and 8% service tax, and are not valid on eve and public holidays.",
+    "createdAt": "2026-07-17T18:25:46.145Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "10, Lebuh Farquhar, George Town, 10200 Penang",
+    "postCode": "10200",
+    "googlePlaceId": "ChIJqwgwB5vDSjAR-_JigEODOw8",
+    "latitude": "5.4232569999999996",
+    "longitude": "100.33590850000002",
+    "googlePlaceName": "Eastern & Oriental Hotel",
+    "neighbourhood": null,
+    "googleMapsLink": null,
+    "wazeLink": null,
+    "googleRating": null,
+    "googleTotalReviews": null,
+    "metaDescription": null,
+    "whatsappNumber": null,
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'10':68B,89B '1885':12B '2026':27B '2027':28B '8':93B 'avail':79B 'banquet':37B 'buffet':52B 'ceremoni':82B 'charg':91B 'chines':39B 'duchess':42B,60B 'e':8B 'eastern':1A,5B 'eleg':49B 'establish':10B 'eve':101B 'farquhar':21B 'garden':76B,81B 'georg':23B,105C 'heritag':16B 'hidang':58B 'holiday':104B 'hotel':3A,7B,18B 'imperi':43B 'inclus':87B 'intern':51B 'landmark':15B 'lebuh':20B 'list':32B 'luxuri':17B 'malay':56B 'malay-styl':55B 'menu':48B,59B 'menus':41B 'nett':86B 'o':9B 'offer':33B 'option':38B 'opul':44B 'orient':2A,6B 'packag':30B 'penang':25B,107C 'per':65B,70B 'person':71B 'price':31B,62B 'public':103B 'quot':63B 'rang':35B 'rate':84B 'rental':77B 'separ':73B 'servic':90B,94B 'set':40B,47B 'style':57B 'tabl':66B 'tax':95B 'town':24B,106C 'valid':99B 'vow':75B 'wed':29B,74B 'western':46B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "liveAt": "2026-07-18T04:10:23.223Z",
+    "updatedAt": "2026-07-18T08:10:23.676Z",
+    "spaces": [
+      {
+        "id": "f25e0fd5-757a-4224-8f52-6d7bfe515437",
+        "name": "Grand Ballroom",
+        "type": "Ballroom",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": 400
+      },
+      {
+        "id": "76968563-e8ce-4e00-ae17-fad80fc6fa09",
+        "name": "Macalister Ballroom",
+        "type": "Ballroom",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": 300
+      }
+    ],
+    "packages": [
+      {
+        "name": "Duchess - Chinese Set Menu",
+        "price": 2488,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "RM 2,488.00 nett per table of 10 persons. Rate inclusive of 10% service charge and 8% service tax. Not valid on eve and public holidays.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": 10,
+        "brochureUrl": null
+      },
+      {
+        "name": "Imperial - Chinese Set Menu",
+        "price": 2988,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "RM 2,988.00 nett per table of 10 persons. Rate inclusive of 10% service charge and 8% service tax. Not valid on eve and public holidays.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": 10,
+        "brochureUrl": null
+      },
+      {
+        "name": "Opulence - Chinese Set Menu",
+        "price": 348,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 348,
+        "description": "RM 348.00 nett per person. Rate inclusive of 10% service charge and 8% service tax. Not valid on eve and public holidays.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "Elegance - Western Set Menu",
+        "price": 308,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 308,
+        "description": "RM 308.00 nett per person. Rate inclusive of 10% service charge and 8% service tax. Not valid on eve and public holidays.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "Duchess - International Buffet Menu",
+        "price": 248,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 248,
+        "description": "RM 248.00 nett per person. Rate inclusive of 10% service charge and 8% service tax. Not valid on eve and public holidays.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "Duchess - Hidang Style Menu",
+        "price": 2088,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "RM 2,088.00 nett per table of 10 persons. Malay-style 'Hidang' (shared platter) service. Rate inclusive of 10% service charge and 8% service tax. Not valid on eve and public holidays.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": 10,
+        "brochureUrl": null
+      },
+      {
+        "name": "Wedding Vow Garden Rental",
+        "price": 12000,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "RM 12,000.00 nett. Garden rental for wedding vow / ceremony. Rate inclusive of 10% service charge and 8% service tax. Not valid on eve and public holidays.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 0,
+      "max": 400
+    }
+  },
+  {
+    "id": "e8fb13bf-e746-4669-ae4f-60e98e87a69f",
+    "name": "Hard Rock Hotel Penang",
+    "slug": "hard-rock-penang",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "Batu Ferringhi",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/00/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/01/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/02/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/03/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/04/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/05/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/06/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/07/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/08/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/09/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/10/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/11/high.webp"
+      }
+    ],
+    "description": "Hard Rock Hotel Penang is the first music-inspired hotel in Malaysia, an award-winning 5-star family beach resort located along the popular Batu Ferringhi beach in Penang, combining legendary Hard Rock music culture with the beauty of the Malacca Straits and tropical lush greenery. With 250 rooms and suites across 11 room categories, a beach-front Rock Spa, the largest free-form swimming pool in Northern Malaysia (with underwater music) and nightly live performances, it offers a 'Love Hard, Play Hard' wedding experience. Weddings are hosted in the Hall of Fame, a multipurpose pillar-free ballroom with high ceilings and state-of-the-art audio-visual and lighting equipment (up to 260 guests), or at the Sunset Stage, a spectacular outdoor venue with a backdrop of the Malacca Straits (up to 30 guests). Two Chinese set-dinner reception packages (Blissful Union and Eternal Bliss) plus an outdoor Western wedding ceremony package are available, with full catering and event-planning services.",
+    "createdAt": "2026-07-17T18:26:06.699Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "Batu Ferringhi Beach, 11100 Batu Ferringhi, Penang",
+    "postCode": "11100",
+    "googlePlaceId": "ChIJHdZxtP3nSjARAdpuP0tHUe0",
+    "latitude": "5.4676941999999995",
+    "longitude": "100.2415557",
+    "googlePlaceName": "Hard Rock Hotel Penang",
+    "neighbourhood": null,
+    "googleMapsLink": null,
+    "wazeLink": null,
+    "googleRating": null,
+    "googleTotalReviews": null,
+    "metaDescription": null,
+    "whatsappNumber": "+60 4 886 8015",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'11':59B '250':54B '260':125B '30':145B '5':22B 'across':58B 'along':28B 'art':116B 'audio':118B 'audio-visu':117B 'avail':167B 'award':20B 'award-win':19B 'backdrop':138B 'ballroom':107B 'batu':31B,176C 'beach':25B,33B,64B 'beach-front':63B 'beauti':44B 'bliss':154B,158B 'categori':61B 'cater':170B 'ceil':110B 'ceremoni':164B 'chines':148B 'combin':36B 'cultur':41B 'dinner':151B 'equip':122B 'etern':157B 'event':173B 'event-plan':172B 'experi':93B 'fame':101B 'famili':24B 'ferringhi':32B,177C 'first':11B 'form':72B 'free':71B,106B 'free-form':70B 'front':65B 'full':169B 'greeneri':52B 'guest':126B,146B 'hall':99B 'hard':1A,5B,38B,89B,91B 'high':109B 'host':96B 'hotel':3A,7B,15B 'inspir':14B 'largest':69B 'legendari':37B 'light':121B 'live':83B 'locat':27B 'love':88B 'lush':51B 'malacca':47B,141B 'malaysia':17B,77B 'multipurpos':103B 'music':13B,40B,80B 'music-inspir':12B 'night':82B 'northern':76B 'offer':86B 'outdoor':134B,161B 'packag':153B,165B 'penang':4A,8B,35B,178C 'perform':84B 'pillar':105B 'pillar-fre':104B 'plan':174B 'play':90B 'plus':159B 'pool':74B 'popular':30B 'recept':152B 'resort':26B 'rock':2A,6B,39B,66B 'room':55B,60B 'servic':175B 'set':150B 'set-dinn':149B 'spa':67B 'spectacular':133B 'stage':131B 'star':23B 'state':113B 'state-of-the-art':112B 'strait':48B,142B 'suit':57B 'sunset':130B 'swim':73B 'tropic':50B 'two':147B 'underwat':79B 'union':155B 'venu':135B 'visual':119B 'wed':92B,94B,163B 'western':162B 'win':21B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "liveAt": "2026-07-18T04:10:23.223Z",
+    "updatedAt": "2026-07-18T08:10:25.387Z",
+    "spaces": [
+      {
+        "id": "45038f4c-dd8a-48ce-a2b9-e97de84667fa",
+        "name": "Hall of Fame",
+        "type": "ballroom",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": 200,
+        "capacitySeatedMax": 260
+      },
+      {
+        "id": "18f17814-80fa-4fb9-9ce8-2a8fa0599a4f",
+        "name": "Hall of Fame 1",
+        "type": "ballroom section",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": null
+      },
+      {
+        "id": "c0ef145a-8c52-4c06-bf7d-dcf831ef7852",
+        "name": "Hall of Fame 2",
+        "type": "ballroom section",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": null
+      },
+      {
+        "id": "2dd3f4c9-1f03-430c-8b9e-134e7855d529",
+        "name": "Sunset Stage",
+        "type": "outdoor ceremony venue",
+        "indoorOutdoor": "outdoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": 30
+      },
+      {
+        "id": "be2ef56d-fcfb-4ed4-b346-197abc9c4b07",
+        "name": "Lagoon Garden / Pool Area",
+        "type": "photoshoot / outdoor grounds",
+        "indoorOutdoor": "outdoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": null
+      },
+      {
+        "id": "1f7ee636-7a3a-4abf-a435-3c8557f062f5",
+        "name": "Tea Ceremony Room",
+        "type": "function room",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": null
+      }
+    ],
+    "packages": [
+      {
+        "name": "Wedding Ceremony (Sunset Stage)",
+        "price": 8200,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "Price is RM8,200 nett per package (all-inclusive for the ceremony). Held at the outdoor Sunset Stage. This is a standalone Western-style ceremony package.",
+        "includes": [
+          "Maximum 30 guests, theatre seating arrangement at Sunset Stage (outdoor)",
+          "Fresh flower decoration at Sunset Stage - a floral wedding arch, flower arrangement at the reception table, six flower walkway stands, bridal hand bouquet, groom's buttonhole, bestman's corsage, bridesmaid's hand corsage and flower petals",
+          "Decorated 3-tier wedding cake for cake cutting ceremony (elegant 3-tier edible cake)",
+          "A 3-tier champagne fountain and one (1) bottle of champagne for the toasting ceremony",
+          "Two (2) types of canapes and free flow of fruit punch throughout the event",
+          "Complimentary usage of standard PA system",
+          "Complimentary marriage celebrant service",
+          "Complimentary photography service for 3 hours",
+          "Exclusive 15% discount on accommodation for family and friends",
+          "One (1) complimentary VIP parking lot for the bridal car and complimentary parking for all wedding ceremony guests",
+          "Exclusive permission for wedding photoshoot at the Lagoon Garden, Sunset Stage and the pool area",
+          "10% discount on selected merchandise at Rock Shop for wedding ceremony guests (guests must show their wedding ceremony invitation cards)"
+        ],
+        "guestMin": null,
+        "guestMax": 30,
+        "brochureUrl": null
+      },
+      {
+        "name": "Blissful Union Wedding Reception (Sun-Thu / non-peak)",
+        "price": 1588,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "RM1,588 nett per table for the standard (non-peak) rate. Held in the Hall of Fame ballroom. Uses the Blissful Union 8-course Chinese set menu (or International Buffet). Per-table price for a table of 10; total spend RM31,760-RM41,288 for 20-26 tables.",
+        "includes": [
+          "Minimum of 20 tables (up to 26 tables), 10 persons per table",
+          "A sumptuous 8-course 'Blissful Union' Chinese Set Dinner (with free-flow of Chinese Tea) OR Buffet",
+          "Free flow of orange cordial during pre-dinner cocktails and throughout the dinner",
+          "Fresh flower wedding decoration in the ballroom - a bridal centrepiece at the bridal table, a centrepiece at the reception table, a single-stalk centrepiece on each guest table, a decorated wedding entrance arch and four decorated walkway stands",
+          "Choice of wedding backdrop - fairy lights or printed backdrop",
+          "Complimentary usage of standard PA system, LCD projector and screen",
+          "Mock 5-tier wedding cake for cake cutting ceremony",
+          "Individually packed premium chocolate for wedding guests",
+          "A 5-tier champagne fountain and two (2) bottles of sparkling juice for the toasting ceremony",
+          "Corkage waiver for the first bottle of wine per table",
+          "Welcome gimmick tailored for the occasion",
+          "Complimentary wedding invitation card - up to 50% of the guaranteed number of wedding guests",
+          "Complimentary one-night stay in a Seaview Studio Suite for the couple inclusive of Rock Star amenities and breakfast in bed",
+          "Complimentary usage of Tea Ceremony room for one (1) hour - subject to availability upon receipt of a 50% deposit",
+          "Food Tasting at 50% off from the selected menu for 10 persons upon receipt of a 50% deposit",
+          "Exclusive 15% discount on accommodation for family and friends",
+          "Two (2) complimentary VIP parking lots for the bridal cars and complimentary parking for all wedding guests",
+          "Exclusive permission for wedding photoshoot at the Lagoon Garden, Sunset Stage and the pool area",
+          "10% discount on selected merchandise at Rock Shop for wedding reception guests (guests must show their wedding reception invitation cards)",
+          "Wedding Anniversary Gift - 50% discount on 60-minutes Hard Rock Massage at Rock Spa for 2 persons (valid for one year from the wedding reception date)"
+        ],
+        "guestMin": 200,
+        "guestMax": 260,
+        "brochureUrl": null
+      },
+      {
+        "name": "Blissful Union Wedding Reception (Fri/Sat/Eve of PH & selected Public Holidays)",
+        "price": 1788,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "RM1,788 nett per table. Peak rate applies on Fridays, Saturdays, Eve of Public Holidays & selected Public Holidays in Malaysia. Same inclusions as the standard Blissful Union package.",
+        "includes": [
+          "Same inclusions as the standard Blissful Union package (see Blissful Union standard package)"
+        ],
+        "guestMin": 200,
+        "guestMax": 260,
+        "brochureUrl": null
+      },
+      {
+        "name": "Eternal Bliss Wedding Reception (Sun-Thu / non-peak)",
+        "price": 1788,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "RM1,788 nett per table for the standard (non-peak) rate. The higher-tier reception package. Differs from Blissful Union by: free-flow soft drink (vs orange cordial), six decorated walkway stands (vs four), heart-shaped premium chocolate (vs individually packed), and the Eternal Bliss 8-course menu. Held in the Hall of Fame ballroom.",
+        "includes": [
+          "Minimum of 20 tables (up to 26 tables), 10 persons per table",
+          "A sumptuous 8-course 'Eternal Bliss' Chinese Set Dinner (with free-flow of Chinese Tea) OR Buffet",
+          "Free flow of soft drink during pre-dinner cocktails and throughout the dinner",
+          "Fresh flower wedding decoration in the ballroom - a bridal centrepiece at the bridal table, a centrepiece at the reception table, a single-stalk centrepiece on each guest table, a decorated wedding entrance arch and six decorated walkway stands",
+          "Choice of wedding backdrop - fairy lights or printed backdrop",
+          "Complimentary usage of standard PA system, LCD projector and screen",
+          "Mock 5-tier wedding cake for cake cutting ceremony",
+          "Heart-shaped premium chocolate for wedding guests",
+          "A 5-tier champagne fountain and two (2) bottles of sparkling juice for the toasting ceremony",
+          "Corkage waiver for the first bottle of wine per table",
+          "Welcome gimmick tailored for the occasion",
+          "Complimentary wedding invitation card - up to 50% of the guaranteed number of wedding guests",
+          "Complimentary one-night stay in a Seaview Studio Suite for the couple inclusive of Rock Star amenities and breakfast in bed",
+          "Complimentary usage of Tea Ceremony room for one (1) hour - subject to availability upon receipt of a 50% deposit",
+          "Food Tasting at 50% off from the selected menu for 10 persons upon receipt of a 50% deposit",
+          "Exclusive 15% discount on accommodation for family and friends",
+          "Two (2) complimentary VIP parking lots for the bridal cars and complimentary parking for all wedding guests",
+          "Exclusive permission for wedding photoshoot at the Lagoon Garden, Sunset Stage and the pool area",
+          "10% discount on selected merchandise at Rock Shop for wedding reception guests (guests must show their wedding reception invitation cards)",
+          "Wedding Anniversary Gift - 50% discount on 60-minutes Hard Rock Massage at Rock Spa for 2 persons (valid for one year from the wedding reception date)"
+        ],
+        "guestMin": 200,
+        "guestMax": 260,
+        "brochureUrl": null
+      },
+      {
+        "name": "Eternal Bliss Wedding Reception (Fri/Sat/Eve of PH & selected Public Holidays)",
+        "price": 1988,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "RM1,988 nett per table. Peak rate applies on Fridays, Saturdays, Eve of Public Holidays & selected Public Holidays in Malaysia. Same inclusions as the standard Eternal Bliss package.",
+        "includes": [
+          "Same inclusions as the standard Eternal Bliss package (see Eternal Bliss standard package)"
+        ],
+        "guestMin": 200,
+        "guestMax": 260,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 200,
+      "max": 260
+    }
+  },
+  {
+    "id": "7b7597ef-8fa7-4541-b01c-c77ef4e5c1fa",
+    "name": "DoubleTree Resort by Hilton Penang",
+    "slug": "doubletree-penang",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "Batu Ferringhi",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/00/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/01/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/02/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/03/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/04/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/05/high.webp"
+      }
+    ],
+    "description": "DoubleTree Resort by Hilton Penang is a beach resort located at Batu Ferringhi offering three tiered wedding packages (Classic, Deluxe and Premium) priced per table of 10 persons with a minimum of 15 tables. All packages are hosted in the Esplanade Ballroom for up to four hours and include a Chinese multi-course banquet menu, PA system with projectors and screens, microphones, stage lighting, red carpet, mock wedding cake, and Hilton Honors Wedding Incentive Points. Higher tiers add pre-event cocktails, signature DoubleTree canapes, sparkling juice toasting, suite stays with sea view, reserved parking, spa vouchers, wine and corkage benefits, and personalization options such as stage backdrops, floral arrangements and themed table decor.",
+    "createdAt": "2026-07-17T18:26:20.331Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "56, Jalan Low Yat, Puncak Ria, 11100 Batu Ferringhi, Penang",
+    "postCode": "11100",
+    "googlePlaceId": "ChIJWwUeJVLdSjARaOZabSf8Dwc",
+    "latitude": "5.4775016999999995",
+    "longitude": "100.26947279999999",
+    "googlePlaceName": "DoubleTree Resort by Hilton Penang",
+    "neighbourhood": null,
+    "googleMapsLink": null,
+    "wazeLink": null,
+    "googleRating": null,
+    "googleTotalReviews": null,
+    "metaDescription": null,
+    "whatsappNumber": null,
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'10':32B '15':38B 'add':84B 'arrang':116B 'backdrop':114B 'ballroom':47B 'banquet':60B 'batu':17B,121C 'beach':13B 'benefit':107B 'cake':75B 'canap':91B 'carpet':72B 'chines':56B 'classic':24B 'cocktail':88B 'corkag':106B 'cours':59B 'decor':120B 'delux':25B 'doubletre':1A,6B,90B 'esplanad':46B 'event':87B 'ferringhi':18B,122C 'floral':115B 'four':51B 'higher':82B 'hilton':4A,9B,77B 'honor':78B 'host':43B 'hour':52B 'incent':80B 'includ':54B 'juic':93B 'light':70B 'locat':15B 'menu':61B 'microphon':68B 'minimum':36B 'mock':73B 'multi':58B 'multi-cours':57B 'offer':19B 'option':110B 'pa':62B 'packag':23B,41B 'park':101B 'penang':5A,10B,123C 'per':29B 'person':33B,109B 'point':81B 'pre':86B 'pre-ev':85B 'premium':27B 'price':28B 'projector':65B 'red':71B 'reserv':100B 'resort':2A,7B,14B 'screen':67B 'sea':98B 'signatur':89B 'spa':102B 'sparkl':92B 'stage':69B,113B 'stay':96B 'suit':95B 'system':63B 'tabl':30B,39B,119B 'theme':118B 'three':20B 'tier':21B,83B 'toast':94B 'view':99B 'voucher':103B 'wed':22B,74B,79B 'wine':104B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "liveAt": "2026-07-18T04:10:23.223Z",
+    "updatedAt": "2026-07-18T08:10:24.432Z",
+    "spaces": [
+      {
+        "id": "ec85c47c-ad17-4536-81a7-6b0b6e8c952f",
+        "name": "Esplanade Ballroom",
+        "type": "ballroom",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": 150,
+        "capacitySeatedMax": null
+      },
+      {
+        "id": "35a9a7f1-6083-4e32-8692-1bcc96903aaf",
+        "name": "Tea Ceremony Room",
+        "type": "ceremony room",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": null
+      }
+    ],
+    "packages": [
+      {
+        "name": "Classic Wedding Package",
+        "price": 1488,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Price is nett per table of 10 persons. Minimum of 15 tables.",
+        "includes": [
+          "Use of Esplanade Ballroom for up to four (4) hours",
+          "A delightful 6-course menu",
+          "Free flow Chinese tea and one (1) type of cordial",
+          "Mock wedding cake",
+          "Complimentary use of PA system with three (3) projectors and screens, two (2) units of microphones, basic sound system and stage lighting",
+          "Hotel preferred choice linen colour",
+          "Red carpet",
+          "Exclusive Perk: Food tasting session at RM1,488 nett for 10 persons upon payment of 10% deposit",
+          "Exclusive Perk: Preferential room rates for friends and family with a minimum booking of 10 rooms",
+          "Exclusive Perk: 10x Hilton Honors Wedding Incentive Points to be redeemed for a complimentary honeymoon",
+          "Exclusive Perk: One (1) parking spot for bridal car",
+          "Exclusive Perk: Complimentary wireless Internet access"
+        ],
+        "guestMin": 150,
+        "guestMax": 10,
+        "brochureUrl": null
+      },
+      {
+        "name": "Deluxe Wedding Package",
+        "price": 1688,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Price is nett per table of 10 persons. Minimum of 15 tables.",
+        "includes": [
+          "Use of Esplanade Ballroom for up to four (4) hours",
+          "Choose from a selection of 66 menu items",
+          "Free flow Chinese tea and one (1) type of cordial",
+          "One hour of pre-event cocktails with one (1) type of cordial and two (2) types of signature DoubleTree canapes",
+          "One (1) bottle of non-alcoholic sparkling juice for toasting",
+          "Mock wedding cake",
+          "Complimentary use of PA system with three (3) projectors and screens, two (2) units of microphones, basic sound system and stage lighting",
+          "A selection of two (2) linen colours",
+          "Red carpet",
+          "Exclusive Perk: 50% off food tasting session with 15 confirmed tables or complimentary food tasting when you book 25 tables and above, upon payment of 10% deposit",
+          "Exclusive Perk: Signature DoubleTree Chocolate Chip Cookies as wedding favors",
+          "Exclusive Perk: One (1) night stay in King One Bedroom Suite with sea view",
+          "Exclusive Perk: Preferential room rates for friends and family with a minimum booking of 10 rooms",
+          "Exclusive Perk: 10x Hilton Honors Wedding Incentive Points to be redeemed for a complimentary honeymoon",
+          "Exclusive Perk: One (1) VIP and one (1) regular reserved parking",
+          "Exclusive Perk: Spa cash voucher worth RM100 nett",
+          "Exclusive Perk: Complimentary wireless Internet access",
+          "Personalize Your Wedding: Stage backdrop - Fabric drapes with fairy lights and customized monograms",
+          "Personalize Your Wedding: Reception table decoration - Themed decorative items",
+          "Personalize Your Wedding: Ballroom decor and floral arrangements - Aisle pedestal floral stands, Assorted rose petals for the aisle, Wedding cake display",
+          "Personalize Your Wedding: Main table ornaments",
+          "Personalize Your Wedding: Guest table ornaments"
+        ],
+        "guestMin": 150,
+        "guestMax": 10,
+        "brochureUrl": null
+      },
+      {
+        "name": "Premium Wedding Package",
+        "price": 2188,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Price is nett per table of 10 persons. Minimum of 15 tables.",
+        "includes": [
+          "Use of Esplanade Ballroom for up to four (4) hours",
+          "Choose from a selection of 88 menu items",
+          "Free flow premium Chinese tea and two (2) types of soft drinks",
+          "One hour of pre-event cocktails with two (2) type of soft drinks and three (3) types of signature DoubleTree canapes",
+          "Two (2) bottles of non-alcoholic sparkling juice for toasting",
+          "Mock wedding cake",
+          "Complimentary use of PA system with three (3) projectors and screens, two (2) units of microphones, basic sound system and stage lighting",
+          "Full selection of linen in various colours to suit your theme",
+          "Red carpet",
+          "Exclusive Perk: Complimentary food tasting for 10 persons, upon payment of 10% deposit",
+          "Exclusive Perk: Signature DoubleTree Chocolate Chip Cookies as wedding favors",
+          "Exclusive Perk: One (1) night stay in King Terrace Suite with sea view inclusive of breakfast. Upgrade to Presidential Suite with minimum 25 tables and above, subject to availability",
+          "Exclusive Perk: Preferential room rates for friends and family with a minimum booking of 10 rooms",
+          "Exclusive Perk: 10x Hilton Honors Wedding Incentive Points to be redeemed for a complimentary honeymoon",
+          "Exclusive Perk: Two (2) VIP and two (2) regular reserved parking",
+          "Exclusive Perk: Complimentary usage of Tea Ceremony room",
+          "Exclusive Perk: Complimentary one (1) bottle of house wine per confirmed table",
+          "Exclusive Perk: Full corkage waiver for wine and liquor",
+          "Exclusive Perk: Complimentary 1st Anniversary Celebration dining voucher for two (2) persons with special table decorations",
+          "Exclusive Perk: Spa cash voucher worth RM250 nett",
+          "Exclusive Perk: Complimentary wireless Internet access",
+          "Personalize Your Wedding: Stage backdrop - Fabric drapes with fairy lights and customized monograms",
+          "Personalize Your Wedding: Reception table decoration - Themed decorative items, Exclusive guest book",
+          "Personalize Your Wedding: Ballroom decor and floral arrangements - Exclusive welcome board, Aisle pedestal floral stands, Assorted rose petals for the aisle, Wedding cake display",
+          "Personalize Your Wedding: Main table ornaments",
+          "Personalize Your Wedding: Guest table ornaments"
+        ],
+        "guestMin": 150,
+        "guestMax": 10,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 150,
+      "max": 320
+    }
+  },
+  {
+    "id": "c5208881-16d2-4cbf-a1c4-dfc619774c69",
+    "name": "G Hotel Kelawai",
+    "slug": "g-hotel-kelawai",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "George Town",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-kelawai/00/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-kelawai/01/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-kelawai/02/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-kelawai/03/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-kelawai/04/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-kelawai/05/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-kelawai/06/high.webp"
+      }
+    ],
+    "description": "G Hotel Kelawai is a modern hotel in the heart of George Town, Penang, offering wedding celebrations ranging from full Chinese banquet dinners with an 8-course set menu to intimate rooftop ceremonies. The Happiness and Love banquet packages are priced per table of 10 pax and include an experienced Chef's Chinese set menu, tiered wedding cake, champagne fountain, tea ceremony essentials, bridal main table decor, complimentary Suite/Suite Room night stay and more. For couples wanting something unique, 'Weddings On The Horizon' takes place at Beyond Gravity on Level 25 - a rooftop bar hundreds of feet above ground with breathtaking views of the city, sea and hills, featuring a hexagon floral arch, white carpet aisle and premium canapes for 30 pax.",
+    "createdAt": "2026-07-17T18:26:33.964Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "2, Lorong Maktab, 10250 George Town, Penang",
+    "postCode": "10250",
+    "googlePlaceId": "ChIJT_-vTwHDSjAROYc7--YwMNw",
+    "latitude": "5.4355512",
+    "longitude": "100.3099313",
+    "googlePlaceName": "G Hotel Kelawai",
+    "neighbourhood": null,
+    "googleMapsLink": null,
+    "wazeLink": null,
+    "googleRating": null,
+    "googleTotalReviews": null,
+    "metaDescription": null,
+    "whatsappNumber": "+604 238 6000",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'10':48B '25':94B '30':124B '8':29B 'aisl':119B 'arch':116B 'banquet':25B,41B 'bar':97B 'beyond':90B 'breathtak':104B 'bridal':67B 'cake':61B 'canap':122B 'carpet':118B 'celebr':20B 'ceremoni':36B,65B 'champagn':62B 'chef':54B 'chines':24B,56B 'citi':108B 'complimentari':71B 'coupl':79B 'cours':30B 'decor':70B 'dinner':26B 'essenti':66B 'experienc':53B 'featur':112B 'feet':100B 'floral':115B 'fountain':63B 'full':23B 'g':1A,4B 'georg':15B,126C 'graviti':91B 'ground':102B 'happi':38B 'heart':13B 'hexagon':114B 'hill':111B 'horizon':86B 'hotel':2A,5B,10B 'hundr':98B 'includ':51B 'intim':34B 'kelawai':3A,6B 'level':93B 'love':40B 'main':68B 'menu':32B,58B 'modern':9B 'night':74B 'offer':18B 'packag':42B 'pax':49B,125B 'penang':17B,128C 'per':45B 'place':88B 'premium':121B 'price':44B 'rang':21B 'rooftop':35B,96B 'room':73B 'sea':109B 'set':31B,57B 'someth':81B 'stay':75B 'suite/suite':72B 'tabl':46B,69B 'take':87B 'tea':64B 'tier':59B 'town':16B,127C 'uniqu':82B 'view':105B 'want':80B 'wed':19B,60B,83B 'white':117B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "liveAt": "2026-07-18T04:10:23.223Z",
+    "updatedAt": "2026-07-18T08:10:24.938Z",
+    "spaces": [
+      {
+        "id": "f1591c8c-3e03-4577-a3c8-341395abe427",
+        "name": "Beyond Gravity (Level 25 Rooftop Bar)",
+        "type": "rooftop bar / ceremony space",
+        "indoorOutdoor": "outdoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": 30
+      },
+      {
+        "id": "970b5d08-d038-4f81-b5cd-737611f71b01",
+        "name": "Grand Ballroom / Banquet Hall",
+        "type": "ballroom",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": 200,
+        "capacitySeatedMax": null
+      }
+    ],
+    "packages": [
+      {
+        "name": "Happiness Wedding Package",
+        "price": 2588,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Minimum of 20 tables. Surcharge applies on eve and public holidays. All prices are nett. T&C apply. Subject to Malaysia's government Post Pandemic SOP by Ministry of Health on meetings & events.",
+        "includes": [
+          "Sumptuous 8-course Chinese set menu created by experienced Chef",
+          "Free flow of Chinese tea",
+          "Free flow of fruit punch",
+          "Complimentary pre-cocktail tidbits",
+          "Complimentary 1 bottle of red/white wine per table of 10 persons",
+          "5-tier wedding cake for cake cutting ceremony",
+          "Champagne fountain set-up with 2 bottles of sparkling juice for toasting",
+          "Complimentary usage of LED screen",
+          "Special flowers arrangement at the main entrance",
+          "Red carpet aisle with special flower display for wedding march",
+          "Fresh flowers for all dining tables (one stalk per table)",
+          "Flowers for the reception table for the extra touch",
+          "Special design chair decor for bridal main table",
+          "Contemporary yet elegantly designed set-up for bridal main table with fresh flowers",
+          "Complimentary food tasting for 10 persons upon receipt of deposit payment",
+          "Choice of contemporary designed invitation cards excluding printing - 50% of total number of guests",
+          "Exclusive delectable cake giveaway for your guests",
+          "Special room rates for wedding guests",
+          "Complimentary guest's signature book",
+          "Complimentary Chinese red dates tea",
+          "Complimentary usage of tea set",
+          "Capturing the moment at Hotel's premises can be arranged",
+          "Exclusive VIP parking lot for bridal car at the Hotel Facade - 3 units",
+          "Complimentary 2 luxurious night stay at Suite Room with 2 breakfasts",
+          "Complimentary 1 one bottle of wine and fruit platter at Bridal Suite"
+        ],
+        "guestMin": 200,
+        "guestMax": 10,
+        "brochureUrl": null
+      },
+      {
+        "name": "Love Wedding Package",
+        "price": 2588,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Package valid for 10 tables only (i.e. 100 pax). Surcharge applies on eve and public holidays. All prices are nett. T&C apply. Subject to Malaysia's government Post Pandemic SOP by Ministry of Health on meetings & events.",
+        "includes": [
+          "Sumptuous 8-course Chinese set menu created by experienced Chef",
+          "Free flow of Chinese tea",
+          "Free flow of fruit punch",
+          "Complimentary pre-cocktail tidbits",
+          "Complimentary 1 bottle of red/white wine per table of 10 persons",
+          "5-tier wedding cake for cake cutting ceremony",
+          "Champagne fountain set-up with 2 bottles of sparkling juice for toasting",
+          "Complimentary usage of multimedia projector",
+          "Special flowers arrangement at the main entrance",
+          "Red carpet",
+          "Fresh flowers for all dining tables (one stalk per table)",
+          "Flowers for the reception table for the extra touch",
+          "Special design chair decor for bridal main table",
+          "Contemporary yet elegantly designed set-up for bridal main table with fresh flowers",
+          "A palatable food tasting feast for 10 persons at 50% discount",
+          "Complimentary wedding invitation cards excluding printing - 50% of total number of guests",
+          "Exclusive delectable cake giveaway for your guests",
+          "Special room rates for wedding guests",
+          "Complimentary Chinese red dates tea",
+          "Complimentary usage of tea set",
+          "Capturing the moment at Hotel's premises can be arranged",
+          "Exclusive VIP parking lot for bridal car at the Hotel facade - 1 unit",
+          "Complimentary 1 luxurious night stay at Suite Room with 2 breakfasts"
+        ],
+        "guestMin": 100,
+        "guestMax": 100,
+        "brochureUrl": null
+      },
+      {
+        "name": "Weddings On The Horizon (Beyond Gravity Level 25 Rooftop Ceremony)",
+        "price": 7000,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "RM7,000 nett, package for 30 pax. Intimate rooftop wedding ceremony held at Beyond Gravity, Level 25 rooftop bar. T&C apply.",
+        "includes": [
+          "Hexagon arch with fresh flower decoration",
+          "4 side stands made with live flowers",
+          "White carpet",
+          "Crisp rose petals",
+          "Covered chairs with sash",
+          "PA system with soft music",
+          "3 types of premium canapes for 30 pax",
+          "Free flow of fruit punch"
+        ],
+        "guestMin": 30,
+        "guestMax": 30,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 200,
+      "max": 200
+    }
+  },
+  {
+    "id": "2c1d0b5c-7d46-4179-b869-38fbb771a9b3",
+    "name": "The Granite Luxury Hotel Penang",
+    "slug": "granite-hotel-penang",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "George Town",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/00/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/01/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/02/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/03/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/04/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/05/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/06/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/07/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/08/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/09/high.webp"
+      }
+    ],
+    "description": "The Skye Event Space is the rooftop event venue of The Granite Luxury Hotel Penang, strategically located in the centre of George Town with perfect views of the iconic Komtar. Spanning around 4,000 sq ft, it combines a fully decorated main hall, a fully decorated second hall, a garden area and an iconic glasshouse. In the glasshouse, elegant chandeliers cast a sophisticated glow, while the main hall is transformed into a dreamland with butterfly lighting, exquisite arches, and flowers draping the walls and ceiling. Every detail is meticulously crafted to create a warm and magical atmosphere. The space is customizable to meet the needs of any occasion — weddings, ROM, birthdays, school reunions, seminars/workshops and corporate events. Three space-usage packages are offered (Essential 1, Essential 2 and Ultimate) with maximum capacities of 50, 80 and 180 pax respectively.",
+    "createdAt": "2026-07-17T18:26:53.419Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "191, Jalan Magazine, George Town, 10300 Penang",
+    "postCode": "10300",
+    "googlePlaceId": "ChIJqeYYsZXDSjARbGqhzsWnEH4",
+    "latitude": "5.4131355999999995",
+    "longitude": "100.3294196",
+    "googlePlaceName": "The Granite Luxury Hotel Penang",
+    "neighbourhood": null,
+    "googleMapsLink": null,
+    "wazeLink": null,
+    "googleRating": null,
+    "googleTotalReviews": null,
+    "metaDescription": null,
+    "whatsappNumber": "016-451 8232",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'000':39B '1':131B '180':143B '2':133B '4':38B '50':140B '80':141B 'arch':83B 'area':56B 'around':37B 'atmospher':102B 'birthday':116B 'butterfli':80B 'capac':138B 'cast':66B 'ceil':90B 'centr':25B 'chandeli':65B 'combin':43B 'corpor':121B 'craft':95B 'creat':97B 'customiz':106B 'decor':46B,51B 'detail':92B 'drape':86B 'dreamland':78B 'eleg':64B 'essenti':130B,132B 'event':8B,13B,122B 'everi':91B 'exquisit':82B 'flower':85B 'ft':41B 'fulli':45B,50B 'garden':55B 'georg':27B,146C 'glasshous':60B,63B 'glow':69B 'granit':2A,17B 'hall':48B,53B,73B 'hotel':4A,19B 'icon':34B,59B 'komtar':35B 'light':81B 'locat':22B 'luxuri':3A,18B 'magic':101B 'main':47B,72B 'maximum':137B 'meet':108B 'meticul':94B 'need':110B 'occas':113B 'offer':129B 'packag':127B 'pax':144B 'penang':5A,20B,148C 'perfect':30B 'respect':145B 'reunion':118B 'rom':115B 'rooftop':12B 'school':117B 'second':52B 'seminars/workshops':119B 'skye':7B 'sophist':68B 'space':9B,104B,125B 'space-usag':124B 'span':36B 'sq':40B 'strateg':21B 'three':123B 'town':28B,147C 'transform':75B 'ultim':135B 'usag':126B 'venu':14B 'view':31B 'wall':88B 'warm':99B 'wed':114B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "liveAt": "2026-07-18T04:10:23.223Z",
+    "updatedAt": "2026-07-18T08:10:27.057Z",
+    "spaces": [
+      {
+        "id": "3d77f8ef-21c8-4b49-a10f-af5bd21b0ac4",
+        "name": "The Skye Event Space",
+        "type": "rooftop event space",
+        "indoorOutdoor": "both",
+        "area": null,
+        "capacitySeatedMin": 50,
+        "capacitySeatedMax": 180
+      },
+      {
+        "id": "851519bf-6138-4a57-a096-5ebe6baea006",
+        "name": "Main Hall",
+        "type": "ballroom / event hall",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": null
+      },
+      {
+        "id": "79070e5c-8999-48ff-88f7-91e439e44d31",
+        "name": "Second Hall",
+        "type": "event hall",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": null
+      },
+      {
+        "id": "246c406e-92b9-440d-b933-2eecc95487e2",
+        "name": "Glasshouse",
+        "type": "glasshouse",
+        "indoorOutdoor": "both",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": null
+      },
+      {
+        "id": "17c4d41b-eeea-4a6d-b18c-77f7481bcba4",
+        "name": "Skye Garden",
+        "type": "garden",
+        "indoorOutdoor": "outdoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": null
+      }
+    ],
+    "packages": [
+      {
+        "name": "Skye Essential 1 (Essential Package - Half Hall)",
+        "price": 12888,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "Half Hall package. Maximum capacity 50 pax. Overview table confirms: Second Hall, Skye Garden, Glasshouse; Table with Linen, Tiffany Chairs, PA System.",
+        "includes": [
+          "Area usage: Second Hall + Skye Garden + Glasshouse",
+          "Event space usage for 6 hours",
+          "Usage of PA System",
+          "Tiffany Chairs & Tables with Table Cloth (Table with Linen)"
+        ],
+        "guestMin": null,
+        "guestMax": 50,
+        "brochureUrl": null
+      },
+      {
+        "name": "Skye Essential 2 (Essential Package - Half Hall)",
+        "price": 13888,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "Half Hall package. Maximum capacity 80 pax. Overview table confirms: Main Hall (labelled 'Mall Hall'), Skye Garden, Glasshouse; Table with Linen, Tiffany Chairs, LED Screen, PA System.",
+        "includes": [
+          "Area usage: Main Hall + Glass House + Garden",
+          "Event space usage for 6 hours",
+          "Usage of LED Screen & PA System",
+          "Tiffany Chairs & Tables with Table Cloth (Table with Linen)"
+        ],
+        "guestMin": null,
+        "guestMax": 80,
+        "brochureUrl": null
+      },
+      {
+        "name": "Skye Ultimate (Ultimate Package)",
+        "price": 15888,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "Maximum capacity 180 pax. Uses all four spaces. Includes complimentary items not offered in Essential packages.",
+        "includes": [
+          "Area usage: Main Hall + Glasshouse + Skye Garden + Second Hall",
+          "Event space usage for 6 hours",
+          "Usage of LED Screen & PA System (with Soundman & 2 Wireless Microphones)",
+          "Tiffany Chairs with Ribbon & Tables with Table Cloth (Table with Linen)",
+          "Complimentary: 2 Suites Room for 1 Night",
+          "Complimentary: Wedding Decoration Set-up",
+          "Complimentary: Wedding Mock Cake",
+          "Complimentary: Champagne Tower"
+        ],
+        "guestMin": null,
+        "guestMax": 180,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 50,
+      "max": 180
+    }
+  },
+  {
+    "id": "5b3c68c2-8260-4c0b-bb91-cf01acacda41",
+    "name": "The Prestige Hotel Penang",
+    "slug": "prestige-hotel-penang",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "George Town",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/prestige-hotel-penang/00/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/prestige-hotel-penang/01/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/prestige-hotel-penang/02/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/prestige-hotel-penang/03/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/prestige-hotel-penang/04/high.webp"
+      }
+    ],
+    "description": "The Prestige Hotel is a design hotel in the heart of George Town, Penang (a member of Design Hotels / Marriott Bonvoy), where minimalist elegance, heritage charm and modern romance come together. Its minimalist and modern-heritage wedding package pairs contemporary sophistication with subtle nostalgic details, creating an effortlessly photogenic atmosphere from first look to final toast. Iconic spaces include the light-filled Glasshouse-style corridors, an iconic gazebo and pool bar, and the Angier & Borden ballroom on Level 4. The venue is crafted to suit both classic ceremonies and contemporary celebrations, honouring tradition while elevating modernity. Wedding offerings span an international-buffet or Western 5-course dinner/lunch reception, a standalone ROM (Registration of Marriage / solemnisation) ceremony package beneath the gazebo, a combined ROM + wedding reception package, and an intimate marriage-proposal package. The property is 100% non-smoking, prohibits durian/mangosteen and pets, and live music in function rooms is permitted until 11.00pm.",
+    "createdAt": "2026-07-17T18:27:06.223Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "8, Gat Lebuh Gereja, George Town, 10300 Penang",
+    "postCode": "10300",
+    "googlePlaceId": "ChIJpR8nyenDSjARKNtv-set64A",
+    "latitude": "5.4163622",
+    "longitude": "100.3428866",
+    "googlePlaceName": "The Prestige Hotel Penang",
+    "neighbourhood": null,
+    "googleMapsLink": null,
+    "wazeLink": null,
+    "googleRating": null,
+    "googleTotalReviews": null,
+    "metaDescription": null,
+    "whatsappNumber": "+604 217 5888",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'100':145B '11.00':162B '4':86B '5':113B 'angier':81B 'atmospher':55B 'ballroom':83B 'bar':78B 'beneath':126B 'bonvoy':25B 'borden':82B 'buffet':110B 'celebr':98B 'ceremoni':95B,124B 'charm':30B 'classic':94B 'combin':130B 'come':34B 'contemporari':45B,97B 'corridor':72B 'cours':114B 'craft':90B 'creat':51B 'design':10B,22B 'detail':50B 'dinner/lunch':115B 'durian/mangosteen':150B 'effortless':53B 'eleg':28B 'elev':102B 'fill':68B 'final':60B 'first':57B 'function':157B 'gazebo':75B,128B 'georg':16B,164C 'glasshous':70B 'glasshouse-styl':69B 'heart':14B 'heritag':29B,41B 'honour':99B 'hotel':3A,7B,11B,23B 'icon':62B,74B 'includ':64B 'intern':109B 'international-buffet':108B 'intim':137B 'level':85B 'light':67B 'light-fil':66B 'live':154B 'look':58B 'marriag':122B,139B 'marriage-propos':138B 'marriott':24B 'member':20B 'minimalist':27B,37B 'modern':32B,40B,103B 'modern-heritag':39B 'music':155B 'non':147B 'non-smok':146B 'nostalg':49B 'offer':105B 'packag':43B,125B,134B,141B 'pair':44B 'penang':4A,18B,166C 'permit':160B 'pet':152B 'photogen':54B 'pm':163B 'pool':77B 'prestig':2A,6B 'prohibit':149B 'properti':143B 'propos':140B 'recept':116B,133B 'registr':120B 'rom':119B,131B 'romanc':33B 'room':158B 'smoke':148B 'solemnis':123B 'sophist':46B 'space':63B 'span':106B 'standalon':118B 'style':71B 'subtl':48B 'suit':92B 'toast':61B 'togeth':35B 'town':17B,165C 'tradit':100B 'venu':88B 'wed':42B,104B,132B 'western':112B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "liveAt": "2026-07-18T04:10:23.223Z",
+    "updatedAt": "2026-07-18T08:10:23.328Z",
+    "spaces": [
+      {
+        "id": "5efeb263-c537-43ea-a0f7-730fd0163ff8",
+        "name": "Angier & Borden Ballroom (Level 4)",
+        "type": "ballroom",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": 50,
+        "capacitySeatedMax": 72
+      },
+      {
+        "id": "e9a0efaf-1bc5-469b-b428-67ca21001081",
+        "name": "The Gazebo / Gazebo Bar by the Pool",
+        "type": "outdoor gazebo / poolside bar",
+        "indoorOutdoor": "outdoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": null
+      },
+      {
+        "id": "e89d9592-4b27-4156-b380-4bcc73954c19",
+        "name": "Function Room",
+        "type": "function room",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": null,
+        "capacitySeatedMax": null
+      }
+    ],
+    "packages": [
+      {
+        "name": "Wedding Package with Dinner/Lunch (International Buffet)",
+        "price": 268,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 268,
+        "description": "RM268.00+ (RM289.44 nett) per person. Prices are subject to 8% Sales & Service Tax (the +). Sample event: 2026, 6.00PM-10.00PM, round-table setup, Angier & Borden Level 4, 72 pax (max 72 pax). Set at 10 pax per table implied by standard round tables.",
+        "includes": [
+          "International Buffet dinner/lunch (minimum 50 pax)",
+          "Option to top up RM30+ per person for Western 5-Course Dinner/Lunch",
+          "Specialty decorated wedding arch and walkway",
+          "Champagne fountain with two (2) bottles of non-alcoholic sparkling juice for wedding toast",
+          "Free-flowing signature mocktail throughout the ceremony",
+          "Two (2) VIP car parks for the bridal car",
+          "Two (2) tier wedding cakes for the cake-cutting ceremony",
+          "Standard in-house PA system for speeches and background music",
+          "Romantic melody of the 'Wedding March' to welcome the Bride and Groom",
+          "One (1) night stay in Premier Deluxe for the newlyweds inclusive of a bottle of wine and breakfasts",
+          "Special room rate for family and friends"
+        ],
+        "guestMin": 50,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "ROM Package (Registration of Marriage / Solemnisation)",
+        "price": 8888,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "RM8,888.00+ (RM9,599.04 nett) per session. Solemnisation ceremony held beneath the iconic gazebo. Refreshment corner covers 30 guests. Marketing brochure titles this 'ROM Ceremony Package'.",
+        "includes": [
+          "Refreshment corner consisting of three (3) items for 30 persons",
+          "Romantic melody of the 'Wedding March' to welcome the Bride and Groom",
+          "Specialty decorated wedding arch and walkway",
+          "Champagne fountain with two (2) bottles of non-alcoholic sparkling juice for wedding toast",
+          "Free-flowing signature mocktail throughout the ceremony",
+          "Deluxe hand bouquet for the bride, button-hole for the Groom & two (2) corsages for parents of Bride & Groom",
+          "Two (2) VIP car parks for the bridal car",
+          "Two (2) tier wedding cakes for the cake-cutting ceremony",
+          "Standard in-house PA system for the speeches and background music",
+          "One (1) night stay in Premier Deluxe for the newlyweds inclusive of a bottle of wine and breakfasts",
+          "Special room rates for the friends and family",
+          "Floral & Decor: fresh flower arch, aisle decor, bridal rose bouquet, boutonnieres, registration table centerpiece"
+        ],
+        "guestMin": null,
+        "guestMax": 30,
+        "brochureUrl": null
+      },
+      {
+        "name": "Wedding Reception Package (Western 5-Course, with decoration)",
+        "price": null,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": null,
+        "description": "Marketing brochure (R6) presents this reception package 'With decoration' but does not state a per-person base price on this page. The 'Top-up: RM30+ per person for Western 5-course meal' implies the base is the international buffet rate (RM268+ per person in the accompanying quotation) with a RM30+ upgrade to Western 5-course. No standalone price printed on this brochure page - price ambiguous, do not invent.",
+        "includes": [
+          "Western 5-course set lunch or dinner (minimum 50 persons)",
+          "'Wedding March' entrance melody to welcome bride & groom",
+          "Champagne fountain with 2 bottles of non-alcoholic sparkling juice",
+          "Free-flow signature mocktail",
+          "2 VIP car parks for bridal cars",
+          "2-tier wedding cake for cake-cutting ceremony",
+          "In-house PA system for speeches & background music",
+          "One-night Premier Deluxe stay with wine & breakfast for newlyweds",
+          "Special room rates for family & friends",
+          "Top-up: RM30+ per person for Western 5-course meal",
+          "Decor - Round Table: flower arch, aisle stands, VIP centerpiece, guest table centerpiece, reception table posy",
+          "Decor - Long Table: flower arch, aisle stands, long VIP centerpiece, full table decor, reception table posy",
+          "Cake flavours: red velvet, chocolate, lemon, hummingbird cake, carrot walnut, vanilla/chocolate buttercream"
+        ],
+        "guestMin": 50,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "ROM + Wedding Reception Package",
+        "price": null,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": null,
+        "description": "Combined ROM ceremony + wedding reception. Add-on meal options: International buffet lunch or dinner at RM168.00+ per person (minimum 50 pax); 5-Course Western Set lunch or dinner at RM198+ per person (brochure text truncated as 'RM 198,' - interpreted as RM198+ per person, VERIFY). No base package price for the combined package itself is printed; meal is the add-on driving the per-person cost.",
+        "includes": [
+          "Refreshment corner (3 items for 30 guests)",
+          "'Wedding March' entrance melody to welcome bride & groom",
+          "Champagne fountain with 2 bottles of non-alcoholic sparkling juice",
+          "Free-flow signature mocktail",
+          "Deluxe hand bouquet for the bride, button-hole for the groom & 2 corsages for both parents",
+          "2 VIP car parks for bridal cars",
+          "2-tier wedding cake for cake-cutting ceremony",
+          "In-house PA system for speeches & background music",
+          "One-night Premier Deluxe stay with wine & breakfast for newlyweds",
+          "Special room rates for family & friends",
+          "Top-up: RM30+ per person for Western 5-course meal",
+          "Decor - Round Table: flower arch, aisle stands, VIP centerpiece, guest table centerpiece, reception table posy",
+          "Decor - Long Table: flower arch, aisle stands, long VIP centerpiece, full table decor, reception table posy",
+          "Cake flavours: red velvet, chocolate, lemon, hummingbird cake, carrot walnut, vanilla/chocolate buttercream"
+        ],
+        "guestMin": 50,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "Marriage Proposal Package",
+        "price": null,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "Intimate marriage-proposal setting. No price printed in brochure.",
+        "includes": [
+          "Free-flow of signature mocktails with titbits",
+          "In-house PA system for speeches & background music",
+          "Usage of Gazebo or function room",
+          "Proposal decoration"
+        ],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 50,
+      "max": 72
+    }
+  },
+  {
+    "id": "624c24b5-78e8-4ff4-aed1-5df547ac64c3",
+    "name": "Ixora Hotel Penang",
+    "slug": "ixora-hotel-penang",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "Perai",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/ixora-hotel-penang/00/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/ixora-hotel-penang/01/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/ixora-hotel-penang/02/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/ixora-hotel-penang/03/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/ixora-hotel-penang/04/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/ixora-hotel-penang/05/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/ixora-hotel-penang/06/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/ixora-hotel-penang/07/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/ixora-hotel-penang/08/high.webp"
+      }
+    ],
+    "description": "Ixora Hotel Penang is a full-service wedding venue in Perai offering banquet packages across four wedding traditions — Chinese (Baba & Nyonya-inspired and Grand Ballroom), Baba Nonya / Peranakan, Malay and Indian. Its grandly designed Grand Ballroom accommodates celebrations of up to 800 persons and the more intimate Baba & Nyonya Hall seats up to 380 persons. Chinese weddings feature an 8-course menu, 5-tier cake, champagne fountain and tea-ceremony arrangements; Malay weddings centre on the grand procession and 'bersanding' ceremonial seating on the dais witnessed by up to 800 guests; and Indian weddings offer extravagant celebrations with tempting South-Asian menus. All packages include Ixora-style table settings, multimedia projectors, LED personalised signage, a complimentary Bridal Suite night stay with breakfast, and covered on-site parking. Packages are priced per table of 10 persons and all rates attract 8% government tax. Valid until 31 December 2026.",
+    "createdAt": "2026-07-17T18:27:20.930Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "3096 Jalan Baru, Bandar Perai Jaya, 13600 Perai, Penang",
+    "postCode": "13600",
+    "googlePlaceId": "ChIJTY7BaWPGSjARuYD5zhvlaok",
+    "latitude": "5.377911699999999",
+    "longitude": "100.3985156",
+    "googlePlaceName": "Ixora Hotel Penang",
+    "neighbourhood": null,
+    "googleMapsLink": null,
+    "wazeLink": null,
+    "googleRating": null,
+    "googleTotalReviews": null,
+    "metaDescription": null,
+    "whatsappNumber": "+60 4 382 8888",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'10':143B '2026':156B '31':154B '380':59B '5':68B '8':65B,149B '800':47B,96B 'accommod':42B 'across':19B 'arrang':77B 'asian':108B 'attract':148B 'baba':24B,31B,53B 'ballroom':30B,41B 'banquet':17B 'bersand':86B 'breakfast':130B 'bridal':125B 'cake':70B 'celebr':43B,103B 'centr':80B 'ceremoni':76B,87B 'champagn':71B 'chines':23B,61B 'complimentari':124B 'cours':66B 'cover':132B 'dai':91B 'decemb':155B 'design':39B 'extravag':102B 'featur':63B 'fountain':72B 'four':20B 'full':10B 'full-servic':9B 'govern':150B 'grand':29B,38B,40B,83B 'guest':97B 'hall':55B 'hotel':2A,5B 'includ':112B 'indian':36B,99B 'inspir':27B 'intim':52B 'ixora':1A,4B,114B 'ixora-styl':113B 'led':120B 'malay':34B,78B 'menu':67B 'menus':109B 'multimedia':118B 'night':127B 'nonya':32B 'nyonya':26B,54B 'nyonya-inspir':25B 'offer':16B,101B 'on-sit':133B 'packag':18B,111B,137B 'park':136B 'penang':3A,6B,158C 'per':140B 'perai':15B,157C 'peranakan':33B 'person':48B,60B,144B 'personalis':121B 'price':139B 'process':84B 'projector':119B 'rate':147B 'seat':56B,88B 'servic':11B 'set':117B 'signag':122B 'site':135B 'south':107B 'south-asian':106B 'stay':128B 'style':115B 'suit':126B 'tabl':116B,141B 'tax':151B 'tea':75B 'tea-ceremoni':74B 'tempt':105B 'tier':69B 'tradit':22B 'valid':152B 'venu':13B 'wed':12B,21B,62B,79B,100B 'wit':92B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "liveAt": "2026-07-18T04:10:23.223Z",
+    "updatedAt": "2026-07-18T08:10:26.091Z",
+    "spaces": [
+      {
+        "id": "e0da1db7-8dfc-4b64-a838-cabddb31d693",
+        "name": "The Grand Ballroom",
+        "type": "ballroom",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": 400,
+        "capacitySeatedMax": 800
+      },
+      {
+        "id": "e3418c4c-3caa-4824-8f4e-0d8b78318b48",
+        "name": "Baba & Nyonya Hall",
+        "type": "ballroom",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": 200,
+        "capacitySeatedMax": 380
+      }
+    ],
+    "packages": [
+      {
+        "name": "Destiny Package (Chinese â Baba & Nyonya Hall)",
+        "price": 1088,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Baba & Nyonya Hall, minimum 20 tables. Mon-Thu 10% discount; listed price applies Fri/Sat/Sun, eve of and public holidays. All rates attract 8% government tax. Valid until 31 Dec 2026.",
+        "includes": [
+          "Chinese 8-course menu prepared by experienced chefs",
+          "Free flow of Chinese tea and cordial drink",
+          "Ixora wedding favours for all guests",
+          "Complimentary food tasting session for 6 persons at your choice of day",
+          "Customised selection of wines at attractive prices from wine list",
+          "Corkage fees apply",
+          "First course food presentation",
+          "5-tier wedding cake for cake cutting ceremony",
+          "Champagne fountain set-up with 2 bottles of sparkling juice for toasting ceremony",
+          "Personalise name of newly-weds on giant LED screen",
+          "Ixora style table setting and flowers centrepiece for bridal main table",
+          "Selection of Ixora table cloths with underlay and chair covers for all dining tables",
+          "Floral wedding arch at entrance",
+          "Red carpet with flower stands display for wedding march",
+          "Flower decoration for reception table and photo display area",
+          "Complimentary usage of 2 multimedia projectors",
+          "Complimentary 5 personalized colour photos on LED signage",
+          "Exclusive 1 VIP parking lot for the bridal car",
+          "Special rates for guests' accommodation for the wedding night",
+          "On-site covered parking facilities for guests at flat rate",
+          "Tea Ceremony: complimentary use of private room for 2 hours (advance booking essential)",
+          "Complimentary usage of the tea set",
+          "Complimentary 1 night stay at Bridal Suite with breakfast for 2 persons",
+          "Fresh flower arrangement in the Bridal Suite"
+        ],
+        "guestMin": 200,
+        "guestMax": 380,
+        "brochureUrl": null
+      },
+      {
+        "name": "Forever Package (Chinese â Baba & Nyonya Hall)",
+        "price": 1288,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Baba & Nyonya Hall, minimum 20 tables. Mon-Thu 10% discount; listed price applies Fri/Sat/Sun and (eve of) public holidays. 8% government tax.",
+        "includes": [
+          "Chinese 8-course menu prepared by experienced chefs",
+          "Free flow of Chinese tea",
+          "Free flow of fruit punch",
+          "Ixora wedding favours for all guests",
+          "Corkage fees apply",
+          "Complimentary 100 glasses of pre-dinner non-alcoholic drink, served with 2 types of titbits",
+          "Complimentary food tasting session for 8 persons at your choice of day",
+          "Customised selection of wines at attractive prices from wine list",
+          "First course food presentation",
+          "5-tier wedding cake for cake cutting ceremony",
+          "Champagne fountain set-up with 2 bottles of sparkling juice for toasting ceremony",
+          "Personalise name of newly-weds on giant LED screen",
+          "Ixora style table setting and floral centrepiece for bridal main table",
+          "Selection of Ixora table cloths with underlay and chair covers for all dining tables",
+          "Themed wedding Arch with flower display at entrance",
+          "Red carpet with flower stands display for wedding march",
+          "Flower decoration for reception table and photo display area",
+          "Complimentary usage of 2 multimedia projectors",
+          "Complimentary 10 personalized colour photos on LED signage",
+          "Unique photo booth",
+          "Complimentary Ixora wedding invitation cards capped at 50% of total guaranteed guests (printing of insert not included)",
+          "Exclusive 1 VIP parking lot for the bridal car",
+          "Special rates for guests' accommodation on the wedding night",
+          "On-site covered parking facilities for guests at flat rate",
+          "Tea Ceremony: complimentary use of private room for 2 hours (advance booking essential)",
+          "Complimentary usage of the tea set",
+          "Complimentary 1 night stay at Bridal Suite with breakfast for 2 persons",
+          "RM30.00 room service credit (valid during wedding stay at Bridal Suite only)",
+          "Fresh flower and fruit basket arrangement in the Bridal Suite"
+        ],
+        "guestMin": 200,
+        "guestMax": 380,
+        "brochureUrl": null
+      },
+      {
+        "name": "Eternity Package (Chinese â Baba & Nyonya Hall)",
+        "price": 1588,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Baba & Nyonya Hall, minimum 20 tables. Mon-Thu 10% discount; listed price applies Fri/Sat/Sun and (eve of) public holidays. 8% government tax.",
+        "includes": [
+          "Chinese 8-course menu prepared by experienced chefs",
+          "Free flow of Chinese tea",
+          "Free flow of fruit punch or chrysanthemum tea",
+          "Ixora wedding favours for all guests",
+          "Corkage waived for a bottle of wine or a bottle of 750ml classic liquor per table",
+          "Complimentary 100 glasses of pre-dinner mocktails, served with tidbits",
+          "Complimentary food tasting session for 10 persons at your choice of day",
+          "Customised selection of wines at attractive prices from a wine list",
+          "First course food presentation",
+          "5-tier wedding cake for cake cutting ceremony",
+          "Champagne fountain set-up with 2 bottles of sparkling juice for toasting ceremony",
+          "Elegant stage decor with personalise name of newly-weds",
+          "Ixora style table setting and floral centrepiece for bridal main table",
+          "Flower for all dining tables",
+          "Selections of Ixora table cloths with underlay and chair covers for all dining tables",
+          "Elegant wedding arch at entrance",
+          "Red carpet with decoration for wedding march",
+          "Elegant wedding photo booth decor",
+          "Flower decoration for reception table and photo album display area",
+          "Complimentary 10 personalized colour photos on LED signage",
+          "Complimentary usage of 2 multimedia projectors",
+          "Complimentary Ixora wedding invitation cards capped at 50% of total guaranteed guests (printing of insert not included)",
+          "Exclusive 2 VIP parking lots for the bridal car",
+          "Special rates for wedding guests accommodation for the wedding night",
+          "On-site undercover parking facilities for guests at flat rate",
+          "Privileged After Party - 10% discount for Food & Beverage at The Straits Cafe & Lounge (available on wedding night 10.00pm - 12.00am)",
+          "Tea Ceremony: complimentary use of private room for 2 hours (pre-arranged essential)",
+          "Complimentary usage of the tea set",
+          "Special arrange of Chinese red dates tea for 10 guests",
+          "Complimentary 2 choice of snacks with coffee and tea",
+          "Complimentary 1 night stay at Honeymoon Executive Suite with breakfast for 2 persons",
+          "RM50 room service credit (valid during wedding stay in Honeymoon Executive Suite only)",
+          "Fresh flower, fruit basket and a bottle of sparkling wine arrangement in the Honeymoon Executive Suite"
+        ],
+        "guestMin": 200,
+        "guestMax": 380,
+        "brochureUrl": null
+      },
+      {
+        "name": "Destiny Package (Chinese â The Grand Ballroom)",
+        "price": 1088,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "The Grand Ballroom, minimum 40 tables. Mon-Thu 10% discount; listed price applies Fri/Sat/Sun and (eve of) public holidays. Surcharge on festive seasons and eve of festive. 8% government tax.",
+        "includes": [
+          "Chinese 8-course menu prepared by experienced chefs",
+          "Free flow of Chinese tea and cordial drink",
+          "Ixora wedding favours for all guests",
+          "Complimentary food tasting session for 6 persons at your choice of day",
+          "Customised selection of wines at attractive prices from wine list",
+          "Corkage fees apply",
+          "First course food presentation",
+          "5-tier wedding cake for cake cutting ceremony",
+          "Champagne fountain set-up with 2 bottles of sparkling juice for toasting ceremony",
+          "Personalise name of newly-weds on giant LED screen",
+          "Ixora style table setting and flowers centrepiece for bridal main table",
+          "Selection of Ixora table cloths with underlay and chair covers for all dining tables",
+          "Floral wedding arch at entrance",
+          "Red carpet with flower stands display for wedding march",
+          "Flower decoration for reception table and photo display area",
+          "Complimentary usage of 2 multimedia projectors",
+          "Complimentary 5 personalized colour photos on LED signage",
+          "Ceiling lighting on your choice of colour scheme",
+          "Complimentary Ixora wedding invitation cards capped at 50% of total guaranteed guests (printing of insert not included)",
+          "Exclusive 1 VIP parking lot for the bridal car",
+          "Special rates for guests' accommodation for the wedding night",
+          "On-site covered parking facilities for guests at flat rate",
+          "Tea Ceremony: complimentary use of private room for 2 hours (advance booking essential)",
+          "Complimentary usage of the tea set",
+          "Complimentary 1 night stay at Bridal Suite with breakfast for 2 persons",
+          "Fresh flower arrangement in the Bridal Suite"
+        ],
+        "guestMin": 400,
+        "guestMax": 800,
+        "brochureUrl": null
+      },
+      {
+        "name": "Forever Package (Chinese â The Grand Ballroom)",
+        "price": 1288,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "The Grand Ballroom, minimum 40 tables. Mon-Thu 10% discount; listed price applies Fri/Sat/Sun and (eve of) public holidays. 8% government tax.",
+        "includes": [
+          "Chinese 8-course menu prepared by experienced chefs",
+          "Free flow of Chinese tea",
+          "Free flow of fruit punch",
+          "Ixora wedding favours for all guests",
+          "Corkage waived for 20 bottles of wine",
+          "Corkage fees apply for additional bottles of alcohol",
+          "Complimentary 200 glasses of pre-dinner non-alcoholic drink, served with 2 types of titbits",
+          "Complimentary food tasting session for 8 persons at your choice of day",
+          "Customised selection of wines at attractive prices from wine list",
+          "First course food presentation",
+          "5-tier wedding cake for cake cutting ceremony",
+          "Champagne fountain set-up with 2 bottles of sparkling juice for toasting ceremony",
+          "Personalise name of newly-weds on giant LED screen",
+          "Ixora style table setting and floral centrepiece for bridal main table",
+          "Selection of Ixora table cloths with underlay and chair covers for all dining tables",
+          "Themed wedding Arch with flower display at entrance",
+          "Red carpet with flower stands display for wedding march",
+          "Flower decoration for reception table and photo display area",
+          "Complimentary usage of 2 multimedia projectors",
+          "Complimentary 10 personalized colour photos on LED signage",
+          "Ceiling lighting on your choice of colour scheme",
+          "Unique photo booth",
+          "Complimentary Ixora wedding invitation cards capped at 50% of total guaranteed guests (printing of insert not included)",
+          "Exclusive 1 VIP parking lot for the bridal car",
+          "Special rates for guests' accommodation on the wedding night",
+          "On-site covered parking facilities for guests at flat rate",
+          "Tea Ceremony: complimentary use of private room for 2 hours (advance booking essential)",
+          "Complimentary usage of the tea set",
+          "Complimentary 1 night stay at Bridal Suite with breakfast for 2 persons",
+          "RM30.00 room service credit (valid during wedding stay at Bridal Suite only)",
+          "Fresh flower and fruit basket arrangement in the Bridal Suite"
+        ],
+        "guestMin": 400,
+        "guestMax": 800,
+        "brochureUrl": null
+      },
+      {
+        "name": "Eternity Package (Chinese â The Grand Ballroom)",
+        "price": 1588,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "The Grand Ballroom, minimum 40 tables. Mon-Thu 10% discount; listed price applies Fri/Sat/Sun and (eve of) public holidays. 8% government tax.",
+        "includes": [
+          "Chinese 8-course menu prepared by experienced chefs",
+          "Free flow of Chinese tea",
+          "Free flow of fruit punch or chrysanthemum tea",
+          "Ixora wedding favours for all guests",
+          "Corkage waived for a bottle of wine or a bottle of 750ml classic liquor per table",
+          "Complimentary a barrel of Carlsberg draught beer",
+          "Complimentary 200 glasses of pre-dinner mocktails, served with 2 types of canape",
+          "Complimentary food tasting session for 10 persons at your choice of day",
+          "Customised selection of wines at attractive prices from wine list",
+          "First course food presentation",
+          "5-tier wedding cake for cake cutting ceremony",
+          "Champagne fountain set-up with 2 bottles of sparkling juice for toasting ceremony",
+          "Elegant Stage Decor with personalise name of newly-weds on giant LED screen",
+          "Ixora style table setting and flowers centrepiece for bridal main table",
+          "Selection of Ixora table cloths with underlay and chair covers for all dining tables",
+          "Elegant Wedding Arch with flower display at entrance",
+          "Red carpet with elegant flower stands display for wedding march",
+          "Flower decoration for reception table and photo display area",
+          "Complimentary usage of 4 multimedia projectors",
+          "Ceiling lighting on your choice of colour scheme",
+          "Complimentary 10 personalized colour photo on LED signage",
+          "Complimentary Ixora wedding invitation cards capped at 50% of total guaranteed guests (printing of insert not included)",
+          "Exclusive 2 VIP parking lots for the bridal cars",
+          "Special rates for guests' accommodation on the wedding night",
+          "On-site covered parking facilities for guests at flat rate",
+          "Privileged After Party - 15% discount for Food & Beverage at The Straits Cafe & Lounge (available on wedding night 10.00pm - 12.00am; minimum spend RM1000.00, 20% discount for master bill between 10.00pm-12.00am)",
+          "Tea Ceremony: complimentary use of private room for 2 hours (advance booking essential)",
+          "Chinese red dates tea for 10 guests",
+          "Complimentary usage of the tea set",
+          "Complimentary 2 choice of snacks with coffee and tea",
+          "Complimentary 1 night stay at Executive Honeymoon Room with breakfast for 2 persons",
+          "RM50 room service credit (valid during wedding stay at Executive Honeymoon Room only)",
+          "Fresh flower, fruit basket and a bottle of sparkling wine in the Executive Honeymoon Room"
+        ],
+        "guestMin": 400,
+        "guestMax": 800,
+        "brochureUrl": null
+      },
+      {
+        "name": "Juita Package (Malay â The Grand Ballroom)",
+        "price": 950,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "The Grand Ballroom. Malay packages based on a minimum of 50 tables (500 pax). 'Bersanding' ceremonial dais seating witnessed by up to 800 guests. Surcharge applicable on festive seasons and eve of festive. 8% government tax. Valid until 31 Dec 2026.",
+        "includes": [
+          "Selection of Malay dome sets menu prepared by experienced chefs",
+          "Free flow of cordial drink",
+          "Ixora wedding favours for all wedding guests",
+          "Complimentary food tasting session for 6 persons at your choice of day",
+          "Main table food presentation",
+          "Selection of Ixora table cloths with underlay and chair covers for all dining tables",
+          "Complimentary usage of 2 multimedia projectors",
+          "Complimentary 5 personalized colour photos on LED signage",
+          "Ceiling lights on your choice of colour scheme (only in The Grand Ballroom)",
+          "Complimentary red carpet for wedding march",
+          "Exclusive 1 VIP parking lot for the bridal car",
+          "Special rates for wedding guests accommodation for the wedding night",
+          "On-site covered parking facilities for wedding guests at flat rate",
+          "Complimentary 1 night stay at Bridal Suite with breakfast for 2 persons",
+          "Fresh flower and fruit basket arrangement in the Bridal Suite"
+        ],
+        "guestMin": 500,
+        "guestMax": 800,
+        "brochureUrl": null
+      },
+      {
+        "name": "Asmaradana Package (Malay â The Grand Ballroom)",
+        "price": 1200,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Primarily The Grand Ballroom (min 50 tables); pre-dinner drink inclusion also quotes a 200-glass rate for the Baba & Nyonya Ballroom, implying availability there too. Surcharge on festive seasons and eve of festive. 8% government tax.",
+        "includes": [
+          "Selection of Malay dome set menu prepared by experienced chefs",
+          "Free flow of fruit punch",
+          "Ixora wedding favours for all wedding guests",
+          "Complimentary food tasting session for 10 persons at your choice of day",
+          "Complimentary pre-dinner drinks (500 glasses for The Grand Ballroom / 200 glasses for Baba & Nyonya Ballroom), served with titbits",
+          "Main table food presentation",
+          "Selection of Ixora table cloths with underlay and chair covers for all dining tables",
+          "Complimentary usage of 2 multimedia projectors",
+          "Complimentary 10 personalized colour photos on LED signage",
+          "Ceiling lights on your choice of colour scheme (only in The Grand Ballroom)",
+          "Complimentary red carpet for wedding march",
+          "Exclusive 2 VIP parking lots for the bridal car",
+          "Special rates for wedding guests accommodation for the wedding night",
+          "On-site covered parking facilities for wedding guests at flat rate",
+          "Complimentary 1 night stay at Bridal Suite with breakfast for 2 persons",
+          "Fresh flower and fruit basket arrangement in the Bridal Suite"
+        ],
+        "guestMin": 500,
+        "guestMax": 800,
+        "brochureUrl": null
+      },
+      {
+        "name": "Shaadi Package (Indian)",
+        "price": 998,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Minimum 40 tables at The Grand Ballroom (400 pax) or minimum 20 tables at Baba & Nyonya Ballroom (200 pax). Mon-Thu 10% discount; listed price applies Fri/Sat/Sun and (eve of) public holidays. 8% government tax.",
+        "includes": [
+          "Selection of tempting menu prepared by experienced chefs",
+          "Free flow of fruit punch",
+          "Ixora wedding favours for all guests",
+          "Complimentary food tasting session for 6 persons at your choice of day",
+          "Customised selection of wines at attractive prices from wine list",
+          "Corkage fees apply",
+          "First course food presentation",
+          "Champagne fountain set-up with 2 bottles of sparkling juice for toasting ceremony",
+          "Personalise name of newly-weds on giant LED screen",
+          "Ixora style table setting and flowers centrepiece for bridal main table",
+          "Selection of Ixora table cloths with underlay and chair covers for all dining tables",
+          "Floral wedding arch at entrance",
+          "Red carpet with flower stands display for wedding march",
+          "Complimentary usage of 2 multimedia projectors",
+          "Complimentary 5 personalized colour photos on LED signage",
+          "Ceiling lighting on your choice of colour scheme",
+          "Exclusive 1 VIP parking lot for the bridal car",
+          "Special rates for guests' accommodation for the wedding night",
+          "On-site covered parking facilities for guests at flat rate",
+          "Complimentary 1 night stay at Bridal Suite with breakfast for 2 persons",
+          "Fresh flower and fruit basket arrangement in the Bridal Suite"
+        ],
+        "guestMin": 200,
+        "guestMax": 800,
+        "brochureUrl": null
+      },
+      {
+        "name": "Tumhaara Package (Indian)",
+        "price": 1288,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Minimum 40 tables at The Grand Ballroom or minimum 20 tables at Baba & Nyonya Ballroom. Mon-Thu 10% discount; listed price applies Fri/Sat/Sun and (eve of) public holidays. 8% government tax.",
+        "includes": [
+          "Selection of tempting menu prepared by experienced chefs",
+          "Free flow of fruit punch",
+          "Ixora wedding favours for all guests",
+          "Corkage waived for 20 bottles of wine",
+          "Corkage fees apply for additional bottles of alcohol",
+          "Complimentary pre-dinner non-alcoholic drink (200 glasses for The Grand Ballroom / 100 glasses for Baba & Nyonya Ballroom), served with 2 types of titbits",
+          "Complimentary food tasting session for 8 persons at your choice of day",
+          "Customised selection of wines at attractive prices from wine list",
+          "First course food presentation",
+          "Champagne fountain set-up with 2 bottles of sparkling juice for toasting ceremony",
+          "Personalise name of newly-weds on giant LED screen",
+          "Ixora style table setting and floral centrepiece for bridal main table",
+          "Selection of Ixora table cloths with underlay and chair covers for all dining tables",
+          "Themed wedding Arch with flower display at entrance",
+          "Red carpet with flower stands display for wedding march",
+          "Flower decoration for reception table and photo booth",
+          "Complimentary usage of 2 multimedia projectors",
+          "Complimentary 10 personalized colour photos on LED signage",
+          "Ceiling lighting on your choice of colour scheme",
+          "Exclusive 2 VIP parking lots for the bridal car & family",
+          "Special rates for guests' accommodation on the wedding night",
+          "On-site covered parking facilities for guests at flat rate",
+          "Complimentary 1 night stay at Bridal Suite with breakfast for 2 persons",
+          "RM30.00 room service credit",
+          "Fresh flower and fruit basket arrangement in the Bridal Suite"
+        ],
+        "guestMin": 200,
+        "guestMax": 800,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 200,
+      "max": 800
+    }
+  },
+  {
+    "id": "de861583-ade1-4246-a075-38fe2cba3a32",
+    "name": "Iconic Hotel Penang",
+    "slug": "iconic-hotel-penang",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "Bukit Mertajam",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/iconic-hotel-penang/00/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/iconic-hotel-penang/01/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/iconic-hotel-penang/02/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/iconic-hotel-penang/03/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/iconic-hotel-penang/04/high.webp"
+      }
+    ],
+    "description": "Iconic Hotel Penang offers Chinese wedding dinner banquet packages priced per table of 10 persons, with a minimum of 20 tables. Two tiers are available — Splendid (RM1,299+ per table) and Significant (RM1,599+ per table) — each including a Chinese course dinner menu, free-flow beverages, a pre-dinner cocktail reception, champagne fountain and toasting arrangements, bridal suite stay, wedding decorations (five-tier ceremonial cake, floral arrangements, flower arch and stands), red carpet aisle, LED backdrop, PA system, LCD projector, and wedding invitation cards for 50% of guests. Prices are subject to prevailing government tax.",
+    "createdAt": "2026-07-17T18:27:34.118Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "71, Jln Icon City, Bukit Tengah, 14000 Bukit Mertajam, Penang",
+    "postCode": "14000",
+    "googlePlaceId": "ChIJmV687tPHSjARfKag4LO-LYQ",
+    "latitude": "5.342121199999999",
+    "longitude": "100.4329393",
+    "googlePlaceName": "Iconic Hotel Penang",
+    "neighbourhood": null,
+    "googleMapsLink": null,
+    "wazeLink": null,
+    "googleRating": null,
+    "googleTotalReviews": null,
+    "metaDescription": null,
+    "whatsappNumber": "+60164488672",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'10':17B '20':23B '299':31B '50':92B '599':37B 'aisl':80B 'arch':75B 'arrang':61B,73B 'avail':28B 'backdrop':82B 'banquet':11B 'beverag':50B 'bridal':62B 'bukit':102C 'cake':71B 'card':90B 'carpet':79B 'ceremoni':70B 'champagn':57B 'chines':8B,43B 'cocktail':55B 'cours':44B 'decor':66B 'dinner':10B,45B,54B 'five':68B 'five-ti':67B 'floral':72B 'flow':49B 'flower':74B 'fountain':58B 'free':48B 'free-flow':47B 'govern':100B 'guest':94B 'hotel':2A,5B 'icon':1A,4B 'includ':41B 'invit':89B 'lcd':85B 'led':81B 'menu':46B 'mertajam':103C 'minimum':21B 'offer':7B 'pa':83B 'packag':12B 'penang':3A,6B,104C 'per':14B,32B,38B 'person':18B 'pre':53B 'pre-dinn':52B 'prevail':99B 'price':13B,95B 'projector':86B 'recept':56B 'red':78B 'rm1':30B,36B 'signific':35B 'splendid':29B 'stand':77B 'stay':64B 'subject':97B 'suit':63B 'system':84B 'tabl':15B,24B,33B,39B 'tax':101B 'tier':26B,69B 'toast':60B 'two':25B 'wed':9B,65B,88B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "liveAt": "2026-07-18T04:10:23.223Z",
+    "updatedAt": "2026-07-18T08:10:25.623Z",
+    "spaces": [
+      {
+        "id": "febd5254-81c5-4006-a93b-c5fe3c9e28ed",
+        "name": "Ballroom",
+        "type": "ballroom",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": 200,
+        "capacitySeatedMax": null
+      }
+    ],
+    "packages": [
+      {
+        "name": "Splendid",
+        "price": 1299,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "RM1299+ per table for 10 persons. Minimum 20 tables. Prices subject to prevailing government tax (the '+' denotes tax).",
+        "includes": [
+          "Selection of Chinese 8 course menu",
+          "Get a 50% discount for food tasting session of a table of 10 persons upon confirmation",
+          "Free flow carbonated drink / cordials & Chinese tea throughout the dinner",
+          "Pre-dinner cocktail reception with cordial & titbits",
+          "Champagne fountain with two (2) bottles of sparkling juice for wedding toasting ceremony",
+          "Waiver of corkage charges for one (1) bottle of duty paid wine / liquor for every confirmed table",
+          "One (1) night stay for newly-weds in bridal suite (studio room) with fresh flower arrangement",
+          "One (1) bottle of sparkling juice & breakfast for two (2) persons",
+          "Two (2) reserved VIP parking lots for bridal car",
+          "20% discount F&B voucher at Iconic F&B outlets (Mezza 9 or Crumbles & Cream)",
+          "Special room rates for all invited wedding guests",
+          "Special parking rates for all invited wedding guests",
+          "Red carpet aisle for the wedding march",
+          "Full length of chair cover",
+          "First course food presentation",
+          "Complimentary usage of LED as stage backdrop",
+          "Complimentary usage of standard PA system",
+          "Complimentary usage of one (1) unit of LCD projector with projector screen",
+          "Wedding invitation cards for 50% of the guaranteed number of guests (Excluding insert & printing)",
+          "Complimentary tea ceremony arrangement",
+          "Customized wedding chocolate bon bon for all invited guest",
+          "Ceremonial five (5) tier wedding cake for cake cutting ceremony",
+          "Special floral arrangements for bridal table",
+          "Flower arch at entrance",
+          "Six (6) units of flower stand along the red carpet aisle",
+          "Flower arrangement for reception table"
+        ],
+        "guestMin": 200,
+        "guestMax": 10,
+        "brochureUrl": null
+      },
+      {
+        "name": "Significant",
+        "price": 1599,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "RM1599+ per table for 10 persons. Minimum 20 tables. Prices subject to prevailing government tax (the '+' denotes tax). Upgrades over Splendid: 2-night bridal suite stay (vs 1), complimentary full food-tasting table (vs 50% discount), complimentary house wine per table (vs corkage waiver on own wine), plus a 2-hour photo booth with unlimited printing.",
+        "includes": [
+          "Selection of Chinese 8 course menu",
+          "Complimentary one (1) table of food tasting for 10 persons upon confirmation",
+          "Free flow carbonated drink / cordials & Chinese tea throughout the dinner",
+          "Pre-dinner cocktail reception with cordial & titbits",
+          "Champagne fountain with two (2) bottles of sparkling juice for wedding toasting ceremony",
+          "Complimentary one (1) bottle of house wine for every confirmed table",
+          "Two (2) night stay for newly-weds in bridal suite (studio room) with fresh flower arrangement",
+          "One (1) bottle of sparkling juice & breakfast for two (2) persons",
+          "Two (2) reserved VIP parking lots for bridal car",
+          "20% discount F&B voucher at Iconic F&B outlets (Mezza 9 or Crumbles & Cream)",
+          "Special room rates for all invited wedding guests",
+          "Special parking rates for all invited wedding guests",
+          "Red carpet aisle for the wedding march",
+          "Full length chair cover",
+          "First course food presentation",
+          "Complimentary usage of LED as stage backdrop",
+          "Complimentary usage of standard PA system",
+          "Complimentary usage of one (01) unit of LCD projector with projector screen",
+          "Wedding invitation cards for 50% of the Guaranteed Number of Guests (Excluding insert & printing)",
+          "Complimentary tea ceremony arrangement",
+          "Customized wedding chocolate bon bon for all invited guest",
+          "Ceremonial five (5) tier wedding cake for cake cutting ceremony",
+          "Special floral arrangements for bridal table",
+          "Flower arch at entrance",
+          "Six (6) units of flower stand along the red carpet aisle",
+          "Flower arrangement for reception table",
+          "Photo booth with unlimited instant printing for two (2) hours"
+        ],
+        "guestMin": 200,
+        "guestMax": 10,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 200,
+      "max": 400
+    }
+  },
+  {
+    "id": "8e8c83f0-1485-49b4-8451-2a33df1eb59b",
+    "name": "Asimmy Hotel | Event Space",
+    "slug": "asimmy-hotel",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "Sungai Jawi",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/asimmy-hotel/00/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/asimmy-hotel/01/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/asimmy-hotel/02/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/asimmy-hotel/03/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/asimmy-hotel/04/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/asimmy-hotel/05/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/asimmy-hotel/06/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/asimmy-hotel/07/high.webp"
+      }
+    ],
+    "description": "Asimmy Hotel's Function Hall is a cozy, elegant event space on Level 3 of Asimmy Hotel in Sungai Bakap, Sungai Jawi, Penang. Marketed as 'Where Warmth Meets Elegance,' the fully air-conditioned hall features soft floral decorations, a curved stage with a rostrum, warm ambient lighting and floor-to-ceiling curtained windows that create an inviting and cozy ambiance. It suits a wide range of occasions including weddings and parties, corporate events (company meetings, small conferences, team gatherings, annual dinners), special occasions (birthdays, graduations) and seminars and workshops. The venue is fully equipped with banquet tables and linens, chair covers, catering tables for food setup, a brand-new wide LED screen on stage, a stage and lighting system, a PA system with cordless microphones, a convenient private fitting room for wardrobe changes, and a designated smoking area. Capacity ranges from roughly 70 to 170 guests depending on layout.",
+    "createdAt": "2026-07-17T18:27:47.766Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "Level 3, Asimmy Hotel, Jalan Gamelan Indah 1, Taman Gamelan Indah, Sungai Bakap, 14200 Sungai Jawi, Penang",
+    "postCode": "14200",
+    "googlePlaceId": "ChIJ6wMeFzi3SjARIH_l5fi4JxE",
+    "latitude": "5.2290361999999995",
+    "longitude": "100.49347689999999",
+    "googlePlaceName": "Asimmy Hotel | Event Space",
+    "neighbourhood": null,
+    "googleMapsLink": null,
+    "wazeLink": null,
+    "googleRating": null,
+    "googleTotalReviews": null,
+    "metaDescription": null,
+    "whatsappNumber": "017-2995098",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'170':152B '3':18B '70':150B 'air':37B 'air-condit':36B 'ambianc':66B 'ambient':51B 'annual':86B 'area':145B 'asimmi':1A,5B,20B 'bakap':24B 'banquet':102B 'birthday':90B 'brand':115B 'brand-new':114B 'capac':146B 'cater':108B 'ceil':57B 'chair':106B 'chang':140B 'compani':80B 'condit':38B 'confer':83B 'conveni':134B 'cordless':131B 'corpor':78B 'cover':107B 'cozi':12B,65B 'creat':61B 'curtain':58B 'curv':45B 'decor':43B 'depend':154B 'design':143B 'dinner':87B 'eleg':13B,33B 'equip':100B 'event':3A,14B,79B 'featur':40B 'fit':136B 'floor':55B 'floor-to-ceil':54B 'floral':42B 'food':111B 'fulli':35B,99B 'function':8B 'gather':85B 'graduat':91B 'guest':153B 'hall':9B,39B 'hotel':2A,6B,21B 'includ':74B 'invit':63B 'jawi':26B,158C 'layout':156B 'led':118B 'level':17B 'light':52B,125B 'linen':105B 'market':28B 'meet':32B,81B 'microphon':132B 'new':116B 'occas':73B,89B 'pa':128B 'parti':77B 'penang':27B,159C 'privat':135B 'rang':71B,147B 'room':137B 'rostrum':49B 'rough':149B 'screen':119B 'seminar':93B 'setup':112B 'small':82B 'smoke':144B 'soft':41B 'space':4A,15B 'special':88B 'stage':46B,121B,123B 'suit':68B 'sungai':23B,25B,157C 'system':126B,129B 'tabl':103B,109B 'team':84B 'venu':97B 'wardrob':139B 'warm':50B 'warmth':31B 'wed':75B 'wide':70B,117B 'window':59B 'workshop':95B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "liveAt": "2026-07-18T04:10:23.223Z",
+    "updatedAt": "2026-07-18T08:10:24.193Z",
+    "spaces": [
+      {
+        "id": "b3e2c77e-8c93-4176-9e74-850f523429b1",
+        "name": "Function Hall",
+        "type": "function hall / ballroom",
+        "indoorOutdoor": "indoor",
+        "area": null,
+        "capacitySeatedMin": 100,
+        "capacitySeatedMax": 120
+      }
+    ],
+    "packages": [
+      {
+        "name": "Space Rental (6 hours)",
+        "price": 3599,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "RM 3,599 for 6 hours of space rental. For different durations or special requests, contact the venue.",
+        "includes": [
+          "Fully air-conditioned hall",
+          "Banquet tables with table linens",
+          "Chairs setup with chair covers",
+          "Long table for food catering",
+          "Stage and lighting system",
+          "PA system and cordless microphones",
+          "Wide LED screen on stage",
+          "Rostrum"
+        ],
+        "guestMin": null,
+        "guestMax": 170,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 100,
+      "max": 120
+    }
   }
 ]
