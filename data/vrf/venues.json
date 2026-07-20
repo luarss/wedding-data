@@ -273,7 +273,7 @@
       "Office Party",
       "Wedding"
     ],
-    "fast_response": false,
+    "fast_response": true,
     "response_time": null
   },
   {
@@ -369,7 +369,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "4 hrs"
+    "response_time": "6 hrs"
   },
   {
     "name": "The Spot Singapore",
@@ -486,7 +486,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "1 hr"
+    "response_time": "27 mins"
   },
   {
     "name": "WAKANUI Grill Dining Singapore",

@@ -14042,7 +14042,7 @@
           "Basic AV system, along with a 5-tier mock cake and 5-tier Champagne fountain"
         ],
         "guestMin": 200,
-        "guestMax": 1000,
+        "guestMax": 10,
         "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1782224998010-CCEC-Indian-Wedding-Package-FA-VIEW_compressed.pdf"
       },
       {
@@ -14106,6 +14106,91 @@
         "guestMin": 200,
         "guestMax": 1,
         "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1783671249536-CCEC_Malay_Wedding_Package.pdf"
+      },
+      {
+        "name": "Eternal Bonds â Lavender Wedding Package",
+        "price": 1500,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": 150,
+        "description": "An Indian wedding package featuring a customised 6-item dome set menu, floral arrangements, in-house AV facilities, wedding favours and complimentary wedding privileges.",
+        "includes": [
+          "Customised 6-item dome set menu with Jeera Pulao Rice and dessert",
+          "Free-flow aerated soft drinks and cordial",
+          "5-tier champagne fountain with 2 bottles of sparkling juice",
+          "5-tier mock cake with floral arrangement",
+          "Fresh floral centrepiece for the bridal table",
+          "Fresh floral arrangements for guest tables and reception table",
+          "In-house AV system with LCD projectors",
+          "2 wireless microphones",
+          "E-backdrop",
+          "Pre-dinner reception tidbits",
+          "Food tasting for 10 persons",
+          "Wedding favours for all guests",
+          "3 VIP parking spots",
+          "1-night hotel stay with breakfast for 1 room"
+        ],
+        "guestMin": 199,
+        "guestMax": 10,
+        "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1784512147562-Eternal_Bonds_-_Lavender_Wedding_Package_2026.pdf"
+      },
+      {
+        "name": "Joyous Celebrations â Jade Wedding Package",
+        "price": 1980,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": 198,
+        "description": "A Chinese wedding package featuring a customised 8-course set menu, floral decorations, in-house AV facilities and complimentary wedding privileges.",
+        "includes": [
+          "Customised 8-course Chinese set menu",
+          "Free-flow soft drinks and Chinese tea",
+          "5-tier champagne fountain with 2 bottles of sparkling juice",
+          "5-tier mock cake with floral arrangements",
+          "Fresh floral centrepiece for the VIP table",
+          "Fresh floral arrangements for guest tables and registration table",
+          "Backdrop with personalised name design",
+          "In-house AV system with LCD projectors",
+          "2 wireless microphones",
+          "2 fresh floral pedestals along the red carpet",
+          "Pre-dinner reception tidbits",
+          "1 type of canapÃ©",
+          "Food tasting for 10 persons",
+          "Wedding favours for all guests",
+          "3 VIP parking spots",
+          "1-night hotel stay with breakfast for 1 room",
+          "Guest book"
+        ],
+        "guestMin": 200,
+        "guestMax": 10,
+        "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1784507111226-Chinese_Wedding_Jade_Package.pdf"
+      },
+      {
+        "name": "Joyous Celebrations â Pearl Wedding Package",
+        "price": 1780,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": 178,
+        "description": "A Chinese wedding package featuring a customised 8-course set menu, floral decorations, in-house AV facilities and complimentary wedding privileges.",
+        "includes": [
+          "Customised 8-course Chinese set menu",
+          "Free-flow soft drinks and Chinese tea",
+          "5-tier champagne fountain with 2 bottles of sparkling juice",
+          "5-tier mock cake with floral arrangements",
+          "Fresh floral centrepiece for the VIP table",
+          "Fresh floral arrangements for guest tables and registration table",
+          "E-backdrop",
+          "In-house AV system with LCD projectors",
+          "2 wireless microphones",
+          "Pre-dinner reception tidbits",
+          "Food tasting for 10 persons",
+          "Wedding favours for all guests",
+          "3 VIP parking spots",
+          "1-night hotel stay with breakfast for 1 room",
+          "Guest book"
+        ],
+        "guestMin": 200,
+        "guestMax": 10,
+        "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1784507362986-Chinese_Wedding_Pearl_Package.pdf"
       }
     ],
     "venueCapacity": {
