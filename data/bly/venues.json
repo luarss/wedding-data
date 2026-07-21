@@ -270,6 +270,21 @@
     "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"300-550 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Waterfront Ballroom\", \"capacity\": \"200-280 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Riverfront Ballroom\", \"capacity\": \"150-200 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Galleria Ballroom\", \"capacity\": \"100-160 pax\", \"price\": \"From $158/pax\"}]"
   },
   {
+    "recordId": "recBjzDZV6Tmy22FL",
+    "name": "The Acacia Geneo",
+    "url": "https://www.bridely.sg/venue/the-acacia-geneo/r/recBjzDZV6Tmy22FL",
+    "location": "1 Science Park Dr, #01-07, Singapore 118221",
+    "overallRating": 5,
+    "venueRating": 5,
+    "serviceRating": 5,
+    "foodRating": 5,
+    "reviews": 18,
+    "tags": "Restaurant, Fusion, Indian, Muslim-friendly, Peranakan, Vegetarian, Western",
+    "price": "From $55/pax",
+    "capacity": "100-500 pax",
+    "rooms": "[{\"name\": \"The Acacia Geneo\", \"capacity\": \"100-500 pax\", \"price\": \"From $55/pax\"}]"
+  },
+  {
     "recordId": "recEVqHq1aNQ9gkfi",
     "name": "JW Marriott Hotel Singapore South Beach",
     "url": "https://www.bridely.sg/venue/jw-marriott-hotel-singapore-south-beach/r/recEVqHq1aNQ9gkfi",
@@ -283,21 +298,6 @@
     "price": "From $309/pax",
     "capacity": "220-420 pax",
     "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"220-420 pax\", \"price\": \"From $309/pax\"}]"
-  },
-  {
-    "recordId": "recBjzDZV6Tmy22FL",
-    "name": "The Acacia Geneo",
-    "url": "https://www.bridely.sg/venue/the-acacia-geneo/r/recBjzDZV6Tmy22FL",
-    "location": "1 Science Park Dr, #01-07, Singapore 118221",
-    "overallRating": 5,
-    "venueRating": 5,
-    "serviceRating": 5,
-    "foodRating": 5,
-    "reviews": 17,
-    "tags": "Restaurant, Fusion, Indian, Muslim-friendly, Peranakan, Vegetarian, Western",
-    "price": "From $55/pax",
-    "capacity": "100-500 pax",
-    "rooms": "[{\"name\": \"The Acacia Geneo\", \"capacity\": \"100-500 pax\", \"price\": \"From $55/pax\"}]"
   },
   {
     "recordId": "recjssjp75IRHLGQY",

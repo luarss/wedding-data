@@ -3955,7 +3955,7 @@
         "priceMax": 3277.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$66",
+        "description": "$64",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3967,7 +3967,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$67",
+        "description": "$65",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3979,7 +3979,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$68",
+        "description": "$66",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3991,7 +3991,7 @@
         "priceMax": 3227,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$69",
+        "description": "$67",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4003,7 +4003,7 @@
         "priceMax": 3659,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$6a",
+        "description": "$68",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4015,7 +4015,7 @@
         "priceMax": 4307,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$6b",
+        "description": "$69",
         "includes": null,
         "guestMin": 399,
         "guestMax": 431,
@@ -4027,7 +4027,7 @@
         "priceMax": 3227.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$6c",
+        "description": "$6a",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4039,7 +4039,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$6d",
+        "description": "$6b",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4051,7 +4051,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$6e",
+        "description": "$6c",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4063,7 +4063,7 @@
         "priceMax": 3227.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$6f",
+        "description": "$6d",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4075,7 +4075,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$70",
+        "description": "$6e",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -4087,7 +4087,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$71",
+        "description": "$6f",
         "includes": null,
         "guestMin": 100,
         "guestMax": 298,
@@ -7035,7 +7035,13 @@
     "faq": [],
     "venueDetails": null,
     "photographerDetails": null,
-    "adminOverrides": null,
+    "adminOverrides": {
+      "packages": {
+        "value": "packages",
+        "overriddenAt": "2026-07-21T08:56:34.572Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      }
+    },
     "coverImageFocalPoint": null,
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
@@ -7064,11 +7070,11 @@
         "price": 8000,
         "priceMax": null,
         "priceFixture": "all_inclusive",
-        "pricePerPax": null,
+        "pricePerPax": 40,
         "description": "Starting price starts from RM8,000 for event venue rental space. Create the nuptials of your dreams with budget wedding venues in KL such as The Grey Box!\n\nClick more to find out more here. \n\n\n\nStarting price starts from RM8,000 for event venue rental space. Create the nuptials of your dreams with budget wedding venues in KL such as The Grey Box!",
         "includes": [],
-        "guestMin": 150,
-        "guestMax": 200,
+        "guestMin": 80,
+        "guestMax": 150,
         "brochureUrl": null
       }
     ],
@@ -12675,7 +12681,7 @@
         "pricePerPax": null,
         "description": "Create a memorable and elegant celebration with our Tulips Package, designed for up to 500 guests.\nFeaturing refined dÃ©cor, delicious cuisine, and a beautifully arranged venue, this package ensures your special day unfolds seamlessly from start to finish.",
         "includes": [
-          "$68"
+          "$66"
         ],
         "guestMin": null,
         "guestMax": 500,
@@ -13963,16 +13969,16 @@
     "updatedAt": "2026-07-08T01:44:40.594Z",
     "spaces": [
       {
-        "id": "559cb728-c040-465d-a26c-0c47c517e9d5",
+        "id": "3dc834db-b7e6-4ebe-b866-5b58141aff1f",
         "name": "Grand Nexus Ballroom",
-        "type": "Ballrooms",
+        "type": "Banquet Hall",
         "indoorOutdoor": "INDOOR",
         "area": 15312,
         "capacitySeatedMin": 700,
         "capacitySeatedMax": 2000
       },
       {
-        "id": "00afbfe9-5dce-435e-8759-f8cf4061667b",
+        "id": "3cb1ee90-3173-4be6-89c5-e94525b480bb",
         "name": "The Oak Room",
         "type": "Event Space",
         "indoorOutdoor": "INDOOR",
@@ -13981,7 +13987,7 @@
         "capacitySeatedMax": 200
       },
       {
-        "id": "09fa7c6f-4e93-4b7c-bdf5-62e83153dda3",
+        "id": "c70433e3-5dee-4c13-ad13-e1603400b97e",
         "name": "The Zenith",
         "type": "Ballrooms",
         "indoorOutdoor": "INDOOR",
@@ -13990,7 +13996,7 @@
         "capacitySeatedMax": 100
       },
       {
-        "id": "41f1bdfa-5f7b-4a41-a52b-13f93fef206e",
+        "id": "773a2ff2-62e9-4145-85cc-230b209a40cb",
         "name": "Gazebo",
         "type": "Garden",
         "indoorOutdoor": "OUTDOOR",
@@ -13999,7 +14005,7 @@
         "capacitySeatedMax": 30
       },
       {
-        "id": "8a3ff985-f342-46f4-98a0-fe7da54f8036",
+        "id": "a5d8123e-27cc-48b4-81c4-4927663e5a10",
         "name": "Function Room",
         "type": "Event Space",
         "indoorOutdoor": "INDOOR",
@@ -14042,7 +14048,7 @@
           "Basic AV system, along with a 5-tier mock cake and 5-tier Champagne fountain"
         ],
         "guestMin": 200,
-        "guestMax": 10,
+        "guestMax": 1000,
         "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1782224998010-CCEC-Indian-Wedding-Package-FA-VIEW_compressed.pdf"
       },
       {
@@ -14060,7 +14066,7 @@
           "Basic AV system, along with a 5-tier mock cake and 5-tier Champagne fountain"
         ],
         "guestMin": 200,
-        "guestMax": 10,
+        "guestMax": 1000,
         "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1782225077308-CCEC-Western-Wedding-Package-FA-VIEW_compressed.pdf"
       },
       {
@@ -14104,7 +14110,7 @@
           "1-night hotel stay with breakfast"
         ],
         "guestMin": 200,
-        "guestMax": 1,
+        "guestMax": 1000,
         "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1783671249536-CCEC_Malay_Wedding_Package.pdf"
       },
       {
@@ -14131,7 +14137,7 @@
           "1-night hotel stay with breakfast for 1 room"
         ],
         "guestMin": 199,
-        "guestMax": 10,
+        "guestMax": 1000,
         "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1784512147562-Eternal_Bonds_-_Lavender_Wedding_Package_2026.pdf"
       },
       {
@@ -14161,7 +14167,7 @@
           "Guest book"
         ],
         "guestMin": 200,
-        "guestMax": 10,
+        "guestMax": 1000,
         "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1784507111226-Chinese_Wedding_Jade_Package.pdf"
       },
       {
@@ -14189,7 +14195,7 @@
           "Guest book"
         ],
         "guestMin": 200,
-        "guestMax": 10,
+        "guestMax": 1000,
         "brochureUrl": "documents/f82e83af-c0d3-4497-a3f4-6d5fc2b2dc72/brochure-1784507362986-Chinese_Wedding_Pearl_Package.pdf"
       }
     ],
