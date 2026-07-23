@@ -1140,21 +1140,6 @@
     "rooms": "[{\"name\": \"Rooftop Sky Garden\", \"capacity\": \"30-120 pax\", \"price\": \"From $189/pax\"}]"
   },
   {
-    "recordId": "recAjyLcQI7Qc6VDD",
-    "name": "Altro Zafferano",
-    "url": "https://www.bridely.sg/venue/altro-zafferano/r/recAjyLcQI7Qc6VDD",
-    "location": "Central Area",
-    "overallRating": 4.4,
-    "venueRating": 4.3,
-    "serviceRating": 4.3,
-    "foodRating": 4.4,
-    "reviews": 13,
-    "tags": "Restaurant",
-    "price": "From $8,000",
-    "capacity": "1-200 pax",
-    "rooms": "[{\"name\": \"Main Dining Hall\", \"capacity\": \"1-200 pax\", \"price\": \"From $8,000\"}, {\"name\": \"Private Dining Space (1\\u20132 rooms)\", \"capacity\": \"1-60 pax\", \"price\": \"From $800\"}, {\"name\": \"Private Dining Room\", \"capacity\": \"1-16 pax\", \"price\": \"From $800\"}, {\"name\": \"Terrace Lounge\", \"capacity\": \"From 1 pax\", \"price\": \"\"}]"
-  },
-  {
     "recordId": "recvc9CavlbranxAV",
     "name": "Raffles Hotel",
     "url": "https://www.bridely.sg/venue/raffles-hotel/r/recvc9CavlbranxAV",
@@ -1183,6 +1168,21 @@
     "price": "From $177/pax",
     "capacity": "108-180 pax",
     "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"108-180 pax\", \"price\": \"From $177/pax\"}]"
+  },
+  {
+    "recordId": "recAjyLcQI7Qc6VDD",
+    "name": "Altro Zafferano",
+    "url": "https://www.bridely.sg/venue/altro-zafferano/r/recAjyLcQI7Qc6VDD",
+    "location": "Central Area",
+    "overallRating": 4.7,
+    "venueRating": 4.7,
+    "serviceRating": 4.7,
+    "foodRating": 4.8,
+    "reviews": 9,
+    "tags": "Restaurant",
+    "price": "From $8,000",
+    "capacity": "1-200 pax",
+    "rooms": "[{\"name\": \"Main Dining Hall\", \"capacity\": \"1-200 pax\", \"price\": \"From $8,000\"}, {\"name\": \"Private Dining Space (1\\u20132 rooms)\", \"capacity\": \"1-60 pax\", \"price\": \"From $800\"}, {\"name\": \"Private Dining Room\", \"capacity\": \"1-16 pax\", \"price\": \"From $800\"}, {\"name\": \"Terrace Lounge\", \"capacity\": \"From 1 pax\", \"price\": \"\"}]"
   },
   {
     "recordId": "recGSE4cMEiR29mHX",
