@@ -110,7 +110,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "27 mins"
+    "response_time": "33 mins"
   },
   {
     "name": "Moon Rooftop Bar and Lounge",
@@ -251,6 +251,29 @@
     ],
     "fast_response": true,
     "response_time": "14 hrs"
+  },
+  {
+    "name": "Cargo39",
+    "url": "https://www.venuerific.com/sg/venues/cargo39",
+    "slug": "cargo39",
+    "area": "Tanjong Pagar",
+    "address": "39 Keppel Rd, #03-03, Singapore 089065",
+    "lat": 1.2720887,
+    "lng": 103.8364717,
+    "capacity_standing": 300,
+    "capacity_seated": 200,
+    "rooms_count": 0,
+    "price": "S$9,000",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Tanjong Pagar MRT Station",
+    "event_types": [
+      "Office Party",
+      "Wedding"
+    ],
+    "fast_response": true,
+    "response_time": null
   },
   {
     "name": "Singapore’s Iconic City Venue",
@@ -396,6 +419,26 @@
     "response_time": null
   },
   {
+    "name": " M Hotel Singapore ",
+    "url": "https://www.venuerific.com/sg/venues/m-hotel-singapore",
+    "slug": "m-hotel-singapore",
+    "area": "Chinatown, Marina Bay, Tanjong Pagar",
+    "address": "Anson Rd, 81, Singapore 079908",
+    "lat": 1.273767,
+    "lng": 103.8450399,
+    "capacity_standing": 320,
+    "capacity_seated": 320,
+    "rooms_count": 4,
+    "price": "S$1,000",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Tanjong Pagar MRT Station",
+    "event_types": [],
+    "fast_response": true,
+    "response_time": null
+  },
+  {
     "name": "The Outset",
     "url": "https://www.venuerific.com/sg/venues/the-outset",
     "slug": "the-outset",
@@ -439,7 +482,7 @@
       "Networking"
     ],
     "fast_response": true,
-    "response_time": "1 hr"
+    "response_time": "26 mins"
   },
   {
     "name": "Plume",
@@ -462,7 +505,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "14 mins"
+    "response_time": "13 mins"
   },
   {
     "name": "WAKANUI Grill Dining Singapore",
@@ -533,6 +576,26 @@
     ],
     "fast_response": true,
     "response_time": "3 hrs"
+  },
+  {
+    "name": "The Pan Pacific Hotel Singapore",
+    "url": "https://www.venuerific.com/sg/venues/the-pan-pacific-hotel-singapore",
+    "slug": "the-pan-pacific-hotel-singapore",
+    "area": "Marina Bay",
+    "address": "7 Raffles Blvd, Marina Square, Singapore 039594",
+    "lat": 1.2911534,
+    "lng": 103.8576778,
+    "capacity_standing": 800,
+    "capacity_seated": 800,
+    "rooms_count": 14,
+    "price": "S$1,000",
+    "price_unit": "Min spend",
+    "rating": 4.7,
+    "reviews": 3,
+    "mrt_station": "Promenade MRT Station",
+    "event_types": [],
+    "fast_response": false,
+    "response_time": null
   },
   {
     "name": "ONE°15 Marina Sentosa Cove",
@@ -856,7 +919,7 @@
       "Party"
     ],
     "fast_response": true,
-    "response_time": "7 hrs"
+    "response_time": "5 hrs"
   },
   {
     "name": "Park Regis by Prince Singapore  ",
@@ -906,67 +969,27 @@
     "response_time": null
   },
   {
-    "name": "Cargo39",
-    "url": "https://www.venuerific.com/sg/venues/cargo39",
-    "slug": "cargo39",
-    "area": "Tanjong Pagar",
-    "address": "39 Keppel Rd, #03-03, Singapore 089065",
-    "lat": 1.2720887,
-    "lng": 103.8364717,
-    "capacity_standing": 300,
-    "capacity_seated": 200,
+    "name": "Momentus Hotel Alexandra",
+    "url": "https://www.venuerific.com/sg/venues/momentus-hotel-alexandra",
+    "slug": "momentus-hotel-alexandra",
+    "area": "Alexandra, Queenstown",
+    "address": "323 Alexandra Rd, Singapore 159972",
+    "lat": 1.2876691,
+    "lng": 103.8053306,
+    "capacity_standing": 120,
+    "capacity_seated": 120,
     "rooms_count": 0,
-    "price": "S$9,000",
-    "price_unit": "Min spend",
+    "price": "S$950",
+    "price_unit": "Per full-day",
     "rating": 0,
     "reviews": 0,
-    "mrt_station": "Tanjong Pagar MRT Station",
+    "mrt_station": "Queenstown MRT Station",
     "event_types": [
-      "Office Party",
+      "Corporate Seminar",
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": null
-  },
-  {
-    "name": " M Hotel Singapore ",
-    "url": "https://www.venuerific.com/sg/venues/m-hotel-singapore",
-    "slug": "m-hotel-singapore",
-    "area": "Chinatown, Marina Bay, Tanjong Pagar",
-    "address": "Anson Rd, 81, Singapore 079908",
-    "lat": 1.273767,
-    "lng": 103.8450399,
-    "capacity_standing": 320,
-    "capacity_seated": 320,
-    "rooms_count": 4,
-    "price": "S$1,000",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Tanjong Pagar MRT Station",
-    "event_types": [],
-    "fast_response": true,
-    "response_time": null
-  },
-  {
-    "name": "The Pan Pacific Hotel Singapore",
-    "url": "https://www.venuerific.com/sg/venues/the-pan-pacific-hotel-singapore",
-    "slug": "the-pan-pacific-hotel-singapore",
-    "area": "Marina Bay",
-    "address": "7 Raffles Blvd, Marina Square, Singapore 039594",
-    "lat": 1.2911534,
-    "lng": 103.8576778,
-    "capacity_standing": 800,
-    "capacity_seated": 800,
-    "rooms_count": 14,
-    "price": "S$1,000",
-    "price_unit": "Min spend",
-    "rating": 4.7,
-    "reviews": 3,
-    "mrt_station": "Promenade MRT Station",
-    "event_types": [],
-    "fast_response": true,
-    "response_time": "14 hrs"
+    "response_time": "4 hrs"
   },
   {
     "name": "WingsOverAsia",
@@ -1035,29 +1058,6 @@
     "event_types": [],
     "fast_response": false,
     "response_time": null
-  },
-  {
-    "name": "Momentus Hotel Alexandra",
-    "url": "https://www.venuerific.com/sg/venues/momentus-hotel-alexandra",
-    "slug": "momentus-hotel-alexandra",
-    "area": "Alexandra, Queenstown",
-    "address": "323 Alexandra Rd, Singapore 159972",
-    "lat": 1.2876691,
-    "lng": 103.8053306,
-    "capacity_standing": 120,
-    "capacity_seated": 120,
-    "rooms_count": 0,
-    "price": "S$950",
-    "price_unit": "Per full-day",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Queenstown MRT Station",
-    "event_types": [
-      "Corporate Seminar",
-      "Wedding"
-    ],
-    "fast_response": true,
-    "response_time": "4 hrs"
   },
   {
     "name": "Garden-themed restaurant in Changi Village",

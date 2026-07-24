@@ -14752,16 +14752,31 @@
     "state": "Penang",
     "images": [
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/rasa-sayang-penang/00/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/rasa-sayang-penang/00/high.webp",
+        "caption": "Garden ceremony aisle"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/rasa-sayang-penang/01/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/rasa-sayang-penang/01/high.webp",
+        "caption": "Beachfront wedding lawn"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/rasa-sayang-penang/02/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/rasa-sayang-penang/1784875611228-image009/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/rasa-sayang-penang/1784875616174-image007/original.png"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/rasa-sayang-penang/1784875614118-image008/original.png"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/rasa-sayang-penang/02/high.webp",
+        "caption": "Banquet ballroom setup"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/rasa-sayang-penang/1784875618046-image006/original.png"
       }
     ],
-    "description": "Shangri-La Rasa Sayang, Penang is a luxury beach resort set on the golden sands of Batu Ferringhi Beach. The resort offers two curated Chinese/Western banquet wedding packages — Rasa Begonia and Rasa Lily — each including free-flowing beverages, pre-function drinks with pass-around canapes, fresh floral decorations (wedding arch, floral stands along the red carpet, deluxe bridal-table centrepiece and posies), a champagne fountain with sparkling wine, complimentary wine or corkage waiver, LCD projector and screen, PA system, a complimentary resort stay for the wedding couple with spa massage, and complimentary use of the resort gardens for wedding photography. A separate garden Wedding Ceremony package delivers a ceremony in the resort's 'fairytale-like' manicured garden with a fresh-flower gazebo, tiffany chairs, refreshment corner and free-flowing signature mocktail. Menus are offered as eight-course Chinese set menus, international buffets, or a Western set menu. Prices are inclusive of 10% service charge and 8% government tax and are subject to change.",
+    "description": "Shangri-La Rasa Sayang, Penang is a luxury beach resort set on the golden sands of Batu Ferringhi Beach. ",
     "createdAt": "2026-07-17T18:25:28.951Z",
     "vendorId": "pending_02aad3a9fc14f391",
     "address": "Jalan Batu Ferringhi, 11100 Batu Ferringhi, Penang",
@@ -14778,49 +14793,84 @@
     "metaDescription": null,
     "whatsappNumber": "+604 888 8888",
     "whatsappMessage": null,
-    "youtubeLink": null,
+    "youtubeLink": "",
     "wpTag": null,
     "faq": [],
     "venueDetails": null,
     "photographerDetails": null,
-    "adminOverrides": null,
+    "adminOverrides": {
+      "spaces": {
+        "value": "spaces",
+        "overriddenAt": "2026-07-24T06:46:37.063Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "packages": {
+        "value": "packages",
+        "overriddenAt": "2026-07-24T06:51:08.220Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "food-menu": {
+        "value": "food-menu",
+        "overriddenAt": "2026-07-24T06:40:44.728Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "photos-videos": {
+        "value": "photos-videos",
+        "overriddenAt": "2026-07-24T06:48:01.601Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "venue-details": {
+        "value": "venue-details",
+        "overriddenAt": "2026-07-24T06:37:21.786Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      }
+    },
     "coverImageFocalPoint": null,
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'10':167B '8':171B 'along':63B 'arch':60B 'around':54B 'banquet':33B 'batu':24B,179C 'beach':16B,26B 'begonia':37B 'beverag':46B 'bridal':69B 'bridal-t':68B 'buffet':157B 'canap':55B 'carpet':66B 'centrepiec':71B 'ceremoni':116B,120B 'chair':137B 'champagn':75B 'chang':178B 'charg':169B 'chines':153B 'chinese/western':32B 'complimentari':80B,92B,103B 'corkag':83B 'corner':139B 'coupl':98B 'cours':152B 'curat':31B 'decor':58B 'deliv':118B 'delux':67B 'drink':50B 'eight':151B 'eight-cours':150B 'fairytal':126B 'fairytale-lik':125B 'ferringhi':25B,180C 'floral':57B,61B 'flow':45B,143B 'flower':134B 'fountain':76B 'free':44B,142B 'free-flow':43B,141B 'fresh':56B,133B 'fresh-flow':132B 'function':49B 'garden':108B,114B,129B 'gazebo':135B 'golden':21B 'govern':172B 'includ':42B 'inclus':165B 'intern':156B 'la':3A,9B 'lcd':85B 'like':127B 'lili':40B 'luxuri':15B 'manicur':128B 'massag':101B 'menu':162B 'menus':146B,155B 'mocktail':145B 'offer':29B,148B 'pa':89B 'packag':35B,117B 'pass':53B 'pass-around':52B 'penang':6A,12B,181C 'photographi':111B 'posi':73B 'pre':48B 'pre-funct':47B 'price':163B 'projector':86B 'rasa':4A,10B,36B,39B 'red':65B 'refresh':138B 'resort':17B,28B,93B,107B,123B 'sand':22B 'sayang':5A,11B 'screen':88B 'separ':113B 'servic':168B 'set':18B,154B,161B 'shangri':2A,8B 'shangri-la':1A,7B 'signatur':144B 'spa':100B 'sparkl':78B 'stand':62B 'stay':94B 'subject':176B 'system':90B 'tabl':70B 'tax':173B 'tiffani':136B 'two':30B 'use':104B 'waiver':84B 'wed':34B,59B,97B,110B,115B 'western':160B 'wine':79B,81B",
+    "fts": "'batu':24B,27C 'beach':16B,26B 'ferringhi':25B,28C 'golden':21B 'la':3A,9B 'luxuri':15B 'penang':6A,12B,29C 'rasa':4A,10B 'resort':17B 'sand':22B 'sayang':5A,11B 'set':18B 'shangri':2A,8B 'shangri-la':1A,7B",
     "textEmbedding": null,
     "catalogPosition": null,
     "isSpotlight": false,
     "isDemo": false,
     "liveAt": "2026-07-18T04:10:23.223Z",
-    "updatedAt": "2026-07-18T08:10:26.560Z",
+    "updatedAt": "2026-07-24T06:48:01.509Z",
     "spaces": [
       {
-        "id": "a5d657db-cc9b-4415-9d80-cf72ebb52bc8",
-        "name": "Rasa Begonia Ballroom",
-        "type": "ballroom",
-        "indoorOutdoor": "indoor",
+        "id": "8f5520e5-cf76-46e2-8183-83a30d054064",
+        "name": "Pelangi Ballroom",
+        "type": "Ballroom",
+        "indoorOutdoor": "INDOOR",
         "area": null,
         "capacitySeatedMin": 100,
-        "capacitySeatedMax": null
+        "capacitySeatedMax": 300
       },
       {
-        "id": "698a5478-6138-4054-8b3a-67560c8e690b",
-        "name": "Rasa Lily Ballroom",
+        "id": "acff9154-5a59-49d1-967e-bb016b2a3c6a",
+        "name": "Marquee Tent",
         "type": "ballroom",
-        "indoorOutdoor": "indoor",
+        "indoorOutdoor": "INDOOR",
         "area": null,
         "capacitySeatedMin": 200,
         "capacitySeatedMax": null
       },
       {
-        "id": "07e27279-b586-4312-998c-f354eff9ff30",
-        "name": "Resort Manicured Garden (Ceremony Lawn)",
+        "id": "404e2948-ee74-4b38-85d8-f10bc73edf55",
+        "name": "Rain Tree Garden",
         "type": "garden ceremony lawn",
-        "indoorOutdoor": "outdoor",
+        "indoorOutdoor": "OUTDOOR",
         "area": null,
-        "capacitySeatedMin": 10,
+        "capacitySeatedMin": 50,
+        "capacitySeatedMax": 200
+      },
+      {
+        "id": "11a751fd-102f-4535-a09f-0dc1d143b534",
+        "name": "Banyan Tree Garden",
+        "type": "Park, Garden",
+        "indoorOutdoor": "OUTDOOR",
+        "area": null,
+        "capacitySeatedMin": null,
         "capacitySeatedMax": 100
       }
     ],
@@ -14830,8 +14880,8 @@
         "price": 2988,
         "priceMax": null,
         "priceFixture": "per_table",
-        "pricePerPax": null,
-        "description": "RM2,988 nett per table of 10 persons. Minimum of 10 tables of 10 persons per table. Set menu available for indoor function setting only (min 10 tables). Buffet menu minimum 100 persons. Prices inclusive of 10% service charge & 8% government tax.",
+        "pricePerPax": 298.8,
+        "description": "This package is available on the usage of Marquee Tent. Minimum 10 tables required.",
         "includes": [
           "Choice of three (3) sets of specially created Chinese eight (8) courses menu, Western set menu or a buffet style menu",
           "Free-flowing soft drinks, coffee and tea throughout the dinner",
@@ -14854,16 +14904,16 @@
           "Special room rates extended to wedding guests staying at the resort for a minimum of ten (10) rooms"
         ],
         "guestMin": 100,
-        "guestMax": 10,
-        "brochureUrl": null
+        "guestMax": 150,
+        "brochureUrl": "documents/623e7e44-2523-44bd-8f0c-fce9e3c4abf6/brochure-1784875187655-Rasa_Begonia.pdf"
       },
       {
         "name": "Rasa Lily Wedding Package",
         "price": 2788,
         "priceMax": null,
         "priceFixture": "per_table",
-        "pricePerPax": null,
-        "description": "RM2,788 nett per table of 10 persons. Minimum of 20 tables of 10 persons per table. Set menu available for indoor function setting only (min 20 tables). Buffet menu minimum 200 persons. Prices inclusive of 10% service charge & 8% government tax. Note: Rasa Lily has a higher table minimum (20 tables) than Rasa Begonia (10 tables) despite the lower per-table price.",
+        "pricePerPax": 278.8,
+        "description": "This package is available on the usage of Pelangi Ballroom. Minimum 20 tables required.",
         "includes": [
           "Design your own eight (8) courses Chinese set menu or a buffet style menu",
           "Free-flowing soft drinks, Chinese tea or coffee and tea throughout the dinner",
@@ -14887,8 +14937,8 @@
           "Special room rates extended to wedding guests staying at the resort for a minimum of ten (10) rooms"
         ],
         "guestMin": 200,
-        "guestMax": 10,
-        "brochureUrl": null
+        "guestMax": 248,
+        "brochureUrl": "documents/623e7e44-2523-44bd-8f0c-fce9e3c4abf6/brochure-1784875191827-Rasa_Lily.pdf"
       },
       {
         "name": "Wedding Ceremony Package (Garden)",
@@ -14896,7 +14946,7 @@
         "priceMax": null,
         "priceFixture": "all_inclusive",
         "pricePerPax": null,
-        "description": "RM14,288 nett. Minimum of 10 guests and a maximum of 100 guests. Standalone garden ceremony package (not a banquet). Refreshment corner: please choose 2 items from the Refreshment Corner Menu. Prices inclusive of 10% service charge & 8% government tax.",
+        "description": null,
         "includes": [
           "Wedding ceremony performed at the resort's 'fairytale-like' manicured garden",
           "Choice of wedding decoration theme",
@@ -14916,11 +14966,11 @@
         ],
         "guestMin": 10,
         "guestMax": 100,
-        "brochureUrl": null
+        "brochureUrl": "documents/623e7e44-2523-44bd-8f0c-fce9e3c4abf6/brochure-1784875196442-Rasa_Wedding_Ceremony_Package.pdf"
       }
     ],
     "venueCapacity": {
-      "min": 100,
+      "min": 50,
       "max": 300
     }
   },
@@ -14934,31 +14984,39 @@
     "state": "Penang",
     "images": [
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/00/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/00/high.webp",
+        "caption": "Grand ballroom aisle"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/01/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/01/high.webp",
+        "caption": "Ballroom red decor"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/02/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/04/high.webp",
+        "caption": "Ballroom stage screen"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/03/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/05/high.webp",
+        "caption": "Staged banquet table"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/04/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/06/high.webp",
+        "caption": "Floral centerpiece setting"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/05/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/02/high.webp",
+        "caption": "Banquet hall setup"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/06/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/03/high.webp",
+        "caption": "Ballroom floral tables"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/07/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eo-hotel-penang/07/high.webp",
+        "caption": "Reception place setting"
       }
     ],
-    "description": "The Eastern & Oriental Hotel (E&O), established in 1885, is a landmark heritage luxury hotel on Lebuh Farquhar in George Town, Penang. Its 2026 & 2027 Wedding Package Price List offers a range of banquet options: Chinese set menus (Duchess, Imperial, Opulence), a Western set menu (Elegance), an international buffet, and a Malay-style 'Hidang' menu (Duchess), with pricing quoted both per table of 10 and per person. A separate Wedding Vow Garden Rental is available for garden ceremonies. All rates are nett, inclusive of 10% service charge and 8% service tax, and are not valid on eve and public holidays.",
+    "description": "The Eastern & Oriental Hotel (E&O), established in 1885, is a landmark heritage luxury hotel on Lebuh Farquhar in George Town, Penang. ",
     "createdAt": "2026-07-17T18:25:46.145Z",
     "vendorId": "pending_02aad3a9fc14f391",
     "address": "10, Lebuh Farquhar, George Town, 10200 Penang",
@@ -14975,23 +15033,39 @@
     "metaDescription": null,
     "whatsappNumber": null,
     "whatsappMessage": null,
-    "youtubeLink": null,
+    "youtubeLink": "",
     "wpTag": null,
     "faq": [],
     "venueDetails": null,
     "photographerDetails": null,
-    "adminOverrides": null,
+    "adminOverrides": {
+      "food-menu": {
+        "value": "food-menu",
+        "overriddenAt": "2026-07-24T06:59:00.065Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "photos-videos": {
+        "value": "photos-videos",
+        "overriddenAt": "2026-07-24T06:58:02.300Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "venue-details": {
+        "value": "venue-details",
+        "overriddenAt": "2026-07-24T06:55:18.159Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      }
+    },
     "coverImageFocalPoint": null,
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'10':68B,89B '1885':12B '2026':27B '2027':28B '8':93B 'avail':79B 'banquet':37B 'buffet':52B 'ceremoni':82B 'charg':91B 'chines':39B 'duchess':42B,60B 'e':8B 'eastern':1A,5B 'eleg':49B 'establish':10B 'eve':101B 'farquhar':21B 'garden':76B,81B 'georg':23B,105C 'heritag':16B 'hidang':58B 'holiday':104B 'hotel':3A,7B,18B 'imperi':43B 'inclus':87B 'intern':51B 'landmark':15B 'lebuh':20B 'list':32B 'luxuri':17B 'malay':56B 'malay-styl':55B 'menu':48B,59B 'menus':41B 'nett':86B 'o':9B 'offer':33B 'option':38B 'opul':44B 'orient':2A,6B 'packag':30B 'penang':25B,107C 'per':65B,70B 'person':71B 'price':31B,62B 'public':103B 'quot':63B 'rang':35B 'rate':84B 'rental':77B 'separ':73B 'servic':90B,94B 'set':40B,47B 'style':57B 'tabl':66B 'tax':95B 'town':24B,106C 'valid':99B 'vow':75B 'wed':29B,74B 'western':46B",
+    "fts": "'1885':12B 'e':8B 'eastern':1A,5B 'establish':10B 'farquhar':21B 'georg':23B,26C 'heritag':16B 'hotel':3A,7B,18B 'landmark':15B 'lebuh':20B 'luxuri':17B 'o':9B 'orient':2A,6B 'penang':25B,28C 'town':24B,27C",
     "textEmbedding": null,
     "catalogPosition": null,
     "isSpotlight": false,
     "isDemo": false,
     "liveAt": "2026-07-18T04:10:23.223Z",
-    "updatedAt": "2026-07-18T08:10:23.676Z",
+    "updatedAt": "2026-07-24T06:58:02.234Z",
     "spaces": [
       {
         "id": "f25e0fd5-757a-4224-8f52-6d7bfe515437",
@@ -15113,43 +15187,55 @@
     "state": "Penang",
     "images": [
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/00/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/00/high.webp",
+        "caption": "Beachfront ceremony setup"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/01/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/08/high.webp",
+        "caption": "Function room banquet"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/02/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/06/high.webp",
+        "caption": "Banquet hall tables"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/03/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/03/high.webp",
+        "caption": "Stage floral arch"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/04/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/05/high.webp",
+        "caption": "Red-carpet floral aisle"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/05/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/01/high.webp",
+        "caption": "Grand ballroom banquet"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/06/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/02/high.webp",
+        "caption": "Ballroom floral stage"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/07/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/04/high.webp",
+        "caption": "Wide ballroom banquet"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/08/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/07/high.webp",
+        "caption": "Reception stage backdrop"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/09/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/09/high.webp",
+        "caption": "Outdoor wedding arch"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/10/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/10/high.webp",
+        "caption": "VIP head table"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/11/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/hard-rock-penang/11/high.webp",
+        "caption": "Wedding cake"
       }
     ],
-    "description": "Hard Rock Hotel Penang is the first music-inspired hotel in Malaysia, an award-winning 5-star family beach resort located along the popular Batu Ferringhi beach in Penang, combining legendary Hard Rock music culture with the beauty of the Malacca Straits and tropical lush greenery. With 250 rooms and suites across 11 room categories, a beach-front Rock Spa, the largest free-form swimming pool in Northern Malaysia (with underwater music) and nightly live performances, it offers a 'Love Hard, Play Hard' wedding experience. Weddings are hosted in the Hall of Fame, a multipurpose pillar-free ballroom with high ceilings and state-of-the-art audio-visual and lighting equipment (up to 260 guests), or at the Sunset Stage, a spectacular outdoor venue with a backdrop of the Malacca Straits (up to 30 guests). Two Chinese set-dinner reception packages (Blissful Union and Eternal Bliss) plus an outdoor Western wedding ceremony package are available, with full catering and event-planning services.",
+    "description": "Hard Rock Hotel Penang is the first music-inspired hotel in Malaysia, an award-winning 5-star family beach resort located along the popular Batu Ferringhi beach in Penang, combining legendary Hard Rock music culture with the beauty of the Malacca Straits and tropical lush greenery. ",
     "createdAt": "2026-07-17T18:26:06.699Z",
     "vendorId": "pending_02aad3a9fc14f391",
     "address": "Batu Ferringhi Beach, 11100 Batu Ferringhi, Penang",
@@ -15166,26 +15252,52 @@
     "metaDescription": null,
     "whatsappNumber": "+60 4 886 8015",
     "whatsappMessage": null,
-    "youtubeLink": null,
+    "youtubeLink": "",
     "wpTag": null,
     "faq": [],
     "venueDetails": null,
     "photographerDetails": null,
-    "adminOverrides": null,
+    "adminOverrides": {
+      "spaces": {
+        "value": "spaces",
+        "overriddenAt": "2026-07-24T07:04:50.841Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "packages": {
+        "value": "packages",
+        "overriddenAt": "2026-07-24T07:07:45.528Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "food-menu": {
+        "value": "food-menu",
+        "overriddenAt": "2026-07-24T07:03:46.374Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "photos-videos": {
+        "value": "photos-videos",
+        "overriddenAt": "2026-07-24T07:03:34.864Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "venue-details": {
+        "value": "venue-details",
+        "overriddenAt": "2026-07-24T07:02:22.553Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      }
+    },
     "coverImageFocalPoint": null,
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'11':59B '250':54B '260':125B '30':145B '5':22B 'across':58B 'along':28B 'art':116B 'audio':118B 'audio-visu':117B 'avail':167B 'award':20B 'award-win':19B 'backdrop':138B 'ballroom':107B 'batu':31B,176C 'beach':25B,33B,64B 'beach-front':63B 'beauti':44B 'bliss':154B,158B 'categori':61B 'cater':170B 'ceil':110B 'ceremoni':164B 'chines':148B 'combin':36B 'cultur':41B 'dinner':151B 'equip':122B 'etern':157B 'event':173B 'event-plan':172B 'experi':93B 'fame':101B 'famili':24B 'ferringhi':32B,177C 'first':11B 'form':72B 'free':71B,106B 'free-form':70B 'front':65B 'full':169B 'greeneri':52B 'guest':126B,146B 'hall':99B 'hard':1A,5B,38B,89B,91B 'high':109B 'host':96B 'hotel':3A,7B,15B 'inspir':14B 'largest':69B 'legendari':37B 'light':121B 'live':83B 'locat':27B 'love':88B 'lush':51B 'malacca':47B,141B 'malaysia':17B,77B 'multipurpos':103B 'music':13B,40B,80B 'music-inspir':12B 'night':82B 'northern':76B 'offer':86B 'outdoor':134B,161B 'packag':153B,165B 'penang':4A,8B,35B,178C 'perform':84B 'pillar':105B 'pillar-fre':104B 'plan':174B 'play':90B 'plus':159B 'pool':74B 'popular':30B 'recept':152B 'resort':26B 'rock':2A,6B,39B,66B 'room':55B,60B 'servic':175B 'set':150B 'set-dinn':149B 'spa':67B 'spectacular':133B 'stage':131B 'star':23B 'state':113B 'state-of-the-art':112B 'strait':48B,142B 'suit':57B 'sunset':130B 'swim':73B 'tropic':50B 'two':147B 'underwat':79B 'union':155B 'venu':135B 'visual':119B 'wed':92B,94B,163B 'western':162B 'win':21B",
+    "fts": "'5':22B 'along':28B 'award':20B 'award-win':19B 'batu':31B,53C 'beach':25B,33B 'beauti':44B 'combin':36B 'cultur':41B 'famili':24B 'ferringhi':32B,54C 'first':11B 'greeneri':52B 'hard':1A,5B,38B 'hotel':3A,7B,15B 'inspir':14B 'legendari':37B 'locat':27B 'lush':51B 'malacca':47B 'malaysia':17B 'music':13B,40B 'music-inspir':12B 'penang':4A,8B,35B,55C 'popular':30B 'resort':26B 'rock':2A,6B,39B 'star':23B 'strait':48B 'tropic':50B 'win':21B",
     "textEmbedding": null,
     "catalogPosition": null,
     "isSpotlight": false,
     "isDemo": false,
     "liveAt": "2026-07-18T04:10:23.223Z",
-    "updatedAt": "2026-07-18T08:10:25.387Z",
+    "updatedAt": "2026-07-24T07:03:34.770Z",
     "spaces": [
       {
-        "id": "45038f4c-dd8a-48ce-a2b9-e97de84667fa",
+        "id": "c9744a8a-c230-48ce-8b2c-0a39369a36c4",
         "name": "Hall of Fame",
         "type": "ballroom",
         "indoorOutdoor": "indoor",
@@ -15194,7 +15306,7 @@
         "capacitySeatedMax": 260
       },
       {
-        "id": "18f17814-80fa-4fb9-9ce8-2a8fa0599a4f",
+        "id": "31f414e8-f14f-4c7c-903e-e5d621130b68",
         "name": "Hall of Fame 1",
         "type": "ballroom section",
         "indoorOutdoor": "indoor",
@@ -15203,7 +15315,7 @@
         "capacitySeatedMax": null
       },
       {
-        "id": "c0ef145a-8c52-4c06-bf7d-dcf831ef7852",
+        "id": "50282e58-268d-4c5a-beae-dabe16f67934",
         "name": "Hall of Fame 2",
         "type": "ballroom section",
         "indoorOutdoor": "indoor",
@@ -15212,7 +15324,7 @@
         "capacitySeatedMax": null
       },
       {
-        "id": "2dd3f4c9-1f03-430c-8b9e-134e7855d529",
+        "id": "d94caab9-91e8-487a-ba42-1e84d1512f1c",
         "name": "Sunset Stage",
         "type": "outdoor ceremony venue",
         "indoorOutdoor": "outdoor",
@@ -15221,16 +15333,7 @@
         "capacitySeatedMax": 30
       },
       {
-        "id": "be2ef56d-fcfb-4ed4-b346-197abc9c4b07",
-        "name": "Lagoon Garden / Pool Area",
-        "type": "photoshoot / outdoor grounds",
-        "indoorOutdoor": "outdoor",
-        "area": null,
-        "capacitySeatedMin": null,
-        "capacitySeatedMax": null
-      },
-      {
-        "id": "1f7ee636-7a3a-4abf-a435-3c8557f062f5",
+        "id": "bd28e596-039d-4601-9035-1ccf31b61a6f",
         "name": "Tea Ceremony Room",
         "type": "function room",
         "indoorOutdoor": "indoor",
@@ -15270,8 +15373,8 @@
         "price": 1588,
         "priceMax": null,
         "priceFixture": "per_table",
-        "pricePerPax": null,
-        "description": "RM1,588 nett per table for the standard (non-peak) rate. Held in the Hall of Fame ballroom. Uses the Blissful Union 8-course Chinese set menu (or International Buffet). Per-table price for a table of 10; total spend RM31,760-RM41,288 for 20-26 tables.",
+        "pricePerPax": 158.8,
+        "description": "RM1,588 nett per table for the standard (non-peak) rate. Held in the Hall of Fame ballroom. Uses the Blissful Union 8-course Chinese set menu (or International Buffet). ",
         "includes": [
           "Minimum of 20 tables (up to 26 tables), 10 persons per table",
           "A sumptuous 8-course 'Blissful Union' Chinese Set Dinner (with free-flow of Chinese Tea) OR Buffet",
@@ -15303,7 +15406,7 @@
         "price": 1788,
         "priceMax": null,
         "priceFixture": "per_table",
-        "pricePerPax": null,
+        "pricePerPax": 178.8,
         "description": "RM1,788 nett per table. Peak rate applies on Fridays, Saturdays, Eve of Public Holidays & selected Public Holidays in Malaysia. Same inclusions as the standard Blissful Union package.",
         "includes": [
           "Same inclusions as the standard Blissful Union package (see Blissful Union standard package)"
@@ -15317,7 +15420,7 @@
         "price": 1788,
         "priceMax": null,
         "priceFixture": "per_table",
-        "pricePerPax": null,
+        "pricePerPax": 178.8,
         "description": "RM1,788 nett per table for the standard (non-peak) rate. The higher-tier reception package. Differs from Blissful Union by: free-flow soft drink (vs orange cordial), six decorated walkway stands (vs four), heart-shaped premium chocolate (vs individually packed), and the Eternal Bliss 8-course menu. Held in the Hall of Fame ballroom.",
         "includes": [
           "Minimum of 20 tables (up to 26 tables), 10 persons per table",
@@ -15350,7 +15453,7 @@
         "price": 1988,
         "priceMax": null,
         "priceFixture": "per_table",
-        "pricePerPax": null,
+        "pricePerPax": 198.8,
         "description": "RM1,988 nett per table. Peak rate applies on Fridays, Saturdays, Eve of Public Holidays & selected Public Holidays in Malaysia. Same inclusions as the standard Eternal Bliss package.",
         "includes": [
           "Same inclusions as the standard Eternal Bliss package (see Eternal Bliss standard package)"
@@ -16430,8 +16533,20 @@
     "state": "Penang",
     "images": [
       {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860396565-WhatsApp_Image_2026-04-02_at_8.54.11_AM__1_/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860385239-WhatsApp_Image_2026-04-02_at_8.54.10_AM__1_/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860282912-MIC08700_edit/original.webp"
+      },
+      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/iconic-hotel-penang/00/high.webp",
         "caption": "Grand ballroom wedding setup"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860378983-WhatsApp_Image_2026-04-02_at_8.54.09_AM/original.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/iconic-hotel-penang/01/high.webp",
@@ -16448,6 +16563,69 @@
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/iconic-hotel-penang/04/high.webp",
         "caption": "Floral table centerpiece"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860275539-A7302305/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860288304-MIC08704_edit/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860294176-MIC08719_edit/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860299370-MIC08734_edit/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860305662-MIC08758_edit/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860312807-P1665273/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860318949-P1665282/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860325929-P1665285/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860332327-P1665286/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860337209-P1665289/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860341601-P1665300/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860349012-P1665306/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860354858-RAY_6045/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860357947-WhatsApp_Image_2025-08-16_at_12.15.06__1_/original.jpeg"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860362500-WhatsApp_Image_2025-08-16_at_12.15.06/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860365302-WhatsApp_Image_2025-08-16_at_12.15.07__1_/original.jpeg"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860367868-WhatsApp_Image_2025-08-16_at_12.15.07/original.jpeg"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860373256-WhatsApp_Image_2026-04-02_at_8.54.09_AM__1_/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860390913-WhatsApp_Image_2026-04-02_at_8.54.10_AM__2_/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860402819-WhatsApp_Image_2026-04-02_at_8.54.12_AM__1_/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/iconic-hotel-penang/1784860409082-WhatsApp_Image_2026-04-02_at_8.54.14_AM/original.webp"
       }
     ],
     "description": "\r\n",
@@ -16485,7 +16663,7 @@
       },
       "photos-videos": {
         "value": "photos-videos",
-        "overriddenAt": "2026-07-23T04:11:31.547Z",
+        "overriddenAt": "2026-07-24T02:48:18.490Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "venue-details": {
@@ -16504,7 +16682,7 @@
     "isSpotlight": false,
     "isDemo": false,
     "liveAt": "2026-07-18T04:10:23.223Z",
-    "updatedAt": "2026-07-23T04:11:31.500Z",
+    "updatedAt": "2026-07-24T02:48:18.436Z",
     "spaces": [
       {
         "id": "8dd10937-83e1-47c0-95d8-aa1e869a813a",
