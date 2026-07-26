@@ -296,7 +296,7 @@
       "Conference"
     ],
     "fast_response": true,
-    "response_time": "5 hrs"
+    "response_time": "4 hrs"
   },
   {
     "name": "Artyzen Singapore",
@@ -803,7 +803,7 @@
       "Party"
     ],
     "fast_response": true,
-    "response_time": null
+    "response_time": "21 hrs"
   },
   {
     "name": "Waterfront Event Space at ACM",
@@ -1096,29 +1096,6 @@
     "reviews": 0,
     "mrt_station": "Labrador Park MRT Station",
     "event_types": [],
-    "fast_response": false,
-    "response_time": null
-  },
-  {
-    "name": "Private function room in Tiong Bahru",
-    "url": "https://www.venuerific.com/sg/venues/private-function-room-in-tiong-bahru",
-    "slug": "private-function-room-in-tiong-bahru",
-    "area": "Bukit Merah, Outram",
-    "address": "231 Outram Rd, Singapore 169040",
-    "lat": 1.284303,
-    "lng": 103.835085,
-    "capacity_standing": 100,
-    "capacity_seated": 50,
-    "rooms_count": 0,
-    "price": "S$1,500",
-    "price_unit": "Per full-day",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Outram Park MRT Station",
-    "event_types": [
-      "Company Dinner and Dance",
-      "Solemnisation"
-    ],
     "fast_response": false,
     "response_time": null
   },
