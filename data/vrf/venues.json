@@ -110,7 +110,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "33 mins"
+    "response_time": "1 hr"
   },
   {
     "name": "Moon Rooftop Bar and Lounge",
@@ -180,7 +180,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "10 hrs"
+    "response_time": "15 hrs"
   },
   {
     "name": "HomeTeamNS Bedok Reservoir Clubhouse",
@@ -227,7 +227,7 @@
       "Media Event"
     ],
     "fast_response": true,
-    "response_time": "12 hrs"
+    "response_time": "17 hrs"
   },
   {
     "name": "Singapore EXPO",
@@ -296,7 +296,7 @@
       "Conference"
     ],
     "fast_response": true,
-    "response_time": "4 hrs"
+    "response_time": "5 hrs"
   },
   {
     "name": "Artyzen Singapore",
@@ -368,7 +368,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "5 hrs"
+    "response_time": "9 hrs"
   },
   {
     "name": "The Spot Singapore",
@@ -459,7 +459,7 @@
       "Reception"
     ],
     "fast_response": true,
-    "response_time": "22 hrs"
+    "response_time": null
   },
   {
     "name": "Alta Studio",
