@@ -10372,7 +10372,7 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/5af0a3b0-4713-41ec-94a9-4cccf915cd3e/high.webp"
       }
     ],
-    "description": "",
+    "description": "Club 360 offers the elegant Sapphire and Amber Hall, providing versatile event spaces ideal for weddings, corporate functions, seminars, annual dinners, exhibitions, and private celebrations. With modern interiors, flexible layouts, and a comfortable ambience, both halls are designed to accommodate events of various sizes and create memorable experiences for every occasion.",
     "createdAt": "2025-07-24T08:05:35.296Z",
     "vendorId": "user_3D3zIdzPTZearIFvCPx9DBhPdLD",
     "address": "1, Persiaran Ecohill Barat, Setia Ecohill, 43500 Semenyih, Selangor, Malaysia",
@@ -10432,12 +10432,12 @@
       },
       "photos-videos": {
         "value": "photos-videos",
-        "overriddenAt": "2026-07-23T02:33:53.406Z",
+        "overriddenAt": "2026-07-28T02:34:58.030Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "venue-details": {
         "value": "venue-details",
-        "overriddenAt": "2026-07-23T02:30:35.003Z",
+        "overriddenAt": "2026-07-28T02:38:30.819Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       }
     },
@@ -10445,13 +10445,13 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'360':2A 'club':1A 'ecohil':3A,7C 'selangor':5C 'semenyih':4C 'setia':6C",
+    "fts": "'360':2A,5B 'accommod':43B 'amber':11B 'ambienc':37B 'annual':23B 'celebr':28B 'club':1A,4B 'comfort':36B 'corpor':20B 'creat':49B 'design':41B 'dinner':24B 'ecohil':3A,58C 'eleg':8B 'event':15B,44B 'everi':53B 'exhibit':25B 'experi':51B 'flexibl':32B 'function':21B 'hall':12B,39B 'ideal':17B 'interior':31B 'layout':33B 'memor':50B 'modern':30B 'occas':54B 'offer':6B 'privat':27B 'provid':13B 'sapphir':9B 'selangor':56C 'semenyih':55C 'seminar':22B 'setia':57C 'size':47B 'space':16B 'various':46B 'versatil':14B 'wed':19B",
     "textEmbedding": null,
     "catalogPosition": 17,
     "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-07-23T02:33:53.325Z",
+    "updatedAt": "2026-07-28T02:38:30.792Z",
     "spaces": [],
     "packages": [
       {
@@ -10628,7 +10628,7 @@
     "adminOverrides": {
       "spaces": {
         "value": "spaces",
-        "overriddenAt": "2026-07-23T02:24:39.199Z",
+        "overriddenAt": "2026-07-28T02:37:04.460Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "packages": {
@@ -10638,7 +10638,7 @@
       },
       "photos-videos": {
         "value": "photos-videos",
-        "overriddenAt": "2026-07-23T02:26:25.583Z",
+        "overriddenAt": "2026-07-28T02:37:25.287Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "venue-details": {
@@ -10657,10 +10657,10 @@
     "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-07-23T02:51:07.310Z",
+    "updatedAt": "2026-07-28T02:37:25.240Z",
     "spaces": [
       {
-        "id": "f01a75f1-6566-4b7d-ac3c-f8cac7bcbbfb",
+        "id": "876c4de4-4965-4753-9c71-f4f004450c29",
         "name": "Grand Ballroom, LakePoint Club",
         "type": "Ballroom",
         "indoorOutdoor": "INDOOR",
@@ -10733,7 +10733,7 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/049ef9e4-d1ac-4d65-8c1d-43084ba4dc01/ef6ab94f-c7da-444e-99df-a2819bba0b4e/high.webp"
       }
     ],
-    "description": "Club 360 – Sapphire & Amber Hall\r\n\r\nClub 360 offers the elegant Sapphire and Amber Hall, providing versatile event spaces ideal for weddings, corporate functions, seminars, annual dinners, exhibitions, and private celebrations. With modern interiors, flexible layouts, and a comfortable ambience, both halls are designed to accommodate events of various sizes and create memorable experiences for every occasion.",
+    "description": "Camellia Hall is a versatile and air-conditioned event space within Canopy Club, Setia Eco Park. Featuring three adjoining halls that can be combined, it accommodates up to 220 guests—ideal for weddings, seminars, birthdays, and corporate events. ",
     "createdAt": "2025-07-24T08:34:09.651Z",
     "vendorId": "user_3D3zIdzPTZearIFvCPx9DBhPdLD",
     "address": "Setia Eco-park, 40170 Shah Alam, Selangor, Malaysia",
@@ -10806,7 +10806,7 @@
       },
       "venue-details": {
         "value": "venue-details",
-        "overriddenAt": "2026-07-23T02:55:41.695Z",
+        "overriddenAt": "2026-07-28T02:39:25.459Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       }
     },
@@ -10814,13 +10814,13 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'360':9B,14B 'accommod':52B 'alam':65C 'amber':11B,20B 'ambienc':46B 'annual':32B 'camellia':1A 'canopi':3A 'celebr':37B 'club':4A,8B,13B 'comfort':45B 'corpor':29B 'creat':58B 'design':50B 'dinner':33B 'eco':6A,69C 'eco-park':68C 'eleg':17B 'event':24B,53B 'everi':62B 'exhibit':34B 'experi':60B 'flexibl':41B 'function':30B 'hall':2A,12B,21B,48B 'ideal':26B 'interior':40B 'layout':42B 'memor':59B 'modern':39B 'occas':63B 'offer':15B 'park':7A,70C 'privat':36B 'provid':22B 'sapphir':10B,18B 'selangor':66C 'seminar':31B 'setia':5A,67C 'shah':64C 'size':56B 'space':25B 'various':55B 'versatil':23B 'wed':28B",
+    "fts": "'220':37B 'accommod':34B 'adjoin':27B 'air':15B 'air-condit':14B 'alam':48C 'birthday':43B 'camellia':1A,8B 'canopi':3A,20B 'club':4A,21B 'combin':32B 'condit':16B 'corpor':45B 'eco':6A,23B,52C 'eco-park':51C 'event':17B,46B 'featur':25B 'guest':38B 'hall':2A,9B,28B 'ideal':39B 'park':7A,24B,53C 'selangor':49C 'seminar':42B 'setia':5A,22B,50C 'shah':47C 'space':18B 'three':26B 'versatil':12B 'wed':41B 'within':19B",
     "textEmbedding": null,
     "catalogPosition": 18,
     "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
-    "updatedAt": "2026-07-23T02:55:41.673Z",
+    "updatedAt": "2026-07-28T02:39:25.441Z",
     "spaces": [
       {
         "id": "80b80b10-ca5b-4a1d-b3d9-421f115ca67f",
@@ -14801,7 +14801,7 @@
     "adminOverrides": {
       "spaces": {
         "value": "spaces",
-        "overriddenAt": "2026-07-24T06:46:37.063Z",
+        "overriddenAt": "2026-07-28T05:28:19.566Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "packages": {
@@ -14816,7 +14816,7 @@
       },
       "photos-videos": {
         "value": "photos-videos",
-        "overriddenAt": "2026-07-24T06:48:01.601Z",
+        "overriddenAt": "2026-07-28T05:35:42.675Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "venue-details": {
@@ -14835,28 +14835,28 @@
     "isSpotlight": false,
     "isDemo": false,
     "liveAt": "2026-07-18T04:10:23.223Z",
-    "updatedAt": "2026-07-24T06:48:01.509Z",
+    "updatedAt": "2026-07-28T05:35:42.611Z",
     "spaces": [
       {
-        "id": "8f5520e5-cf76-46e2-8183-83a30d054064",
+        "id": "ef725333-4448-424d-a862-5880984d3c3a",
         "name": "Pelangi Ballroom",
         "type": "Ballroom",
         "indoorOutdoor": "INDOOR",
         "area": null,
-        "capacitySeatedMin": 100,
+        "capacitySeatedMin": 150,
         "capacitySeatedMax": 300
       },
       {
-        "id": "acff9154-5a59-49d1-967e-bb016b2a3c6a",
+        "id": "f32d7ec9-6951-4996-80e7-4b82260983a5",
         "name": "Marquee Tent",
         "type": "ballroom",
         "indoorOutdoor": "INDOOR",
         "area": null,
-        "capacitySeatedMin": 200,
-        "capacitySeatedMax": null
+        "capacitySeatedMin": 50,
+        "capacitySeatedMax": 150
       },
       {
-        "id": "404e2948-ee74-4b38-85d8-f10bc73edf55",
+        "id": "c27180ef-bf37-481c-9d52-3aa38e44d918",
         "name": "Rain Tree Garden",
         "type": "garden ceremony lawn",
         "indoorOutdoor": "OUTDOOR",
@@ -14865,7 +14865,7 @@
         "capacitySeatedMax": 200
       },
       {
-        "id": "11a751fd-102f-4535-a09f-0dc1d143b534",
+        "id": "5ee276d3-49fd-4f78-81d1-b072cb0a50c8",
         "name": "Banyan Tree Garden",
         "type": "Park, Garden",
         "indoorOutdoor": "OUTDOOR",
@@ -15478,22 +15478,28 @@
     "state": "Penang",
     "images": [
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/00/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/00/high.webp",
+        "caption": "Wedding banquet ballroom"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/01/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/01/high.webp",
+        "caption": "Ballroom banquet setup"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/02/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/05/high.webp",
+        "caption": "Poolside evening event setup"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/03/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/02/high.webp",
+        "caption": "Function room banquet"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/04/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/03/high.webp",
+        "caption": "Theatre-style function room"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/05/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/doubletree-penang/04/high.webp",
+        "caption": "Meeting room theatre setup"
       }
     ],
     "description": "DoubleTree Resort by Hilton Penang is a beach resort located at Batu Ferringhi offering three tiered wedding packages (Classic, Deluxe and Premium) priced per table of 10 persons with a minimum of 15 tables. All packages are hosted in the Esplanade Ballroom for up to four hours and include a Chinese multi-course banquet menu, PA system with projectors and screens, microphones, stage lighting, red carpet, mock wedding cake, and Hilton Honors Wedding Incentive Points. Higher tiers add pre-event cocktails, signature DoubleTree canapes, sparkling juice toasting, suite stays with sea view, reserved parking, spa vouchers, wine and corkage benefits, and personalization options such as stage backdrops, floral arrangements and themed table decor.",
@@ -15513,12 +15519,28 @@
     "metaDescription": null,
     "whatsappNumber": null,
     "whatsappMessage": null,
-    "youtubeLink": null,
+    "youtubeLink": "",
     "wpTag": null,
     "faq": [],
     "venueDetails": null,
     "photographerDetails": null,
-    "adminOverrides": null,
+    "adminOverrides": {
+      "packages": {
+        "value": "packages",
+        "overriddenAt": "2026-07-28T05:55:21.922Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "food-menu": {
+        "value": "food-menu",
+        "overriddenAt": "2026-07-28T05:55:33.131Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "photos-videos": {
+        "value": "photos-videos",
+        "overriddenAt": "2026-07-28T05:56:16.910Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      }
+    },
     "coverImageFocalPoint": null,
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
@@ -15529,7 +15551,7 @@
     "isSpotlight": false,
     "isDemo": false,
     "liveAt": "2026-07-18T04:10:23.223Z",
-    "updatedAt": "2026-07-18T08:10:24.432Z",
+    "updatedAt": "2026-07-28T05:56:16.847Z",
     "spaces": [
       {
         "id": "ec85c47c-ad17-4536-81a7-6b0b6e8c952f",
@@ -15556,7 +15578,7 @@
         "price": 1488,
         "priceMax": null,
         "priceFixture": "per_table",
-        "pricePerPax": null,
+        "pricePerPax": 148.8,
         "description": "Price is nett per table of 10 persons. Minimum of 15 tables.",
         "includes": [
           "Use of Esplanade Ballroom for up to four (4) hours",
@@ -15573,15 +15595,15 @@
           "Exclusive Perk: Complimentary wireless Internet access"
         ],
         "guestMin": 150,
-        "guestMax": 10,
-        "brochureUrl": null
+        "guestMax": null,
+        "brochureUrl": "documents/7b7597ef-8fa7-4541-b01c-c77ef4e5c1fa/brochure-1785218099983-DoubleTreeResortbyHiltonPenang_Wedding_Package_2026.pdf"
       },
       {
         "name": "Deluxe Wedding Package",
         "price": 1688,
         "priceMax": null,
         "priceFixture": "per_table",
-        "pricePerPax": null,
+        "pricePerPax": 168.8,
         "description": "Price is nett per table of 10 persons. Minimum of 15 tables.",
         "includes": [
           "Use of Esplanade Ballroom for up to four (4) hours",
@@ -15608,7 +15630,7 @@
           "Personalize Your Wedding: Guest table ornaments"
         ],
         "guestMin": 150,
-        "guestMax": 10,
+        "guestMax": null,
         "brochureUrl": null
       },
       {
@@ -15616,7 +15638,7 @@
         "price": 2188,
         "priceMax": null,
         "priceFixture": "per_table",
-        "pricePerPax": null,
+        "pricePerPax": 218.8,
         "description": "Price is nett per table of 10 persons. Minimum of 15 tables.",
         "includes": [
           "Use of Esplanade Ballroom for up to four (4) hours",
@@ -15647,7 +15669,7 @@
           "Personalize Your Wedding: Guest table ornaments"
         ],
         "guestMin": 150,
-        "guestMax": 10,
+        "guestMax": null,
         "brochureUrl": null
       }
     ],
@@ -15853,34 +15875,44 @@
     "state": "Penang",
     "images": [
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/00/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/04/high.webp",
+        "caption": "Floral arch windows"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/01/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/00/high.webp",
+        "caption": "Floral arch aisle"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/02/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/01/high.webp",
+        "caption": "Floral-ceiling banquet hall"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/03/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/02/high.webp",
+        "caption": "Greenery-ceiling banquet"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/04/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/03/high.webp",
+        "caption": "Glasshouse floral ceremony"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/05/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/05/high.webp",
+        "caption": "Floral-ceiling long table"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/06/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/06/high.webp",
+        "caption": "Glasshouse red aisle"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/07/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/07/high.webp",
+        "caption": "Glasshouse ceremony aisle"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/08/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/08/high.webp",
+        "caption": "Glasshouse topiary ceremony"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/09/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/granite-hotel-penang/09/high.webp",
+        "caption": "Ballroom banquet tables"
       }
     ],
     "description": "The Skye Event Space is the rooftop event venue of The Granite Luxury Hotel Penang, strategically located in the centre of George Town with perfect views of the iconic Komtar. Spanning around 4,000 sq ft, it combines a fully decorated main hall, a fully decorated second hall, a garden area and an iconic glasshouse. In the glasshouse, elegant chandeliers cast a sophisticated glow, while the main hall is transformed into a dreamland with butterfly lighting, exquisite arches, and flowers draping the walls and ceiling. Every detail is meticulously crafted to create a warm and magical atmosphere. The space is customizable to meet the needs of any occasion — weddings, ROM, birthdays, school reunions, seminars/workshops and corporate events. Three space-usage packages are offered (Essential 1, Essential 2 and Ultimate) with maximum capacities of 50, 80 and 180 pax respectively.",
@@ -15900,12 +15932,28 @@
     "metaDescription": null,
     "whatsappNumber": "016-451 8232",
     "whatsappMessage": null,
-    "youtubeLink": null,
+    "youtubeLink": "",
     "wpTag": null,
     "faq": [],
     "venueDetails": null,
     "photographerDetails": null,
-    "adminOverrides": null,
+    "adminOverrides": {
+      "spaces": {
+        "value": "spaces",
+        "overriddenAt": "2026-07-28T06:02:23.485Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "packages": {
+        "value": "packages",
+        "overriddenAt": "2026-07-28T05:59:10.601Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
+      "photos-videos": {
+        "value": "photos-videos",
+        "overriddenAt": "2026-07-28T06:03:27.937Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      }
+    },
     "coverImageFocalPoint": null,
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
@@ -15916,52 +15964,16 @@
     "isSpotlight": false,
     "isDemo": false,
     "liveAt": "2026-07-18T04:10:23.223Z",
-    "updatedAt": "2026-07-18T08:10:27.057Z",
+    "updatedAt": "2026-07-28T06:03:27.886Z",
     "spaces": [
       {
-        "id": "3d77f8ef-21c8-4b49-a10f-af5bd21b0ac4",
+        "id": "8fff6599-0509-4f99-9a3b-542f4ab1548b",
         "name": "The Skye Event Space",
         "type": "rooftop event space",
         "indoorOutdoor": "both",
         "area": null,
         "capacitySeatedMin": 50,
         "capacitySeatedMax": 180
-      },
-      {
-        "id": "851519bf-6138-4a57-a096-5ebe6baea006",
-        "name": "Main Hall",
-        "type": "ballroom / event hall",
-        "indoorOutdoor": "indoor",
-        "area": null,
-        "capacitySeatedMin": null,
-        "capacitySeatedMax": null
-      },
-      {
-        "id": "79070e5c-8999-48ff-88f7-91e439e44d31",
-        "name": "Second Hall",
-        "type": "event hall",
-        "indoorOutdoor": "indoor",
-        "area": null,
-        "capacitySeatedMin": null,
-        "capacitySeatedMax": null
-      },
-      {
-        "id": "246c406e-92b9-440d-b933-2eecc95487e2",
-        "name": "Glasshouse",
-        "type": "glasshouse",
-        "indoorOutdoor": "both",
-        "area": null,
-        "capacitySeatedMin": null,
-        "capacitySeatedMax": null
-      },
-      {
-        "id": "17c4d41b-eeea-4a6d-b18c-77f7481bcba4",
-        "name": "Skye Garden",
-        "type": "garden",
-        "indoorOutdoor": "outdoor",
-        "area": null,
-        "capacitySeatedMin": null,
-        "capacitySeatedMax": null
       }
     ],
     "packages": [
@@ -15980,7 +15992,7 @@
         ],
         "guestMin": null,
         "guestMax": 50,
-        "brochureUrl": null
+        "brochureUrl": "documents/2c1d0b5c-7d46-4179-b869-38fbb771a9b3/brochure-1785218320677-TheSkye_Package.pdf"
       },
       {
         "name": "Skye Essential 2 (Essential Package - Half Hall)",

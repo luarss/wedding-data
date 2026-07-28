@@ -1515,6 +1515,21 @@
     "rooms": "[{\"name\": \"Event Space\", \"capacity\": \"80-120 pax\", \"price\": \"From $1,200\"}]"
   },
   {
+    "recordId": "reciMgHviimwfaRnn",
+    "name": "NUSS Guild Houses",
+    "url": "https://www.bridely.sg/venue/nuss-guild-houses/r/reciMgHviimwfaRnn",
+    "location": "NUSS KENT RIDGE GUILD HOUSE: 9 Kent Ridge Dr, Singapore 119241 | NUSS SUNTEC CITY GUILD HOUSE: 3 Temasek Blvd, Tower 5, Mall, #02-401/402 Suntec City, Singapore 038983 | NUSS MANDALAY GUILD HOUSE: 2 Mandalay Rd, Singapore 308206",
+    "overallRating": 5,
+    "venueRating": null,
+    "serviceRating": 5,
+    "foodRating": 5,
+    "reviews": 1,
+    "tags": "Event Hall, Chinese, Fusion, Muslim-friendly, Western",
+    "price": "From $78/pax",
+    "capacity": "160-200 pax",
+    "rooms": "[{\"name\": \"Kent Ridge Guild House\", \"capacity\": \"160-200 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Suntec City Guild House\", \"capacity\": \"100-120 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Mandalay Guild House\", \"capacity\": \"40-50 pax\", \"price\": \"From $89/pax\"}]"
+  },
+  {
     "recordId": "recXKWo4ND5I4I1y4",
     "name": "Oasia Hotel Downtown",
     "url": "https://www.bridely.sg/venue/oasia-hotel-downtown/r/recXKWo4ND5I4I1y4",
