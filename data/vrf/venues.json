@@ -23,6 +23,29 @@
     "response_time": null
   },
   {
+    "name": "VIVA LOCA INTERNATIONAL @ NSRCC",
+    "url": "https://www.venuerific.com/sg/venues/viva-loca-international-nsrcc",
+    "slug": "viva-loca-international-nsrcc",
+    "area": "Changi",
+    "address": "10 Changi Coast Walk, #5th Floor of Sky Range, Singapore 499739",
+    "lat": 1.3206738,
+    "lng": 103.9742651,
+    "capacity_standing": 200,
+    "capacity_seated": 200,
+    "rooms_count": 3,
+    "price": "",
+    "price_unit": null,
+    "rating": 5.0,
+    "reviews": 2,
+    "mrt_station": "Expo MRT Station,",
+    "event_types": [
+      "Company Cocktail Party",
+      "Party"
+    ],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
     "name": "Creative lifestyle studio in Kallang",
     "url": "https://www.venuerific.com/sg/venues/creative-lifestyle-studio-in-kallang",
     "slug": "creative-lifestyle-studio-in-kallang",
@@ -64,30 +87,6 @@
     ],
     "fast_response": true,
     "response_time": "11 hrs"
-  },
-  {
-    "name": "Wolfgang’s Steakhouse Singapore",
-    "url": "https://www.venuerific.com/sg/venues/wolfgang-s-steakhouse-singapore",
-    "slug": "wolfgang-s-steakhouse-singapore",
-    "area": "Clarke Quay, River Valley",
-    "address": "1 Nanson Road, Robertson Quay, #02-01 InterContinental Singapore, Singapore 238909",
-    "lat": 1.2898797,
-    "lng": 103.8385339,
-    "capacity_standing": 100,
-    "capacity_seated": 100,
-    "rooms_count": 4,
-    "price": "S$800",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Fort Canning MRT Station / Havelock MRT Station",
-    "event_types": [
-      "Business Dinner",
-      "Birthday",
-      "Wedding"
-    ],
-    "fast_response": false,
-    "response_time": null
   },
   {
     "name": "The Inspire Space Sg",
@@ -180,7 +179,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "15 hrs"
+    "response_time": "17 hrs"
   },
   {
     "name": "HomeTeamNS Bedok Reservoir Clubhouse",
@@ -320,7 +319,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": null
+    "response_time": "23 hrs"
   },
   {
     "name": "METT Hotel",
@@ -392,7 +391,7 @@
       "Solemnisation"
     ],
     "fast_response": true,
-    "response_time": "15 hrs"
+    "response_time": "17 hrs"
   },
   {
     "name": "The Mill — A Modern, Versatile Event Venue",
@@ -666,30 +665,6 @@
     "response_time": "6 hrs"
   },
   {
-    "name": "The Standard Singapore",
-    "url": "https://www.venuerific.com/sg/venues/the-standard-singapore",
-    "slug": "the-standard-singapore",
-    "area": "Orchard",
-    "address": "12 Orange Grove Rd, Singapore 258353",
-    "lat": null,
-    "lng": null,
-    "capacity_standing": 150,
-    "capacity_seated": 100,
-    "rooms_count": 3,
-    "price": "S$2,000",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "",
-    "event_types": [
-      "Media Event",
-      "Product Launch",
-      "Company Cocktail Party"
-    ],
-    "fast_response": false,
-    "response_time": null
-  },
-  {
     "name": "Lotus@Norris",
     "url": "https://www.venuerific.com/sg/venues/lotus-norris",
     "slug": "lotus-norris",
@@ -708,6 +683,30 @@
     "event_types": [
       "Wedding",
       "ROM"
+    ],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
+    "name": "Wolfgang’s Steakhouse Singapore",
+    "url": "https://www.venuerific.com/sg/venues/wolfgang-s-steakhouse-singapore",
+    "slug": "wolfgang-s-steakhouse-singapore",
+    "area": "Clarke Quay, River Valley",
+    "address": "1 Nanson Road, Robertson Quay, #02-01 InterContinental Singapore, Singapore 238909",
+    "lat": 1.2898797,
+    "lng": 103.8385339,
+    "capacity_standing": 100,
+    "capacity_seated": 100,
+    "rooms_count": 4,
+    "price": "S$800",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Fort Canning MRT Station / Havelock MRT Station",
+    "event_types": [
+      "Business Dinner",
+      "Birthday",
+      "Wedding"
     ],
     "fast_response": false,
     "response_time": null
@@ -754,29 +753,6 @@
     "event_types": [
       "Corporate Seminar",
       "Product Launch"
-    ],
-    "fast_response": false,
-    "response_time": null
-  },
-  {
-    "name": "VIVA LOCA INTERNATIONAL @ NSRCC",
-    "url": "https://www.venuerific.com/sg/venues/viva-loca-international-nsrcc",
-    "slug": "viva-loca-international-nsrcc",
-    "area": "Changi",
-    "address": "10 Changi Coast Walk, #5th Floor of Sky Range, Singapore 499739",
-    "lat": 1.3206738,
-    "lng": 103.9742651,
-    "capacity_standing": 200,
-    "capacity_seated": 200,
-    "rooms_count": 3,
-    "price": "",
-    "price_unit": null,
-    "rating": 5.0,
-    "reviews": 2,
-    "mrt_station": "Expo MRT Station,",
-    "event_types": [
-      "Company Cocktail Party",
-      "Party"
     ],
     "fast_response": false,
     "response_time": null
