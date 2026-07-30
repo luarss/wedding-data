@@ -430,9 +430,9 @@
     "foodRating": 4,
     "reviews": 88,
     "tags": "Hotel, Chinese, Indian, Muslim-friendly",
-    "price": "From $190/pax",
-    "capacity": "250-1000 pax",
-    "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"250-1000 pax\", \"price\": \"From $190/pax\"}, {\"name\": \"Ballroom 1 / 2 / 3\", \"capacity\": \"180-300 pax\", \"price\": \"From $226/pax\"}]"
+    "price": "From $148/pax",
+    "capacity": "180-1000 pax",
+    "rooms": "[{\"name\": \"Indian Wedding Packages\", \"capacity\": \"180-1000 pax\", \"price\": \"From $148/pax\"}, {\"name\": \"Malay Wedding Packages\", \"capacity\": \"180-1000 pax\", \"price\": \"From $148/pax\"}, {\"name\": \"Orchard Grand Ballroom (Chinese)\", \"capacity\": \"600-1000 pax\", \"price\": \"From $178.8/pax\"}, {\"name\": \"Orchard Grand Ballroom 1 & 2 (Chinese)\", \"capacity\": \"350-550 pax\", \"price\": \"From $178.8/pax\"}, {\"name\": \"Orchard Grand Ballroom 3 (Chinese)\", \"capacity\": \"180-300 pax\", \"price\": \"From $178.8/pax\"}]"
   },
   {
     "recordId": "recM54IxC7AYLUzj7",
