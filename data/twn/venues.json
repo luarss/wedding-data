@@ -974,7 +974,7 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/40f5351b-b9a8-4039-8c87-97d8c6047e4c/c51f9ee7-0682-4bc9-ba23-474c40ac38ea/high.webp"
       }
     ],
-    "description": "The St. Regis Kuala Lumpur, a beacon of luxury and elegance, presents an unparalleled destination for your special day. Nestled in the heart of Malaysia's vibrant capital, this exquisite venue combines timeless sophistication with modern opulence, making it a perfect setting for a wedding. The hotel's grand architecture and sumptuous interiors, inspired by the rich heritage and culture of Kuala Lumpur, provide a breathtaking backdrop for ceremonies and receptions. The St. Regis Kuala Lumpur boasts an array of stunning ballrooms and event spaces, each meticulously designed to offer a sense of grandeur and intimacy. The Astor Rooms and Grand Ballroom in particular, is a masterpiece of design, featuring magnificent crystal chandeliers and state-of-the-art lighting systems, setting a romantic and majestic atmosphere for your nuptials.",
+    "description": "The St. Regis Kuala Lumpur sits in KL Sentral, the city’s main transport interchange. It opened in 2016 with 208 rooms and suites, and its function space runs across four floors.\n\nThe Grand Ballroom is the largest of its rooms, at roughly 1,300 square metres, and seats 990 for a banquet or 850 standing. A 270-degree LED canvas of 47 screens wraps three sides of it, and a private lift big enough to hold a car opens directly into the room.\n\nThe Astor Room is the junior ballroom. It has a separate entrance for private drop-offs and its own pre-event space for cocktails. The Salon is kept for weddings and VIP events, with a lounge, a dressing room, and a live video feed from the Grand Ballroom. Crystal, the rooftop bar, runs over two levels with a pool and an LED media wall, and can be booked for events.\n\nSmaller rooms include the State Room, the Drawing Room, the Exchange Lounge, the Dollar and Ringgit rooms, a screening room, and the Decanter wine room.",
     "createdAt": "2024-01-09T09:30:13.578Z",
     "vendorId": "user_3GUH3M6Dgm7xyaabC17gB8NOWDn",
     "address": "6, Jalan Stesen Sentral 2, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
@@ -1017,14 +1017,14 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'architectur':55B 'array':84B 'art':124B 'astor':103B 'atmospher':132B 'backdrop':72B 'ballroom':87B,107B 'beacon':12B 'boast':82B 'breathtak':71B 'capit':33B 'ceremoni':74B 'chandeli':118B 'combin':37B 'crystal':117B 'cultur':65B 'day':24B 'design':93B,114B 'destin':20B 'eleg':16B 'event':89B 'exquisit':35B 'featur':115B 'grand':54B,106B 'grandeur':99B 'heart':28B 'heritag':63B 'hotel':52B 'inspir':59B 'interior':58B 'intimaci':101B 'kuala':4A,9B,67B,80B,136C,138C 'light':125B 'lumpur':5A,10B,68B,81B,137C,139C 'luxuri':14B 'magnific':116B 'majest':131B 'make':43B 'malaysia':30B 'masterpiec':112B 'meticul':92B 'modern':41B 'nestl':25B 'nuptial':135B 'offer':95B 'opul':42B 'particular':109B 'perfect':46B 'present':17B 'provid':69B 'recept':76B 'regi':3A,8B,79B 'rich':62B 'romant':129B 'room':104B 'sens':97B 'set':47B,127B 'sophist':39B 'space':90B 'special':23B 'st':2A,7B,78B 'state':121B 'state-of-the-art':120B 'stun':86B 'sumptuous':57B 'system':126B 'timeless':38B 'unparallel':19B 'venu':36B 'vibrant':32B 'wed':50B",
+    "fts": "'1':49B '2016':24B '208':26B '270':63B '300':50B '47':68B '850':60B '990':55B 'across':35B 'astor':91B 'ballroom':40B,96B,139B 'banquet':58B 'bar':143B 'big':79B 'book':159B 'canva':66B 'car':84B 'citi':16B 'cocktail':115B 'crystal':140B 'decant':184B 'degre':64B 'direct':86B 'dollar':175B 'draw':169B 'dress':129B 'drop':105B 'drop-off':104B 'enough':80B 'entranc':101B 'event':112B,124B,161B 'exchang':172B 'feed':135B 'floor':37B 'four':36B 'function':32B 'grand':39B,138B 'hold':82B 'includ':164B 'interchang':20B 'junior':95B 'kept':119B 'kl':13B 'kuala':4A,9B,187C,189C 'largest':43B 'led':65B,153B 'level':147B 'lift':78B 'live':133B 'loung':127B,173B 'lumpur':5A,10B,188C,190C 'main':18B 'media':154B 'metr':52B 'off':106B 'open':22B,85B 'pool':150B 'pre':111B 'pre-ev':110B 'privat':77B,103B 'regi':3A,8B 'ringgit':177B 'rooftop':142B 'room':27B,46B,89B,92B,130B,163B,167B,170B,178B,181B,186B 'rough':48B 'run':34B,144B 'salon':117B 'screen':69B,180B 'seat':54B 'sentral':14B 'separ':100B 'side':72B 'sit':11B 'smaller':162B 'space':33B,113B 'squar':51B 'st':2A,7B 'stand':61B 'state':166B 'suit':29B 'three':71B 'transport':19B 'two':146B 'video':134B 'vip':123B 'wall':155B 'wed':121B 'wine':185B 'wrap':70B",
     "textEmbedding": null,
     "catalogPosition": 12,
     "isSpotlight": false,
     "isDemo": false,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-07-31T14:50:26.174Z",
     "spaces": [],
     "packages": [
       {
@@ -3573,6 +3573,9 @@
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/one-world-hotel-petaling-jaya/1776742156380-Zuan_Yuan_2/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/one-world-hotel-petaling-jaya/1785490838220-Amber/original.webp"
       }
     ],
     "description": "One World Hotel is a luxurious 5-star hotel located in Petaling Jaya, Malaysia. One World Hotel is ideally situated in the vibrant heart of Petaling Jaya, just 12 kilometers from Kuala Lumpur City Centre. The hotel offers direct access to the Bandar Utama MRT station, ensuring convenient city exploration for guests. With 452 rooms and suites, the accommodation options are diverse, including Superior Rooms, Deluxe Rooms, Executive Deluxe Rooms, Junior Suites, and Executive Suites, along with a specially designed superior room for guests with disabilities. Each room is equipped with top-notch amenities, from 50” LED televisions and complimentary wireless internet access to spacious bathrooms with bathtubs, coffee and tea making facilities, and personal safes, providing a comfortable and convenient stay. To view more packages, kindly WhatsApp +60163391027",
@@ -3630,7 +3633,7 @@
     "isDemo": false,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-07-31T09:41:49.835Z",
     "spaces": [],
     "packages": [
       {
@@ -7165,10 +7168,10 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9f340f44-4556-4a41-bdcf-b71897a0e977/a00bdd64-a55d-4e64-bfb1-d7fbb23f16e7/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9f340f44-4556-4a41-bdcf-b71897a0e977/2ff19da5-e2b5-4321-9bca-ece7d46bbc3d/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9f340f44-4556-4a41-bdcf-b71897a0e977/c2c943b0-8112-4ce1-b1fb-47b32c7c3624/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9f340f44-4556-4a41-bdcf-b71897a0e977/c2c943b0-8112-4ce1-b1fb-47b32c7c3624/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9f340f44-4556-4a41-bdcf-b71897a0e977/2ff19da5-e2b5-4321-9bca-ece7d46bbc3d/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9f340f44-4556-4a41-bdcf-b71897a0e977/702d0ab0-1950-4439-b0ab-1d4a58748f06/high.webp"
@@ -7194,7 +7197,7 @@
     "metaDescription": "Colony @ The MET — a Kuala Lumpur wedding venue with a light-filled Glass Box and starlit Rooftop Terrace surrounded by lush greenery.",
     "whatsappNumber": null,
     "whatsappMessage": null,
-    "youtubeLink": null,
+    "youtubeLink": "",
     "wpTag": "colony-the-met",
     "faq": [
       {
@@ -7236,7 +7239,13 @@
     ],
     "venueDetails": null,
     "photographerDetails": null,
-    "adminOverrides": null,
+    "adminOverrides": {
+      "photos-videos": {
+        "value": "photos-videos",
+        "overriddenAt": "2026-07-31T09:34:47.934Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      }
+    },
     "coverImageFocalPoint": null,
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
@@ -7248,7 +7257,7 @@
     "isDemo": false,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-07-31T09:34:47.859Z",
     "spaces": [],
     "packages": [
       {
@@ -13311,7 +13320,7 @@
     ],
     "description": "The Eastern & Oriental Hotel (E&O), established in 1885, is a landmark heritage luxury hotel on Lebuh Farquhar in George Town, Penang. ",
     "createdAt": "2026-07-17T18:25:46.145Z",
-    "vendorId": "pending_02aad3a9fc14f391",
+    "vendorId": "user_3HFZCCiyzTJtP8s2vbZzFMNKDGd",
     "address": "10, Lebuh Farquhar, George Town, 10200 Penang",
     "postCode": "10200",
     "googlePlaceId": "ChIJqwgwB5vDSjAR-_JigEODOw8",
@@ -13359,7 +13368,7 @@
     "isDemo": false,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-30T02:54:26.689Z",
+    "updatedAt": "2026-07-31T02:47:45.328Z",
     "spaces": [],
     "packages": [
       {
