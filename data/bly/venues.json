@@ -15,21 +15,6 @@
     "rooms": "[{\"name\": \"The Oriental Ballroom\", \"capacity\": \"200-350 pax\", \"price\": \"From $250/pax\"}, {\"name\": \"Atrium Suites\", \"capacity\": \"130-180 pax\", \"price\": \"From $250/pax\"}, {\"name\": \"Garden Suite\", \"capacity\": \"100-130 pax\", \"price\": \"From $250/pax\"}]"
   },
   {
-    "recordId": "recqSc5XwBLCNysgh",
-    "name": "The Fullerton Hotel Singapore",
-    "url": "https://www.bridely.sg/venue/the-fullerton-hotel-singapore/r/recqSc5XwBLCNysgh",
-    "location": "Central Area",
-    "overallRating": 4.4,
-    "venueRating": 4.5,
-    "serviceRating": 4.4,
-    "foodRating": 4.1,
-    "reviews": 139,
-    "tags": "Hotel, Chinese, Western, Ballroom, Colonial/Historical, Garden & Greenery, Glasshouse, Indoor, Outdoor, Rooftop, Waterfront",
-    "price": "From $225/pax",
-    "capacity": "100-120 pax",
-    "rooms": "[{\"name\": \"Jade Restaurant\", \"capacity\": \"100-120 pax\", \"price\": \"From $225/pax\"}, {\"name\": \"The Lighthouse\", \"capacity\": \"30-40 pax\", \"price\": \"From $261/pax\"}, {\"name\": \"The Ballroom\", \"capacity\": \"200-480 pax\", \"price\": \"From $273/pax\"}, {\"name\": \"The Straits Room\", \"capacity\": \"100-140 pax\", \"price\": \"From $273/pax\"}]"
-  },
-  {
     "recordId": "rec4OTGIpBfuMuvQw",
     "name": "The Blue Ginger",
     "url": "https://www.bridely.sg/venue/the-blue-ginger/r/rec4OTGIpBfuMuvQw",
@@ -43,6 +28,21 @@
     "price": "From $130/pax",
     "capacity": "1-130 pax",
     "rooms": "[{\"name\": \"Entire Restaurant\", \"capacity\": \"1-130 pax\", \"price\": \"From $130/pax\"}, {\"name\": \"Level 2\", \"capacity\": \"1-50 pax\", \"price\": \"From $130/pax\"}, {\"name\": \"Level 3\", \"capacity\": \"1-50 pax\", \"price\": \"From $130/pax\"}, {\"name\": \"Level 1\", \"capacity\": \"1-30 pax\", \"price\": \"From $130/pax\"}]"
+  },
+  {
+    "recordId": "recqSc5XwBLCNysgh",
+    "name": "The Fullerton Hotel Singapore",
+    "url": "https://www.bridely.sg/venue/the-fullerton-hotel-singapore/r/recqSc5XwBLCNysgh",
+    "location": "Central Area",
+    "overallRating": 4.4,
+    "venueRating": 4.5,
+    "serviceRating": 4.4,
+    "foodRating": 4.1,
+    "reviews": 139,
+    "tags": "Hotel, Chinese, Western, Ballroom, Colonial/Historical, Garden & Greenery, Glasshouse, Indoor, Outdoor, Rooftop, Waterfront",
+    "price": "From $225/pax",
+    "capacity": "100-120 pax",
+    "rooms": "[{\"name\": \"Jade Restaurant\", \"capacity\": \"100-120 pax\", \"price\": \"From $225/pax\"}, {\"name\": \"The Lighthouse\", \"capacity\": \"30-40 pax\", \"price\": \"From $261/pax\"}, {\"name\": \"The Ballroom\", \"capacity\": \"200-480 pax\", \"price\": \"From $273/pax\"}, {\"name\": \"The Straits Room\", \"capacity\": \"100-140 pax\", \"price\": \"From $273/pax\"}]"
   },
   {
     "recordId": "recVzTQWhOosRg4TC",
@@ -195,6 +195,21 @@
     "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"1-146 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"Indoor Dining Hall\", \"capacity\": \"1-86 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"The Verandah (Air Conditioned Outdoor)\", \"capacity\": \"1-60 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"The Verandah (Air-Conditioned Outdoor)\", \"capacity\": \"1-60 pax\", \"price\": \"From $167/pax\"}]"
   },
   {
+    "recordId": "recDE70TqO66tuVMT",
+    "name": "Little Island Brewing Co",
+    "url": "https://www.bridely.sg/venue/little-island-brewing-co/r/recDE70TqO66tuVMT",
+    "location": "Changi",
+    "overallRating": 4.8,
+    "venueRating": 4.9,
+    "serviceRating": 4.8,
+    "foodRating": 4.9,
+    "reviews": 35,
+    "tags": "Restaurant, Western",
+    "price": "From $68/pax",
+    "capacity": "50-350 pax",
+    "rooms": "[{\"name\": \"Changi Village\", \"capacity\": \"50-350 pax\", \"price\": \"From $68/pax\"}, {\"name\": \"Gillman Barracks\", \"capacity\": \"50-200 pax\", \"price\": \"From $78/pax\"}]"
+  },
+  {
     "recordId": "recaFuygUVJPHDLpF",
     "name": "Conrad Singapore Orchard",
     "url": "https://www.bridely.sg/venue/conrad-singapore-orchard/r/recaFuygUVJPHDLpF",
@@ -268,21 +283,6 @@
     "price": "From $158/pax",
     "capacity": "300-550 pax",
     "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"300-550 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Waterfront Ballroom\", \"capacity\": \"200-280 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Riverfront Ballroom\", \"capacity\": \"150-200 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Galleria Ballroom\", \"capacity\": \"100-160 pax\", \"price\": \"From $158/pax\"}]"
-  },
-  {
-    "recordId": "recBjzDZV6Tmy22FL",
-    "name": "The Acacia Geneo",
-    "url": "https://www.bridely.sg/venue/the-acacia-geneo/r/recBjzDZV6Tmy22FL",
-    "location": "1 Science Park Dr, #01-07, Singapore 118221",
-    "overallRating": 5,
-    "venueRating": 5,
-    "serviceRating": 5,
-    "foodRating": 5,
-    "reviews": 18,
-    "tags": "Restaurant, Fusion, Indian, Muslim-friendly, Peranakan, Vegetarian, Western",
-    "price": "From $55/pax",
-    "capacity": "100-500 pax",
-    "rooms": "[{\"name\": \"The Acacia Geneo\", \"capacity\": \"100-500 pax\", \"price\": \"From $55/pax\"}]"
   },
   {
     "recordId": "recEVqHq1aNQ9gkfi",
@@ -1003,6 +1003,21 @@
     "price": "From $173/pax",
     "capacity": "100-150 pax",
     "rooms": "[{\"name\": \"Symphony Ballroom\", \"capacity\": \"100-150 pax\", \"price\": \"From $173/pax\"}]"
+  },
+  {
+    "recordId": "jpwedding",
+    "name": "JP Wedding",
+    "url": "https://www.bridely.sg/venue/jp-wedding/r/jpwedding",
+    "location": "Singapore",
+    "overallRating": 4.8,
+    "venueRating": 5,
+    "serviceRating": 4.8,
+    "foodRating": 4,
+    "reviews": 5,
+    "tags": "Chapel, Ballroom, Colonial/Historical, Garden & Greenery, Indoor, Outdoor, Pet Friendly",
+    "price": "",
+    "capacity": "",
+    "rooms": "[]"
   },
   {
     "recordId": "recTLNPKosjiEkhBN",
