@@ -195,6 +195,21 @@
     "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"1-146 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"Indoor Dining Hall\", \"capacity\": \"1-86 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"The Verandah (Air Conditioned Outdoor)\", \"capacity\": \"1-60 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"The Verandah (Air-Conditioned Outdoor)\", \"capacity\": \"1-60 pax\", \"price\": \"From $167/pax\"}]"
   },
   {
+    "recordId": "recDE70TqO66tuVMT",
+    "name": "Little Island Brewing Co",
+    "url": "https://www.bridely.sg/venue/little-island-brewing-co/r/recDE70TqO66tuVMT",
+    "location": "Changi",
+    "overallRating": 4.8,
+    "venueRating": 4.9,
+    "serviceRating": 4.8,
+    "foodRating": 4.9,
+    "reviews": 35,
+    "tags": "Restaurant, Western",
+    "price": "From $68/pax",
+    "capacity": "50-350 pax",
+    "rooms": "[{\"name\": \"Changi Village\", \"capacity\": \"50-350 pax\", \"price\": \"From $68/pax\"}, {\"name\": \"Gillman Barracks\", \"capacity\": \"50-200 pax\", \"price\": \"From $78/pax\"}]"
+  },
+  {
     "recordId": "recaFuygUVJPHDLpF",
     "name": "Conrad Singapore Orchard",
     "url": "https://www.bridely.sg/venue/conrad-singapore-orchard/r/recaFuygUVJPHDLpF",
@@ -250,9 +265,9 @@
     "foodRating": 4.7,
     "reviews": 46,
     "tags": "Restaurant, Western, Garden & Greenery, Glasshouse, Indoor, Outdoor, Rooftop",
-    "price": "From $132/pax",
+    "price": "From $138/pax",
     "capacity": "120-170 pax",
-    "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"120-170 pax\", \"price\": \"From $132/pax\"}]"
+    "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"120-170 pax\", \"price\": \"From $138/pax\"}]"
   },
   {
     "recordId": "recu87sCQAVtXkfCT",
@@ -268,21 +283,6 @@
     "price": "From $158/pax",
     "capacity": "300-550 pax",
     "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"300-550 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Waterfront Ballroom\", \"capacity\": \"200-280 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Riverfront Ballroom\", \"capacity\": \"150-200 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Galleria Ballroom\", \"capacity\": \"100-160 pax\", \"price\": \"From $158/pax\"}]"
-  },
-  {
-    "recordId": "recBjzDZV6Tmy22FL",
-    "name": "The Acacia Geneo",
-    "url": "https://www.bridely.sg/venue/the-acacia-geneo/r/recBjzDZV6Tmy22FL",
-    "location": "1 Science Park Dr, #01-07, Singapore 118221",
-    "overallRating": 5,
-    "venueRating": 5,
-    "serviceRating": 5,
-    "foodRating": 5,
-    "reviews": 18,
-    "tags": "Restaurant, Fusion, Indian, Muslim-friendly, Peranakan, Vegetarian, Western",
-    "price": "From $55/pax",
-    "capacity": "100-500 pax",
-    "rooms": "[{\"name\": \"The Acacia Geneo\", \"capacity\": \"100-500 pax\", \"price\": \"From $55/pax\"}]"
   },
   {
     "recordId": "recEVqHq1aNQ9gkfi",
@@ -1240,9 +1240,9 @@
     "foodRating": 5,
     "reviews": 5,
     "tags": "Event Hall",
-    "price": "",
-    "capacity": "1-1100 pax",
-    "rooms": "[{\"name\": \"Flower Field Hall (Standing cocktail)\", \"capacity\": \"1-1100 pax\", \"price\": \"\"}, {\"name\": \"Flower Field Hall (Theatre seating)\", \"capacity\": \"1-800 pax\", \"price\": \"\"}, {\"name\": \"Flower Field Hall (Sit-down dinner)\", \"capacity\": \"1-700 pax\", \"price\": \"\"}]"
+    "price": "From $228/pax",
+    "capacity": "200-700 pax",
+    "rooms": "[{\"name\": \"Flower Field Hall (Sit-down dinner)\", \"capacity\": \"200-700 pax\", \"price\": \"From $228/pax\"}, {\"name\": \"Flower Field Hall (Standing cocktail)\", \"capacity\": \"1-1100 pax\", \"price\": \"\"}, {\"name\": \"Flower Field Hall (Theatre seating)\", \"capacity\": \"1-800 pax\", \"price\": \"\"}]"
   },
   {
     "recordId": "rec7JKFYqky8VoiFa",
