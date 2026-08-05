@@ -276,7 +276,7 @@
     ],
     "description": "Grand Hyatt Kuala Lumpur, located in the vicinity of the iconic Petronas Twin Towers, is one of the most popular hotel venue for weddings, this is due to its high capacity; the Grand Ballroom with 700 pax, and the Grand Salon with maximum capacity of 450 pax. Wedding packages start from RM455 nett per person as of the date of publication.\n\nThe oval-shaped, pillar-free Grand Ballroom and Grand Salon are dazzling options for gala events, especially weddings, thanks to their energy-efficient crystal chandeliers and their most recent instalment – LED screens that cover 360 of the ballroom, easily transforming a space to match your wedding theme. On the other hand, the Grand Residence, with its capacity of 20-330 guests, is a welcoming and functional entertainment space that is ideal for product launches and art exhibitions, or events such as exclusive meetings and cocktail receptions.\n\nGrand Hyatt KL also features 412 guestrooms, including 42 suites, and three exciting dining options: THIRTY8 offers a selection of steaks, seafood, sushi and sashimi; JP Teres serves the best of Malaysian cuisine; and Poolside features healthy international and local favourites.",
     "createdAt": "2023-12-12T08:28:47.320Z",
-    "vendorId": "pending_5b4e14999db8bbc3",
+    "vendorId": "user_3HU7XNDkPwlsPhzMnDxD4OucLNF",
     "address": "12, Jalan Pinang, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
     "postCode": "50450",
     "googlePlaceId": "ChIJyT76Y9Q3zDER6Nu_yBZr9R0",
@@ -321,7 +321,7 @@
     "publishRequestedAt": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-05T10:21:15.050Z",
     "spaces": [],
     "packages": [
       {
@@ -3437,7 +3437,7 @@
         "priceMax": 3277.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$62",
+        "description": "$65",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3449,7 +3449,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$63",
+        "description": "$66",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3461,7 +3461,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$64",
+        "description": "$67",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3473,7 +3473,7 @@
         "priceMax": 3227,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$65",
+        "description": "$68",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3485,7 +3485,7 @@
         "priceMax": 3659,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$66",
+        "description": "$69",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3497,7 +3497,7 @@
         "priceMax": 4307,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$67",
+        "description": "$6a",
         "includes": null,
         "guestMin": 399,
         "guestMax": 431,
@@ -3509,7 +3509,7 @@
         "priceMax": 3227.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$68",
+        "description": "$6b",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3521,7 +3521,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$69",
+        "description": "$6c",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3533,7 +3533,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$6a",
+        "description": "$6d",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3545,7 +3545,7 @@
         "priceMax": 3227.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$6b",
+        "description": "$6e",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3557,7 +3557,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$6c",
+        "description": "$6f",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3569,7 +3569,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$6d",
+        "description": "$70",
         "includes": null,
         "guestMin": 100,
         "guestMax": 298,
@@ -5525,7 +5525,7 @@
     ],
     "description": "A jewel in the heart of Malaysia, InterContinental Kuala Lumpur offers one of the most sought-after locations in the heart of the city, making it an ideal urban retreat for both business and leisure travellers. The hotel is just steps away from the iconic Petronas Twin Towers & Kuala Lumpur Convention Centre, and within walking distance to two metro stations, as well as countless shopping and entertainment activities. Alternatively, you may enjoy our complimentary scheduled shuttle service to Pavilion KL and Suria KLCC shopping centre.\r\n",
     "createdAt": "2025-05-30T05:29:27.164Z",
-    "vendorId": "user_3Cy3Yz8yDkM9kiVwKHPBOi17yo1",
+    "vendorId": "user_3HRkYKoG3FrRC4nKGNNfBOsyEl8",
     "address": "165, Jln Ampang, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
     "postCode": "50450",
     "googlePlaceId": "ChIJd4X8I9A3zDERd9dGHtJyvxw",
@@ -5570,7 +5570,7 @@
     "publishRequestedAt": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-05T02:23:50.310Z",
     "spaces": [],
     "packages": [
       {
@@ -6970,33 +6970,39 @@
     "state": "Kuala Lumpur",
     "images": [
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9371d852-d43d-4fca-a80a-90bf29bf0eb0/d19fae60-b5fc-4584-910c-9a136e3e37c7/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/else-kuala-lumpur/1785896370900-PHOTO-2026-06-11-10-09-31/original.jpg"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9371d852-d43d-4fca-a80a-90bf29bf0eb0/2cd8b691-5de3-4fb8-be5e-0c5e1d7d2611/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/else-kuala-lumpur/1785895988906-WhatsApp_Image_2024-06-08_at_2.30.04_PM/original.jpeg"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9371d852-d43d-4fca-a80a-90bf29bf0eb0/6ef0b3e7-bb7c-4bf7-a5a5-9427cdc9ef6a/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/else-kuala-lumpur/1785896027015-WhatsApp_Image_2025-05-15_at_10.43.06_PM/original.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9371d852-d43d-4fca-a80a-90bf29bf0eb0/831cda4c-1eaf-423f-ab52-b1be56d6325e/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/else-kuala-lumpur/1785896051343-10526j__37_/original.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9371d852-d43d-4fca-a80a-90bf29bf0eb0/9d54dd71-f69a-4bc8-9e58-820d7be12ff4/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9371d852-d43d-4fca-a80a-90bf29bf0eb0/15eaa18d-4ceb-403f-8a9f-bafd2b968dba/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/else-kuala-lumpur/1785896337701-10526j__349_/original.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9371d852-d43d-4fca-a80a-90bf29bf0eb0/4e99c819-4c15-4423-a826-b1c2b2cccc12/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9371d852-d43d-4fca-a80a-90bf29bf0eb0/3bb67816-0683-48c9-873b-1ca807561d68/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/else-kuala-lumpur/1785895928667-LHP_041_s/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/else-kuala-lumpur/1785896368635-PHOTO-2025-11-18-18-45-44/original.jpg"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/else-kuala-lumpur/1785896373122-PHOTO-2026-08-04-15-56-57_1/original.jpg"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/else-kuala-lumpur/1785896375861-PHOTO-2026-08-04-15-56-57/original.jpg"
       }
     ],
-    "description": "Else is Kuala Lumpur’s latest hotel destination. Globally-connected, locally-rooted, Else looks to be a beacon for the burgeoning cultural scene in downtown Kuala Lumpur. Providing mindful hospitality to serve the conscious traveller, facilitating deeper and more meaningful connections through curated experiences and content.",
+    "description": "Celebrate Your Love at Else Kuala Lumpur\r\n\r\nBegin your forever in a place where heritage, design, and heartfelt hospitality come together to create an unforgettable celebration.\r\n\r\nNestled within the beautifully restored Lee Rubber Building in the heart of Kuala Lumpur's vibrant Chinatown, Else Kuala Lumpur offers a wedding experience unlike any other. Blending timeless architecture with contemporary elegance, our intimate boutique hotel provides the perfect setting for couples seeking a sophisticated and meaningful celebration.\r\n\r\nWhether you envision an elegant wedding reception, a stylish cocktail soirée, an intimate solemnisation, or a romantic pre-wedding celebration, our thoughtfully curated spaces offer the ideal backdrop for every chapter of your love story. From refined dining experiences at RAW and Yellow Fin to exclusive venue buyouts and personalised celebrations, every detail is designed to reflect your unique vision.\r\n\r\nWith only 49 beautifully appointed rooms, Else also offers an exclusive retreat for your family and guests, transforming your wedding into a memorable weekend of celebration, connection, and relaxation.\r\n\r\nAt Else, every wedding is thoughtfully tailored—from bespoke menus crafted by our culinary team to attentive service that ensures every moment unfolds seamlessly. Whether you're planning an intimate gathering or an exclusive celebration, our dedicated events team will bring your dream wedding to life with creativity, care, and impeccable attention to detail.\r\n\r\nCelebrate your love. Create unforgettable memories. Experience Something Else.",
     "createdAt": "2025-06-14T08:04:59.497Z",
-    "vendorId": "user_3Cy3Yz8yDkM9kiVwKHPBOi17yo1",
+    "vendorId": "user_3HRYfUZXiEcvLT6jNQ8OrBsealW",
     "address": "145, Jalan Tun H S Lee, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
     "postCode": "50000",
     "googlePlaceId": "ChIJh9gFBolJzDERE1VmMB7Xbu4",
@@ -7008,12 +7014,17 @@
     "wazeLink": null,
     "googleRating": null,
     "googleTotalReviews": null,
-    "metaDescription": "ELSE Kuala Lumpur — a design-led boutique hotel in downtown KL offering intimate, characterful weddings with mindful hospitality.",
+    "metaDescription": "intimate weddings, elegant receptions, and exclusive celebrations, wedding at the boutique hotel, Heritage Wedding, Romantic wedding, stylish wedding",
     "whatsappNumber": null,
     "whatsappMessage": null,
-    "youtubeLink": null,
+    "youtubeLink": "https://www.youtube.com/shorts/7dPZyI9tLS0",
     "wpTag": "else-kl",
-    "faq": [],
+    "faq": [
+      {
+        "answer": "At Else Kuala Lumpur, we believe the most memorable weddings aren't defined by their size—they're defined by the moments shared with the people who matter most.\n\nUnlike traditional ballroom weddings that often require extensive decorations to transform the space, Else offers a venue that is already rich in character. Housed within the iconic heritage Lee Rubber Building, our award-winning architecture, thoughtfully curated interiors, and contemporary design create a naturally elegant setting, allowing you to spend less on elaborate décor and more on creating meaningful experiences for your guests.\n\nDesigned for intimate celebrations, Else is ideal for couples who value authenticity over extravagance. Whether you're planning a solemnization, an intimate wedding reception, or an exclusive buyout, our spaces offer warmth, sophistication, and a sense of connection that large banquet halls simply cannot replicate.\n\nInstead of the conventional banquet experience, we offer a more personalized dining journey. Our chefs curate refined menus inspired by seasonal ingredients and modern cuisine, allowing your guests to enjoy exceptional food in a relaxed, restaurant-style setting where conversations flow and every guest feel part of the celebration.\n\nWith only 49 beautifully designed guest rooms, Else also becomes your private wedding retreat. Families and friends can stay together, celebrate together, and create memories beyond the wedding day—turning your celebration into an unforgettable wedding weekend.\n\nWhy Couples Love Else\nA naturally beautiful heritage venue that requires minimal decoration.\nAward-winning architecture and thoughtfully designed interiors for stunning photography.\n\nIntimate celebrations that feel warm, personal, and unforgettable.\nRestaurant-quality dining instead of conventional banquet catering.\n\n\nAt Else Kuala Lumpur, your wedding isn't just an event—it's an experience. A celebration where meaningful moments, beautiful design, exceptional dining, and genuine hospitality come together to create memories that last a lifetime.\n\nExperience Something Else. Celebrate Love Differently.",
+        "question": "Why Choose Else Kuala Lumpur for Your Wedding?"
+      }
+    ],
     "venueDetails": null,
     "photographerDetails": null,
     "adminOverrides": null,
@@ -7021,7 +7032,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'beacon':23B 'burgeon':26B 'connect':14B,46B 'conscious':39B 'content':51B 'cultur':27B 'curat':48B 'deeper':42B 'destin':11B 'downtown':30B 'els':1A,4B,18B 'experi':49B 'facilit':41B 'global':13B 'globally-connect':12B 'hospit':35B 'hotel':10B 'kuala':2A,6B,31B,52C,54C 'latest':9B 'local':16B 'locally-root':15B 'look':19B 'lumpur':3A,7B,32B,53C,55C 'meaning':45B 'mind':34B 'provid':33B 'root':17B 'scene':28B 'serv':37B 'travel':40B",
+    "fts": "'49':142B 'also':147B 'appoint':144B 'architectur':59B 'attent':185B,220B 'backdrop':107B 'beauti':33B,143B 'begin':11B 'bespok':177B 'blend':57B 'boutiqu':65B 'bring':209B 'build':37B 'buyout':127B 'care':217B 'celebr':4B,29B,78B,99B,130B,165B,203B,223B 'chapter':110B 'chinatown':46B 'cocktail':88B 'come':23B 'connect':166B 'contemporari':61B 'coupl':72B 'craft':179B 'creat':26B,226B 'creativ':216B 'culinari':182B 'curat':102B 'dedic':205B 'design':19B,134B 'detail':132B,222B 'dine':117B 'dream':211B 'eleg':62B,83B 'els':1A,8B,47B,146B,170B,231B 'ensur':188B 'envis':81B 'event':206B 'everi':109B,131B,171B,189B 'exclus':125B,150B,202B 'experi':53B,118B,229B 'famili':154B 'fin':123B 'forev':13B 'gather':199B 'guest':156B 'heart':40B 'heartfelt':21B 'heritag':18B 'hospit':22B 'hotel':66B 'ideal':106B 'impecc':219B 'intim':64B,91B,198B 'kuala':2A,9B,42B,48B,232C,234C 'lee':35B 'life':214B 'love':6B,113B,225B 'lumpur':3A,10B,43B,49B,233C,235C 'meaning':77B 'memor':162B 'memori':228B 'menus':178B 'moment':190B 'nestl':30B 'offer':50B,104B,148B 'perfect':69B 'personalis':129B 'place':16B 'plan':196B 'pre':97B 'pre-wed':96B 'provid':67B 'raw':120B 're':195B 'recept':85B 'refin':116B 'reflect':136B 'relax':168B 'restor':34B 'retreat':151B 'romant':95B 'room':145B 'rubber':36B 'seamless':192B 'seek':73B 'servic':186B 'set':70B 'soiré':89B 'solemnis':92B 'someth':230B 'sophist':75B 'space':103B 'stori':114B 'stylish':87B 'tailor':175B 'team':183B,207B 'thought':101B,174B 'timeless':58B 'togeth':24B 'transform':157B 'unfold':191B 'unforgett':28B,227B 'uniqu':138B 'unlik':54B 'venu':126B 'vibrant':45B 'vision':139B 'wed':52B,84B,98B,159B,172B,212B 'weekend':163B 'whether':79B,193B 'within':31B 'yellow':122B",
     "textEmbedding": null,
     "catalogPosition": 44,
     "isSpotlight": false,
@@ -7030,7 +7041,7 @@
     "publishRequestedAt": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-05T02:53:06.725Z",
     "spaces": [],
     "packages": [
       {
@@ -7047,8 +7058,8 @@
       }
     ],
     "venueCapacity": {
-      "min": 10,
-      "max": 120
+      "min": 30,
+      "max": 100
     }
   },
   {

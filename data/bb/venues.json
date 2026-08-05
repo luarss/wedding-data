@@ -627,15 +627,6 @@
   },
   {
     "source": "banquet-price-list",
-    "name": "Grand Hyatt Singapore",
-    "lunch_price": "$2264–$2743Mon - Sun",
-    "dinner_price": "$2264–$2743Mon - Fri$2504–$2983Saturday$2384–$2863Sunday",
-    "tables_min": "15",
-    "tables_max": "36",
-    "tables_range": "15 - 36Mon - Sun"
-  },
-  {
-    "source": "banquet-price-list",
     "name": "Grand Mercure Singapore Roxy",
     "lunch_price": "$2024–$2024Mon - Sun",
     "dinner_price": "$2024–$2024Mon - Sun",
