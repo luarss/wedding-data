@@ -70,29 +70,6 @@
     "response_time": null
   },
   {
-    "name": "HomeTeamNS Bedok Reservoir Clubhouse",
-    "url": "https://www.venuerific.com/sg/venues/hometeamns-bedok-reservoir-clubhouse",
-    "slug": "hometeamns-bedok-reservoir-clubhouse",
-    "area": "Bedok",
-    "address": "900 Bedok North Rd, Singapore 479994",
-    "lat": 1.3409594,
-    "lng": 103.9195417,
-    "capacity_standing": 380,
-    "capacity_seated": 380,
-    "rooms_count": 6,
-    "price": "S$478",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Bedok North MRT Station (DT29)",
-    "event_types": [
-      "Conference",
-      "Team Bonding"
-    ],
-    "fast_response": true,
-    "response_time": "19 hrs"
-  },
-  {
     "name": "Maduro",
     "url": "https://www.venuerific.com/sg/venues/maduro",
     "slug": "maduro",
@@ -114,6 +91,29 @@
     ],
     "fast_response": false,
     "response_time": null
+  },
+  {
+    "name": "HomeTeamNS Bedok Reservoir Clubhouse",
+    "url": "https://www.venuerific.com/sg/venues/hometeamns-bedok-reservoir-clubhouse",
+    "slug": "hometeamns-bedok-reservoir-clubhouse",
+    "area": "Bedok",
+    "address": "900 Bedok North Rd, Singapore 479994",
+    "lat": 1.3409594,
+    "lng": 103.9195417,
+    "capacity_standing": 380,
+    "capacity_seated": 380,
+    "rooms_count": 6,
+    "price": "S$478",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Bedok North MRT Station (DT29)",
+    "event_types": [
+      "Conference",
+      "Team Bonding"
+    ],
+    "fast_response": true,
+    "response_time": "17 hrs"
   },
   {
     "name": "The Inspire Space Sg",
@@ -254,7 +254,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "7 hrs"
+    "response_time": "6 hrs"
   },
   {
     "name": "KOMYUNITI Bar & Restaurant",
@@ -324,7 +324,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "11 hrs"
+    "response_time": "17 hrs"
   },
   {
     "name": " M Hotel Singapore ",
@@ -481,7 +481,7 @@
       "Conference"
     ],
     "fast_response": true,
-    "response_time": "3 hrs"
+    "response_time": null
   },
   {
     "name": "DOMO",
@@ -504,7 +504,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "6 hrs"
+    "response_time": "5 hrs"
   },
   {
     "name": "The Mill — A Modern, Versatile Event Venue",

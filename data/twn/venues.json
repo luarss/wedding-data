@@ -80,9 +80,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -194,9 +197,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -319,9 +325,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-05T10:21:15.050Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -466,9 +475,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -623,9 +635,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-06T09:38:09.865Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -765,9 +780,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -937,9 +955,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -1038,9 +1059,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-31T14:50:26.174Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -1161,9 +1185,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -1281,9 +1308,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -1402,14 +1432,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'access':100B 'adorn':35B 'also':97B 'arrang':77B 'art':44B 'attent':63B 'backdrop':49B 'ballroom':34B 'bespok':68B 'blend':21B 'celebr':56B 'central':93B 'coupl':57B 'culinari':28B,72B 'day':81B 'decor':26B 'detail':66B 'easi':99B 'ensur':78B 'everi':65B 'excel':29B 'expect':59B 'experi':117B 'expert':73B 'exquisit':75B 'facil':45B 'flawless':84B 'floral':76B 'grand':33B 'guest':102B 'hotel':3A,8B,31B 'idyl':15B 'impecc':23B 'interior':38B 'intim':52B 'kuala':118C,120C 'lavish':54B 'locat':16B,94B 'love':89B 'lumpur':119C,121C 'make':103B 'menu':69B 'offer':19B,98B 'part':112B 'person':60B 'plan':70B 'provid':46B 'resid':5A,10B 'ruma':2A,7B,96B 'seamless':111B 'servic':24B,61B 'special':80B 'splendid':48B 'stand':11B 'state':41B 'state-of-the-art':40B 'stori':90B 'stun':25B 'tast':37B 'unforgett':115B 'uniqu':86B 'venu':108B 'wed':18B,55B,116B",
     "textEmbedding": null,
-    "catalogPosition": 3,
+    "catalogPosition": 4,
     "isSpotlight": true,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -1539,9 +1572,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -1665,9 +1701,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -1783,9 +1822,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -1887,9 +1929,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -2033,14 +2078,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'allur':86B 'amen':44B 'asian':59B 'attract':109B 'audaci':26B 'away':99B 'bar':77B 'best':75B,108B 'chines':66B 'close':102B 'connect':17B 'cuisin':67B 'culinari':47B 'curat':56B 'deck':79B 'dine':50B 'discov':84B 'domin':6B 'even':91B 'exclus':115B 'experi':23B 'featur':35B 'flock':52B 'fusion':69B 'glam':88B 'globetrott':29B 'grill':60B 'hotel':31B 'inspir':25B 'journey':48B 'kuala':2A,15B,33B,105B,120C,122C 'lifestyl':27B 'limitless':21B 'live':93B 'lumpur':3A,16B,34B,106B,121C,123C 'luxuri':22B 'magnific':9B 'menu':61B 'modern':4B,65B 'pan':58B 'pan-asian':57B 'petrona':10B 'proxim':103B 'recharg':97B 'rooftop':76B 'room':38B,94B 'seen':72B 'signatur':42B 'skylin':5B,82B 'spa':100B 'special':55B 'stun':81B 'stylish':36B 'suit':40B 'take':45B 'tower':12B 'twin':11B 'twist':70B 'unwind':95B 'vibrant':37B,112B 'view':83B 'w':1A,14B,43B 'welcom':113B 'wet':78B 'whatever/whenever':119B 'within':101B 'world':19B 'yen':63B",
     "textEmbedding": null,
-    "catalogPosition": 1,
+    "catalogPosition": 2,
     "isSpotlight": true,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -2166,9 +2214,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -2338,9 +2389,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -2426,9 +2480,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -2514,9 +2571,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -2614,9 +2674,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -2716,9 +2779,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -2791,9 +2857,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -2876,9 +2945,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -2972,9 +3044,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -3115,9 +3190,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -3233,9 +3311,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -3337,9 +3418,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -3414,14 +3498,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'406':56B 'area':88B 'authent':39B 'bar':94B,100B 'busi':125B 'celebr':104B 'center':17B,123B 'centr':34B,134B 'citi':16B,79B 'compris':60B 'convent':33B,122B,133B 'depict':5B 'design':113B 'design-l':112B 'destin':27B 'discov':38B 'dna':49B 'enjoy':89B 'even':91B 'event':115B 'expans':85B 'experi':40B,102B 'extens':65B 'facil':69B 'famili':62B,67B 'family-friend':66B 'featur':55B 'friend':68B 'guest':36B,58B 'heart':12B 'hotel':4A,31B,51B,119B,131B 'immers':43B 'import':105B 'inspir':99B 'integr':121B 'intrigu':19B 'invit':35B 'kuala':2A,14B,29B,53B,129B,135C,137C 'largest':75B 'led':114B 'leisur':127B 'local':98B 'locally-inspir':97B 'lumpur':3A,15B,30B,54B,130B,136C,138C 'mani':111B 'mileston':106B 'neighborhood':47B 'new':23B 'offer':20B 'one':72B,108B 'outdoor':86B 'play':87B 'pool':76B 'r':93B 'rang':70B 'redesign':57B 'renaiss':1A,28B,128B 'resort':9B 'ritual':101B 'room':59B 'sens':24B 'slide':82B 'space':116B 'spontan':90B 'suit':63B 'theme':61B 'urban':8B 'water':81B",
     "textEmbedding": null,
-    "catalogPosition": 2,
+    "catalogPosition": 3,
     "isSpotlight": true,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -3442,7 +3529,7 @@
         "priceMax": 3277.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$62",
+        "description": "$6f",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3454,7 +3541,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$63",
+        "description": "$70",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3466,7 +3553,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$64",
+        "description": "$71",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3478,7 +3565,7 @@
         "priceMax": 3227,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$65",
+        "description": "$72",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3490,7 +3577,7 @@
         "priceMax": 3659,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$66",
+        "description": "$73",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3502,7 +3589,7 @@
         "priceMax": 4307,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$67",
+        "description": "$74",
         "includes": null,
         "guestMin": 399,
         "guestMax": 431,
@@ -3514,7 +3601,7 @@
         "priceMax": 3227.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$68",
+        "description": "$75",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3526,7 +3613,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$69",
+        "description": "$76",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3538,7 +3625,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$6a",
+        "description": "$77",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3550,7 +3637,7 @@
         "priceMax": 3227.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$6b",
+        "description": "$78",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3562,7 +3649,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$6c",
+        "description": "$79",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3574,7 +3661,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$6d",
+        "description": "$7a",
         "includes": null,
         "guestMin": 100,
         "guestMax": 298,
@@ -3691,14 +3778,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'+60163391027':133B '12':32B '452':57B '5':10B '50':100B 'access':43B,107B 'accommod':62B 'along':79B 'amen':98B 'bandar':46B,137C 'bathroom':110B 'bathtub':112B 'centr':38B 'citi':37B,52B 'coffe':113B 'comfort':123B 'complimentari':104B 'conveni':51B,125B 'delux':69B,72B 'design':83B 'direct':42B 'disabl':89B 'divers':65B 'ensur':50B 'equip':93B 'execut':71B,77B 'explor':53B 'facil':117B 'guest':55B,87B 'heart':27B 'hotel':3A,6B,12B,20B,40B 'ideal':22B 'includ':66B 'internet':106B 'jaya':16B,30B,135C 'junior':74B 'kilomet':33B 'kind':131B 'kuala':35B 'led':101B 'locat':13B 'lumpur':36B 'luxuri':9B 'make':116B 'malaysia':17B 'mrt':48B 'notch':97B 'offer':41B 'one':1A,4B,18B 'option':63B 'packag':130B 'person':119B 'petal':15B,29B,134C 'provid':121B 'room':58B,68B,70B,73B,85B,91B 'safe':120B 'selangor':136C 'situat':23B 'spacious':109B 'special':82B 'star':11B 'station':49B 'stay':126B 'suit':60B,75B,78B 'superior':67B,84B 'tea':115B 'televis':102B 'top':96B 'top-notch':95B 'utama':47B,138C 'vibrant':26B 'view':128B 'whatsapp':132B 'wireless':105B 'world':2A,5B,19B",
     "textEmbedding": null,
-    "catalogPosition": 5,
+    "catalogPosition": 6,
     "isSpotlight": true,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-31T09:41:49.835Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -3982,9 +4072,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -4169,9 +4262,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -4293,9 +4389,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -4476,9 +4575,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -4599,9 +4701,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -4692,19 +4797,19 @@
     "state": "Kuala Lumpur",
     "images": [
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/2b857cdf-fe0d-48cb-aa8e-5824df40cc2d/b751d088-69f4-4038-b996-de5be089e08f/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786072955661-Dominic_Rachel_1004/original.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1779355569185-20251025_092600390_iOS/original.jpg"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786074606949-Dominic_Rachel_0911/original.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/2b857cdf-fe0d-48cb-aa8e-5824df40cc2d/c2169d82-724c-4bae-8bdd-3dcf1b13b39d/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786074602039-Dominic_Rachel_0906/original.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1785739866828-S_52834-min/original.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786074624729-Dominic_Rachel_0941/original.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1785739931067-Wan_Chun_Ting_1/original.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786074752545-Dominic_Rachel_1542/original.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/2b857cdf-fe0d-48cb-aa8e-5824df40cc2d/1ebc13f3-2627-4b07-80f5-3fa684a8efbb/high.webp"
@@ -4716,10 +4821,7 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/2b857cdf-fe0d-48cb-aa8e-5824df40cc2d/b6f229cd-fc2d-4a27-9a53-36751dd26b60/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/2b857cdf-fe0d-48cb-aa8e-5824df40cc2d/b9f6004d-73c0-4296-84cf-87500ed62716/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/2b857cdf-fe0d-48cb-aa8e-5824df40cc2d/428f273b-c0e5-4911-9f79-0829aa21549d/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/2b857cdf-fe0d-48cb-aa8e-5824df40cc2d/b751d088-69f4-4038-b996-de5be089e08f/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1779355579948-20251025_113539860_iOS/original.webp"
@@ -4728,7 +4830,31 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1779355583716-20251025_130207080_iOS/original.jpg"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/2b857cdf-fe0d-48cb-aa8e-5824df40cc2d/1ac6daae-15b5-4ae7-bb98-7d8a4f4e0270/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1785739931067-Wan_Chun_Ting_1/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786072785016-Dominic_Rachel_0845/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786072791411-Dominic_Rachel_0771/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786072961006-Dominic_Rachel_1041/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786074595729-Dominic_Rachel_0868/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786074611630-Dominic_Rachel_0919/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786074616035-Dominic_Rachel_0926/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786074620198-Dominic_Rachel_0939/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786072998691-Dominic_Rachel_0945/original.webp"
       }
     ],
     "description": "Celebrate your once-in-a-lifetime moment in the timeless sophistication of Sofitel Kuala Lumpur Damansara. Nestled in the prestigious Damansara Heights, our luxurious ballroom features a striking curved design, dark wood accents, and a sculpted, avant-garde ceiling — creating a pillarless, breathtaking setting for your grand celebration. With the capacity to host up to 420 guests, every detail is thoughtfully curated to leave a lasting impression.\r\n\r\nFor more intimate weddings, Wan Chun Ting offers a refined space inspired by Imperial China, complete with intricate carved screens, a whimsical chandelier, and exquisite Cantonese cuisine. Perfect for receptions of up to 120 guests, it promises a truly bespoke dining experience.",
@@ -4810,14 +4936,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'120':107B '420':62B 'accent':38B 'avant':43B 'avant-gard':42B 'ballroom':30B 'bespok':113B 'breathtak':49B 'cantones':99B 'capac':57B 'carv':92B 'ceil':45B 'celebr':5B,54B 'chandeli':96B 'china':88B 'chun':79B 'complet':89B 'creat':46B 'cuisin':100B 'curat':68B 'curv':34B 'damansara':4A,21B,26B 'dark':36B 'design':35B 'detail':65B 'dine':114B 'everi':64B 'experi':115B 'exquisit':98B 'featur':31B 'gard':44B 'grand':53B 'guest':63B,108B 'height':27B 'host':59B 'imperi':87B 'impress':73B 'inspir':85B 'intim':76B 'intric':91B 'kuala':2A,19B,116C,118C 'last':72B 'leav':70B 'lifetim':11B 'lumpur':3A,20B,117C,119C 'luxuri':29B 'moment':12B 'nestl':22B 'offer':81B 'once-in-a-lifetim':7B 'perfect':101B 'pillarless':48B 'prestigi':25B 'promis':110B 'recept':103B 'refin':83B 'screen':93B 'sculpt':41B 'set':50B 'sofitel':1A,18B 'sophist':16B 'space':84B 'strike':33B 'thought':67B 'timeless':15B 'ting':80B 'truli':112B 'wan':78B 'wed':77B 'whimsic':95B 'wood':37B",
     "textEmbedding": null,
-    "catalogPosition": 6,
+    "catalogPosition": 1,
     "isSpotlight": true,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-04T00:53:35.908Z",
+    "updatedAt": "2026-08-07T03:54:27.861Z",
     "spaces": [],
     "packages": [
       {
@@ -4953,9 +5082,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -5107,9 +5239,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -5265,9 +5400,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -5401,9 +5539,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -5573,9 +5714,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-05T02:23:50.310Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -5765,9 +5909,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -5922,9 +6069,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -6071,9 +6221,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -6165,9 +6318,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -6269,9 +6425,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -6434,9 +6593,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -6637,9 +6799,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -6761,9 +6926,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -6942,9 +7110,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -7044,9 +7215,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-05T02:53:06.725Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -7132,9 +7306,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -7231,9 +7408,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -7367,9 +7547,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-31T09:34:47.859Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -7485,9 +7668,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -7609,9 +7795,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -7741,9 +7930,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -7936,9 +8128,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -8268,9 +8463,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -8368,9 +8566,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -8459,9 +8660,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -8559,9 +8763,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -8686,9 +8893,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -8777,9 +8987,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -8904,9 +9117,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -9032,9 +9248,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -9274,9 +9493,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -9483,9 +9705,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -9639,9 +9864,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -9779,9 +10007,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -9884,9 +10115,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -9981,9 +10215,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -10269,9 +10506,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -10597,9 +10837,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -10866,9 +11109,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -11144,9 +11390,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -11157,7 +11406,7 @@
         "pricePerPax": null,
         "description": "Create a memorable and elegant celebration with our Tulips Package, designed for up to 500 guests.\nFeaturing refined dÃ©cor, delicious cuisine, and a beautifully arranged venue, this package ensures your special day unfolds seamlessly from start to finish.",
         "includes": [
-          "$62"
+          "$6f"
         ],
         "guestMin": null,
         "guestMax": 500,
@@ -11261,9 +11510,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -11413,9 +11665,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -11609,9 +11864,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -11902,9 +12160,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -12186,9 +12447,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -12345,9 +12609,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -12705,14 +12972,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'1':44B 'andaman':15B 'backdrop':77B 'ballroom':17B 'batu':28B,82C 'built':23B 'celebr':71B 'ceremoni':68B 'corpor':38B 'cozi':47B 'creat':72B 'day':81B 'dinner':36B 'event':13B 'exchang':65B 'featur':18B 'ferringhi':29B,83C 'function':39B 'gala':35B 'garden':52B 'gather':42B 'grand':16B,33B 'greeneri':57B 'ideal':63B 'intim':41B 'jintan':43B 'largest':22B 'led':25B 'lush':56B 'memor':76B 'offer':7B 'one':19B 'outdoor':70B 'parkroy':1A,4B 'penang':2A,5B,84C 'perfect':31B 'picturesqu':74B 'privat':49B 'provid':45B 'resort':3A,6B 'romant':67B 'screen':26B 'sea':60B 'space':50B 'special':80B 'stun':59B 'surround':54B 'venu':9B,53B 'versatil':8B 'view':61B 'vow':66B 'wed':11B,34B",
     "textEmbedding": null,
-    "catalogPosition": 4,
+    "catalogPosition": 5,
     "isSpotlight": true,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-03T07:04:04.013Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -12982,9 +13252,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": "2026-07-08T01:30:14.718Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -13105,9 +13378,12 @@
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -13213,14 +13489,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'1810':41B 'anglo':13B 'anglo-chines':12B 'c19th':11B 'captur':57B 'celebr':59B 'chines':14B 'cultur':71B 'door':38B 'finest':22B 'georg':72C 'goddess':42B 'grand':7B 'heart':31B 'heritag':26B,35B,65B 'icon':55B 'intact':25B 'major':54B 'merci':44B 'minut':49B 'next':37B 'one':18B 'penang':20B,74C 'peranakan':70B 'row':8B 'seven':1A,3B,10B 'site':36B 'situat':16B 'spirit':61B 'street':27B 'templ':45B 'terrac':2A,4B,15B 'town':66B,73C 'uniqu':69B 'walk':50B 'world':34B,64B",
     "textEmbedding": null,
-    "catalogPosition": 96,
+    "catalogPosition": 95,
     "isSpotlight": false,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -13304,7 +13583,7 @@
     ],
     "description": "Shangri-La Rasa Sayang, Penang is a luxury beach resort set on the golden sands of Batu Ferringhi Beach. ",
     "createdAt": "2026-07-17T18:25:28.951Z",
-    "vendorId": "user_3Cy3Yz8yDkM9kiVwKHPBOi17yo1",
+    "vendorId": "user_3HaAi43zutRbdPKBsnkLHXvwgNZ",
     "address": "Jalan Batu Ferringhi, 11100 Batu Ferringhi, Penang",
     "postCode": "11100",
     "googlePlaceId": "ChIJFfkNPlLdSjAR_HRwoDQOFsA",
@@ -13357,14 +13636,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'batu':24B,27C 'beach':16B,26B 'ferringhi':25B,28C 'golden':21B 'la':3A,9B 'luxuri':15B 'penang':6A,12B,29C 'rasa':4A,10B 'resort':17B 'sand':22B 'sayang':5A,11B 'set':18B 'shangri':2A,8B 'shangri-la':1A,7B",
     "textEmbedding": null,
-    "catalogPosition": 95,
+    "catalogPosition": 94,
     "isSpotlight": false,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T11:37:33.842Z",
     "spaces": [],
     "packages": [
       {
@@ -13553,14 +13835,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'1885':12B 'e':8B 'eastern':1A,5B 'establish':10B 'farquhar':21B 'georg':23B,26C 'heritag':16B 'hotel':3A,7B,18B 'landmark':15B 'lebuh':20B 'luxuri':17B 'o':9B 'orient':2A,6B 'penang':25B,28C 'town':24B,27C",
     "textEmbedding": null,
-    "catalogPosition": 94,
+    "catalogPosition": 93,
     "isSpotlight": false,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-31T02:47:45.328Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -13766,14 +14051,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'5':22B 'along':28B 'award':20B 'award-win':19B 'batu':31B,53C 'beach':25B,33B 'beauti':44B 'combin':36B 'cultur':41B 'famili':24B 'ferringhi':32B,54C 'first':11B 'greeneri':52B 'hard':1A,5B,38B 'hotel':3A,7B,15B 'inspir':14B 'legendari':37B 'locat':27B 'lush':51B 'malacca':47B 'malaysia':17B 'music':13B,40B 'music-inspir':12B 'penang':4A,8B,35B,55C 'popular':30B 'resort':26B 'rock':2A,6B,39B 'star':23B 'strait':48B 'tropic':50B 'win':21B",
     "textEmbedding": null,
-    "catalogPosition": 93,
+    "catalogPosition": 92,
     "isSpotlight": false,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -13980,14 +14268,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'10':32B '15':38B 'add':84B 'arrang':116B 'backdrop':114B 'ballroom':47B 'banquet':60B 'batu':17B,121C 'beach':13B 'benefit':107B 'cake':75B 'canap':91B 'carpet':72B 'chines':56B 'classic':24B 'cocktail':88B 'corkag':106B 'cours':59B 'decor':120B 'delux':25B 'doubletre':1A,6B,90B 'esplanad':46B 'event':87B 'ferringhi':18B,122C 'floral':115B 'four':51B 'higher':82B 'hilton':4A,9B,77B 'honor':78B 'host':43B 'hour':52B 'incent':80B 'includ':54B 'juic':93B 'light':70B 'locat':15B 'menu':61B 'microphon':68B 'minimum':36B 'mock':73B 'multi':58B 'multi-cours':57B 'offer':19B 'option':110B 'pa':62B 'packag':23B,41B 'park':101B 'penang':5A,10B,123C 'per':29B 'person':33B,109B 'point':81B 'pre':86B 'pre-ev':85B 'premium':27B 'price':28B 'projector':65B 'red':71B 'reserv':100B 'resort':2A,7B,14B 'screen':67B 'sea':98B 'signatur':89B 'spa':102B 'sparkl':92B 'stage':69B,113B 'stay':96B 'suit':95B 'system':63B 'tabl':30B,39B,119B 'theme':118B 'three':20B 'tier':21B,83B 'toast':94B 'view':99B 'voucher':103B 'wed':22B,74B,79B 'wine':104B",
     "textEmbedding": null,
-    "catalogPosition": 92,
+    "catalogPosition": 91,
     "isSpotlight": false,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -14155,14 +14446,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'10':48B '25':94B '30':124B '8':29B 'aisl':119B 'arch':116B 'banquet':25B,41B 'bar':97B 'beyond':90B 'breathtak':104B 'bridal':67B 'cake':61B 'canap':122B 'carpet':118B 'celebr':20B 'ceremoni':36B,65B 'champagn':62B 'chef':54B 'chines':24B,56B 'citi':108B 'complimentari':71B 'coupl':79B 'cours':30B 'decor':70B 'dinner':26B 'essenti':66B 'experienc':53B 'featur':112B 'feet':100B 'floral':115B 'fountain':63B 'full':23B 'g':1A,4B 'georg':15B,126C 'graviti':91B 'ground':102B 'happi':38B 'heart':13B 'hexagon':114B 'hill':111B 'horizon':86B 'hotel':2A,5B,10B 'hundr':98B 'includ':51B 'intim':34B 'kelawai':3A,6B 'level':93B 'love':40B 'main':68B 'menu':32B,58B 'modern':9B 'night':74B 'offer':18B 'packag':42B 'pax':49B,125B 'penang':17B,128C 'per':45B 'place':88B 'premium':121B 'price':44B 'rang':21B 'rooftop':35B,96B 'room':73B 'sea':109B 'set':31B,57B 'someth':81B 'stay':75B 'suite/suite':72B 'tabl':46B,69B 'take':87B 'tea':64B 'tier':59B 'town':16B,127C 'uniqu':82B 'view':105B 'want':80B 'wed':19B,60B,83B 'white':117B",
     "textEmbedding": null,
-    "catalogPosition": 91,
+    "catalogPosition": 90,
     "isSpotlight": false,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -14361,14 +14655,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'000':39B '1':131B '180':143B '2':133B '4':38B '50':140B '80':141B 'arch':83B 'area':56B 'around':37B 'atmospher':102B 'birthday':116B 'butterfli':80B 'capac':138B 'cast':66B 'ceil':90B 'centr':25B 'chandeli':65B 'combin':43B 'corpor':121B 'craft':95B 'creat':97B 'customiz':106B 'decor':46B,51B 'detail':92B 'drape':86B 'dreamland':78B 'eleg':64B 'essenti':130B,132B 'event':8B,13B,122B 'everi':91B 'exquisit':82B 'flower':85B 'ft':41B 'fulli':45B,50B 'garden':55B 'georg':27B,146C 'glasshous':60B,63B 'glow':69B 'granit':2A,17B 'hall':48B,53B,73B 'hotel':4A,19B 'icon':34B,59B 'komtar':35B 'light':81B 'locat':22B 'luxuri':3A,18B 'magic':101B 'main':47B,72B 'maximum':137B 'meet':108B 'meticul':94B 'need':110B 'occas':113B 'offer':129B 'packag':127B 'pax':144B 'penang':5A,20B,148C 'perfect':30B 'respect':145B 'reunion':118B 'rom':115B 'rooftop':12B 'school':117B 'second':52B 'seminars/workshops':119B 'skye':7B 'sophist':68B 'space':9B,104B,125B 'space-usag':124B 'span':36B 'sq':40B 'strateg':21B 'three':123B 'town':28B,147C 'transform':75B 'ultim':135B 'usag':126B 'venu':14B 'view':31B 'wall':88B 'warm':99B 'wed':114B",
     "textEmbedding": null,
-    "catalogPosition": 90,
+    "catalogPosition": 89,
     "isSpotlight": false,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -14512,14 +14809,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'4':79B 'angier':74B 'atmospher':48B 'ballroom':76B 'bar':71B 'borden':75B 'celebr':91B 'ceremoni':88B 'charm':23B 'classic':87B 'come':27B 'contemporari':38B,90B 'corridor':65B 'craft':83B 'creat':44B 'design':10B 'detail':43B 'effortless':46B 'eleg':21B 'elev':95B 'fill':61B 'final':53B 'first':50B 'gazebo':68B 'georg':16B,97C 'glasshous':63B 'glasshouse-styl':62B 'heart':14B 'heritag':22B,34B 'honour':92B 'hotel':3A,7B,11B 'icon':55B,67B 'includ':57B 'level':78B 'light':60B 'light-fil':59B 'look':51B 'minimalist':20B,30B 'modern':25B,33B,96B 'modern-heritag':32B 'nostalg':42B 'packag':36B 'pair':37B 'penang':4A,18B,99C 'photogen':47B 'pool':70B 'prestig':2A,6B 'romanc':26B 'sophist':39B 'space':56B 'style':64B 'subtl':41B 'suit':85B 'toast':54B 'togeth':28B 'town':17B,98C 'tradit':93B 'venu':81B 'wed':35B",
     "textEmbedding": null,
-    "catalogPosition": 89,
+    "catalogPosition": 88,
     "isSpotlight": false,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -14676,14 +14976,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'380':59B '800':47B 'accommod':42B 'across':19B 'baba':24B,31B,53B 'ballroom':30B,41B 'banquet':17B 'celebr':43B 'chines':23B 'design':39B 'four':20B 'full':10B 'full-servic':9B 'grand':29B,38B,40B 'hall':55B 'hotel':2A,5B 'indian':36B 'inspir':27B 'intim':52B 'ixora':1A,4B 'malay':34B 'nonya':32B 'nyonya':26B,54B 'nyonya-inspir':25B 'offer':16B 'packag':18B 'penang':3A,6B,62C 'perai':15B,61C 'peranakan':33B 'person':48B,60B 'seat':56B 'servic':11B 'tradit':22B 'venu':13B 'wed':12B,21B",
     "textEmbedding": null,
-    "catalogPosition": 88,
+    "catalogPosition": 87,
     "isSpotlight": false,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -15043,14 +15346,17 @@
     "coverImageFocalPointOverride": null,
     "fts": "'bukit':4C 'hotel':2A 'icon':1A 'mertajam':5C 'penang':3A,6C",
     "textEmbedding": null,
-    "catalogPosition": 87,
+    "catalogPosition": 86,
     "isSpotlight": false,
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-07-29T08:25:19.462Z",
+    "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
     "packages": [
       {
@@ -15148,6 +15454,1631 @@
     "venueCapacity": {
       "min": 200,
       "max": 0
+    }
+  },
+  {
+    "id": "89a8dabd-8a3d-4990-940a-cabca2abc824",
+    "name": "Cheong Fatt Tze - The Blue Mansion",
+    "slug": "blue-mansion",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "George Town",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/00/high.webp",
+        "caption": "The mansion lit at dusk from the front lawn"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/01/high.webp",
+        "caption": "The central courtyard, open to the sky"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/02/high.webp",
+        "caption": "The Oriental Water Garden beside the indigo walls"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/03/high.webp",
+        "caption": "The courtyard entrance, lanterns at the doors"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/04/high.webp",
+        "caption": "Looking through the mansion into the courtyard"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/05/high.webp",
+        "caption": "Indigo restaurant set for dinner"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/06/high.webp",
+        "caption": "Banquet table laid in blue and gold"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/07/high.webp",
+        "caption": "Place settings ready for a seated dinner"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/08/high.webp",
+        "caption": "Garden seating against the blue façade"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/09/high.webp",
+        "caption": "The blue façade and courtyard planting"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/10/high.webp",
+        "caption": "A heritage suite with terracotta floor tiles"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/11/high.webp",
+        "caption": "Bedroom in one of the mansion’s suites"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/12/high.webp",
+        "caption": "Original encaustic floor tiles"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/13/high.webp",
+        "caption": "Chien nien porcelain shard work on the roofline"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/14/high.webp",
+        "caption": "Courtyard reception under hanging lanterns"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/15/high.webp",
+        "caption": "Reception table set beneath the courtyard greenery"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/16/high.webp",
+        "caption": "Dining room set for a wedding banquet"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/17/high.webp",
+        "caption": "The courtyard from the upper floor, dressed with lanterns"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/blue-mansion/18/high.webp",
+        "caption": "Table setting detail in blue and gold"
+      }
+    ],
+    "description": "Cheong Fatt Tze – The Blue Mansion is the deep indigo courtyard house on Leith Street, now a boutique hotel with 18 suites, the Indigo restaurant and a garden behind it. For a wedding it isn’t sold by the room. The mansion is available in its entirety, which is the whole proposition: kitchens, bedrooms, halls and courtyard, all of it yours, for events of up to 100 people.\n\nThe rooms you’d actually use are the main courtyard, where the elements of 'feng' and 'shui' meet and where house guests take breakfast al fresco; the Oriental Water Garden, which the venue puts forward for solemnisations, cocktails and garden dinners; and Indigo on the first floor, where the kitchen builds the menu and the setup around your event. Chef Kim Hock Su’s cooking runs East and West at once, the same trick the building pulls.\n\nBook the full Celebration package and public tours and dining stop for the day, so the mansion belongs to your party alone. Eighteen suites sleep 38 to 40, which means the wedding party can simply stay put.",
+    "createdAt": "2026-08-07T03:10:53.628Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "14, Lebuh Leith, George Town, 10200 George Town, Pulau Pinang, Malaysia",
+    "postCode": null,
+    "googlePlaceId": "ChIJJZ1Pb5rDSjAR0FgEYqphTw0",
+    "latitude": "5.4214508",
+    "longitude": "100.33489340000001",
+    "googlePlaceName": "Cheong Fatt Tze - The Blue Mansion",
+    "neighbourhood": null,
+    "googleMapsLink": "https://maps.google.com/?cid=959092630069991632&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "wazeLink": null,
+    "googleRating": "4.4",
+    "googleTotalReviews": 5556,
+    "metaDescription": null,
+    "whatsappNumber": "+60 4-262 0006",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'100':73B '18':27B '38':177B '40':179B 'actual':79B 'al':99B 'alon':173B 'around':131B 'avail':50B 'bedroom':60B 'behind':35B 'belong':169B 'blue':5A,11B 'book':152B 'boutiqu':24B 'breakfast':98B 'build':125B,150B 'celebr':155B 'chef':134B 'cheong':1A,7B 'cocktail':112B 'cook':139B 'courtyard':17B,63B,84B 'd':78B 'day':165B 'deep':15B 'dine':161B 'dinner':115B 'east':141B 'eighteen':174B 'element':87B 'entireti':53B 'event':69B,133B 'fatt':2A,8B 'feng':89B 'first':120B 'floor':121B 'forward':109B 'fresco':100B 'full':154B 'garden':34B,104B,114B 'georg':189C 'guest':96B 'hall':61B 'hock':136B 'hotel':25B 'hous':18B,95B 'indigo':16B,30B,117B 'isn':41B 'kim':135B 'kitchen':59B,124B 'leith':20B 'main':83B 'mansion':6A,12B,48B,168B 'mean':181B 'meet':92B 'menu':127B 'orient':102B 'packag':156B 'parti':172B,184B 'penang':191C 'peopl':74B 'proposit':58B 'public':158B 'pull':151B 'put':108B,188B 'restaur':31B 'room':46B,76B 'run':140B 'setup':130B 'shui':91B 'simpli':186B 'sleep':176B 'sold':43B 'solemnis':111B 'stay':187B 'stop':162B 'street':21B 'su':137B 'suit':28B,175B 'take':97B 'tour':159B 'town':190C 'trick':148B 'tze':3A,9B 'use':80B 'venu':107B 'water':103B 'wed':39B,183B 'west':143B 'whole':57B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "isHidden": false,
+    "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
+    "liveAt": null,
+    "spacePhotoNudgeDismissedAt": null,
+    "updatedAt": "2026-08-07T03:31:26.509Z",
+    "spaces": [],
+    "packages": [
+      {
+        "name": "Full Mansion Buyout â 3 days / 2 nights",
+        "price": 116000,
+        "priceMax": 123000,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "$71",
+        "includes": [
+          "Exclusive use of all 18 suites, accommodating 38-40 guests: 2 Heritage Suites, 2 Premium Suites with private jacuzzi and hot tubs, 5 Garden Suites with pool and garden access, and 9 standard suites, all with full amenities",
+          "Exclusive use of the front lawn, Oriental Garden and pool, main courtyard and Indigo Restaurant",
+          "Al-fresco breakfast for in-house guests in the main courtyard",
+          "Full property exclusivity guaranteed on the wedding day",
+          "Closure of all public tours and dining venues in the mansion for total privacy",
+          "Two hours' complimentary use of the mansion for pre-wedding photography",
+          "Complimentary parking for guests, subject to availability",
+          "Three days and two nights' stay for in-house guests"
+        ],
+        "guestMin": null,
+        "guestMax": 100,
+        "brochureUrl": null
+      },
+      {
+        "name": "Full Mansion Buyout â 2 days / 1 night",
+        "price": 83000,
+        "priceMax": 94000,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "$72",
+        "includes": [
+          "Exclusive use of all 18 suites, accommodating 38-40 guests: 2 Heritage Suites, 2 Premium Suites with private jacuzzi and hot tubs, 5 Garden Suites with pool and garden access, and 9 standard suites, all with full amenities",
+          "Exclusive use of the front lawn, Oriental Garden and pool, main courtyard and Indigo Restaurant",
+          "Al-fresco breakfast for in-house guests in the main courtyard",
+          "Full property exclusivity guaranteed on the wedding day",
+          "Closure of all public tours and dining venues in the mansion for total privacy",
+          "Two hours' complimentary use of the mansion for pre-wedding photography",
+          "Complimentary parking for guests, subject to availability",
+          "Two days and one night's stay for in-house guests"
+        ],
+        "guestMin": null,
+        "guestMax": 100,
+        "brochureUrl": null
+      },
+      {
+        "name": "Half Mansion Buyout â 2 days / 1 night",
+        "price": 48000,
+        "priceMax": 50000,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "$73",
+        "includes": [
+          "Exclusive use of 9 elegant suites, accommodating 19-20 guests for a two-day, one-night stay",
+          "Nine luxurious suites with direct access to the Oriental Garden",
+          "Exclusive use of the Oriental Garden for 2 hours (between 8am and midnight)",
+          "One hour's free flow of nutmeg juice and fruit punch, with tidbits such as peanuts or tapioca chips",
+          "Two hours' complimentary use of the mansion for pre-wedding photography",
+          "Complimentary parking for guests, subject to availability",
+          "Complimentary food tasting for two of the selected menu, for weddings of 80 guests and above"
+        ],
+        "guestMin": null,
+        "guestMax": 100,
+        "brochureUrl": null
+      },
+      {
+        "name": "Celebration Aesthetic & Enhancement",
+        "price": 22800,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "RM22,800++ (subject to service charge and SST). This is a decor and ceremony enhancement bought ON TOP of a mansion buyout, not a standalone wedding price. The chair setup covers up to 50 guests. Separately, an Extended Stay Option lets you check in the day before or after the ceremony for an additional RM20,000 on weekdays or RM21,500 on weekends for all 18 suites; that is an accommodation charge for the extra night, NOT a wedding package price.",
+        "includes": [
+          "Floral decorations for the wedding ceremonial arch",
+          "Wedding aisle walkway decorations",
+          "Bridal bouquet and a groom's boutonniere in your choice of floral design",
+          "Ceremonial chair setup in the courtyard with wooden lace fans, for up to 50 guests",
+          "Fresh flower confetti, up to 20 units",
+          "One hour's free flow of nutmeg juice and fruit punch, with tidbits",
+          "Two-tier wedding cake in vanilla or chocolate",
+          "A bottle of sparkling wine for the wedding toast",
+          "Basic in-house sound system for the ceremony, four hours' use"
+        ],
+        "guestMin": null,
+        "guestMax": 50,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 45,
+      "max": 100
+    }
+  },
+  {
+    "id": "c69e60c9-78df-4337-8618-85242d2c2a80",
+    "name": "Suffolk House",
+    "slug": "suffolk-house",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "George Town",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/suffolk-house/00/high.webp",
+        "caption": "The Georgian mansion floodlit at dusk under the raintrees"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/suffolk-house/01/high.webp",
+        "caption": "Ballroom set for a wedding banquet with chandeliers"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/suffolk-house/02/high.webp",
+        "caption": "Marble Hall and its original harlequin marble floor"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/suffolk-house/03/high.webp",
+        "caption": "Garden lawn set for an outdoor ceremony"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/suffolk-house/04/high.webp",
+        "caption": "Ballroom draped for a cocktail reception"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/suffolk-house/05/high.webp",
+        "caption": "The house lit at night from the lawn"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/suffolk-house/06/high.webp",
+        "caption": "Reception dinner under the mansion's arches"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/suffolk-house/07/high.webp",
+        "caption": "Terrace and fountain overlooking the garden"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/suffolk-house/08/high.webp",
+        "caption": "Ballroom in a lilac lighting scheme with long tables"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/suffolk-house/09/high.webp",
+        "caption": "Rows of chiavari chairs on the lawn before a ceremony"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/suffolk-house/10/high.webp",
+        "caption": "Ballroom set with round tables and white florals"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/suffolk-house/11/high.webp",
+        "caption": "First-floor room with garden views and timber floors"
+      }
+    ],
+    "description": "Suffolk House is an Anglo-Indian garden house built in the early 1800s and, by the venue's own account, the only Georgian mansion still standing in Malaysia. It served for decades as the residence of successive British governors, and its restoration won the 2008 Award of Distinction in the UNESCO Asia-Pacific Heritage Awards for Culture Heritage Conservation. It now runs as a restaurant and event venue on the edge of George Town's UNESCO World Heritage zone.\n\nWeddings here work across two levels and the grounds. On the ground floor, the Marble Hall keeps its original harlequin marble tiling and takes 180 for a ceremony or 200 standing. Upstairs, the Ballroom runs 12.4m by 9.4m with timber flooring, deep colonnades and a verandah included in the hire. Outside, the North and West Lawns both sit under mature raintrees and are built for marquees, with the West Lawn the larger of the two.\n\nThe house also keeps six private rooms — four on the ground floor, two upstairs — for smaller sittings, and it takes bookings up to two years ahead.",
+    "createdAt": "2026-08-07T03:11:22.488Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "250, Jalan Air Itam, 10460 George Town, Pulau Pinang, Malaysia",
+    "postCode": null,
+    "googlePlaceId": "ChIJlT3ZVrXDSjARFDdgGR46CAk",
+    "latitude": "5.4108509",
+    "longitude": "100.3054987",
+    "googlePlaceName": "Suffolk House Restaurant",
+    "neighbourhood": null,
+    "googleMapsLink": "https://maps.google.com/?cid=650834047104202516&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "wazeLink": null,
+    "googleRating": "4.5",
+    "googleTotalReviews": 1730,
+    "metaDescription": null,
+    "whatsappNumber": "+60 4-228 3930",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'12.4':119B '180':108B '1800s':16B '200':113B '2008':48B '9.4':122B 'account':23B 'across':87B 'ahead':186B 'also':163B 'anglo':8B 'anglo-indian':7B 'asia':56B 'asia-pacif':55B 'award':49B,59B 'ballroom':117B 'book':181B 'british':41B 'built':12B,149B 'ceremoni':111B 'colonnad':128B 'conserv':63B 'cultur':61B 'decad':35B 'deep':127B 'distinct':51B 'earli':15B 'edg':75B 'event':71B 'floor':96B,126B,172B 'four':168B 'garden':10B 'georg':77B,187C 'georgian':26B 'governor':42B 'ground':92B,95B,171B 'hall':99B 'harlequin':103B 'heritag':58B,62B,82B 'hire':135B 'hous':2A,4B,11B,162B 'includ':132B 'indian':9B 'keep':100B,164B 'larger':157B 'lawn':141B,155B 'level':89B 'm':120B,123B 'malaysia':31B 'mansion':27B 'marbl':98B,104B 'marque':151B 'matur':145B 'north':138B 'origin':102B 'outsid':136B 'pacif':57B 'penang':189C 'privat':166B 'raintre':146B 'resid':38B 'restaur':69B 'restor':45B 'room':167B 'run':66B,118B 'serv':33B 'sit':143B,177B 'six':165B 'smaller':176B 'stand':29B,114B 'still':28B 'success':40B 'suffolk':1A,3B 'take':107B,180B 'tile':105B 'timber':125B 'town':78B,188C 'two':88B,160B,173B,184B 'unesco':54B,80B 'upstair':115B,174B 'venu':20B,72B 'verandah':131B 'wed':84B 'west':140B,154B 'won':46B 'work':86B 'world':81B 'year':185B 'zone':83B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "isHidden": false,
+    "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
+    "liveAt": null,
+    "spacePhotoNudgeDismissedAt": null,
+    "updatedAt": "2026-08-07T03:31:26.509Z",
+    "spaces": [],
+    "packages": [
+      {
+        "name": "Ballroom â venue hire",
+        "price": 3000,
+        "priceMax": 4000,
+        "priceFixture": null,
+        "pricePerPax": null,
+        "description": "SundayâThursday RM3,000++, FridayâSaturday RM4,000++, corporate hire RM5,000++, each per 4-hour use exclusive of set-up. The quotation frames this as a charge on ADDITIONAL sections of the house used for a specific purpose (ROM, tea ceremony, pre-dinner presentation, dance floor, cocktails) â a room used for the dining itself is not chargeable. Subject to 10% service charge and prevailing SST. RM1,000 nett non-refundable initial deposit holds the date; 80% of the estimated cost is due at least 2 months before the event, the full estimate 14 days before, and the balance on completion. A refundable RM5,000 security deposit against damage applies. Functions running past 3pm (daytime) or 11pm (evening) incur RM1,000++ per hour, with no extension past 4pm or midnight respectively.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "Marble Hall â venue hire",
+        "price": 4000,
+        "priceMax": 5000,
+        "priceFixture": null,
+        "pricePerPax": null,
+        "description": "SundayâThursday RM4,000++, FridayâSaturday RM5,000++, corporate hire RM5,000++, each per 4-hour use exclusive of set-up. The quotation frames this as a charge on ADDITIONAL sections of the house used for a specific purpose (ROM, tea ceremony, pre-dinner presentation, dance floor, cocktails) â a room used for the dining itself is not chargeable. Subject to 10% service charge and prevailing SST. RM1,000 nett non-refundable initial deposit holds the date; 80% of the estimated cost is due at least 2 months before the event, the full estimate 14 days before, and the balance on completion. A refundable RM5,000 security deposit against damage applies. Functions running past 3pm (daytime) or 11pm (evening) incur RM1,000++ per hour, with no extension past 4pm or midnight respectively.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "Garden View Rooms â venue hire",
+        "price": 600,
+        "priceMax": 700,
+        "priceFixture": null,
+        "pricePerPax": null,
+        "description": "Any one of Museum 1, Museum 2, Tea Salon or D1: SundayâThursday RM600++, FridayâSaturday RM700++, corporate hire RM700++, per 4-hour use exclusive of set-up. The 2026/2027 quotation names these four rooms explicitly, where the website rate card called the tier 'Garden View Rooms'. Subject to 10% service charge and prevailing SST. RM1,000 nett non-refundable initial deposit holds the date; 80% of the estimated cost is due at least 2 months before the event, the full estimate 14 days before, and the balance on completion. A refundable RM5,000 security deposit against damage applies. Functions running past 3pm (daytime) or 11pm (evening) incur RM1,000++ per hour, with no extension past 4pm or midnight respectively.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "North Garden â venue hire",
+        "price": 3000,
+        "priceMax": null,
+        "priceFixture": null,
+        "pricePerPax": null,
+        "description": "RM3,000++ per 4-hour use exclusive of set-up. Subject to 10% service charge and prevailing SST. RM1,000 nett non-refundable initial deposit holds the date; 80% of the estimated cost is due at least 2 months before the event, the full estimate 14 days before, and the balance on completion. A refundable RM5,000 security deposit against damage applies. Functions running past 3pm (daytime) or 11pm (evening) incur RM1,000++ per hour, with no extension past 4pm or midnight respectively.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "West Garden â venue hire",
+        "price": 4000,
+        "priceMax": null,
+        "priceFixture": null,
+        "pricePerPax": null,
+        "description": "RM4,000++ per 4-hour use exclusive of set-up. Subject to 10% service charge and prevailing SST. RM1,000 nett non-refundable initial deposit holds the date; 80% of the estimated cost is due at least 2 months before the event, the full estimate 14 days before, and the balance on completion. A refundable RM5,000 security deposit against damage applies. Functions running past 3pm (daytime) or 11pm (evening) incur RM1,000++ per hour, with no extension past 4pm or midnight respectively.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "Entire Garden â venue hire",
+        "price": 6000,
+        "priceMax": null,
+        "priceFixture": null,
+        "pricePerPax": null,
+        "description": "RM6,000++ per 4-hour use exclusive of set-up. Subject to 10% service charge and prevailing SST. RM1,000 nett non-refundable initial deposit holds the date; 80% of the estimated cost is due at least 2 months before the event, the full estimate 14 days before, and the balance on completion. A refundable RM5,000 security deposit against damage applies. Functions running past 3pm (daytime) or 11pm (evening) incur RM1,000++ per hour, with no extension past 4pm or midnight respectively.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "ROM All-in-One Package (50 guests)",
+        "price": 6800,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "RM6,800++ for 50 guests. The venue hire waiver applies to the outdoor spaces only; holding the ROM indoors instead adds a surcharge of RM1,000++ in the Marble Hall or RM2,000++ in the Ballroom for 4-hour use. The package is only valid if the couple also takes lunch, dinner or refreshments catered by Suffolk House. Subject to 10% service charge and prevailing SST.",
+        "includes": [
+          "One ceremony arch",
+          "Walkway decoration",
+          "One reception table with decoration",
+          "Chair back decoration for the bride and groom",
+          "One welcome sign",
+          "50 white Tiffany chairs",
+          "Two 15-inch full-range speaker systems with stands",
+          "One 12-channel powered audio mixer",
+          "One CD player",
+          "Two wireless microphones",
+          "Switchboard and cabling",
+          "One audio assistant",
+          "Waiver of the venue hire charge (outdoor only)"
+        ],
+        "guestMin": null,
+        "guestMax": 50,
+        "brochureUrl": null
+      },
+      {
+        "name": "ROM Sound System Rental",
+        "price": 950,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "RM950++ to rent the PA rig on its own, for couples not taking the all-in-one ROM package. Subject to 10% service charge and prevailing SST.",
+        "includes": [
+          "Two 15-inch full-range speaker systems with stands",
+          "One 12-channel powered audio mixer",
+          "One CD player",
+          "Two wireless microphones",
+          "Switchboard and cabling",
+          "One audio assistant"
+        ],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "Exclusive Closure â Whole House",
+        "price": 18000,
+        "priceMax": 28000,
+        "priceFixture": null,
+        "pricePerPax": null,
+        "description": "Closes the House exclusively, 12:00â15:00 for lunch on a minimum spend of RM18,000 or 19:00â23:00 for dinner on a minimum spend of RM28,000. The minimum spend counts food, beverage and corkage only â venue hire does not count towards it â and any shortfall is charged as a surcharge that cannot be carried forward to another date. This is a MINIMUM SPEND, not a hire fee. Subject to 10% service charge and prevailing SST.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "Exclusive Closure â Ground Floor",
+        "price": 14000,
+        "priceMax": 20000,
+        "priceFixture": null,
+        "pricePerPax": null,
+        "description": "Closes the Reception Hall, Museum 1, Museum 2, Tea Salon, D1, Marble Hall, H section and Porch on a minimum spend of RM14,000 for lunch (11amâ3pm) or RM20,000 for dinner (6pmâ11pm). Viking-style setup only on the ground floor. Food, beverage and corkage count towards the minimum; any shortfall is charged as a surcharge. This is a MINIMUM SPEND, not a hire fee. Subject to 10% service charge and prevailing SST.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "Exclusive Closure â Marble Hall Only",
+        "price": 10000,
+        "priceMax": 12000,
+        "priceFixture": null,
+        "pricePerPax": null,
+        "description": "Closes the Marble Hall alone on a minimum spend of RM10,000 for lunch (11amâ3pm) or RM12,000 for dinner (6pmâ11pm), without any live presentation. Food, beverage and corkage count towards the minimum; any shortfall is charged as a surcharge. This is a MINIMUM SPEND, not a hire fee. Subject to 10% service charge and prevailing SST.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "Exclusive Closure â First Floor",
+        "price": 14000,
+        "priceMax": 20000,
+        "priceFixture": null,
+        "pricePerPax": null,
+        "description": "Closes the Ballroom with West 1 and West 2 on a minimum spend of RM14,000 for lunch (11amâ3pm) or RM20,000 for dinner (6pmâ11pm). The first floor takes either Viking-style or round-table setup. Food, beverage and corkage count towards the minimum; any shortfall is charged as a surcharge. This is a MINIMUM SPEND, not a hire fee. Subject to 10% service charge and prevailing SST.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      },
+      {
+        "name": "Exclusive Closure â Ballroom Only",
+        "price": 10000,
+        "priceMax": 12000,
+        "priceFixture": null,
+        "pricePerPax": null,
+        "description": "Closes the Ballroom alone on a minimum spend of RM10,000 for lunch (11amâ3pm) or RM12,000 for dinner (6pmâ11pm). Food, beverage and corkage count towards the minimum; any shortfall is charged as a surcharge. This is a MINIMUM SPEND, not a hire fee. Subject to 10% service charge and prevailing SST.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": null,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 0,
+      "max": 300
+    }
+  },
+  {
+    "id": "20a8abfe-1be5-44e2-94f0-209446d42aa0",
+    "name": "Olive Tree Hotel Penang",
+    "slug": "olive-tree-penang",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "Bayan Lepas",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/olive-tree-penang/00/high.webp",
+        "caption": "Grand Ballroom set for a Chinese banquet, red carpet aisle lined with floral stands"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/olive-tree-penang/01/high.webp",
+        "caption": "Grand Ballroom showing the mezzanine level and the large LED screen behind the stage"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/olive-tree-penang/02/high.webp",
+        "caption": "The full height of the Grand Ballroom, with the cake table in the foreground"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/olive-tree-penang/03/high.webp",
+        "caption": "Round table laid in red and gold with a tall floral centrepiece"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/olive-tree-penang/04/high.webp",
+        "caption": "Banquet setting with gold chair sashes and coral napery"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/olive-tree-penang/05/high.webp",
+        "caption": "The Olive laid for a smaller banquet under its recessed ceiling"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/olive-tree-penang/06/high.webp",
+        "caption": "Solemnisation seating facing a draped backdrop in the timber-lined room"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/olive-tree-penang/07/high.webp",
+        "caption": "Ceremony setup with a gold hexagonal arch and white aisle runner"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/olive-tree-penang/08/high.webp",
+        "caption": "Malay wedding pelamin with pastel florals and a red carpet approach"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/olive-tree-penang/09/high.webp",
+        "caption": "Floral arch at the function room entrance"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/olive-tree-penang/10/high.webp",
+        "caption": "Draped floral archway leading in from the marble foyer"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/olive-tree-penang/11/high.webp",
+        "caption": "Tea ceremony set laid out in double happiness red and gold"
+      }
+    ],
+    "description": "Olive Tree Hotel sits on Jalan Mahsuri in Bayan Lepas, in the stretch of southern Penang island closest to the airport and the free trade zone. The wedding rooms are the reason to look here. The Grand Ballroom runs to 639.7 square metres under a 7.5-metre ceiling, and it seats 460 guests at round tables. A mezzanine level wraps above the floor, so late-arriving relatives and photographers have somewhere to stand without cutting through the aisle, and the room is fitted with a large LED screen behind the stage rather than a roll-down projector.\n\nThe ballroom also has a private room attached, with its own powder room and washroom. Couples use it as a holding room before the march-in and as the tea ceremony room, which spares you borrowing a guest bedroom upstairs. If your guest list is closer to eighty than four hundred, The Olive is the smaller option at 267.6 square metres and 200 seated, and the Olive 1 to 8 meeting rooms break down to 20 to 40 seats each for a signing or a family dinner.\n\nThe hotel publishes its wedding pricing openly, which is not a given in Penang. There are four Chinese banquet packages built around an eight-course set dinner, a Malay package offered as either a buffet or a set dome service, and a separate registration of marriage package capped at 50 people. Every tier includes the things couples otherwise chase separately: red carpet aisle, champagne fountain, a five-tier ceremonial cake, floral arch at the ballroom entrance, and a night in the Executive Suite for the newlyweds.",
+    "createdAt": "2026-08-07T03:11:52.507Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "76, Jalan Mahsuri, 11950 Bayan Lepas, Penang, Malaysia",
+    "postCode": null,
+    "googlePlaceId": "ChIJBfYACxXASjARckiFWJ31hBI",
+    "latitude": "5.3269199",
+    "longitude": "100.2793768",
+    "googlePlaceName": "Olive Tree Hotel Penang",
+    "neighbourhood": null,
+    "googleMapsLink": "https://maps.google.com/?cid=1334461445752309874&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "wazeLink": null,
+    "googleRating": "4.2",
+    "googleTotalReviews": 4617,
+    "metaDescription": null,
+    "whatsappNumber": "+60 19-559 7392",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'1':172B '20':180B '200':167B '267.6':163B '40':182B '460':56B '50':242B '639.7':45B '7.5':50B '8':174B 'airport':25B 'aisl':83B,255B 'also':106B 'arch':265B 'around':213B 'arriv':71B 'attach':111B 'ballroom':42B,105B,268B 'banquet':210B 'bayan':13B,280C 'bedroom':143B 'behind':94B 'borrow':140B 'break':177B 'buffet':227B 'built':212B 'cake':263B 'cap':240B 'carpet':254B 'ceil':52B 'ceremoni':135B,262B 'champagn':256B 'chase':251B 'chines':209B 'closer':150B 'closest':22B 'coupl':119B,249B 'cours':217B 'cut':80B 'dinner':191B,219B 'dome':231B 'eight':216B 'eight-cours':215B 'eighti':152B 'either':225B 'entranc':269B 'everi':244B 'execut':275B 'famili':190B 'fit':88B 'five':260B 'five-ti':259B 'floor':67B 'floral':264B 'fountain':257B 'four':154B,208B 'free':28B 'given':203B 'grand':41B 'guest':57B,142B,147B 'hold':124B 'hotel':3A,7B,193B 'hundr':155B 'includ':246B 'island':21B 'jalan':10B 'larg':91B 'late':70B 'late-arriv':69B 'led':92B 'lepa':14B,281C 'level':63B 'list':148B 'look':38B 'mahsuri':11B 'malay':221B 'march':129B 'march-in':128B 'marriag':238B 'meet':175B 'metr':47B,51B,165B 'mezzanin':62B 'newlyw':279B 'night':272B 'offer':223B 'oliv':1A,5B,157B,171B 'open':198B 'option':161B 'otherwis':250B 'packag':211B,222B,239B 'penang':4A,20B,205B,282C 'peopl':243B 'photograph':74B 'powder':115B 'price':197B 'privat':109B 'projector':103B 'publish':194B 'rather':97B 'reason':36B 'red':253B 'registr':236B 'relat':72B 'roll':101B 'roll-down':100B 'room':33B,86B,110B,116B,125B,136B,176B 'round':59B 'run':43B 'screen':93B 'seat':55B,168B,183B 'separ':235B,252B 'servic':232B 'set':218B,230B 'sign':187B 'sit':8B 'smaller':160B 'somewher':76B 'southern':19B 'spare':138B 'squar':46B,164B 'stage':96B 'stand':78B 'stretch':17B 'suit':276B 'tabl':60B 'tea':134B 'thing':248B 'tier':245B,261B 'trade':29B 'tree':2A,6B 'upstair':144B 'use':120B 'washroom':118B 'wed':32B,196B 'without':79B 'wrap':64B 'zone':30B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "isHidden": false,
+    "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
+    "liveAt": null,
+    "spacePhotoNudgeDismissedAt": null,
+    "updatedAt": "2026-08-07T03:31:26.509Z",
+    "spaces": [],
+    "packages": [
+      {
+        "name": "Wedding at The Olive",
+        "price": 1299,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Held in The Olive. Minimum 8 tables, maximum 15 tables. 10% surcharge per table on the eve of and on public holidays. Price is subject to prevailing tax. Confirmed current by the venue-supplied 'Wedding Package 2026 2027' brochure, which is the same document as the 2025 edition.",
+        "includes": [
+          "8-course Chinese set dinner",
+          "Free flow cordial drinks and Chinese tea throughout dinner",
+          "Flat rate corkage for unlimited beer, wine and hard liquor",
+          "Fresh floral arrangement on main table",
+          "Flower arrangement for reception table",
+          "Floral arch at the entrance of The Olive",
+          "Champagne fountain with two bottles of sparkling juice",
+          "Usage of LED backdrop on stage, one PA system, two wired microphones",
+          "Ceremonial 5-tier wedding mock cake",
+          "Red carpet aisle",
+          "Guest signature book",
+          "Special room rates for wedding guests",
+          "Complimentary tea ceremony arrangement with red dates tea",
+          "One night in the Executive Suite for the newlyweds with buffet breakfast",
+          "Wedding invitation cards for 50% of guaranteed guests (excluding inserts and printing)",
+          "Two reserved VIP parking bays for the bridal party"
+        ],
+        "guestMin": 80,
+        "guestMax": 150,
+        "brochureUrl": null
+      },
+      {
+        "name": "Beautiful Beginning",
+        "price": 1399,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Held in the Grand Ballroom. Minimum 35 tables, maximum 60 tables; a MYR200+ per table surcharge applies below 35 tables. 10% surcharge per table on the eve of and on public holidays. Price is subject to prevailing tax. Confirmed current by the venue-supplied 'Wedding Package 2026 2027' brochure, which is the same document as the 2025 edition.",
+        "includes": [
+          "8-course Chinese set dinner",
+          "Free flow cordial drinks and Chinese tea throughout dinner",
+          "Flat rate corkage for unlimited beer, wine and hard liquor",
+          "50% off food tasting for 10 persons on confirmation with deposit",
+          "Fresh floral arrangement on main table",
+          "Floral arrangement for reception table",
+          "Floral arch at the entrance of the Grand Ballroom",
+          "Flower posies on each guest table",
+          "MYR100 cash credit for a decorative photo wall from the appointed florist",
+          "Champagne fountain with two bottles of sparkling juice",
+          "Usage of LED backdrop on stage, one PA system, two wired microphones",
+          "Ceremonial 5-tier wedding mock cake",
+          "Red carpet aisle",
+          "Guest signature book",
+          "Special room rates for wedding guests",
+          "Complimentary tea ceremony arrangement with red dates tea",
+          "One night in the Executive Suite with buffet breakfast and a bottle of wine",
+          "Wedding invitation cards for 50% of guaranteed guests (excluding inserts and printing)",
+          "Two reserved VIP parking bays for the bridal party"
+        ],
+        "guestMin": 350,
+        "guestMax": 600,
+        "brochureUrl": null
+      },
+      {
+        "name": "Just Divine",
+        "price": 1499,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Held in the Grand Ballroom. Minimum 30 tables, maximum 60 tables; a MYR200+ per table surcharge applies below 30 tables. 10% surcharge per table on the eve of and on public holidays. Price is subject to prevailing tax. Confirmed current by the venue-supplied 'Wedding Package 2026 2027' brochure, which is the same document as the 2025 edition.",
+        "includes": [
+          "8-course Chinese set dinner",
+          "Free flow cordial drinks and Chinese tea throughout dinner",
+          "Free corkage for unlimited beer, wine and hard liquor",
+          "Complimentary food tasting for 10 persons on confirmation with deposit",
+          "Individually wrapped cakes for all guests",
+          "Deluxe fresh floral arrangement on main table",
+          "Deluxe floral arrangement for reception table",
+          "Deluxe floral arch at the entrance of the Grand Ballroom",
+          "Flower posies on each guest table",
+          "Six deluxe floral stands along the red carpet aisle",
+          "MYR100 cash credit for a decorative photo wall from the appointed florist",
+          "Champagne fountain with two bottles of sparkling juice",
+          "Usage of LED backdrop at stage, one PA system, two wired microphones",
+          "Ceremonial 5-tier wedding mock cake",
+          "Red carpet aisle",
+          "Guest signature book",
+          "Special room rates for wedding guests",
+          "Complimentary tea ceremony arrangement with red dates tea",
+          "One night in the Executive Suite with buffet breakfast and a bottle of wine",
+          "Wedding invitation cards for 60% of guaranteed guests (excluding inserts and printing)",
+          "Two reserved VIP parking bays for the bridal party"
+        ],
+        "guestMin": 300,
+        "guestMax": 600,
+        "brochureUrl": null
+      },
+      {
+        "name": "Always and Forever",
+        "price": 1799,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Held in the Grand Ballroom. Minimum 30 tables, maximum 60 tables. 10% surcharge per table on the eve of and on public holidays. Price is subject to prevailing tax. Confirmed current by the venue-supplied 'Wedding Package 2026 2027' brochure, which is the same document as the 2025 edition.",
+        "includes": [
+          "Exquisite 8-course Chinese set dinner",
+          "Free flow choice of aerated soft drinks or cordial drinks and Chinese tea",
+          "Free corkage for unlimited beer, wine and hard liquor",
+          "Complimentary food tasting for 10 persons on confirmation with deposit",
+          "Choice of individually wrapped cakes or pralines for all guests",
+          "Premium fresh floral arrangement on main table",
+          "Premium flower arrangement for reception table",
+          "Premium floral arch at the entrance of the Grand Ballroom",
+          "Flower posies on each guest table",
+          "Six premium floral stands along the red carpet aisle",
+          "MYR150 cash credit for a decorative photo wall from the appointed florist",
+          "Champagne fountain with two bottles of sparkling juice",
+          "Usage of LED backdrop at stage, one PA system, two wired microphones",
+          "Ceremonial 5-tier wedding mock cake",
+          "Red carpet aisle",
+          "Guest signature book",
+          "Special room rates for wedding guests",
+          "Complimentary tea ceremony arrangement with red dates tea",
+          "One night in the Executive Suite with buffet breakfast and a bottle of wine",
+          "One night in the Executive Deluxe with breakfast for two",
+          "Wedding invitation cards for 60% of guaranteed guests (excluding inserts and printing)",
+          "Six corsages for family members",
+          "Three reserved VIP parking bays for the bridal party",
+          "15% discount on all beverages for the after party"
+        ],
+        "guestMin": 300,
+        "guestMax": 600,
+        "brochureUrl": null
+      },
+      {
+        "name": "Dua Hati Bersatu - Malay Wedding Buffet",
+        "price": 75,
+        "priceMax": 85,
+        "priceFixture": "per_pax",
+        "pricePerPax": 75,
+        "description": "MYR75+ per person for 500 guests and above; MYR85+ per person below 499 guests. Price is subject to prevailing tax. From the 2024 brochure, still linked from the live special-offers page stating validity until December 2026.",
+        "includes": [
+          "Malay wedding buffet"
+        ],
+        "guestMin": null,
+        "guestMax": 1,
+        "brochureUrl": null
+      },
+      {
+        "name": "Dua Hati Bersatu - Malay Wedding Set Dome",
+        "price": 900,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Minimum 30 tables, maximum 60 tables. Price is subject to prevailing tax. From the 2024 brochure, still linked from the live special-offers page stating validity until December 2026.",
+        "includes": [
+          "Malay wedding set dome service"
+        ],
+        "guestMin": 300,
+        "guestMax": 600,
+        "brochureUrl": null
+      },
+      {
+        "name": "Registration of Marriage",
+        "price": 9999,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "MYR9,999+ per package for a maximum of 50 persons. Subject to 6% service tax. From the 2024 brochure, still linked from the live special-offers page stating validity until December 2026. Enquiries go to life@olivetree.my.",
+        "includes": [
+          "Use of the function space for up to 6 hours"
+        ],
+        "guestMin": null,
+        "guestMax": 50,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 20,
+      "max": 460
+    }
+  },
+  {
+    "id": "9eb276a3-9a49-41b6-b3b1-f3bfced20ad4",
+    "name": "G Hotel Gurney",
+    "slug": "g-hotel-gurney",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "George Town",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-gurney/00/high.webp",
+        "caption": "Grand Ballroom set for a wedding banquet, with the floral aisle leading to the stage"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-gurney/01/high.webp",
+        "caption": "Grand Ballroom with a red carpet aisle, floral arch and LED backdrop"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-gurney/02/high.webp",
+        "caption": "Floral archway over the ballroom aisle"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-gurney/03/high.webp",
+        "caption": "Blossom trees lining the ceremony aisle in the Grand Ballroom"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-gurney/04/high.webp",
+        "caption": "Reception tables and the bride and groom's chairs in the ballroom"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-gurney/05/high.webp",
+        "caption": "Chinese tea ceremony backdrop with double-happiness motif"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-gurney/06/high.webp",
+        "caption": "Gold-draped VIP table set under the ballroom's beam lighting"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-gurney/07/high.webp",
+        "caption": "Ballroom stage, LED screen and cake display"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-gurney/08/high.webp",
+        "caption": "Ballroom foyer dressed for guest arrival"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-gurney/09/high.webp",
+        "caption": "Poolside ceremony aisle with a draped arch"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-gurney/10/high.webp",
+        "caption": "Ceremony seating set out across the pool deck"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-gurney/11/high.webp",
+        "caption": "Pool deck and terrace lit at night"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-gurney/12/high.webp",
+        "caption": "G Hotel Gurney at dusk on Persiaran Gurney"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/g-hotel-gurney/13/high.webp",
+        "caption": "Hotel lobby and reception"
+      }
+    ],
+    "description": "G Hotel Gurney sits on Persiaran Gurney next to Gurney Plaza, which puts a banquet of several hundred guests within walking distance of the promenade and the mall. The wedding rooms are on Level 2. The Grand Ballroom runs 723 square metres under a 4.6 metre ceiling with no pillars in the floor, and it seats 500 guests at round tables. It divides into Ballroom 1 and Ballroom 2 for smaller banquets, at 250 and 200 seated. The room carries a large LED screen behind the stage, and the adjoining 465 square metre foyer takes 200 seated or 240 standing for a pre-dinner reception.\n\nOutdoors, the poolside deck holds 150 seated or 260 standing, and the hotel's own photographs show it set for a ceremony with an aisle and an arch. For a small party, Salon III and IV combine into 170 square metres for 120 guests. Wedding packages are priced per table of ten and run on an eight-course Chinese set menu, with a five-tier cake, a champagne fountain, red-dates tea for the tea ceremony and a bridal suite for the night included at every tier.",
+    "createdAt": "2026-08-07T03:12:22.127Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "168A Persiaran Gurney, 10250 George Town, Pulau Pinang, Malaysia",
+    "postCode": null,
+    "googlePlaceId": "ChIJjdDYepjDSjARDxRysG-leWg",
+    "latitude": "5.4375575",
+    "longitude": "100.3106325",
+    "googlePlaceName": "G Hotel Gurney",
+    "neighbourhood": null,
+    "googleMapsLink": "https://maps.google.com/?cid=7528230151246713871&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "wazeLink": null,
+    "googleRating": "4.4",
+    "googleTotalReviews": 4595,
+    "metaDescription": null,
+    "whatsappNumber": "+60 4-238 0000",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'1':69B '120':152B '150':115B '170':148B '2':38B,72B '200':79B,99B '240':102B '250':77B '260':118B '4.6':48B '465':94B '500':60B '723':43B 'adjoin':93B 'aisl':134B 'arch':137B 'ballroom':41B,68B,71B 'banquet':18B,75B 'behind':88B 'bridal':191B 'cake':177B 'carri':83B 'ceil':50B 'ceremoni':131B,188B 'champagn':179B 'chines':169B 'combin':146B 'cours':168B 'date':183B 'deck':113B 'dinner':108B 'distanc':25B 'divid':66B 'eight':167B 'eight-cours':166B 'everi':198B 'five':175B 'five-ti':174B 'floor':56B 'fountain':180B 'foyer':97B 'g':1A,4B 'georg':200C 'grand':40B 'guest':22B,61B,153B 'gurney':3A,6B,10B,13B 'hold':114B 'hotel':2A,5B,122B 'hundr':21B 'iii':143B 'includ':196B 'iv':145B 'larg':85B 'led':86B 'level':37B 'mall':31B 'menu':171B 'metr':45B,49B,96B,150B 'next':11B 'night':195B 'outdoor':110B 'packag':155B 'parti':141B 'penang':202C 'per':158B 'persiaran':9B 'photograph':125B 'pillar':53B 'plaza':14B 'poolsid':112B 'pre':107B 'pre-dinn':106B 'price':157B 'promenad':28B 'put':16B 'recept':109B 'red':182B 'red-dat':181B 'room':34B,82B 'round':63B 'run':42B,163B 'salon':142B 'screen':87B 'seat':59B,80B,100B,116B 'set':128B,170B 'sever':20B 'show':126B 'sit':7B 'small':140B 'smaller':74B 'squar':44B,95B,149B 'stage':90B 'stand':103B,119B 'suit':192B 'tabl':64B,159B 'take':98B 'tea':184B,187B 'ten':161B 'tier':176B,199B 'town':201C 'walk':24B 'wed':33B,154B 'within':23B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "isHidden": false,
+    "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
+    "liveAt": null,
+    "spacePhotoNudgeDismissedAt": null,
+    "updatedAt": "2026-08-07T03:31:26.509Z",
+    "spaces": [],
+    "packages": [
+      {
+        "name": "Love Wedding Package",
+        "price": 2588,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Package valid for 10 tables only, so about 100 guests. Prices are nett. A surcharge applies on the eve of and on public holidays. Re-confirmed against the venue-supplied 2026 edition (Love Wedding Package 2026.pdf) â price and inclusions unchanged from the edition published on the hotel's own website.",
+        "includes": [
+          "Eight-course Chinese set menu",
+          "Free flow of Chinese tea and fruit punch",
+          "Complimentary pre-cocktail tidbits",
+          "One bottle of red or white wine per table of 10",
+          "Five-tier wedding cake for the cake-cutting ceremony",
+          "Champagne fountain with 2 bottles of sparkling juice",
+          "Complimentary usage of multimedia projector",
+          "Special flower arrangement at the main entrance",
+          "Red carpet",
+          "Fresh flowers for all dining tables (one stalk per table)",
+          "Flowers for the reception table",
+          "Special design chair decor for the bridal main table",
+          "Designed set-up for bridal main table with fresh flowers",
+          "Food tasting for 10 persons at 50% discount",
+          "Complimentary wedding invitation cards excluding printing, 50% of total guests",
+          "Cake giveaway for guests",
+          "Special room rates for wedding guests",
+          "Complimentary Chinese red dates tea and usage of tea set",
+          "Photography at the hotel's premises can be arranged",
+          "Exclusive VIP parking lot for bridal car at the hotel facade, 1 unit",
+          "One night stay in a Suite Room with 2 breakfasts"
+        ],
+        "guestMin": 100,
+        "guestMax": 100,
+        "brochureUrl": null
+      },
+      {
+        "name": "Happiness Wedding Package",
+        "price": 2588,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Minimum of 20 tables, so about 200 guests. Prices are nett. A surcharge applies on the eve of and on public holidays. Re-confirmed against the venue-supplied 2026 edition (Happiness Wedding Package 2026.jpg) â price and inclusions unchanged from the edition published on the hotel's own website.",
+        "includes": [
+          "Eight-course Chinese set menu",
+          "Free flow of Chinese tea and fruit punch",
+          "Complimentary pre-cocktail tidbits",
+          "One bottle of red or white wine per table of 10",
+          "Five-tier wedding cake for the cake-cutting ceremony",
+          "Champagne fountain with 2 bottles of sparkling juice",
+          "Complimentary usage of LED screen",
+          "Special flower arrangement at the main entrance",
+          "Red carpet aisle with special flower display for the wedding march",
+          "Fresh flowers for all dining tables (one stalk per table)",
+          "Flowers for the reception table",
+          "Special design chair decor for the bridal main table",
+          "Designed set-up for bridal main table with fresh flowers",
+          "Complimentary food tasting for 10 persons upon receipt of deposit",
+          "Contemporary designed invitation cards excluding printing, 50% of total guests",
+          "Cake giveaway for guests",
+          "Special room rates for wedding guests",
+          "Complimentary guest's signature book",
+          "Complimentary Chinese red dates tea and usage of tea set",
+          "Photography at the hotel's premises can be arranged",
+          "Exclusive VIP parking lot for bridal car at the hotel facade, 3 units",
+          "Two nights stay in a Suite Room with 2 breakfasts",
+          "One bottle of wine and fruit platter at the Bridal Suite"
+        ],
+        "guestMin": 200,
+        "guestMax": 10,
+        "brochureUrl": null
+      },
+      {
+        "name": "Eternal Wedding Package",
+        "price": 3488,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Minimum of 20 tables, so about 200 guests. Prices are nett. A surcharge applies on the eve of and on public holidays.",
+        "includes": [
+          "Eight-course Chinese set menu",
+          "Free flow of Chinese tea and fruit punch",
+          "Complimentary pre-cocktail tidbits",
+          "One bottle of red or white wine per table of 10",
+          "Five-tier wedding cake for the cake-cutting ceremony",
+          "Champagne fountain with 2 bottles of sparkling juice",
+          "Complimentary usage of LED screen",
+          "Special flower arrangement at the main entrance",
+          "Red carpet aisle with special flower display for the wedding march",
+          "Fresh flowers for all dining tables (one stalk per table)",
+          "Flowers for the reception table",
+          "Special design chair decor for the bridal main table",
+          "Designed set-up for bridal main table with fresh flowers",
+          "Complimentary food tasting for 10 persons upon receipt of deposit",
+          "Contemporary designed invitation cards excluding printing, 50% of total guests",
+          "Cake giveaway for guests",
+          "Special room rates for wedding guests",
+          "Complimentary guest's signature book",
+          "Complimentary Chinese red dates tea and usage of tea set",
+          "Photography at the hotel's premises can be arranged",
+          "Exclusive VIP parking lot for bridal car at the hotel facade, 3 units",
+          "Two nights stay in a Suite Room with 2 breakfasts",
+          "One bottle of wine and fruit platter at the Bridal Suite"
+        ],
+        "guestMin": 200,
+        "guestMax": 10,
+        "brochureUrl": null
+      },
+      {
+        "name": "Dome Set Package",
+        "price": 2388,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Price only. The current brochure's price list gives the figure but publishes no inclusions for this package, so the inclusions list is deliberately empty. Prices are subject to change and a surcharge applies on the eve of and on public holidays.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": 10,
+        "brochureUrl": null
+      },
+      {
+        "name": "Western Set Package",
+        "price": 258,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 258,
+        "description": "Price only, per person. No inclusions are published for this package.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": 1,
+        "brochureUrl": null
+      },
+      {
+        "name": "International Buffet Package",
+        "price": 238,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 238,
+        "description": "Price only, per person. No inclusions are published for this package.",
+        "includes": [],
+        "guestMin": null,
+        "guestMax": 1,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 0,
+      "max": 500
+    }
+  },
+  {
+    "id": "6799e25b-1184-419d-aa2d-89b0ba75712b",
+    "name": "Hotel Mercure Penang Beach",
+    "slug": "mercure-penang",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "Tanjung Bungah",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/mercure-penang/00/high.webp",
+        "caption": "Pearl Ballroom set for a wedding banquet"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/mercure-penang/01/high.webp",
+        "caption": "The hotel from the beach at dusk"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/mercure-penang/02/high.webp",
+        "caption": "Beachfront dining terrace at The Ombak"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/mercure-penang/03/high.webp",
+        "caption": "Sea-facing outdoor pool and the beach beyond"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/mercure-penang/04/high.webp",
+        "caption": "M Bar"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/mercure-penang/05/high.webp",
+        "caption": "Oceanfront viewing deck"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/mercure-penang/06/high.webp",
+        "caption": "Superior Suite with ocean view"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/mercure-penang/07/high.webp",
+        "caption": "Superior Ocean View room"
+      }
+    ],
+    "description": "Hotel Mercure Penang Beach sits on the sand at Tanjung Bungah, with direct access to the beach and the Andaman Sea in front of it. Batu Ferringhi and George Town are both about fifteen minutes away, which makes it workable for guests travelling in for the weekend.\n\nWeddings here run across two settings. The Pearl Ballroom on level six is the largest of the hotel's four function rooms at 532 m², and it seats 350 for a banquet or 500 theatre-style. The Lobby Patio is the hotel's open-concept option, an outdoor space overlooking the ocean. A second level-six room, the Pinang Ballroom, takes smaller banquets.\n\nThe hotel has its own event planning team. Beyond the function space there's a sea-facing outdoor pool, an all-day-dining restaurant called The Ombak, and M Bar, which has live music on Friday and Saturday nights.",
+    "createdAt": "2026-08-07T03:12:45.986Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "505, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia",
+    "postCode": null,
+    "googlePlaceId": "ChIJa2w72bHDSjAR8zXj2p9kF5Q",
+    "latitude": "5.4637088",
+    "longitude": "100.301801",
+    "googlePlaceName": "Hotel Mercure Penang Beach",
+    "neighbourhood": null,
+    "googleMapsLink": "https://maps.google.com/?cid=10671108479812580851&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "wazeLink": null,
+    "googleRating": "4",
+    "googleTotalReviews": 3491,
+    "metaDescription": null,
+    "whatsappNumber": "+60 4-371 8888",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'350':80B '500':85B '532':75B 'access':18B 'across':55B 'all-day-din':139B 'andaman':24B 'away':40B 'ballroom':60B,114B 'banquet':83B,117B 'bar':149B 'batu':30B 'beach':4A,8B,21B 'beyond':126B 'bungah':15B,160C 'call':144B 'concept':98B 'day':141B 'dine':142B 'direct':17B 'event':123B 'face':135B 'ferringhi':31B 'fifteen':38B 'four':71B 'friday':155B 'front':27B 'function':72B,128B 'georg':33B 'guest':46B 'hotel':1A,5B,69B,94B,119B 'largest':66B 'level':62B,109B 'level-six':108B 'live':152B 'lobbi':90B 'm':76B,148B 'make':42B 'mercur':2A,6B 'minut':39B 'music':153B 'night':158B 'ocean':105B 'ombak':146B 'open':97B 'open-concept':96B 'option':99B 'outdoor':101B,136B 'overlook':103B 'patio':91B 'pearl':59B 'penang':3A,7B,161C 'pinang':113B 'plan':124B 'pool':137B 'restaur':143B 'room':73B,111B 'run':54B 'sand':12B 'saturday':157B 'sea':25B,134B 'sea-fac':133B 'seat':79B 'second':107B 'set':57B 'sit':9B 'six':63B,110B 'smaller':116B 'space':102B,129B 'style':88B 'take':115B 'tanjung':14B,159C 'team':125B 'theatr':87B 'theatre-styl':86B 'town':34B 'travel':47B 'two':56B 'wed':52B 'weekend':51B 'workabl':44B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "isHidden": false,
+    "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
+    "liveAt": null,
+    "spacePhotoNudgeDismissedAt": null,
+    "updatedAt": "2026-08-07T03:31:26.509Z",
+    "spaces": [],
+    "packages": [
+      {
+        "name": "Silver Wedding Package (Chinese)",
+        "price": 1588,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Minimum 13 tables. Nett, inclusive of 10% service charge and 8% SST. Surcharge of RM150 per table on public holidays and public holiday eves; RM450 per table for every table short of the 13-table minimum. Individual vegetarian meals RM100 nett per person; vendor meals RM20 nett per person. Rates valid until 31 December 2026. Quoted for a 7pm-11pm reception in the Level 6 ballroom.",
+        "includes": [
+          "Eight-course Chinese set dinner",
+          "Unlimited cordial and Chinese tea",
+          "One-hour pre-dinner reception with light tidbits",
+          "Individually wrapped wedding cake for all guests",
+          "Signature floral centrepiece for the bridal table",
+          "Floral-adorned wedding arch and entrance walkway",
+          "Reception table floral arrangement",
+          "Red carpet from the main entrance to the bridal table",
+          "Personalised backdrop with the newlyweds' names",
+          "Display wedding cake for the cake-cutting ceremony",
+          "Champagne fountain with two bottles of sparkling juice",
+          "Basic PA system with two wireless microphones",
+          "Use of the LED screen in the ballroom",
+          "Access to the hotel premises and beach for a photography session",
+          "One night in a Superior Oceanview Room with breakfast on the wedding day",
+          "Preferential room rates for invited guests",
+          "One day-use Superior Hillview Room on the event day (2pm-7pm)",
+          "VIP parking for the bridal car",
+          "50% off food tasting for up to 10 people (min. 20 guaranteed tables)"
+        ],
+        "guestMin": 130,
+        "guestMax": 10,
+        "brochureUrl": null
+      },
+      {
+        "name": "Gold Wedding Package (Chinese)",
+        "price": 1988,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Minimum 13 tables. Nett, inclusive of 10% service charge and 8% SST. Surcharge of RM150 per table on public holidays and public holiday eves; RM450 per table for every table short of the 13-table minimum. Individual vegetarian meals RM100 nett per person; vendor meals RM20 nett per person. Rates valid until 31 December 2026. Quoted for a 7pm-11pm reception in the Level 6 ballroom.",
+        "includes": [
+          "Eight-course Chinese set dinner",
+          "Unlimited cordial and Chinese tea",
+          "One bottle of sparkling juice per table",
+          "One-hour pre-dinner reception with light tidbits",
+          "Individually wrapped wedding cake for all guests",
+          "Free corkage on one bottle of wine or hard liquor per table",
+          "Signature floral centrepiece for the bridal table",
+          "Floral-adorned wedding arch and entrance walkway",
+          "Reception table floral arrangement",
+          "Red carpet from the main entrance to the bridal table",
+          "Personalised backdrop with the newlyweds' names",
+          "Display wedding cake for the cake-cutting ceremony",
+          "Champagne fountain with two bottles of sparkling juice",
+          "Basic PA system with two wireless microphones",
+          "Use of the LED screen in the ballroom",
+          "Access to the hotel premises and beach for a photography session",
+          "One night in a Superior Oceanview Room with breakfast on the wedding day",
+          "Preferential room rates for invited guests",
+          "One day-use Superior Hillview Room on the event day (2pm-7pm)",
+          "VIP parking for the bridal car",
+          "Complimentary food tasting for 10 people (min. 20 guaranteed tables)",
+          "First-anniversary stay: book a Superior Hillview and get a free upgrade to Superior Oceanview"
+        ],
+        "guestMin": 130,
+        "guestMax": 10,
+        "brochureUrl": null
+      },
+      {
+        "name": "Platinum Wedding Package (Chinese)",
+        "price": 2588,
+        "priceMax": null,
+        "priceFixture": "per_table",
+        "pricePerPax": null,
+        "description": "Minimum 13 tables. Nett, inclusive of 10% service charge and 8% SST. Surcharge of RM150 per table on public holidays and public holiday eves; RM450 per table for every table short of the 13-table minimum. Individual vegetarian meals RM100 nett per person; vendor meals RM20 nett per person. Rates valid until 31 December 2026. Quoted for a 7pm-11pm reception in the Level 6 ballroom.",
+        "includes": [
+          "Eight-course Chinese set dinner",
+          "Unlimited cordial and Chinese tea",
+          "One bottle of sparkling juice per table",
+          "Pre-dinner cocktail reception with two canapÃ©s (100 pieces), cordial and tidbits",
+          "Individually wrapped cake, chocolate or macarons for all guests",
+          "Free corkage on one bottle of wine or hard liquor per table",
+          "Signature floral centrepiece for the bridal table",
+          "Floral-adorned wedding arch and entrance walkway",
+          "Reception table floral arrangement",
+          "Red carpet from the main entrance to the bridal table",
+          "Personalised backdrop with the newlyweds' names",
+          "Display wedding cake for the cake-cutting ceremony",
+          "Champagne fountain with two bottles of sparkling juice",
+          "Basic PA system with two wireless microphones",
+          "Use of the LED screen in the ballroom",
+          "Access to the hotel premises and beach for a photography session",
+          "One night in a Superior Oceanview Suite with breakfast on the wedding day",
+          "Preferential room rates for invited guests",
+          "One day-use Superior Hillview Room on the event day (2pm-7pm)",
+          "VIP parking for the bridal car",
+          "Wedding invitation cards for 50% of the guaranteed guest count (inserts not included)",
+          "Complimentary food tasting for 10 people (min. 20 guaranteed tables)",
+          "First-anniversary stay: book a Superior Hillview and get a free upgrade to Superior Oceanview"
+        ],
+        "guestMin": 130,
+        "guestMax": 10,
+        "brochureUrl": null
+      },
+      {
+        "name": "Malay Wedding Package",
+        "price": 148.8,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 148.8,
+        "description": "Nett per person. Minimum 120 pax in the Pinang Ballroom or 130 pax in the Pearl Ballroom.",
+        "includes": [
+          "Choice of buffet or dome set menu",
+          "Free flow of cordial and syrup bandung",
+          "One-hour pre-dinner reception with peanuts",
+          "Pelamin decoration on the stage",
+          "Red carpet from the main entrance to the bridal table",
+          "Individually wrapped cake for all guests",
+          "Special floral centrepiece for the bridal table",
+          "Dummy wedding cake for the cake-cutting ceremony",
+          "Basic PA system with two microphones",
+          "One LCD projector and screen",
+          "Access to the hotel premises and beach for a photography session",
+          "One night in a Superior Ocean View room for the couple with a fruit basket and breakfast for two",
+          "Special accommodation rates for invited guests",
+          "One day-use Superior Hill View room on the event day (2pm-7pm)",
+          "VIP parking for the bridal car",
+          "50% off food tasting for 10 people (min. 20 guaranteed tables)"
+        ],
+        "guestMin": 120,
+        "guestMax": 1,
+        "brochureUrl": null
+      },
+      {
+        "name": "Indian Wedding Package",
+        "price": 148.8,
+        "priceMax": null,
+        "priceFixture": "per_pax",
+        "pricePerPax": 148.8,
+        "description": "Nett per person. Minimum 120 pax in the Pinang Ballroom or 130 pax in the Pearl Ballroom.",
+        "includes": [
+          "Choice of buffet or dome set menu",
+          "Free flow of cordial, coffee and tea",
+          "One-hour pre-dinner reception with peanuts",
+          "Wedding arch decoration with two flower stands",
+          "Red carpet from the main entrance to the bridal table",
+          "Backdrop wording with the newlyweds' names",
+          "Individually wrapped cake for all guests",
+          "Special floral centrepiece for the bridal table",
+          "Dummy wedding cake for the cake-cutting ceremony",
+          "Basic PA system with two microphones",
+          "One LCD projector and screen",
+          "Access to the hotel premises and beach for a photography session",
+          "One night in a Superior Ocean View room for the couple with a fruit basket and breakfast for two",
+          "Special accommodation rates for invited guests",
+          "One day-use Superior Hill View room on the event day (2pm-7pm)",
+          "VIP parking for the bridal car",
+          "50% off food tasting for 10 people (min. 20 guaranteed tables)"
+        ],
+        "guestMin": 120,
+        "guestMax": 1,
+        "brochureUrl": null
+      },
+      {
+        "name": "ROM / Solemnisation Ceremony Package",
+        "price": 10888,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "Per day, nett, inclusive of 10% service charge and 8% SST. Held at the Patio / Viewing Deck on the ground floor. Surcharge of RM1,000 nett on public holidays and public holiday eves. Vendor meals RM20 nett per person. The proposal's event-detail sheet states a maximum of 60 guests with theatre seating; the package page prints a maximum of 50 â confirm with the hotel.",
+        "includes": [
+          "Ceremony on the hotel patio, subject to weather and availability",
+          "Free flow of fruit punch through the ceremony",
+          "Two varieties of pass-around canapÃ©s",
+          "One dessert counter with pastries and sweets",
+          "Theatre-style seating with ivory or white chair covers and gold bows",
+          "Red carpet aisle for the bridal march (white carpet on request, at extra cost)",
+          "Six floral posies along the aisle",
+          "Floral wedding arch",
+          "Bridal floral set: one bouquet, one boutonniere for the groom and two for the witnesses",
+          "Reception table with a full tablecloth and floral arrangement",
+          "Champagne fountain with one bottle of sparkling juice for the toast",
+          "Basic PA system with two wireless microphones",
+          "Access to the hotel premises and beach for a photography session"
+        ],
+        "guestMin": null,
+        "guestMax": 60,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 0,
+      "max": 350
+    }
+  },
+  {
+    "id": "72af8a60-4de6-40be-abf4-1b3a48fc2f9c",
+    "name": "Eastin Hotel Penang",
+    "slug": "eastin-penang",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "Bayan Lepas",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eastin-penang/00/high.webp",
+        "caption": "Grand Ballroom set for a banquet, with the stage and red carpet in place"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eastin-penang/01/high.webp",
+        "caption": "Grand Ballroom dressed for a Chinese wedding dinner, with floral stands along the red carpet"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eastin-penang/02/high.webp",
+        "caption": "Grand Ballroom in theatre layout, under the chandeliers"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eastin-penang/03/high.webp",
+        "caption": "Function room laid out for a banquet, with full-length chair covers and sashes"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eastin-penang/04/high.webp",
+        "caption": "Function room banquet setting with a Chinese place setting"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eastin-penang/05/high.webp",
+        "caption": "The hotel entrance and drop-off"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eastin-penang/06/high.webp",
+        "caption": "Lobby and reception"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/eastin-penang/07/high.webp",
+        "caption": "Pool deck at dusk"
+      }
+    ],
+    "description": "Eastin Hotel Penang sits in Bayan Lepas, between Penang International Airport and George Town, next to Queensbay. It is a 4-star business and leisure hotel, and its wedding business is built around the Grand Ballroom on Level 3: 583 square metres under a 5-metre ceiling, seating 420 guests at round tables. Opened up into the adjoining foyer, the same room takes 550 seated, or 700 theatre style.\n\nSmaller celebrations use the function rooms. Kempas is the largest of them at 134 square metres and 80 seated, and Angsana, Balau and Chengal each hold 60. Kapur and Kulim on Level 2 take 60 and 50, and two boardrooms handle the smallest gatherings. The hotel sets a minimum of 200 guests for the Grand Ballroom and 20 for a function room, and charges room rental when a booking falls below that.\n\nThe wedding packages are built for Chinese dinners: an 8-course set menu, a minimum of 30 tables, a wedding arch and red carpet, full-length chair covers, a 3-tier display cake and a champagne fountain, plus a night in the bridal suite for the couple. Two tiers are offered, Silver and Gold, with the Gold adding unlimited corkage, a day-use room on the wedding day and a third VIP parking bay. The hotel does not publish prices for either, so couples need to request a quote.",
+    "createdAt": "2026-08-07T03:13:10.130Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "1, Solok Bayan Indah, Queensbay, 11900 Bayan Lepas, Penang, Malaysia",
+    "postCode": null,
+    "googlePlaceId": "ChIJibYNvffASjARK-yc3S0_ZGY",
+    "latitude": "5.33659",
+    "longitude": "100.30660200000001",
+    "googlePlaceName": "Eastin Hotel Penang",
+    "neighbourhood": null,
+    "googleMapsLink": "https://maps.google.com/?cid=7378091555763842091&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "wazeLink": null,
+    "googleRating": "4.3",
+    "googleTotalReviews": 4341,
+    "metaDescription": null,
+    "whatsappNumber": "+60 4-612 1111",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'134':86B '2':105B '20':130B '200':123B '3':42B,175B '30':161B '4':24B '420':52B '5':48B '50':109B '550':67B '583':43B '60':99B,107B '700':70B '8':154B '80':90B 'ad':203B 'adjoin':61B 'airport':14B 'angsana':93B 'arch':165B 'around':36B 'balau':94B 'ballroom':39B,128B 'bay':220B 'bayan':9B,236C 'boardroom':112B 'book':141B 'bridal':188B 'built':35B,149B 'busi':26B,33B 'cake':178B 'carpet':168B 'ceil':50B 'celebr':74B 'chair':172B 'champagn':181B 'charg':136B 'chengal':96B 'chines':151B 'corkag':205B 'coupl':192B,230B 'cours':155B 'cover':173B 'day':208B,214B 'day-us':207B 'dinner':152B 'display':177B 'eastin':1A,4B 'either':228B 'fall':142B 'fountain':182B 'foyer':62B 'full':170B 'full-length':169B 'function':77B,133B 'gather':116B 'georg':16B 'gold':199B,202B 'grand':38B,127B 'guest':53B,124B 'handl':113B 'hold':98B 'hotel':2A,5B,29B,118B,222B 'intern':13B 'kapur':100B 'kempa':79B 'kulim':102B 'largest':82B 'leisur':28B 'length':171B 'lepa':10B,237C 'level':41B,104B 'menu':157B 'metr':45B,49B,88B 'minimum':121B,159B 'need':231B 'next':18B 'night':185B 'offer':196B 'open':57B 'packag':147B 'park':219B 'penang':3A,6B,12B,238C 'plus':183B 'price':226B 'publish':225B 'queensbay':20B 'quot':235B 'red':167B 'rental':138B 'request':233B 'room':65B,78B,134B,137B,210B 'round':55B 'seat':51B,68B,91B 'set':119B,156B 'silver':197B 'sit':7B 'smaller':73B 'smallest':115B 'squar':44B,87B 'star':25B 'style':72B 'suit':189B 'tabl':56B,162B 'take':66B,106B 'theatr':71B 'third':217B 'tier':176B,194B 'town':17B 'two':111B,193B 'unlimit':204B 'use':75B,209B 'vip':218B 'wed':32B,146B,164B,213B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "isHidden": false,
+    "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
+    "liveAt": null,
+    "spacePhotoNudgeDismissedAt": null,
+    "updatedAt": "2026-08-07T03:31:26.509Z",
+    "spaces": [],
+    "packages": [],
+    "venueCapacity": {}
+  },
+  {
+    "id": "633dff93-d0ef-4ae7-af8d-2329cdadf3f2",
+    "name": "Jazz Hotel Penang",
+    "slug": "jazz-hotel-penang",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "Tanjung Tokong",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/jazz-hotel-penang/00/high.webp",
+        "caption": "Function hall set with round banquet tables"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/jazz-hotel-penang/01/high.webp",
+        "caption": "Function hall in a U-shape conference layout"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/jazz-hotel-penang/02/high.webp",
+        "caption": "Hotel entrance on Jalan Seri Tanjung Pinang"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/jazz-hotel-penang/03/high.webp",
+        "caption": "Rooftop pool deck seen from above"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/jazz-hotel-penang/04/high.webp",
+        "caption": "Table setting in one of the event halls"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/jazz-hotel-penang/05/high.webp",
+        "caption": "Sea-view suite"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/jazz-hotel-penang/06/high.webp",
+        "caption": "Buffet service at Feast at Jazz"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/jazz-hotel-penang/07/high.webp",
+        "caption": "The private dining room"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/jazz-hotel-penang/08/high.webp",
+        "caption": "The rooftop pool deck"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/jazz-hotel-penang/09/high.webp",
+        "caption": "The neon-lit jazz mural in the lounge"
+      }
+    ],
+    "description": "Jazz Hotel Penang is a 4-star waterfront hotel in Seri Tanjung Pinang, Tanjung Tokong, a short walk from Straits Quay. It takes its theme from the Jazz Age, and the interiors follow through: a neon saxophonist mural over the lobby seating, brass gramophones, a grand piano against red velvet curtains. There are 255 guestrooms, every one with a bathtub, and a rooftop infinity pool on Level 30 that looks out over the strait.\n\nThe event spaces are on Levels 8 and 9, and they are genuinely small. The hotel describes four event halls of varying sizes, two of which combine into one larger room, and puts the ceiling at roughly 130 guests. At ten to a table that is about thirteen tables. This is a venue for a solemnisation, a tea ceremony, or an intimate dinner rather than a full banquet, and couples planning for 300 should look elsewhere. All four halls have built-in LED screens. Outdoors, the hotel markets its courtyard for intimate weddings and receptions, though it publishes no photographs or dimensions for it.\n\nThe hotel has not published capacities for the individual halls, wedding packages, or banquet menus, so those are worth asking about directly. We have not yet featured a wedding here, and the hotel's own marketing is the only evidence of its wedding work that we found.",
+    "createdAt": "2026-08-07T03:13:35.938Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "1, Jalan Seri Tg Pinang, Seri Tanjung Pinang, 10470 Tanjung Tokong, Pulau Pinang, Malaysia",
+    "postCode": null,
+    "googlePlaceId": "ChIJ9f0jq2XDSjARGz7dr7YRWEE",
+    "latitude": "5.457835300000001",
+    "longitude": "100.3095555",
+    "googlePlaceName": "Jazz Hotel Penang",
+    "neighbourhood": null,
+    "googleMapsLink": "https://maps.google.com/?cid=4708532886748085787&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "wazeLink": null,
+    "googleRating": "4.1",
+    "googleTotalReviews": 1183,
+    "metaDescription": null,
+    "whatsappNumber": "+60 4-818 0393",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'130':115B '255':57B '30':71B '300':150B '4':9B '8':84B '9':86B 'age':32B 'ask':202B 'banquet':145B,196B 'bathtub':63B 'brass':46B 'built':159B 'built-in':158B 'capac':188B 'ceil':112B 'ceremoni':136B 'combin':104B 'coupl':147B 'courtyard':168B 'curtain':54B 'describ':94B 'dimens':180B 'dinner':140B 'direct':204B 'elsewher':153B 'event':79B,96B 'everi':59B 'evid':222B 'featur':209B 'follow':36B 'found':229B 'four':95B,155B 'full':144B 'genuin':90B 'gramophon':47B 'grand':49B 'guest':116B 'guestroom':58B 'hall':97B,156B,192B 'hotel':2A,5B,12B,93B,165B,184B,215B 'individu':191B 'infin':67B 'interior':35B 'intim':139B,170B 'jazz':1A,4B,31B 'larger':107B 'led':161B 'level':70B,83B 'lobbi':44B 'look':73B,152B 'market':166B,218B 'menus':197B 'mural':41B 'neon':39B 'one':60B,106B 'outdoor':163B 'packag':194B 'penang':3A,6B,232C 'photograph':178B 'piano':50B 'pinang':16B 'plan':148B 'pool':68B 'publish':176B,187B 'put':110B 'quay':24B 'rather':141B 'recept':173B 'red':52B 'rooftop':66B 'room':108B 'rough':114B 'saxophonist':40B 'screen':162B 'seat':45B 'seri':14B 'short':20B 'size':100B 'small':91B 'solemnis':133B 'space':80B 'star':10B 'strait':23B,77B 'tabl':121B,126B 'take':26B 'tanjung':15B,17B,230C 'tea':135B 'ten':118B 'theme':28B 'thirteen':125B 'though':174B 'tokong':18B,231C 'two':101B 'vari':99B 'velvet':53B 'venu':130B 'walk':21B 'waterfront':11B 'wed':171B,193B,211B,225B 'work':226B 'worth':201B 'yet':208B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "isHidden": false,
+    "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
+    "liveAt": null,
+    "spacePhotoNudgeDismissedAt": null,
+    "updatedAt": "2026-08-07T03:31:26.509Z",
+    "spaces": [],
+    "packages": [],
+    "venueCapacity": {}
+  },
+  {
+    "id": "11cafa45-1a77-4e07-bc3d-2824785c1f7e",
+    "name": "Four Hands",
+    "slug": "four-hands-penang",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "George Town",
+    "state": "Penang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/four-hands-penang/00/high.webp",
+        "caption": "The Glass House set with long banquet tables under its glazed roof"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/four-hands-penang/01/high.webp",
+        "caption": "Ceremony set theatre-style with a floral aisle in the Glass House"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/four-hands-penang/02/high.webp",
+        "caption": "Floral backdrop and top table dressed for a wedding in the Glass House"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/four-hands-penang/03/high.webp",
+        "caption": "Glass House laid with long and round tables beside the LED screen"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/four-hands-penang/04/high.webp",
+        "caption": "The 2m by 4m LED screen at the head of the Glass House"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/four-hands-penang/05/high.webp",
+        "caption": "The glass pavilion in the courtyard, built under a mature tree"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/four-hands-penang/06/high.webp",
+        "caption": "Place settings and dried florals along a Glass House banquet table"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/four-hands-penang/07/high.webp",
+        "caption": "The Heritage dining hall in white marble, with its bar and staircase"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/four-hands-penang/08/high.webp",
+        "caption": "Heritage hall laid with long tables and rounds for a private dinner"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/four-hands-penang/09/high.webp",
+        "caption": "Private room with a round table of ten under a brass chandelier"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/four-hands-penang/10/high.webp",
+        "caption": "The largest private room, seating about fourteen around one table"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/penang/four-hands-penang/11/high.webp",
+        "caption": "Private room with a long table, wall screen and karaoke console"
+      }
+    ],
+    "description": "Four Hands sits behind a wall of glass on Jalan Burma, a few minutes from the George Town heritage core. It opened in November 2024 and spends its daytime as a dim sum restaurant, serving breakfast and lunch until 6pm.\n\nThe room couples come for is the Glass House — a freestanding steel-and-glass pavilion in the courtyard, built under a mature tree against the exposed brick of a neighbouring party wall. Its pitched glass roof lets the light and the branches in, and sheer white drapes run the length of both glazed walls. The venue sets it two ways: theatre-style with an aisle down the middle for the ceremony, or with long banquet tables and round tables for the dinner. A 2m by 4m LED screen sits at the head of the room, with a basic PA system and two microphones.\n\nIndoors, the Heritage dining hall is the larger space: white marble floors, columns, a bar along one side and a staircase at the back, laid with a mix of long tables and rounds. Five private rooms sit off it, each enclosed, air-conditioned and fitted with its own screen and karaoke console — the largest takes a round table of about fourteen, the smallest a table of eight.\n\nThe venue publishes two priced documents. Its ROM package runs three hours of exclusive use of the Glass House from 2:30pm to 5:30pm for up to 20 guests, at RM3,888++, and includes a canapé spread, free-flow drinks, a two-tier cake, a champagne fountain with a bottle of sparkling wine, a dressed signing table and photo props. For dinner, the Eternal Menu is an eight-course Chinese banquet at RM2,388++ per table of ten, opening with a five-item deluxe platter and running through shark fin soup, roast duck, steamed grouper, salted egg prawns and braised abalone.\n\nThis is a restaurant that hosts weddings, not a hotel ballroom. Couples planning something intimate will find it a natural fit; anyone planning a large banquet should ask about numbers, since the venue publishes no overall capacity.",
+    "createdAt": "2026-08-07T03:14:12.629Z",
+    "vendorId": "pending_02aad3a9fc14f391",
+    "address": "10, Jalan Burma, 10050 George Town, Pulau Pinang, Malaysia",
+    "postCode": null,
+    "googlePlaceId": "ChIJI7rRXd3DSjARzgR2YnKubx0",
+    "latitude": "5.417602899999999",
+    "longitude": "100.32918029999999",
+    "googlePlaceName": "Four Hands",
+    "neighbourhood": null,
+    "googleMapsLink": "https://maps.google.com/?cid=2121105755816199374&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "wazeLink": null,
+    "googleRating": "4.6",
+    "googleTotalReviews": 497,
+    "metaDescription": null,
+    "whatsappNumber": "+60 17-692 4338",
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": null,
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'2':236B '20':244B '2024':27B '2m':128B '30pm':237B,240B '388':293B '4m':130B '5':239B '6pm':42B '888':248B 'abalon':321B 'air':190B 'air-condit':189B 'aisl':109B 'along':163B 'anyon':343B 'ask':349B 'back':171B 'ballroom':332B 'banquet':119B,290B,347B 'bar':162B 'basic':142B 'behind':6B 'bottl':268B 'brais':320B 'branch':85B 'breakfast':38B 'brick':70B 'built':62B 'burma':13B 'cake':262B 'canapé':252B 'capac':358B 'ceremoni':115B 'champagn':264B 'chines':289B 'column':160B 'come':46B 'condit':191B 'consol':200B 'core':22B 'coupl':45B,333B 'cours':288B 'courtyard':61B 'daytim':31B 'delux':304B 'dim':34B 'dine':151B 'dinner':126B,280B 'document':221B 'drape':90B 'dress':273B 'drink':257B 'duck':313B 'egg':317B 'eight':215B,287B 'eight-cours':286B 'enclos':188B 'etern':282B 'exclus':229B 'expos':69B 'fin':310B 'find':338B 'fit':193B,342B 'five':181B,302B 'five-item':301B 'floor':159B 'flow':256B 'fountain':265B 'four':1A,3B 'fourteen':209B 'free':255B 'free-flow':254B 'freestand':53B 'georg':19B,359C 'glass':10B,50B,57B,78B,233B 'glaze':96B 'grouper':315B 'guest':245B 'hall':152B 'hand':2A,4B 'head':136B 'heritag':21B,150B 'host':327B 'hotel':331B 'hour':227B 'hous':51B,234B 'includ':250B 'indoor':148B 'intim':336B 'item':303B 'jalan':12B 'karaok':199B 'laid':172B 'larg':346B 'larger':155B 'largest':202B 'led':131B 'length':93B 'let':80B 'light':82B 'long':118B,177B 'lunch':40B 'marbl':158B 'matur':65B 'menu':283B 'microphon':147B 'middl':112B 'minut':16B 'mix':175B 'natur':341B 'neighbour':73B 'novemb':26B 'number':351B 'one':164B 'open':24B,298B 'overal':357B 'pa':143B 'packag':224B 'parti':74B 'pavilion':58B 'penang':361C 'per':294B 'photo':277B 'pitch':77B 'plan':334B,344B 'platter':305B 'prawn':318B 'price':220B 'privat':182B 'prop':278B 'publish':218B,355B 'restaur':36B,325B 'rm2':292B 'rm3':247B 'roast':312B 'rom':223B 'roof':79B 'room':44B,139B,183B 'round':122B,180B,205B 'run':91B,225B,307B 'salt':316B 'screen':132B,197B 'serv':37B 'set':100B 'shark':309B 'sheer':88B 'side':165B 'sign':274B 'sinc':352B 'sit':5B,133B,184B 'smallest':211B 'someth':335B 'soup':311B 'space':156B 'sparkl':270B 'spend':29B 'spread':253B 'staircas':168B 'steam':314B 'steel':55B 'steel-and-glass':54B 'style':106B 'sum':35B 'system':144B 'tabl':120B,123B,178B,206B,213B,275B,295B 'take':203B 'ten':297B 'theatr':105B 'theatre-styl':104B 'three':226B 'tier':261B 'town':20B,360C 'tree':66B 'two':102B,146B,219B,260B 'two-tier':259B 'use':230B 'venu':99B,217B,354B 'wall':8B,75B,97B 'way':103B 'wed':328B 'white':89B,157B 'wine':271B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "isHidden": false,
+    "publishRequestedAt": null,
+    "isAiGenerated": true,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
+    "liveAt": null,
+    "spacePhotoNudgeDismissedAt": null,
+    "updatedAt": "2026-08-07T03:31:26.509Z",
+    "spaces": [],
+    "packages": [
+      {
+        "name": "ROM at Glasshouse Four Hands",
+        "price": 3888,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": "Priced 'From MYR 3,888++ for 20 guest (reservation required)'. The ++ is 10% service charge plus SST at 6% on non-alcohol and 8% on alcohol, so the amount payable is above RM3,888. Reservations by call or WhatsApp on +6017-6924338, 8am to 6pm.",
+        "includes": [
+          "3-hour exclusive use of the Glass House, 2:30pm to 5:30pm",
+          "Seating for up to 20 guests, theatre or banquet style",
+          "Savoury bites: Four Hands dim sum basket, chicken Caesar mini sliders, spicy sweet vegetable spring rolls, pulled pork bun with slaw, Cajun chicken wrap, Italian arancini rice balls",
+          "Sweet treats: macaron assortment, mini chocolate eclairs, mini Bavarian doughnuts, fresh fruit skewers",
+          "Free-flow drinks: lemon-orange spritz and fruit-infused water",
+          "Complimentary two-tier ROM rustic design cake",
+          "Champagne fountain with one bottle of sparkling wine for toasting",
+          "Signing table with simple decoration",
+          "Photo props",
+          "Basic PA system with two microphones and a 2m x 4m LED screen",
+          "Indoors with air conditioning"
+        ],
+        "guestMin": null,
+        "guestMax": 20,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 0,
+      "max": 20
     }
   }
 ]

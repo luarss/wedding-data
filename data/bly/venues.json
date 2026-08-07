@@ -195,6 +195,21 @@
     "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"1-146 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"Indoor Dining Hall\", \"capacity\": \"1-86 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"The Verandah (Air Conditioned Outdoor)\", \"capacity\": \"1-60 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"The Verandah (Air-Conditioned Outdoor)\", \"capacity\": \"1-60 pax\", \"price\": \"From $167/pax\"}]"
   },
   {
+    "recordId": "recDE70TqO66tuVMT",
+    "name": "Little Island Brewing Co",
+    "url": "https://www.bridely.sg/venue/little-island-brewing-co/r/recDE70TqO66tuVMT",
+    "location": "Changi",
+    "overallRating": 4.8,
+    "venueRating": 4.9,
+    "serviceRating": 4.8,
+    "foodRating": 4.9,
+    "reviews": 35,
+    "tags": "Restaurant, Western",
+    "price": "From $68/pax",
+    "capacity": "50-350 pax",
+    "rooms": "[{\"name\": \"Changi Village\", \"capacity\": \"50-350 pax\", \"price\": \"From $68/pax\"}, {\"name\": \"Gillman Barracks\", \"capacity\": \"50-200 pax\", \"price\": \"From $78/pax\"}]"
+  },
+  {
     "recordId": "recaFuygUVJPHDLpF",
     "name": "Conrad Singapore Orchard",
     "url": "https://www.bridely.sg/venue/conrad-singapore-orchard/r/recaFuygUVJPHDLpF",
@@ -268,21 +283,6 @@
     "price": "From $158/pax",
     "capacity": "300-550 pax",
     "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"300-550 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Waterfront Ballroom\", \"capacity\": \"200-280 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Riverfront Ballroom\", \"capacity\": \"150-200 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Galleria Ballroom\", \"capacity\": \"100-160 pax\", \"price\": \"From $158/pax\"}]"
-  },
-  {
-    "recordId": "recBjzDZV6Tmy22FL",
-    "name": "The Acacia Geneo",
-    "url": "https://www.bridely.sg/venue/the-acacia-geneo/r/recBjzDZV6Tmy22FL",
-    "location": "1 Science Park Dr, #01-07, Singapore 118221",
-    "overallRating": 5,
-    "venueRating": 5,
-    "serviceRating": 5,
-    "foodRating": 5,
-    "reviews": 18,
-    "tags": "Restaurant, Fusion, Indian, Muslim-friendly, Peranakan, Vegetarian, Western",
-    "price": "From $55/pax",
-    "capacity": "100-500 pax",
-    "rooms": "[{\"name\": \"The Acacia Geneo\", \"capacity\": \"100-500 pax\", \"price\": \"From $55/pax\"}]"
   },
   {
     "recordId": "recEVqHq1aNQ9gkfi",
@@ -945,6 +945,21 @@
     "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"1-1500 pax\", \"price\": \"\"}, {\"name\": \"Sapphire Suite\", \"capacity\": \"1-300 pax\", \"price\": \"\"}, {\"name\": \"Tea Garden Foyer\", \"capacity\": \"1-250 pax\", \"price\": \"\"}, {\"name\": \"Emerald Suite\", \"capacity\": \"1-240 pax\", \"price\": \"\"}, {\"name\": \"The Garden Pavilion\", \"capacity\": \"1-80 pax\", \"price\": \"From $888\"}]"
   },
   {
+    "recordId": "recAjyLcQI7Qc6VDD",
+    "name": "Altro Zafferano",
+    "url": "https://www.bridely.sg/venue/altro-zafferano/r/recAjyLcQI7Qc6VDD",
+    "location": "Central Area",
+    "overallRating": 4.7,
+    "venueRating": 4.7,
+    "serviceRating": 4.7,
+    "foodRating": 4.8,
+    "reviews": 9,
+    "tags": "Restaurant",
+    "price": "From $8,000",
+    "capacity": "",
+    "rooms": "[{\"name\": \"Main Dining Hall\", \"capacity\": \"\", \"price\": \"From $8,000\"}, {\"name\": \"Terrace Lounge\", \"capacity\": \"\", \"price\": \"\"}, {\"name\": \"Private Dining Space (1\\u20132 rooms)\", \"capacity\": \"\", \"price\": \"\"}, {\"name\": \"Private Dining Room\", \"capacity\": \"\", \"price\": \"\"}]"
+  },
+  {
     "recordId": "recnI0gIYtLxQfxXD",
     "name": "Pan Pacific Orchard",
     "url": "https://www.bridely.sg/venue/pan-pacific-orchard/r/recnI0gIYtLxQfxXD",
@@ -1033,21 +1048,6 @@
     "price": "From $49,000",
     "capacity": "1-550 pax",
     "rooms": "[{\"name\": \"Wheeler\\u2019s Estate Exclusive Buyout\", \"capacity\": \"1-550 pax\", \"price\": \"From $49,000\"}, {\"name\": \"Level 1 Buyout\", \"capacity\": \"1-450 pax\", \"price\": \"From $38,000\"}, {\"name\": \"Sky Deck & Lawn Buyout\", \"capacity\": \"1-250 pax\", \"price\": \"From $27,500\"}, {\"name\": \"Sky Deck Buyout\", \"capacity\": \"1-150 pax\", \"price\": \"From $17,000\"}, {\"name\": \"Cinder Buyout\", \"capacity\": \"1-100 pax\", \"price\": \"From $10,000\"}, {\"name\": \"Starddeck Buyout\", \"capacity\": \"1-70 pax\", \"price\": \"From $7,600\"}]"
-  },
-  {
-    "recordId": "recAjyLcQI7Qc6VDD",
-    "name": "Altro Zafferano",
-    "url": "https://www.bridely.sg/venue/altro-zafferano/r/recAjyLcQI7Qc6VDD",
-    "location": "Central Area",
-    "overallRating": 4.7,
-    "venueRating": 4.7,
-    "serviceRating": 4.7,
-    "foodRating": 4.8,
-    "reviews": 9,
-    "tags": "Restaurant",
-    "price": "From $8,000",
-    "capacity": "1-200 pax",
-    "rooms": "[{\"name\": \"Main Dining Hall\", \"capacity\": \"1-200 pax\", \"price\": \"From $8,000\"}, {\"name\": \"Private Dining Space (1\\u20132 rooms)\", \"capacity\": \"1-60 pax\", \"price\": \"From $800\"}, {\"name\": \"Private Dining Room\", \"capacity\": \"1-16 pax\", \"price\": \"From $800\"}, {\"name\": \"Terrace Lounge\", \"capacity\": \"From 1 pax\", \"price\": \"\"}]"
   },
   {
     "recordId": "recDTXxx4UBMHDiXt",

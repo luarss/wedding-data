@@ -1515,6 +1515,14 @@
     "tables_range": "18 - 40Mon - Sun"
   },
   {
+    "venue_id": "250",
+    "source": "wedding-venues-booking",
+    "name": "Pool Deck",
+    "vendor_name": "Momentus Hotel Alexandra",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1461/Momentus-Hotel-Alexandra",
+    "location": "323 Alexandra Rd, Singapore 159972"
+  },
+  {
     "venue_id": "238",
     "source": "wedding-venues-booking",
     "name": "Pool Pavilions",
@@ -2417,6 +2425,30 @@
     "tables_min": "15",
     "tables_max": "25",
     "tables_range": "15 - 25Mon - Fri18 - 25Sat - Sun"
+  },
+  {
+    "venue_id": "251",
+    "source": "wedding-venues-booking",
+    "name": "Vanda Room",
+    "vendor_name": "Momentus Hotel Alexandra",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1461/Momentus-Hotel-Alexandra",
+    "location": "323 Alexandra Rd, Singapore 159972"
+  },
+  {
+    "venue_id": "252",
+    "source": "wedding-venues-booking",
+    "name": "Verandah Pool Bar & Grill",
+    "vendor_name": "Momentus Hotel Alexandra",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1461/Momentus-Hotel-Alexandra",
+    "location": "323 Alexandra Rd, Singapore 159972"
+  },
+  {
+    "venue_id": "253",
+    "source": "wedding-venues-booking",
+    "name": "Verandah Rooftop Rotisserie",
+    "vendor_name": "Momentus Hotel Alexandra",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1461/Momentus-Hotel-Alexandra",
+    "location": "323 Alexandra Rd, Singapore 159972"
   },
   {
     "source": "banquet-price-list",
