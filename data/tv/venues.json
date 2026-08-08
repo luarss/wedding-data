@@ -516,6 +516,79 @@
     ]
   },
   {
+    "venue_name": "The Robertson House by The Crest Collection",
+    "room_name": "Entrepôt",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/68464/the-robertson-house-by-the-crest-collection/entrepot",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/36314/the-robertson-house-by-the-crest-collection-2",
+    "venue_id": 36314,
+    "room_id": 68464,
+    "area": "Singapore City Centre",
+    "address": "1 Unity Street ",
+    "city": "Singapore",
+    "postcode": "237983",
+    "lat": 1.2913643,
+    "lng": 103.8423677,
+    "capacity_standing": 110,
+    "capacity_seated": 90,
+    "min_attendees": null,
+    "price": "S$2500",
+    "price_method": "minimum spend",
+    "price_type": "per session",
+    "price_per_person": 4500,
+    "price_per_person_type": "per session",
+    "rating": 4.5,
+    "reviews": 11,
+    "mrt_station": "Fort Canning MRT Station",
+    "mrt_distance": "250 m",
+    "venue_type": "Hotel",
+    "space_type": "Restaurant",
+    "venue_part": "Private space",
+    "is_supervenue": false,
+    "response_time_min": 350,
+    "response_rate": 0.9359,
+    "catering_options": [
+      1,
+      7,
+      15,
+      20,
+      8,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      16,
+      17,
+      19,
+      20,
+      28
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "11:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  {
     "venue_name": "The Masons Table",
     "room_name": "Whole Venue",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/24918/the-masons-table/whole-venue",
@@ -592,79 +665,6 @@
         ],
         "opens": "10:00",
         "closes": "23:30"
-      }
-    ]
-  },
-  {
-    "venue_name": "The Robertson House by The Crest Collection",
-    "room_name": "Entrepôt",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/68464/the-robertson-house-by-the-crest-collection/entrepot",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/36314/the-robertson-house-by-the-crest-collection-2",
-    "venue_id": 36314,
-    "room_id": 68464,
-    "area": "Singapore City Centre",
-    "address": "1 Unity Street ",
-    "city": "Singapore",
-    "postcode": "237983",
-    "lat": 1.2913643,
-    "lng": 103.8423677,
-    "capacity_standing": 110,
-    "capacity_seated": 90,
-    "min_attendees": null,
-    "price": "S$2500",
-    "price_method": "minimum spend",
-    "price_type": "per session",
-    "price_per_person": 4500,
-    "price_per_person_type": "per session",
-    "rating": 4.5,
-    "reviews": 11,
-    "mrt_station": "Fort Canning MRT Station",
-    "mrt_distance": "250 m",
-    "venue_type": "Hotel",
-    "space_type": "Restaurant",
-    "venue_part": "Private space",
-    "is_supervenue": false,
-    "response_time_min": 350,
-    "response_rate": 0.9359,
-    "catering_options": [
-      1,
-      7,
-      15,
-      20,
-      8,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      16,
-      17,
-      19,
-      20,
-      28
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "11:00",
-        "closes": "22:00"
       }
     ]
   },
@@ -750,76 +750,6 @@
     ]
   },
   {
-    "venue_name": "Plume Singapore",
-    "room_name": "Event Area",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/71644/plume-singapore/event-area?event-offer=wedding",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/39759/plume-singapore",
-    "venue_id": 39759,
-    "room_id": 71644,
-    "area": "Marina Centre",
-    "address": "30 Raffles Avenue ",
-    "city": "Singapore",
-    "postcode": "039803",
-    "lat": 1.2891138,
-    "lng": 103.8625009,
-    "capacity_standing": 200,
-    "capacity_seated": 125,
-    "min_attendees": null,
-    "price": "S$70",
-    "price_method": "per person",
-    "price_type": "",
-    "price_per_person": 7000,
-    "price_per_person_type": "per session",
-    "rating": 5,
-    "reviews": 8,
-    "mrt_station": "Promenade MRT Station",
-    "mrt_distance": "450 m",
-    "venue_type": "Event Venue",
-    "space_type": "Event Venue",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 92,
-    "response_rate": 0.9402,
-    "catering_options": [
-      1,
-      2,
-      14,
-      20,
-      8,
-      1000,
-      1001
-    ],
-    "room_features": [
-      3,
-      5,
-      6,
-      7,
-      8,
-      9,
-      12,
-      13,
-      17,
-      18
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "10:30",
-        "closes": "22:30"
-      }
-    ]
-  },
-  {
     "venue_name": "PEN & INC One-North Function Hall",
     "room_name": "PEN & INC · One-North Hall",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/46639/pen-inc-one-north-function-hall/pen-inc-one-north-hall",
@@ -898,6 +828,76 @@
         ],
         "opens": "08:00",
         "closes": "17:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "Plume Singapore",
+    "room_name": "Event Area",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/71644/plume-singapore/event-area?event-offer=wedding",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/39759/plume-singapore",
+    "venue_id": 39759,
+    "room_id": 71644,
+    "area": "Marina Centre",
+    "address": "30 Raffles Avenue ",
+    "city": "Singapore",
+    "postcode": "039803",
+    "lat": 1.2891138,
+    "lng": 103.8625009,
+    "capacity_standing": 200,
+    "capacity_seated": 125,
+    "min_attendees": null,
+    "price": "S$70",
+    "price_method": "per person",
+    "price_type": "",
+    "price_per_person": 7000,
+    "price_per_person_type": "per session",
+    "rating": 5,
+    "reviews": 8,
+    "mrt_station": "Promenade MRT Station",
+    "mrt_distance": "450 m",
+    "venue_type": "Event Venue",
+    "space_type": "Event Venue",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 92,
+    "response_rate": 0.9402,
+    "catering_options": [
+      1,
+      2,
+      14,
+      20,
+      8,
+      1000,
+      1001
+    ],
+    "room_features": [
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      12,
+      13,
+      17,
+      18
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "10:30",
+        "closes": "22:30"
       }
     ]
   },
@@ -1473,72 +1473,6 @@
     ]
   },
   {
-    "venue_name": "Kulusuk",
-    "room_name": "Kulusuk Lifestyle Studio",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/82020/kulusuk/kulusuk-lifestyle-studio",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/49408/kulusuk",
-    "venue_id": 49408,
-    "room_id": 82020,
-    "area": "Kaki Bukit",
-    "address": "23 Kaki Bukit Road 4 #01-18B, Synergy@KB",
-    "city": "Singapore",
-    "postcode": "417801",
-    "lat": 1.3399902866089,
-    "lng": 103.91118246931,
-    "capacity_standing": 50,
-    "capacity_seated": 50,
-    "min_attendees": null,
-    "price": "S$80",
-    "price_method": "hire fee",
-    "price_type": "per hour",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 4.6,
-    "reviews": 44,
-    "mrt_station": "Kaki Bukit MRT Station",
-    "mrt_distance": "650 m",
-    "venue_type": "Event Venue",
-    "space_type": "Event Venue",
-    "venue_part": "Whole venue",
-    "is_supervenue": true,
-    "response_time_min": 1,
-    "response_rate": 1,
-    "catering_options": [
-      7,
-      16,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      9,
-      12,
-      17,
-      19,
-      26,
-      27
-    ],
-    "cuisine": "Singaporean",
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ]
-  },
-  {
     "venue_name": "The Vortex Space",
     "room_name": "Event Space",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/114802/the-vortex-space/event-space",
@@ -1599,6 +1533,72 @@
       28
     ],
     "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  {
+    "venue_name": "Kulusuk",
+    "room_name": "Kulusuk Lifestyle Studio",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/82020/kulusuk/kulusuk-lifestyle-studio",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/49408/kulusuk",
+    "venue_id": 49408,
+    "room_id": 82020,
+    "area": "Kaki Bukit",
+    "address": "23 Kaki Bukit Road 4 #01-18B, Synergy@KB",
+    "city": "Singapore",
+    "postcode": "417801",
+    "lat": 1.3399902866089,
+    "lng": 103.91118246931,
+    "capacity_standing": 50,
+    "capacity_seated": 50,
+    "min_attendees": null,
+    "price": "S$80",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.6,
+    "reviews": 44,
+    "mrt_station": "Kaki Bukit MRT Station",
+    "mrt_distance": "650 m",
+    "venue_type": "Event Venue",
+    "space_type": "Event Venue",
+    "venue_part": "Whole venue",
+    "is_supervenue": true,
+    "response_time_min": 1,
+    "response_rate": 1,
+    "catering_options": [
+      7,
+      16,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      9,
+      12,
+      17,
+      19,
+      26,
+      27
+    ],
+    "cuisine": "Singaporean",
     "opening_hours": [
       {
         "type": "OpeningHoursSpecification",
@@ -1693,6 +1693,75 @@
     ]
   },
   {
+    "venue_name": "HIGHfive Double Storey",
+    "room_name": "Entire Venue",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/65343/highfive-double-storey/entire-venue?event-offer=wedding",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/33802/highfive-double-storey",
+    "venue_id": 33802,
+    "room_id": 65343,
+    "area": "Little India",
+    "address": "40 Sam Leong Road ",
+    "city": "Singapore",
+    "postcode": "207930",
+    "lat": 1.3097843,
+    "lng": 103.8565905,
+    "capacity_standing": 120,
+    "capacity_seated": 80,
+    "min_attendees": null,
+    "price": "S$2100",
+    "price_method": "per event",
+    "price_type": "",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.8,
+    "reviews": 45,
+    "mrt_station": "Farrer Park MRT Station",
+    "mrt_distance": "400 m",
+    "venue_type": "Event Venue",
+    "space_type": "Event Venue",
+    "venue_part": "Whole venue",
+    "is_supervenue": true,
+    "response_time_min": 92,
+    "response_rate": 1,
+    "catering_options": [
+      7,
+      16,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      16,
+      17,
+      19
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "00:00"
+      }
+    ]
+  },
+  {
     "venue_name": "METT Singapore",
     "room_name": "Grand Ballroom",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/103050/mett-singapore/grand-ballroom",
@@ -1776,75 +1845,6 @@
     ]
   },
   {
-    "venue_name": "HIGHfive Double Storey",
-    "room_name": "Entire Venue",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/65343/highfive-double-storey/entire-venue?event-offer=wedding",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/33802/highfive-double-storey",
-    "venue_id": 33802,
-    "room_id": 65343,
-    "area": "Little India",
-    "address": "40 Sam Leong Road ",
-    "city": "Singapore",
-    "postcode": "207930",
-    "lat": 1.3097843,
-    "lng": 103.8565905,
-    "capacity_standing": 120,
-    "capacity_seated": 80,
-    "min_attendees": null,
-    "price": "S$2100",
-    "price_method": "per event",
-    "price_type": "",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 4.8,
-    "reviews": 45,
-    "mrt_station": "Farrer Park MRT Station",
-    "mrt_distance": "400 m",
-    "venue_type": "Event Venue",
-    "space_type": "Event Venue",
-    "venue_part": "Whole venue",
-    "is_supervenue": true,
-    "response_time_min": 92,
-    "response_rate": 1,
-    "catering_options": [
-      7,
-      16,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      16,
-      17,
-      19
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "08:00",
-        "closes": "00:00"
-      }
-    ]
-  },
-  {
     "venue_name": "ONE°15 Marina Sentosa Cove",
     "room_name": "Constellation Ballroom",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/19204/one15-marina-sentosa-cove/constellation-ballroom?event-offer=wedding",
@@ -1908,73 +1908,6 @@
         ],
         "opens": "09:00",
         "closes": "18:00"
-      }
-    ]
-  },
-  {
-    "venue_name": "Ju Space",
-    "room_name": "Ju Space",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/102243/ju-space/ju-space",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/60796/ju-space-2",
-    "venue_id": 60796,
-    "room_id": 102243,
-    "area": "Kallang Bahru",
-    "address": "116 Lavender Street #02-08",
-    "city": "Singapore",
-    "postcode": "338730",
-    "lat": 1.3118762,
-    "lng": 103.8623949,
-    "capacity_standing": 120,
-    "capacity_seated": 120,
-    "min_attendees": null,
-    "price": "S$120",
-    "price_method": "hire fee",
-    "price_type": "per hour",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 4.9,
-    "reviews": 9,
-    "mrt_station": "Bendemeer MRT Station",
-    "mrt_distance": "200 m",
-    "venue_type": "Event Venue",
-    "space_type": "Event Venue",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 38,
-    "response_rate": 1,
-    "catering_options": [
-      7,
-      16,
-      18,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      7,
-      8,
-      9,
-      12,
-      16,
-      17,
-      18,
-      19
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "08:00",
-        "closes": "23:00"
       }
     ]
   },
@@ -2152,7 +2085,7 @@
     "venue_part": "Semi-private area",
     "is_supervenue": false,
     "response_time_min": 11,
-    "response_rate": 0.9196,
+    "response_rate": 0.9204,
     "catering_options": [
       17,
       1000,
@@ -2183,6 +2116,73 @@
         ],
         "opens": "09:00",
         "closes": "19:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "Ju Space",
+    "room_name": "Ju Space",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/102243/ju-space/ju-space",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/60796/ju-space-2",
+    "venue_id": 60796,
+    "room_id": 102243,
+    "area": "Kallang Bahru",
+    "address": "116 Lavender Street #02-08",
+    "city": "Singapore",
+    "postcode": "338730",
+    "lat": 1.3118762,
+    "lng": 103.8623949,
+    "capacity_standing": 120,
+    "capacity_seated": 120,
+    "min_attendees": null,
+    "price": "S$120",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.9,
+    "reviews": 9,
+    "mrt_station": "Bendemeer MRT Station",
+    "mrt_distance": "200 m",
+    "venue_type": "Event Venue",
+    "space_type": "Event Venue",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 38,
+    "response_rate": 1,
+    "catering_options": [
+      7,
+      16,
+      18,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      7,
+      8,
+      9,
+      12,
+      16,
+      17,
+      18,
+      19
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "23:00"
       }
     ]
   },
@@ -2398,6 +2398,73 @@
     ]
   },
   {
+    "venue_name": "Sophia Cooke Ballroom",
+    "room_name": "Sophia Cooke Ballroom",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/54073/sophia-cooke-ballroom/sophia-cooke-ballroom",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/26284/sophia-cooke-ballroom",
+    "venue_id": 26284,
+    "room_id": 54073,
+    "area": "Dhoby Ghaut",
+    "address": "6 Fort Canning Road ",
+    "city": "Singapore",
+    "postcode": "179494",
+    "lat": 1.2976025,
+    "lng": 103.8449493,
+    "capacity_standing": 500,
+    "capacity_seated": 450,
+    "min_attendees": null,
+    "price": "S$15000",
+    "price_method": "minimum spend",
+    "price_type": "per evening",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Dhoby Ghaut MRT Station",
+    "mrt_distance": "200 m",
+    "venue_type": "Hotel",
+    "space_type": "Ballroom",
+    "venue_part": "Private space",
+    "is_supervenue": false,
+    "response_time_min": 73,
+    "response_rate": 1,
+    "catering_options": [
+      1,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      16,
+      17,
+      18,
+      27
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "18:30",
+        "closes": "22:30"
+      }
+    ]
+  },
+  {
     "venue_name": "Little Island Brewing Co. - Changi Village",
     "room_name": "Entire Venue",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/62405/little-island-brewing-co-changi-village/entire-venue?event-offer=wedding",
@@ -2552,73 +2619,6 @@
     ]
   },
   {
-    "venue_name": "Sophia Cooke Ballroom",
-    "room_name": "Sophia Cooke Ballroom",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/54073/sophia-cooke-ballroom/sophia-cooke-ballroom",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/26284/sophia-cooke-ballroom",
-    "venue_id": 26284,
-    "room_id": 54073,
-    "area": "Dhoby Ghaut",
-    "address": "6 Fort Canning Road ",
-    "city": "Singapore",
-    "postcode": "179494",
-    "lat": 1.2976025,
-    "lng": 103.8449493,
-    "capacity_standing": 500,
-    "capacity_seated": 450,
-    "min_attendees": null,
-    "price": "S$15000",
-    "price_method": "minimum spend",
-    "price_type": "per evening",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Dhoby Ghaut MRT Station",
-    "mrt_distance": "200 m",
-    "venue_type": "Hotel",
-    "space_type": "Ballroom",
-    "venue_part": "Private space",
-    "is_supervenue": false,
-    "response_time_min": 73,
-    "response_rate": 1,
-    "catering_options": [
-      1,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12,
-      16,
-      17,
-      18,
-      27
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "18:30",
-        "closes": "22:30"
-      }
-    ]
-  },
-  {
     "venue_name": "Asia Grand Restaurant",
     "room_name": "Restaurant",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/101667/asia-grand-restaurant/restaurant?event-offer=wedding",
@@ -2684,93 +2684,6 @@
         ],
         "opens": "11:30",
         "closes": "15:00"
-      }
-    ]
-  },
-  {
-    "venue_name": "The Offline Room",
-    "room_name": "Ground Floor Event Space",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/67604/the-offline-room/ground-floor-event-space",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/35845/the-offline-room",
-    "venue_id": 35845,
-    "room_id": 67604,
-    "area": "Jalan Besar",
-    "address": "111C King George's Avenue Ground Floor",
-    "city": "Singapore",
-    "postcode": "208559",
-    "lat": 1.3104571,
-    "lng": 103.861815,
-    "capacity_standing": 100,
-    "capacity_seated": 80,
-    "min_attendees": null,
-    "price": "S$63",
-    "price_method": "hire fee",
-    "price_type": "per hour",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 4.8,
-    "reviews": 44,
-    "mrt_station": "Lavender MRT Station",
-    "mrt_distance": "350 m",
-    "venue_type": "Event Venue",
-    "space_type": "Event Venue",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 10,
-    "response_rate": 0.9988,
-    "catering_options": [
-      7,
-      9,
-      10,
-      16,
-      21,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      16,
-      17,
-      18,
-      19,
-      27
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday"
-        ],
-        "opens": "08:00",
-        "closes": "00:00"
-      },
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Friday",
-          "Saturday"
-        ],
-        "opens": "08:00",
-        "closes": "03:00"
-      },
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Sunday"
-        ],
-        "opens": "08:00",
-        "closes": "06:00"
       }
     ]
   },
@@ -3200,6 +3113,166 @@
     ]
   },
   {
+    "venue_name": "The Offline Room",
+    "room_name": "Ground Floor Event Space",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/67604/the-offline-room/ground-floor-event-space",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/35845/the-offline-room",
+    "venue_id": 35845,
+    "room_id": 67604,
+    "area": "Jalan Besar",
+    "address": "111C King George's Avenue Ground Floor",
+    "city": "Singapore",
+    "postcode": "208559",
+    "lat": 1.3104571,
+    "lng": 103.861815,
+    "capacity_standing": 100,
+    "capacity_seated": 80,
+    "min_attendees": null,
+    "price": "S$63",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.8,
+    "reviews": 44,
+    "mrt_station": "Lavender MRT Station",
+    "mrt_distance": "350 m",
+    "venue_type": "Event Venue",
+    "space_type": "Event Venue",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 10,
+    "response_rate": 0.9988,
+    "catering_options": [
+      7,
+      9,
+      10,
+      16,
+      21,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      16,
+      17,
+      18,
+      19,
+      27
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "08:00",
+        "closes": "00:00"
+      },
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "03:00"
+      },
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "06:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "Cuble Studios",
+    "room_name": "Film, Photo and Events Studio",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/81264/cuble-studios/film-photo-and-events-studio",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/48954/cuble-studios",
+    "venue_id": 48954,
+    "room_id": 81264,
+    "area": "Bukit Merah",
+    "address": "201 Henderson Road #03-28",
+    "city": "Singapore",
+    "postcode": "159545",
+    "lat": 1.2829346,
+    "lng": 103.8206082,
+    "capacity_standing": 50,
+    "capacity_seated": 40,
+    "min_attendees": null,
+    "price": "S$90",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.8,
+    "reviews": 38,
+    "mrt_station": "Tiong Bahru MRT Station",
+    "mrt_distance": "800 m",
+    "venue_type": "Photo / Film Studio",
+    "space_type": "Photo / Film Studio",
+    "venue_part": "Whole venue",
+    "is_supervenue": true,
+    "response_time_min": 18,
+    "response_rate": 1,
+    "catering_options": [
+      7,
+      9,
+      10,
+      16,
+      18,
+      21,
+      22,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      12,
+      16,
+      17,
+      18,
+      19,
+      24
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  {
     "venue_name": "One 15 Marina",
     "room_name": "Synergy 1",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/46607/one-15-marina/synergy-1",
@@ -3349,143 +3422,6 @@
     ]
   },
   {
-    "venue_name": "Cuble Studios",
-    "room_name": "Film, Photo and Events Studio",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/81264/cuble-studios/film-photo-and-events-studio",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/48954/cuble-studios",
-    "venue_id": 48954,
-    "room_id": 81264,
-    "area": "Bukit Merah",
-    "address": "201 Henderson Road #03-28",
-    "city": "Singapore",
-    "postcode": "159545",
-    "lat": 1.2829346,
-    "lng": 103.8206082,
-    "capacity_standing": 50,
-    "capacity_seated": 40,
-    "min_attendees": null,
-    "price": "S$90",
-    "price_method": "hire fee",
-    "price_type": "per hour",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 4.8,
-    "reviews": 38,
-    "mrt_station": "Tiong Bahru MRT Station",
-    "mrt_distance": "800 m",
-    "venue_type": "Photo / Film Studio",
-    "space_type": "Photo / Film Studio",
-    "venue_part": "Whole venue",
-    "is_supervenue": true,
-    "response_time_min": 18,
-    "response_rate": 1,
-    "catering_options": [
-      7,
-      9,
-      10,
-      16,
-      18,
-      21,
-      22,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      8,
-      9,
-      12,
-      16,
-      17,
-      18,
-      19,
-      24
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ]
-  },
-  {
-    "venue_name": "Ola-Ola",
-    "room_name": "Whole Venue",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/92256/ola-ola/whole-venue?event-offer=wedding",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/55026/ola-ola",
-    "venue_id": 55026,
-    "room_id": 92256,
-    "area": "Central Subzone",
-    "address": "5 Straits View #01-20/21 The Heart, Marine One East Tower",
-    "city": "Singapore",
-    "postcode": "018936",
-    "lat": 1.2780571867857,
-    "lng": 103.85313809067,
-    "capacity_standing": 360,
-    "capacity_seated": 225,
-    "min_attendees": null,
-    "price": "S$44",
-    "price_method": "per person",
-    "price_type": "",
-    "price_per_person": 4400,
-    "price_per_person_type": "per session",
-    "rating": 5,
-    "reviews": 1,
-    "mrt_station": "Downtown MRT Station",
-    "mrt_distance": "150 m",
-    "venue_type": "Restaurant",
-    "space_type": "Restaurant",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 301,
-    "response_rate": 0.9855,
-    "catering_options": [
-      1,
-      20,
-      8,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      8,
-      9,
-      12,
-      17,
-      18
-    ],
-    "cuisine": "Singaporean",
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday"
-        ],
-        "opens": "12:00",
-        "closes": "23:00"
-      }
-    ]
-  },
-  {
     "venue_name": "Private Yacht Charters",
     "room_name": "SunRise",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/46653/private-yacht-charters/sunrise",
@@ -3618,205 +3554,53 @@
     ]
   },
   {
-    "venue_name": "Rhythm Room",
-    "room_name": "Versatile Event Space",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/104041/rhythm-room/versatile-event-space",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/61813/rhythm-room",
-    "venue_id": 61813,
-    "room_id": 104041,
-    "area": "Singapore City Centre",
-    "address": "3B River Valley Road 3B River Valley Rd, #02-03",
+    "venue_name": "Ola-Ola",
+    "room_name": "Whole Venue",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/92256/ola-ola/whole-venue?event-offer=wedding",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/55026/ola-ola",
+    "venue_id": 55026,
+    "room_id": 92256,
+    "area": "Central Subzone",
+    "address": "5 Straits View #01-20/21 The Heart, Marine One East Tower",
     "city": "Singapore",
-    "postcode": "179021",
-    "lat": 1.2910799,
-    "lng": 103.8454995,
-    "capacity_standing": 320,
-    "capacity_seated": 240,
+    "postcode": "018936",
+    "lat": 1.2780571867857,
+    "lng": 103.85313809067,
+    "capacity_standing": 360,
+    "capacity_seated": 225,
     "min_attendees": null,
-    "price": "S$525",
-    "price_method": "hire fee",
-    "price_type": "per hour",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 5,
-    "reviews": 4,
-    "mrt_station": "Fort Canning MRT Station",
-    "mrt_distance": "200 m",
-    "venue_type": "Hall",
-    "space_type": "Event Space",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 138,
-    "response_rate": 1,
-    "catering_options": [
-      1,
-      16,
-      8,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      8,
-      9,
-      12,
-      16,
-      17,
-      18,
-      19,
-      25,
-      26,
-      27,
-      28
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday"
-        ],
-        "opens": "10:00",
-        "closes": "02:00"
-      },
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "10:00",
-        "closes": "18:00"
-      }
-    ]
-  },
-  {
-    "venue_name": "Twelve Mulberry Club",
-    "room_name": "Twelve Mulberry Club",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/97278/twelve-mulberry-club/twelve-mulberry-club",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/58055/twelve-mulberry-club",
-    "venue_id": 58055,
-    "room_id": 97278,
-    "area": "Kembangan",
-    "address": "Bizhub28 ",
-    "city": "Singapore",
-    "postcode": "416601",
-    "lat": 1.3274171,
-    "lng": 103.9182282,
-    "capacity_standing": 60,
-    "capacity_seated": 50,
-    "min_attendees": null,
-    "price": "S$125",
-    "price_method": "hire fee",
-    "price_type": "per hour",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 4.8,
-    "reviews": 7,
-    "mrt_station": null,
-    "mrt_distance": null,
-    "venue_type": "Event Venue",
-    "space_type": "Event Venue",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 603,
-    "response_rate": 0.9412,
-    "catering_options": [
-      7,
-      16,
-      18,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      9,
-      12,
-      16,
-      17,
-      18,
-      19
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ]
-  },
-  {
-    "venue_name": "Coriander Leaf CRAIG",
-    "room_name": "Main Dining Area",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/95253/coriander-leaf-craig/main-dining-area",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/45580/coriander-leaf-craig",
-    "venue_id": 45580,
-    "room_id": 95253,
-    "area": "Tanjong Pagar",
-    "address": "20 Craig Road #01-01, Craig Place",
-    "city": "Singapore",
-    "postcode": "089692",
-    "lat": 1.2780316137059,
-    "lng": 103.84232746888,
-    "capacity_standing": 80,
-    "capacity_seated": 60,
-    "min_attendees": null,
-    "price": "S$55",
+    "price": "S$44",
     "price_method": "per person",
-    "price_type": "per session",
-    "price_per_person": 5500,
+    "price_type": "",
+    "price_per_person": 4400,
     "price_per_person_type": "per session",
     "rating": 5,
-    "reviews": 2,
-    "mrt_station": "Outram Park MRT Station",
-    "mrt_distance": "350 m",
+    "reviews": 1,
+    "mrt_station": "Downtown MRT Station",
+    "mrt_distance": "150 m",
     "venue_type": "Restaurant",
-    "space_type": "Dining Room",
-    "venue_part": "Private space",
+    "space_type": "Restaurant",
+    "venue_part": "Whole venue",
     "is_supervenue": false,
-    "response_time_min": 11,
-    "response_rate": 1,
+    "response_time_min": 286,
+    "response_rate": 0.9855,
     "catering_options": [
       1,
-      14,
-      15,
       20,
       8,
       1000,
       1001
     ],
     "room_features": [
-      3,
       5,
       6,
-      7,
+      8,
+      9,
       12,
-      16,
       17,
-      18,
-      19,
-      25,
-      26
+      18
     ],
-    "cuisine": "Asian",
+    "cuisine": "Singaporean",
     "opening_hours": [
       {
         "type": "OpeningHoursSpecification",
@@ -3829,147 +3613,7 @@
           "Saturday"
         ],
         "opens": "12:00",
-        "closes": "22:30"
-      }
-    ]
-  },
-  {
-    "venue_name": "Dame",
-    "room_name": "Dame Museum Cafe",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/105395/dame/dame-museum-cafe?event-offer=wedding",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/61704/dame",
-    "venue_id": 61704,
-    "room_id": 105395,
-    "area": "Bras Basah",
-    "address": "93 Stamford Road #01-04/05",
-    "city": "Singapore",
-    "postcode": "178897",
-    "lat": 1.2965216,
-    "lng": 103.848618,
-    "capacity_standing": 150,
-    "capacity_seated": 66,
-    "min_attendees": null,
-    "price": "S$118",
-    "price_method": "per person",
-    "price_type": "",
-    "price_per_person": 4800,
-    "price_per_person_type": "per session",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Bras Basah MRT Station",
-    "mrt_distance": "250 m",
-    "venue_type": "Cafe",
-    "space_type": "Cafe",
-    "venue_part": "Private space",
-    "is_supervenue": false,
-    "response_time_min": 230,
-    "response_rate": 0.9036,
-    "catering_options": [
-      1,
-      7,
-      14,
-      15,
-      20,
-      8,
-      1001
-    ],
-    "room_features": [
-      3,
-      5,
-      6,
-      7,
-      8,
-      12,
-      17,
-      18,
-      19
-    ],
-    "cuisine": "European",
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "08:00",
-        "closes": "00:00"
-      }
-    ]
-  },
-  {
-    "venue_name": "HAUS217",
-    "room_name": "Wedding",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/30496/haus217/entire-venue?event-offer=wedding",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/14464/haus217",
-    "venue_id": 14464,
-    "room_id": 30496,
-    "area": "Little India",
-    "address": "217 Lavender Street ",
-    "city": "Singapore",
-    "postcode": "338772",
-    "lat": 1.3145920589575,
-    "lng": 103.85968466442,
-    "capacity_standing": 100,
-    "capacity_seated": 100,
-    "min_attendees": null,
-    "price": "S$3000",
-    "price_method": "hire fee",
-    "price_type": "per session",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 4.5,
-    "reviews": 6,
-    "mrt_station": "Bendemeer MRT Station",
-    "mrt_distance": "400 m",
-    "venue_type": "Event Venue",
-    "space_type": "Event Venue",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 54,
-    "response_rate": 0.9448,
-    "catering_options": [
-      7,
-      16,
-      19
-    ],
-    "room_features": [
-      3,
-      5,
-      6,
-      7,
-      8,
-      12,
-      17,
-      18
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday"
-        ],
-        "opens": "09:00",
         "closes": "23:00"
-      },
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "09:00",
-        "closes": "00:00"
       }
     ]
   },
@@ -4113,6 +3757,362 @@
           "Sunday"
         ],
         "opens": "10:00",
+        "closes": "00:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "Rhythm Room",
+    "room_name": "Versatile Event Space",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/104041/rhythm-room/versatile-event-space",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/61813/rhythm-room",
+    "venue_id": 61813,
+    "room_id": 104041,
+    "area": "Singapore City Centre",
+    "address": "3B River Valley Road 3B River Valley Rd, #02-03",
+    "city": "Singapore",
+    "postcode": "179021",
+    "lat": 1.2910799,
+    "lng": 103.8454995,
+    "capacity_standing": 320,
+    "capacity_seated": 240,
+    "min_attendees": null,
+    "price": "S$525",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 5,
+    "reviews": 4,
+    "mrt_station": "Fort Canning MRT Station",
+    "mrt_distance": "200 m",
+    "venue_type": "Hall",
+    "space_type": "Event Space",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 138,
+    "response_rate": 1,
+    "catering_options": [
+      1,
+      16,
+      8,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      12,
+      16,
+      17,
+      18,
+      19,
+      25,
+      26,
+      27,
+      28
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "10:00",
+        "closes": "02:00"
+      },
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "10:00",
+        "closes": "18:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "Coriander Leaf CRAIG",
+    "room_name": "Main Dining Area",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/95253/coriander-leaf-craig/main-dining-area",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/45580/coriander-leaf-craig",
+    "venue_id": 45580,
+    "room_id": 95253,
+    "area": "Tanjong Pagar",
+    "address": "20 Craig Road #01-01, Craig Place",
+    "city": "Singapore",
+    "postcode": "089692",
+    "lat": 1.2780316137059,
+    "lng": 103.84232746888,
+    "capacity_standing": 80,
+    "capacity_seated": 60,
+    "min_attendees": null,
+    "price": "S$55",
+    "price_method": "per person",
+    "price_type": "per session",
+    "price_per_person": 5500,
+    "price_per_person_type": "per session",
+    "rating": 5,
+    "reviews": 2,
+    "mrt_station": "Outram Park MRT Station",
+    "mrt_distance": "350 m",
+    "venue_type": "Restaurant",
+    "space_type": "Dining Room",
+    "venue_part": "Private space",
+    "is_supervenue": false,
+    "response_time_min": 11,
+    "response_rate": 1,
+    "catering_options": [
+      1,
+      14,
+      15,
+      20,
+      8,
+      1000,
+      1001
+    ],
+    "room_features": [
+      3,
+      5,
+      6,
+      7,
+      12,
+      16,
+      17,
+      18,
+      19,
+      25,
+      26
+    ],
+    "cuisine": "Asian",
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "12:00",
+        "closes": "22:30"
+      }
+    ]
+  },
+  {
+    "venue_name": "Twelve Mulberry Club",
+    "room_name": "Twelve Mulberry Club",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/97278/twelve-mulberry-club/twelve-mulberry-club",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/58055/twelve-mulberry-club",
+    "venue_id": 58055,
+    "room_id": 97278,
+    "area": "Kembangan",
+    "address": "Bizhub28 ",
+    "city": "Singapore",
+    "postcode": "416601",
+    "lat": 1.3274171,
+    "lng": 103.9182282,
+    "capacity_standing": 60,
+    "capacity_seated": 50,
+    "min_attendees": null,
+    "price": "S$125",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.8,
+    "reviews": 7,
+    "mrt_station": null,
+    "mrt_distance": null,
+    "venue_type": "Event Venue",
+    "space_type": "Event Venue",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 603,
+    "response_rate": 0.9412,
+    "catering_options": [
+      7,
+      16,
+      18,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      9,
+      12,
+      16,
+      17,
+      18,
+      19
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  {
+    "venue_name": "Dame",
+    "room_name": "Dame Museum Cafe",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/105395/dame/dame-museum-cafe?event-offer=wedding",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/61704/dame",
+    "venue_id": 61704,
+    "room_id": 105395,
+    "area": "Bras Basah",
+    "address": "93 Stamford Road #01-04/05",
+    "city": "Singapore",
+    "postcode": "178897",
+    "lat": 1.2965216,
+    "lng": 103.848618,
+    "capacity_standing": 150,
+    "capacity_seated": 66,
+    "min_attendees": null,
+    "price": "S$118",
+    "price_method": "per person",
+    "price_type": "",
+    "price_per_person": 4800,
+    "price_per_person_type": "per session",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Bras Basah MRT Station",
+    "mrt_distance": "250 m",
+    "venue_type": "Cafe",
+    "space_type": "Cafe",
+    "venue_part": "Private space",
+    "is_supervenue": false,
+    "response_time_min": 230,
+    "response_rate": 0.9036,
+    "catering_options": [
+      1,
+      7,
+      14,
+      15,
+      20,
+      8,
+      1001
+    ],
+    "room_features": [
+      3,
+      5,
+      6,
+      7,
+      8,
+      12,
+      17,
+      18,
+      19
+    ],
+    "cuisine": "European",
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "00:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "HAUS217",
+    "room_name": "Wedding",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/30496/haus217/entire-venue?event-offer=wedding",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/14464/haus217",
+    "venue_id": 14464,
+    "room_id": 30496,
+    "area": "Little India",
+    "address": "217 Lavender Street ",
+    "city": "Singapore",
+    "postcode": "338772",
+    "lat": 1.3145920589575,
+    "lng": 103.85968466442,
+    "capacity_standing": 100,
+    "capacity_seated": 100,
+    "min_attendees": null,
+    "price": "S$3000",
+    "price_method": "hire fee",
+    "price_type": "per session",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.5,
+    "reviews": 6,
+    "mrt_station": "Bendemeer MRT Station",
+    "mrt_distance": "400 m",
+    "venue_type": "Event Venue",
+    "space_type": "Event Venue",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 54,
+    "response_rate": 0.9448,
+    "catering_options": [
+      7,
+      16,
+      19
+    ],
+    "room_features": [
+      3,
+      5,
+      6,
+      7,
+      8,
+      12,
+      17,
+      18
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "09:00",
+        "closes": "23:00"
+      },
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
         "closes": "00:00"
       }
     ]
@@ -4273,7 +4273,7 @@
     "space_type": "Restaurant",
     "venue_part": "Whole venue",
     "is_supervenue": false,
-    "response_time_min": 8,
+    "response_time_min": 7,
     "response_rate": 1,
     "catering_options": [
       1,
@@ -4451,82 +4451,6 @@
     ]
   },
   {
-    "venue_name": "Our Little Space (RC)",
-    "room_name": "#BigMemories",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/115295/our-little-space-rc/bigmemories",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/67959/our-little-space-rc",
-    "venue_id": 67959,
-    "room_id": 115295,
-    "area": "Little India",
-    "address": "420 Race Course Road ",
-    "city": "Singapore",
-    "postcode": "218667",
-    "lat": 1.3155163,
-    "lng": 103.857735,
-    "capacity_standing": 100,
-    "capacity_seated": 70,
-    "min_attendees": null,
-    "price": "S$130",
-    "price_method": "hire fee",
-    "price_type": "per hour",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Farrer Park MRT Station",
-    "mrt_distance": "550 m",
-    "venue_type": "Event Venue",
-    "space_type": "Event Venue",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 0,
-    "response_rate": 1,
-    "catering_options": [
-      7,
-      16,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      9,
-      10,
-      12,
-      17,
-      18,
-      19,
-      20,
-      24,
-      25
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday"
-        ],
-        "opens": "09:00",
-        "closes": "22:30"
-      },
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "11:00",
-        "closes": "22:30"
-      }
-    ]
-  },
-  {
     "venue_name": "Furama RiverFront",
     "room_name": "Wedding in Venus",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/31584/furama-riverfront/venus?event-offer=wedding",
@@ -4663,71 +4587,6 @@
     ]
   },
   {
-    "venue_name": "Kaeden Cafe",
-    "room_name": "Indoor Dining Area",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/44242/kaeden-cafe/indoor-dining-area?event-offer=wedding",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/21372/kaeden-cafe",
-    "venue_id": 21372,
-    "room_id": 44242,
-    "area": "Kallang Bahru",
-    "address": "12 Kallang Avenue #01-25",
-    "city": "Singapore",
-    "postcode": "339511",
-    "lat": 1.3096447,
-    "lng": 103.8643015,
-    "capacity_standing": 80,
-    "capacity_seated": 70,
-    "min_attendees": null,
-    "price": "S$30",
-    "price_method": "per person",
-    "price_type": "",
-    "price_per_person": 4800,
-    "price_per_person_type": "per session",
-    "rating": 4.9,
-    "reviews": 86,
-    "mrt_station": "Lavender MRT Station",
-    "mrt_distance": "300 m",
-    "venue_type": "Cafe",
-    "space_type": "Cafe",
-    "venue_part": "Whole venue",
-    "is_supervenue": true,
-    "response_time_min": 40,
-    "response_rate": 0.9988,
-    "catering_options": [
-      1,
-      7,
-      9,
-      14,
-      15,
-      8,
-      1001
-    ],
-    "room_features": [
-      3,
-      5,
-      6,
-      7,
-      12
-    ],
-    "cuisine": "European",
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "11:00",
-        "closes": "21:30"
-      }
-    ]
-  },
-  {
     "venue_name": "CALI, Novotel on Kitchener Road",
     "room_name": "CALI, Novotel Banquet Hall",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/73187/cali-novotel-on-kitchener-road/cali-novotel-banquet-hall",
@@ -4807,6 +4666,82 @@
         ],
         "opens": "08:00",
         "closes": "23:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "Our Little Space (RC)",
+    "room_name": "#BigMemories",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/115295/our-little-space-rc/bigmemories",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/67959/our-little-space-rc",
+    "venue_id": 67959,
+    "room_id": 115295,
+    "area": "Little India",
+    "address": "420 Race Course Road ",
+    "city": "Singapore",
+    "postcode": "218667",
+    "lat": 1.3155163,
+    "lng": 103.857735,
+    "capacity_standing": 100,
+    "capacity_seated": 70,
+    "min_attendees": null,
+    "price": "S$130",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Farrer Park MRT Station",
+    "mrt_distance": "550 m",
+    "venue_type": "Event Venue",
+    "space_type": "Event Venue",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 0,
+    "response_rate": 1,
+    "catering_options": [
+      7,
+      16,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      9,
+      10,
+      12,
+      17,
+      18,
+      19,
+      20,
+      24,
+      25
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "09:00",
+        "closes": "22:30"
+      },
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "11:00",
+        "closes": "22:30"
       }
     ]
   },
@@ -5019,6 +4954,74 @@
     ]
   },
   {
+    "venue_name": "Studio Arcadia | Kitchen Studio",
+    "room_name": "Arcadia Lifestyle Studio",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/31827/studio-arcadia-kitchen-studio/arcadia-lifestyle-studio",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/15124/studio-arcadia-kitchen-studio",
+    "venue_id": 15124,
+    "room_id": 31827,
+    "area": "Tai Seng",
+    "address": "Solstice Business Centre ",
+    "city": "Singapore",
+    "postcode": "536209",
+    "lat": 1.3432135190455,
+    "lng": 103.88547758717,
+    "capacity_standing": 100,
+    "capacity_seated": 100,
+    "min_attendees": null,
+    "price": "S$220",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.7,
+    "reviews": 45,
+    "mrt_station": "Bartley MRT Station",
+    "mrt_distance": "650 m",
+    "venue_type": "Photo / Film Studio",
+    "space_type": "Photo / Film Studio",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 819,
+    "response_rate": 0.9489,
+    "catering_options": [
+      9,
+      16,
+      18,
+      21,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      12,
+      17,
+      24,
+      28
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  {
     "venue_name": "Ida's Event Space",
     "room_name": "Full Venue",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/71559/idas-event-space/full-venue?event-offer=wedding",
@@ -5094,74 +5097,6 @@
         ],
         "opens": "08:00",
         "closes": "22:00"
-      }
-    ]
-  },
-  {
-    "venue_name": "Studio Arcadia | Kitchen Studio",
-    "room_name": "Arcadia Lifestyle Studio",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/31827/studio-arcadia-kitchen-studio/arcadia-lifestyle-studio",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/15124/studio-arcadia-kitchen-studio",
-    "venue_id": 15124,
-    "room_id": 31827,
-    "area": "Tai Seng",
-    "address": "Solstice Business Centre ",
-    "city": "Singapore",
-    "postcode": "536209",
-    "lat": 1.3432135190455,
-    "lng": 103.88547758717,
-    "capacity_standing": 100,
-    "capacity_seated": 100,
-    "min_attendees": null,
-    "price": "S$220",
-    "price_method": "hire fee",
-    "price_type": "per hour",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 4.7,
-    "reviews": 45,
-    "mrt_station": "Bartley MRT Station",
-    "mrt_distance": "650 m",
-    "venue_type": "Photo / Film Studio",
-    "space_type": "Photo / Film Studio",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 804,
-    "response_rate": 0.9488,
-    "catering_options": [
-      9,
-      16,
-      18,
-      21,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      8,
-      9,
-      12,
-      17,
-      24,
-      28
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
       }
     ]
   },
@@ -5295,6 +5230,71 @@
         ],
         "opens": "09:00",
         "closes": "23:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "Kaeden Cafe",
+    "room_name": "Indoor Dining Area",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/44242/kaeden-cafe/indoor-dining-area?event-offer=wedding",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/21372/kaeden-cafe",
+    "venue_id": 21372,
+    "room_id": 44242,
+    "area": "Kallang Bahru",
+    "address": "12 Kallang Avenue #01-25",
+    "city": "Singapore",
+    "postcode": "339511",
+    "lat": 1.3096447,
+    "lng": 103.8643015,
+    "capacity_standing": 80,
+    "capacity_seated": 70,
+    "min_attendees": null,
+    "price": "S$30",
+    "price_method": "per person",
+    "price_type": "",
+    "price_per_person": 4800,
+    "price_per_person_type": "per session",
+    "rating": 4.9,
+    "reviews": 86,
+    "mrt_station": "Lavender MRT Station",
+    "mrt_distance": "300 m",
+    "venue_type": "Cafe",
+    "space_type": "Cafe",
+    "venue_part": "Whole venue",
+    "is_supervenue": true,
+    "response_time_min": 40,
+    "response_rate": 0.9988,
+    "catering_options": [
+      1,
+      7,
+      9,
+      14,
+      15,
+      8,
+      1001
+    ],
+    "room_features": [
+      3,
+      5,
+      6,
+      7,
+      12
+    ],
+    "cuisine": "European",
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "11:00",
+        "closes": "21:30"
       }
     ]
   },
@@ -6185,6 +6185,78 @@
     ]
   },
   {
+    "venue_name": "N9 Offices (Vidacity - Pasir Ris)",
+    "room_name": "Vida Lounge",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/82960/n9-offices-vidacity-pasir-ris/vida-lounge",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/50008/n9-offices-vidacity-pasir-ris",
+    "venue_id": 50008,
+    "room_id": 82960,
+    "area": "Pasir Ris Drive",
+    "address": "3A Pasir Ris Drive 6 #03-29",
+    "city": "Singapore",
+    "postcode": "519422",
+    "lat": 1.370909773586,
+    "lng": 103.95571501772,
+    "capacity_standing": 150,
+    "capacity_seated": 100,
+    "min_attendees": null,
+    "price": "S$135",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.6,
+    "reviews": 12,
+    "mrt_station": "Pasir Ris MRT Station",
+    "mrt_distance": "750 m",
+    "venue_type": "Coworking Space",
+    "space_type": "Event Space",
+    "venue_part": "Private space",
+    "is_supervenue": true,
+    "response_time_min": 9,
+    "response_rate": 1,
+    "catering_options": [
+      7,
+      9,
+      10,
+      16,
+      21,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  {
     "venue_name": "Dona Manis Heritage Bakehouse Event Space",
     "room_name": "Heritage Loft",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/111367/dona-manis-heritage-bakehouse-event-space/heritage-loft?event-offer=wedding",
@@ -6444,78 +6516,6 @@
     ]
   },
   {
-    "venue_name": "N9 Offices (Vidacity - Pasir Ris)",
-    "room_name": "Vida Lounge",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/82960/n9-offices-vidacity-pasir-ris/vida-lounge",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/50008/n9-offices-vidacity-pasir-ris",
-    "venue_id": 50008,
-    "room_id": 82960,
-    "area": "Pasir Ris Drive",
-    "address": "3A Pasir Ris Drive 6 #03-29",
-    "city": "Singapore",
-    "postcode": "519422",
-    "lat": 1.370909773586,
-    "lng": 103.95571501772,
-    "capacity_standing": 150,
-    "capacity_seated": 100,
-    "min_attendees": null,
-    "price": "S$135",
-    "price_method": "hire fee",
-    "price_type": "per hour",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 4.6,
-    "reviews": 12,
-    "mrt_station": "Pasir Ris MRT Station",
-    "mrt_distance": "750 m",
-    "venue_type": "Coworking Space",
-    "space_type": "Event Space",
-    "venue_part": "Private space",
-    "is_supervenue": true,
-    "response_time_min": 9,
-    "response_rate": 1,
-    "catering_options": [
-      7,
-      9,
-      10,
-      16,
-      21,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      12,
-      16,
-      17,
-      18,
-      19,
-      20
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ]
-  },
-  {
     "venue_name": "Youngs Bar & Restaurant",
     "room_name": "Entire Restaurant",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/72641/youngs-bar-restaurant/entire-restaurant",
@@ -6750,6 +6750,136 @@
     ]
   },
   {
+    "venue_name": "Monti Studios",
+    "room_name": "Rooftop Pool and BBQ",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/21859/monti-studios/rooftop-pool-and-bbq",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/8989/monti-studios",
+    "venue_id": 8989,
+    "room_id": 21859,
+    "area": "Kembangan",
+    "address": "Bizhub28 ",
+    "city": "Singapore",
+    "postcode": "416601",
+    "lat": 1.327409,
+    "lng": 103.9181964,
+    "capacity_standing": 50,
+    "capacity_seated": 50,
+    "min_attendees": null,
+    "price": "S$180",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.6,
+    "reviews": 48,
+    "mrt_station": null,
+    "mrt_distance": null,
+    "venue_type": "Photo / Film Studio",
+    "space_type": "Outdoor Space",
+    "venue_part": "Private space",
+    "is_supervenue": false,
+    "response_time_min": 754,
+    "response_rate": 0.9173,
+    "catering_options": [
+      7,
+      9,
+      16,
+      18,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      9,
+      12,
+      17,
+      18
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "06:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "TANOKE - Modern Japanese Restaurant",
+    "room_name": "Entire Venue",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/51119/tanoke-modern-japanese-restaurant/entire-venue",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/24559/tanoke-modern-japanese-restaurant",
+    "venue_id": 24559,
+    "room_id": 51119,
+    "area": "Bugis",
+    "address": "7 Purvis Street, Level 2 ",
+    "city": "Singapore",
+    "postcode": "188586",
+    "lat": 1.2967501,
+    "lng": 103.8551743,
+    "capacity_standing": 50,
+    "capacity_seated": 40,
+    "min_attendees": null,
+    "price": "S$3000",
+    "price_method": "minimum spend",
+    "price_type": "per afternoon",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.9,
+    "reviews": 4,
+    "mrt_station": "Bugis MRT Station",
+    "mrt_distance": "350 m",
+    "venue_type": "Restaurant",
+    "space_type": "Restaurant",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 255,
+    "response_rate": 0.8898,
+    "catering_options": [
+      1,
+      7,
+      8,
+      1001
+    ],
+    "room_features": [
+      3,
+      5,
+      6,
+      7,
+      12,
+      17,
+      18
+    ],
+    "cuisine": "Japanese",
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "12:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  {
     "venue_name": "Hero's",
     "room_name": "Entire Indoor Section",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/13145/heros/entire-indoor-section?event-offer=wedding",
@@ -6901,71 +7031,6 @@
     ]
   },
   {
-    "venue_name": "Bearyfun Space",
-    "room_name": "Beary Fun Space",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/87039/bearyfun-space/beary-fun-space",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/52320/bearyfun-space",
-    "venue_id": 52320,
-    "room_id": 87039,
-    "area": "Kampong Ubi",
-    "address": "71 Ubi Crescent #04-12",
-    "city": "Singapore",
-    "postcode": "408571",
-    "lat": 1.3268908,
-    "lng": 103.8983586,
-    "capacity_standing": 80,
-    "capacity_seated": 70,
-    "min_attendees": null,
-    "price": "S$100",
-    "price_method": "hire fee",
-    "price_type": "per hour",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 4.5,
-    "reviews": 15,
-    "mrt_station": "Ubi MRT Station",
-    "mrt_distance": "350 m",
-    "venue_type": "Event Venue",
-    "space_type": "Event Venue",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 0,
-    "response_rate": 1,
-    "catering_options": [
-      7,
-      16,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      9,
-      12,
-      17,
-      18,
-      20
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ]
-  },
-  {
     "venue_name": "Enclosed Singapore",
     "room_name": "Enclosed Event Space",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/109061/enclosed-singapore/enclosed-event-space",
@@ -7036,6 +7101,71 @@
         ],
         "opens": "09:00",
         "closes": "22:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "Bearyfun Space",
+    "room_name": "Beary Fun Space",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/87039/bearyfun-space/beary-fun-space",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/52320/bearyfun-space",
+    "venue_id": 52320,
+    "room_id": 87039,
+    "area": "Kampong Ubi",
+    "address": "71 Ubi Crescent #04-12",
+    "city": "Singapore",
+    "postcode": "408571",
+    "lat": 1.3268908,
+    "lng": 103.8983586,
+    "capacity_standing": 80,
+    "capacity_seated": 70,
+    "min_attendees": null,
+    "price": "S$100",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.5,
+    "reviews": 15,
+    "mrt_station": "Ubi MRT Station",
+    "mrt_distance": "350 m",
+    "venue_type": "Event Venue",
+    "space_type": "Event Venue",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 0,
+    "response_rate": 1,
+    "catering_options": [
+      7,
+      16,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      9,
+      12,
+      17,
+      18,
+      20
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ]
   },
@@ -7170,70 +7300,6 @@
         ],
         "opens": "18:00",
         "closes": "22:30"
-      }
-    ]
-  },
-  {
-    "venue_name": "TANOKE - Modern Japanese Restaurant",
-    "room_name": "Entire Venue",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/51119/tanoke-modern-japanese-restaurant/entire-venue",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/24559/tanoke-modern-japanese-restaurant",
-    "venue_id": 24559,
-    "room_id": 51119,
-    "area": "Bugis",
-    "address": "7 Purvis Street, Level 2 ",
-    "city": "Singapore",
-    "postcode": "188586",
-    "lat": 1.2967501,
-    "lng": 103.8551743,
-    "capacity_standing": 50,
-    "capacity_seated": 40,
-    "min_attendees": null,
-    "price": "S$3000",
-    "price_method": "minimum spend",
-    "price_type": "per afternoon",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 4.9,
-    "reviews": 4,
-    "mrt_station": "Bugis MRT Station",
-    "mrt_distance": "350 m",
-    "venue_type": "Restaurant",
-    "space_type": "Restaurant",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 255,
-    "response_rate": 0.8898,
-    "catering_options": [
-      1,
-      7,
-      8,
-      1001
-    ],
-    "room_features": [
-      3,
-      5,
-      6,
-      7,
-      12,
-      17,
-      18
-    ],
-    "cuisine": "Japanese",
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "12:00",
-        "closes": "22:00"
       }
     ]
   },
@@ -7377,72 +7443,6 @@
     ]
   },
   {
-    "venue_name": "Monti Studios",
-    "room_name": "Rooftop Pool and BBQ",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/21859/monti-studios/rooftop-pool-and-bbq",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/8989/monti-studios",
-    "venue_id": 8989,
-    "room_id": 21859,
-    "area": "Kembangan",
-    "address": "Bizhub28 ",
-    "city": "Singapore",
-    "postcode": "416601",
-    "lat": 1.327409,
-    "lng": 103.9181964,
-    "capacity_standing": 50,
-    "capacity_seated": 50,
-    "min_attendees": null,
-    "price": "S$180",
-    "price_method": "hire fee",
-    "price_type": "per hour",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 4.6,
-    "reviews": 48,
-    "mrt_station": null,
-    "mrt_distance": null,
-    "venue_type": "Photo / Film Studio",
-    "space_type": "Outdoor Space",
-    "venue_part": "Private space",
-    "is_supervenue": false,
-    "response_time_min": 754,
-    "response_rate": 0.9173,
-    "catering_options": [
-      7,
-      9,
-      16,
-      18,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      9,
-      12,
-      17,
-      18
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "06:00",
-        "closes": "22:00"
-      }
-    ]
-  },
-  {
     "venue_name": "The Marmalade Pantry Downtown",
     "room_name": "Dining Venue",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/49168/the-marmalade-pantry-downtown/dining-venue",
@@ -7505,81 +7505,6 @@
         ],
         "opens": "11:30",
         "closes": "21:30"
-      }
-    ]
-  },
-  {
-    "venue_name": "Terra Loft",
-    "room_name": "Entire Apartment",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/42094/terra-loft/entire-apartment",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/20253/terra-loft",
-    "venue_id": 20253,
-    "room_id": 42094,
-    "area": "Geylang East",
-    "address": "Joo Chiat Road 237A",
-    "city": "Singapore",
-    "postcode": "427494",
-    "lat": 1.310994,
-    "lng": 103.9014396,
-    "capacity_standing": 50,
-    "capacity_seated": 30,
-    "min_attendees": null,
-    "price": "S$688",
-    "price_method": "hire fee",
-    "price_type": "per session",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 5,
-    "reviews": 1,
-    "mrt_station": null,
-    "mrt_distance": null,
-    "venue_type": "Loft",
-    "space_type": "Loft",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 283,
-    "response_rate": 0.98,
-    "catering_options": [
-      7,
-      10,
-      16,
-      18,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      9,
-      11,
-      12,
-      16,
-      17,
-      27
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "09:00",
-        "closes": "06:00"
       }
     ]
   },
@@ -7659,6 +7584,81 @@
     ]
   },
   {
+    "venue_name": "Terra Loft",
+    "room_name": "Entire Apartment",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/42094/terra-loft/entire-apartment",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/20253/terra-loft",
+    "venue_id": 20253,
+    "room_id": 42094,
+    "area": "Geylang East",
+    "address": "Joo Chiat Road 237A",
+    "city": "Singapore",
+    "postcode": "427494",
+    "lat": 1.310994,
+    "lng": 103.9014396,
+    "capacity_standing": 50,
+    "capacity_seated": 30,
+    "min_attendees": null,
+    "price": "S$688",
+    "price_method": "hire fee",
+    "price_type": "per session",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 5,
+    "reviews": 1,
+    "mrt_station": null,
+    "mrt_distance": null,
+    "venue_type": "Loft",
+    "space_type": "Loft",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 283,
+    "response_rate": 0.98,
+    "catering_options": [
+      7,
+      10,
+      16,
+      18,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      9,
+      11,
+      12,
+      16,
+      17,
+      27
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "06:00"
+      }
+    ]
+  },
+  {
     "venue_name": "DOMO Modern Japanese Restaurant",
     "room_name": "Fuyu Room",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/100606/domo-modern-japanese-restaurant/fuyu-room",
@@ -7687,7 +7687,7 @@
     "space_type": "Dining Room",
     "venue_part": "Private space",
     "is_supervenue": false,
-    "response_time_min": 57,
+    "response_time_min": 56,
     "response_rate": 1,
     "catering_options": [
       1,
@@ -7728,6 +7728,80 @@
         ],
         "opens": "11:30",
         "closes": "22:30"
+      }
+    ]
+  },
+  {
+    "venue_name": "HERE",
+    "room_name": "Entire Venue",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/13675/here/entire-venue",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/6177/here",
+    "venue_id": 6177,
+    "room_id": 13675,
+    "area": "Little India",
+    "address": "Serangoon Road 576A",
+    "city": "Singapore",
+    "postcode": "218190",
+    "lat": 1.3147356535346,
+    "lng": 103.85783672333,
+    "capacity_standing": 80,
+    "capacity_seated": 60,
+    "min_attendees": null,
+    "price": "S$888",
+    "price_method": "hire fee",
+    "price_type": "per session",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.9,
+    "reviews": 9,
+    "mrt_station": "Farrer Park MRT Station",
+    "mrt_distance": "500 m",
+    "venue_type": "Event Venue",
+    "space_type": "Event Venue",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 284,
+    "response_rate": 0.9784,
+    "catering_options": [
+      7,
+      16,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      17,
+      18
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "18:00",
+        "closes": "06:00"
       }
     ]
   },
@@ -8222,80 +8296,6 @@
     ]
   },
   {
-    "venue_name": "HERE",
-    "room_name": "Entire Venue",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/13675/here/entire-venue",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/6177/here",
-    "venue_id": 6177,
-    "room_id": 13675,
-    "area": "Little India",
-    "address": "Serangoon Road 576A",
-    "city": "Singapore",
-    "postcode": "218190",
-    "lat": 1.3147356535346,
-    "lng": 103.85783672333,
-    "capacity_standing": 80,
-    "capacity_seated": 60,
-    "min_attendees": null,
-    "price": "S$888",
-    "price_method": "hire fee",
-    "price_type": "per session",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 4.9,
-    "reviews": 9,
-    "mrt_station": "Farrer Park MRT Station",
-    "mrt_distance": "500 m",
-    "venue_type": "Event Venue",
-    "space_type": "Event Venue",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 284,
-    "response_rate": 0.9784,
-    "catering_options": [
-      7,
-      16,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      17,
-      18
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Friday",
-          "Saturday"
-        ],
-        "opens": "18:00",
-        "closes": "06:00"
-      }
-    ]
-  },
-  {
     "venue_name": "WingsOverAsia",
     "room_name": "Lounge",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/53033/wingsoverasia/clubwoa-aviators-lounge?event-offer=wedding",
@@ -8597,41 +8597,40 @@
     ]
   },
   {
-    "venue_name": "Assembly",
-    "room_name": "Multipurpose Hall",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/67443/assembly/multipurpose-hall",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/35687/assembly-2",
-    "venue_id": 35687,
-    "room_id": 67443,
-    "area": "Port",
-    "address": "65 Pasir Panjang Road ",
+    "venue_name": "Little Farms Table at Tanglin Mall",
+    "room_name": "Main Dining Area",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/94327/little-farms-table-at-tanglin-mall/main-dining-area",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/56362/little-farms-table-at-tanglin-mall",
+    "venue_id": 56362,
+    "room_id": 94327,
+    "area": "Orchard",
+    "address": "163 Tanglin Road 163 Tanglin Rd, #02-138 Singapore 247933",
     "city": "Singapore",
-    "postcode": "118506",
-    "lat": 1.273813,
-    "lng": 103.7963193,
-    "capacity_standing": 120,
-    "capacity_seated": 80,
+    "postcode": "247933",
+    "lat": 1.305035,
+    "lng": 103.823845,
+    "capacity_standing": 90,
+    "capacity_seated": 74,
     "min_attendees": null,
-    "price": "S$300",
-    "price_method": "hire fee",
-    "price_type": "per hour",
+    "price": "S$7500",
+    "price_method": "minimum spend",
+    "price_type": "per evening",
     "price_per_person": -1,
     "price_per_person_type": "NULL",
-    "rating": 4.8,
-    "reviews": 8,
-    "mrt_station": "Pasir Panjang MRT Station",
-    "mrt_distance": "600 m",
-    "venue_type": "Hall",
-    "space_type": "Hall",
-    "venue_part": "Whole venue",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": null,
+    "mrt_distance": null,
+    "venue_type": "Restaurant",
+    "space_type": "Dining Room",
+    "venue_part": "Semi-private area",
     "is_supervenue": false,
-    "response_time_min": 81,
-    "response_rate": 0.9308,
+    "response_time_min": 544,
+    "response_rate": 1,
     "catering_options": [
+      1,
       7,
-      16,
       8,
-      1000,
       1001
     ],
     "room_features": [
@@ -8640,23 +8639,27 @@
       6,
       7,
       9,
+      10,
+      11,
       12,
-      13,
       17,
-      18,
-      19,
-      24
+      20
     ],
-    "cuisine": null,
+    "cuisine": "European",
     "opening_hours": [
       {
         "type": "OpeningHoursSpecification",
         "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
           "Saturday",
           "Sunday"
         ],
-        "opens": "09:00",
-        "closes": "18:00"
+        "opens": "18:00",
+        "closes": "21:30"
       }
     ]
   },
@@ -8727,6 +8730,67 @@
           "Sunday"
         ],
         "opens": "10:00",
+        "closes": "23:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "Hollandse Club",
+    "room_name": "Asia 1",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/29619/hollandse-club/asia-1",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/14093/hollandse-club",
+    "venue_id": 14093,
+    "room_id": 29619,
+    "area": "Dunearn",
+    "address": "22 Camden Park ",
+    "city": "Singapore",
+    "postcode": "299814",
+    "lat": 1.3297906478342,
+    "lng": 103.81638840059,
+    "capacity_standing": 200,
+    "capacity_seated": 150,
+    "min_attendees": null,
+    "price": "S$350",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.8,
+    "reviews": 14,
+    "mrt_station": null,
+    "mrt_distance": null,
+    "venue_type": "Sports Club",
+    "space_type": "Function Room",
+    "venue_part": "Private space",
+    "is_supervenue": false,
+    "response_time_min": 36,
+    "response_rate": 0.9762,
+    "catering_options": [
+      1,
+      8,
+      1000,
+      1001
+    ],
+    "room_features": [
+      3,
+      5,
+      7,
+      12
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "07:00",
         "closes": "23:00"
       }
     ]
@@ -8877,120 +8941,56 @@
     ]
   },
   {
-    "venue_name": "Hai Tien Lo",
-    "room_name": "Entire Venue",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/15629/hai-tien-lo/entire-venue",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/7097/hai-tien-lo",
-    "venue_id": 7097,
-    "room_id": 15629,
-    "area": "Marina Centre",
-    "address": "7 Raffles Boulevard Level 3",
+    "venue_name": "Pico",
+    "room_name": "Pico Event Halls",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/99875/pico/pico-event-halls",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/59435/pico",
+    "venue_id": 59435,
+    "room_id": 99875,
+    "area": "Kallang Bahru",
+    "address": "20 Kallang Avenue Pico Creative Centre",
     "city": "Singapore",
-    "postcode": "039595",
-    "lat": 1.2919681,
-    "lng": 103.8587186,
-    "capacity_standing": 170,
-    "capacity_seated": 164,
+    "postcode": "339411",
+    "lat": 1.3096883,
+    "lng": 103.8650884,
+    "capacity_standing": 180,
+    "capacity_seated": 140,
     "min_attendees": null,
-    "price": "S$60",
-    "price_method": "per person",
-    "price_type": "per session",
-    "price_per_person": 6000,
-    "price_per_person_type": "per session",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Promenade MRT Station",
-    "mrt_distance": "250 m",
-    "venue_type": "Restaurant",
-    "space_type": "Restaurant",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 336,
-    "response_rate": 1,
-    "catering_options": [
-      1,
-      20,
-      8,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      7,
-      27,
-      28
-    ],
-    "cuisine": "Chinese",
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "11:30",
-        "closes": "22:00"
-      }
-    ]
-  },
-  {
-    "venue_name": "The Milky Way",
-    "room_name": "Entire Venue",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/80914/the-milky-way/entire-venue",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/48730/the-milky-way-studio",
-    "venue_id": 48730,
-    "room_id": 80914,
-    "area": "Marymount",
-    "address": "38 Jalan Pemimpin #08-08",
-    "city": "Singapore",
-    "postcode": "577178",
-    "lat": 1.3483408,
-    "lng": 103.8416915,
-    "capacity_standing": 90,
-    "capacity_seated": 70,
-    "min_attendees": null,
-    "price": "S$185",
+    "price": "S$200",
     "price_method": "hire fee",
     "price_type": "per hour",
     "price_per_person": -1,
     "price_per_person_type": "NULL",
-    "rating": 4.8,
-    "reviews": 10,
-    "mrt_station": "Marymount MRT Station",
-    "mrt_distance": "250 m",
+    "rating": 5,
+    "reviews": 3,
+    "mrt_station": "Lavender MRT Station",
+    "mrt_distance": "350 m",
     "venue_type": "Event Venue",
-    "space_type": "Event Venue",
+    "space_type": "Hall",
     "venue_part": "Whole venue",
     "is_supervenue": false,
-    "response_time_min": 26,
-    "response_rate": 0.9936,
+    "response_time_min": 158,
+    "response_rate": 0.9346,
     "catering_options": [
       7,
-      9,
-      10,
       16,
-      21,
       1000,
       1001
     ],
     "room_features": [
+      3,
       5,
       6,
       7,
       8,
       9,
+      10,
       11,
       12,
-      13,
-      16,
       17,
+      18,
       19,
-      20
+      27
     ],
     "cuisine": null,
     "opening_hours": [
@@ -9007,73 +9007,6 @@
         ],
         "opens": "00:00",
         "closes": "23:59"
-      }
-    ]
-  },
-  {
-    "venue_name": "Little Farms Table at Tanglin Mall",
-    "room_name": "Main Dining Area",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/94327/little-farms-table-at-tanglin-mall/main-dining-area",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/56362/little-farms-table-at-tanglin-mall",
-    "venue_id": 56362,
-    "room_id": 94327,
-    "area": "Orchard",
-    "address": "163 Tanglin Road 163 Tanglin Rd, #02-138 Singapore 247933",
-    "city": "Singapore",
-    "postcode": "247933",
-    "lat": 1.305035,
-    "lng": 103.823845,
-    "capacity_standing": 90,
-    "capacity_seated": 74,
-    "min_attendees": null,
-    "price": "S$7500",
-    "price_method": "minimum spend",
-    "price_type": "per evening",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": null,
-    "mrt_distance": null,
-    "venue_type": "Restaurant",
-    "space_type": "Dining Room",
-    "venue_part": "Semi-private area",
-    "is_supervenue": false,
-    "response_time_min": 544,
-    "response_rate": 1,
-    "catering_options": [
-      1,
-      7,
-      8,
-      1001
-    ],
-    "room_features": [
-      3,
-      5,
-      6,
-      7,
-      9,
-      10,
-      11,
-      12,
-      17,
-      20
-    ],
-    "cuisine": "European",
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "18:00",
-        "closes": "21:30"
       }
     ]
   },
@@ -9690,6 +9623,78 @@
     ]
   },
   {
+    "venue_name": "The Milky Way",
+    "room_name": "Entire Venue",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/80914/the-milky-way/entire-venue",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/48730/the-milky-way-studio",
+    "venue_id": 48730,
+    "room_id": 80914,
+    "area": "Marymount",
+    "address": "38 Jalan Pemimpin #08-08",
+    "city": "Singapore",
+    "postcode": "577178",
+    "lat": 1.3483408,
+    "lng": 103.8416915,
+    "capacity_standing": 90,
+    "capacity_seated": 70,
+    "min_attendees": null,
+    "price": "S$185",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.8,
+    "reviews": 10,
+    "mrt_station": "Marymount MRT Station",
+    "mrt_distance": "250 m",
+    "venue_type": "Event Venue",
+    "space_type": "Event Venue",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 26,
+    "response_rate": 0.9936,
+    "catering_options": [
+      7,
+      9,
+      10,
+      16,
+      21,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12,
+      13,
+      16,
+      17,
+      19,
+      20
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  {
     "venue_name": "Shan Zhen Hai Wei 山珍海味 Camping",
     "room_name": "Entire Venue",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/97541/shan-zhen-hai-wei-camping/entire-venue",
@@ -9753,6 +9758,68 @@
           "Sunday"
         ],
         "opens": "10:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "Hai Tien Lo",
+    "room_name": "Entire Venue",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/15629/hai-tien-lo/entire-venue",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/7097/hai-tien-lo",
+    "venue_id": 7097,
+    "room_id": 15629,
+    "area": "Marina Centre",
+    "address": "7 Raffles Boulevard Level 3",
+    "city": "Singapore",
+    "postcode": "039595",
+    "lat": 1.2919681,
+    "lng": 103.8587186,
+    "capacity_standing": 170,
+    "capacity_seated": 164,
+    "min_attendees": null,
+    "price": "S$60",
+    "price_method": "per person",
+    "price_type": "per session",
+    "price_per_person": 6000,
+    "price_per_person_type": "per session",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Promenade MRT Station",
+    "mrt_distance": "250 m",
+    "venue_type": "Restaurant",
+    "space_type": "Restaurant",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 336,
+    "response_rate": 1,
+    "catering_options": [
+      1,
+      20,
+      8,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      7,
+      27,
+      28
+    ],
+    "cuisine": "Chinese",
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "11:30",
         "closes": "22:00"
       }
     ]
@@ -9899,38 +9966,39 @@
     ]
   },
   {
-    "venue_name": "Hollandse Club",
-    "room_name": "Asia 1",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/29619/hollandse-club/asia-1",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/14093/hollandse-club",
-    "venue_id": 14093,
-    "room_id": 29619,
-    "area": "Dunearn",
-    "address": "22 Camden Park ",
+    "venue_name": "Assembly",
+    "room_name": "Multipurpose Hall",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/67443/assembly/multipurpose-hall",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/35687/assembly-2",
+    "venue_id": 35687,
+    "room_id": 67443,
+    "area": "Port",
+    "address": "65 Pasir Panjang Road ",
     "city": "Singapore",
-    "postcode": "299814",
-    "lat": 1.3297906478342,
-    "lng": 103.81638840059,
-    "capacity_standing": 200,
-    "capacity_seated": 150,
+    "postcode": "118506",
+    "lat": 1.273813,
+    "lng": 103.7963193,
+    "capacity_standing": 120,
+    "capacity_seated": 80,
     "min_attendees": null,
-    "price": "S$350",
+    "price": "S$300",
     "price_method": "hire fee",
     "price_type": "per hour",
     "price_per_person": -1,
     "price_per_person_type": "NULL",
     "rating": 4.8,
-    "reviews": 14,
-    "mrt_station": null,
-    "mrt_distance": null,
-    "venue_type": "Sports Club",
-    "space_type": "Function Room",
-    "venue_part": "Private space",
+    "reviews": 8,
+    "mrt_station": "Pasir Panjang MRT Station",
+    "mrt_distance": "600 m",
+    "venue_type": "Hall",
+    "space_type": "Hall",
+    "venue_part": "Whole venue",
     "is_supervenue": false,
-    "response_time_min": 36,
-    "response_rate": 0.9762,
+    "response_time_min": 81,
+    "response_rate": 0.9308,
     "catering_options": [
-      1,
+      7,
+      16,
       8,
       1000,
       1001
@@ -9938,24 +10006,26 @@
     "room_features": [
       3,
       5,
+      6,
       7,
-      12
+      9,
+      12,
+      13,
+      17,
+      18,
+      19,
+      24
     ],
     "cuisine": null,
     "opening_hours": [
       {
         "type": "OpeningHoursSpecification",
         "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
           "Saturday",
           "Sunday"
         ],
-        "opens": "07:00",
-        "closes": "23:00"
+        "opens": "09:00",
+        "closes": "18:00"
       }
     ]
   },
@@ -10102,76 +10172,6 @@
         ],
         "opens": "11:00",
         "closes": "23:00"
-      }
-    ]
-  },
-  {
-    "venue_name": "Pico",
-    "room_name": "Pico Event Halls",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/99875/pico/pico-event-halls",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/59435/pico",
-    "venue_id": 59435,
-    "room_id": 99875,
-    "area": "Kallang Bahru",
-    "address": "20 Kallang Avenue Pico Creative Centre",
-    "city": "Singapore",
-    "postcode": "339411",
-    "lat": 1.3096883,
-    "lng": 103.8650884,
-    "capacity_standing": 180,
-    "capacity_seated": 140,
-    "min_attendees": null,
-    "price": "S$200",
-    "price_method": "hire fee",
-    "price_type": "per hour",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 5,
-    "reviews": 3,
-    "mrt_station": "Lavender MRT Station",
-    "mrt_distance": "350 m",
-    "venue_type": "Event Venue",
-    "space_type": "Hall",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 155,
-    "response_rate": 0.9346,
-    "catering_options": [
-      7,
-      16,
-      1000,
-      1001
-    ],
-    "room_features": [
-      3,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      17,
-      18,
-      19,
-      27
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
       }
     ]
   },
@@ -10457,74 +10457,6 @@
     ]
   },
   {
-    "venue_name": "Moon Rooftop Bar and Lounge",
-    "room_name": "Entire Venue",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/55268/moon-rooftop-bar-and-lounge/entire-venue",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/26859/moon-rooftop-bar-and-lounge",
-    "venue_id": 26859,
-    "room_id": 55268,
-    "area": "Anson",
-    "address": "70 Anson Road #27-01 Hub Synergy Point",
-    "city": "Singapore",
-    "postcode": "079905",
-    "lat": 1.2740087,
-    "lng": 103.844753,
-    "capacity_standing": 151,
-    "capacity_seated": 98,
-    "min_attendees": null,
-    "price": "S$3000",
-    "price_method": "minimum spend",
-    "price_type": "per session",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 4.9,
-    "reviews": 15,
-    "mrt_station": "Tanjong Pagar MRT Station",
-    "mrt_distance": "300 m",
-    "venue_type": "Bar",
-    "space_type": "Bar",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 101,
-    "response_rate": 0.9938,
-    "catering_options": [
-      1,
-      9,
-      8,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      8,
-      12,
-      13,
-      16,
-      17,
-      18,
-      19
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "07:30",
-        "closes": "00:00"
-      }
-    ]
-  },
-  {
     "venue_name": "Foodini Biopolis",
     "room_name": "Entire Space",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/100200/foodini-biopolis/entire-space",
@@ -10755,74 +10687,6 @@
     ]
   },
   {
-    "venue_name": "Noa by Olivia",
-    "room_name": "Whole Venue",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/84219/noa-by-olivia/whole-venue",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/50733/noa-by-olivia",
-    "venue_id": 50733,
-    "room_id": 84219,
-    "area": "Tanjong Pagar",
-    "address": "83 Neil Road ",
-    "city": "Singapore",
-    "postcode": "089813",
-    "lat": 1.2789527,
-    "lng": 103.8419489,
-    "capacity_standing": 150,
-    "capacity_seated": 78,
-    "min_attendees": null,
-    "price": "S$98",
-    "price_method": "per person",
-    "price_type": "per session",
-    "price_per_person": 9800,
-    "price_per_person_type": "per session",
-    "rating": 5,
-    "reviews": 4,
-    "mrt_station": "Outram Park MRT Station",
-    "mrt_distance": "300 m",
-    "venue_type": "Restaurant",
-    "space_type": "Restaurant",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 16,
-    "response_rate": 1,
-    "catering_options": [
-      1,
-      8,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      8,
-      9,
-      12,
-      17,
-      18,
-      19,
-      25,
-      27
-    ],
-    "cuisine": "Mediterranean",
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "12:00",
-        "closes": "22:30"
-      }
-    ]
-  },
-  {
     "venue_name": "The Awadh",
     "room_name": "Whole Venue",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/20380/the-awadh/whole-venue",
@@ -11044,57 +10908,56 @@
     ]
   },
   {
-    "venue_name": "Cosford Container Park",
-    "room_name": "Stardine",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/86869/cosford-container-park/stardine",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/52218/cosford-container-park-2",
-    "venue_id": 52218,
-    "room_id": 86869,
-    "area": "Changi West",
-    "address": "30 Cosford Road ",
+    "venue_name": "Moon Rooftop Bar and Lounge",
+    "room_name": "Entire Venue",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/55268/moon-rooftop-bar-and-lounge/entire-venue",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/26859/moon-rooftop-bar-and-lounge",
+    "venue_id": 26859,
+    "room_id": 55268,
+    "area": "Anson",
+    "address": "70 Anson Road #27-01 Hub Synergy Point",
     "city": "Singapore",
-    "postcode": "499550",
-    "lat": 1.3652545,
-    "lng": 103.9812318,
-    "capacity_standing": 120,
-    "capacity_seated": 80,
+    "postcode": "079905",
+    "lat": 1.2740087,
+    "lng": 103.844753,
+    "capacity_standing": 151,
+    "capacity_seated": 98,
     "min_attendees": null,
-    "price": "S$20",
-    "price_method": "hire fee",
-    "price_type": "per hour",
+    "price": "S$3000",
+    "price_method": "minimum spend",
+    "price_type": "per session",
     "price_per_person": -1,
     "price_per_person_type": "NULL",
-    "rating": 3,
-    "reviews": 2,
-    "mrt_station": null,
-    "mrt_distance": null,
-    "venue_type": "Entertainment Centre",
-    "space_type": "Event Space",
-    "venue_part": "Private space",
+    "rating": 4.9,
+    "reviews": 15,
+    "mrt_station": "Tanjong Pagar MRT Station",
+    "mrt_distance": "300 m",
+    "venue_type": "Bar",
+    "space_type": "Bar",
+    "venue_part": "Whole venue",
     "is_supervenue": false,
-    "response_time_min": 20,
-    "response_rate": 0.9421,
+    "response_time_min": 101,
+    "response_rate": 0.9938,
     "catering_options": [
-      17,
+      1,
+      9,
       8,
       1000,
-      1001,
-      1
+      1001
     ],
     "room_features": [
-      3,
       5,
       6,
       7,
       8,
-      9,
-      10,
       12,
+      13,
+      16,
       17,
       18,
       19
     ],
-    "cuisine": "American",
+    "cuisine": null,
     "opening_hours": [
       {
         "type": "OpeningHoursSpecification",
@@ -11103,19 +10966,12 @@
           "Tuesday",
           "Wednesday",
           "Thursday",
+          "Friday",
+          "Saturday",
           "Sunday"
         ],
-        "opens": "09:00",
-        "closes": "23:00"
-      },
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Friday",
-          "Saturday"
-        ],
-        "opens": "09:00",
-        "closes": "01:00"
+        "opens": "07:30",
+        "closes": "00:00"
       }
     ]
   },
@@ -11419,6 +11275,82 @@
     ]
   },
   {
+    "venue_name": "Cosford Container Park",
+    "room_name": "Stardine",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/86869/cosford-container-park/stardine",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/52218/cosford-container-park-2",
+    "venue_id": 52218,
+    "room_id": 86869,
+    "area": "Changi West",
+    "address": "30 Cosford Road ",
+    "city": "Singapore",
+    "postcode": "499550",
+    "lat": 1.3652545,
+    "lng": 103.9812318,
+    "capacity_standing": 120,
+    "capacity_seated": 80,
+    "min_attendees": null,
+    "price": "S$20",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 3,
+    "reviews": 2,
+    "mrt_station": null,
+    "mrt_distance": null,
+    "venue_type": "Entertainment Centre",
+    "space_type": "Event Space",
+    "venue_part": "Private space",
+    "is_supervenue": false,
+    "response_time_min": 20,
+    "response_rate": 0.9426,
+    "catering_options": [
+      17,
+      8,
+      1000,
+      1001,
+      1
+    ],
+    "room_features": [
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      17,
+      18,
+      19
+    ],
+    "cuisine": "American",
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "23:00"
+      },
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "09:00",
+        "closes": "01:00"
+      }
+    ]
+  },
+  {
     "venue_name": "Casa Pietrasanta",
     "room_name": "Event Area",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/45941/casa-pietrasanta/event-area",
@@ -11565,43 +11497,38 @@
     ]
   },
   {
-    "venue_name": "The Gong (Duo Galleria)",
-    "room_name": "Outdoor Area",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/45270/the-gong-duo-galleria/outdoor-area",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/20216/the-gong-duo-galleria",
-    "venue_id": 20216,
-    "room_id": 45270,
-    "area": "Bugis",
-    "address": "7 Fraser Street #01-59 & 60 Duo Galleria",
+    "venue_name": "Noa by Olivia",
+    "room_name": "Whole Venue",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/84219/noa-by-olivia/whole-venue",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/50733/noa-by-olivia",
+    "venue_id": 50733,
+    "room_id": 84219,
+    "area": "Tanjong Pagar",
+    "address": "83 Neil Road ",
     "city": "Singapore",
-    "postcode": "189356",
-    "lat": 1.2997111213762,
-    "lng": 103.8571856582,
-    "capacity_standing": 120,
-    "capacity_seated": 120,
+    "postcode": "089813",
+    "lat": 1.2789527,
+    "lng": 103.8419489,
+    "capacity_standing": 150,
+    "capacity_seated": 78,
     "min_attendees": null,
-    "price": "S$50",
+    "price": "S$98",
     "price_method": "per person",
     "price_type": "per session",
-    "price_per_person": 5000,
+    "price_per_person": 9800,
     "price_per_person_type": "per session",
     "rating": 5,
-    "reviews": 1,
-    "mrt_station": "Bugis MRT Station",
-    "mrt_distance": "50 m",
+    "reviews": 4,
+    "mrt_station": "Outram Park MRT Station",
+    "mrt_distance": "300 m",
     "venue_type": "Restaurant",
-    "space_type": "Outdoor Space",
-    "venue_part": "Semi-private area",
+    "space_type": "Restaurant",
+    "venue_part": "Whole venue",
     "is_supervenue": false,
-    "response_time_min": 22,
-    "response_rate": 0.9208,
+    "response_time_min": 16,
+    "response_rate": 1,
     "catering_options": [
       1,
-      9,
-      14,
-      17,
-      20,
-      21,
       8,
       1000,
       1001
@@ -11609,13 +11536,17 @@
     "room_features": [
       5,
       6,
+      7,
       8,
       9,
-      11,
       12,
-      17
+      17,
+      18,
+      19,
+      25,
+      27
     ],
-    "cuisine": null,
+    "cuisine": "Mediterranean",
     "opening_hours": [
       {
         "type": "OpeningHoursSpecification",
@@ -11628,8 +11559,8 @@
           "Saturday",
           "Sunday"
         ],
-        "opens": "11:00",
-        "closes": "23:00"
+        "opens": "12:00",
+        "closes": "22:30"
       }
     ]
   },
@@ -11710,49 +11641,55 @@
     ]
   },
   {
-    "venue_name": "Museum of Ice Cream",
-    "room_name": "Museum",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/70139/museum-of-ice-cream/museum",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/38209/museum-of-ice-cream",
-    "venue_id": 38209,
-    "room_id": 70139,
-    "area": "Ridout",
-    "address": "100 Loewen Road ",
+    "venue_name": "The Gong (Duo Galleria)",
+    "room_name": "Outdoor Area",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/45270/the-gong-duo-galleria/outdoor-area",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/20216/the-gong-duo-galleria",
+    "venue_id": 20216,
+    "room_id": 45270,
+    "area": "Bugis",
+    "address": "7 Fraser Street #01-59 & 60 Duo Galleria",
     "city": "Singapore",
-    "postcode": "248837",
-    "lat": 1.3026870957478,
-    "lng": 103.81246591534,
-    "capacity_standing": 400,
-    "capacity_seated": 200,
+    "postcode": "189356",
+    "lat": 1.2997111213762,
+    "lng": 103.8571856582,
+    "capacity_standing": 120,
+    "capacity_seated": 120,
     "min_attendees": null,
-    "price": "S$21800",
-    "price_method": "hire fee",
-    "price_type": "per day",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": null,
-    "mrt_distance": null,
-    "venue_type": "Museum",
-    "space_type": "Museum",
-    "venue_part": "Whole venue",
+    "price": "S$50",
+    "price_method": "per person",
+    "price_type": "per session",
+    "price_per_person": 5000,
+    "price_per_person_type": "per session",
+    "rating": 5,
+    "reviews": 1,
+    "mrt_station": "Bugis MRT Station",
+    "mrt_distance": "50 m",
+    "venue_type": "Restaurant",
+    "space_type": "Outdoor Space",
+    "venue_part": "Semi-private area",
     "is_supervenue": false,
-    "response_time_min": 864,
-    "response_rate": 0.975,
+    "response_time_min": 22,
+    "response_rate": 0.9208,
     "catering_options": [
-      16,
-      19,
+      1,
+      9,
+      14,
+      17,
+      20,
+      21,
       8,
-      1000
+      1000,
+      1001
     ],
     "room_features": [
       5,
-      7,
+      6,
+      8,
       9,
-      16,
-      17,
-      18
+      11,
+      12,
+      17
     ],
     "cuisine": null,
     "opening_hours": [
@@ -11767,8 +11704,8 @@
           "Saturday",
           "Sunday"
         ],
-        "opens": "10:00",
-        "closes": "22:00"
+        "opens": "11:00",
+        "closes": "23:00"
       }
     ]
   },
@@ -12100,6 +12037,80 @@
     ]
   },
   {
+    "venue_name": "Tora Tora Tora",
+    "room_name": "The Mezzanine + Karaoke",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/110901/tora-tora-tora/the-mezzanine-karaoke",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/65728/tora-tora-tora",
+    "venue_id": 65728,
+    "room_id": 110901,
+    "area": "Kampong Ubi",
+    "address": "62 Ubi Road 1 62 Ubi Road, Oxley Bizhub 2, Rooftop, Level #11-19, Singapore 408734",
+    "city": "Singapore",
+    "postcode": "408734",
+    "lat": 1.3322686,
+    "lng": 103.892106,
+    "capacity_standing": 50,
+    "capacity_seated": 50,
+    "min_attendees": null,
+    "price": "S$800",
+    "price_method": "minimum spend",
+    "price_type": "per day",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 5,
+    "reviews": 2,
+    "mrt_station": "Tai Seng MRT Station",
+    "mrt_distance": "550 m",
+    "venue_type": "Restaurant",
+    "space_type": "Event Space",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 10,
+    "response_rate": 0.9474,
+    "catering_options": [
+      1,
+      7,
+      20,
+      8,
+      1001
+    ],
+    "room_features": [
+      5,
+      7,
+      8,
+      9,
+      12,
+      17,
+      18,
+      19,
+      26
+    ],
+    "cuisine": "Japanese",
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "11:30",
+        "closes": "23:30"
+      },
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "11:30",
+        "closes": "01:00"
+      }
+    ]
+  },
+  {
     "venue_name": "Workcentral",
     "room_name": "The Dining Hall",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/15722/workcentral/the-dining-hall",
@@ -12171,55 +12182,51 @@
     ]
   },
   {
-    "venue_name": "Tora Tora Tora",
-    "room_name": "The Mezzanine + Karaoke",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/110901/tora-tora-tora/the-mezzanine-karaoke",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/65728/tora-tora-tora",
-    "venue_id": 65728,
-    "room_id": 110901,
-    "area": "Kampong Ubi",
-    "address": "62 Ubi Road 1 62 Ubi Road, Oxley Bizhub 2, Rooftop, Level #11-19, Singapore 408734",
+    "venue_name": "Museum of Ice Cream",
+    "room_name": "Museum",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/70139/museum-of-ice-cream/museum",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/38209/museum-of-ice-cream",
+    "venue_id": 38209,
+    "room_id": 70139,
+    "area": "Ridout",
+    "address": "100 Loewen Road ",
     "city": "Singapore",
-    "postcode": "408734",
-    "lat": 1.3322686,
-    "lng": 103.892106,
-    "capacity_standing": 50,
-    "capacity_seated": 50,
+    "postcode": "248837",
+    "lat": 1.3026870957478,
+    "lng": 103.81246591534,
+    "capacity_standing": 400,
+    "capacity_seated": 200,
     "min_attendees": null,
-    "price": "S$800",
-    "price_method": "minimum spend",
+    "price": "S$21800",
+    "price_method": "hire fee",
     "price_type": "per day",
     "price_per_person": -1,
     "price_per_person_type": "NULL",
-    "rating": 5,
-    "reviews": 2,
-    "mrt_station": "Tai Seng MRT Station",
-    "mrt_distance": "550 m",
-    "venue_type": "Restaurant",
-    "space_type": "Event Space",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": null,
+    "mrt_distance": null,
+    "venue_type": "Museum",
+    "space_type": "Museum",
     "venue_part": "Whole venue",
     "is_supervenue": false,
-    "response_time_min": 10,
-    "response_rate": 0.9474,
+    "response_time_min": 864,
+    "response_rate": 0.975,
     "catering_options": [
-      1,
-      7,
-      20,
+      16,
+      19,
       8,
-      1001
+      1000
     ],
     "room_features": [
       5,
       7,
-      8,
       9,
-      12,
+      16,
       17,
-      18,
-      19,
-      26
+      18
     ],
-    "cuisine": "Japanese",
+    "cuisine": null,
     "opening_hours": [
       {
         "type": "OpeningHoursSpecification",
@@ -12227,20 +12234,13 @@
           "Monday",
           "Tuesday",
           "Wednesday",
-          "Thursday"
-        ],
-        "opens": "11:30",
-        "closes": "23:30"
-      },
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
+          "Thursday",
           "Friday",
           "Saturday",
           "Sunday"
         ],
-        "opens": "11:30",
-        "closes": "01:00"
+        "opens": "10:00",
+        "closes": "22:00"
       }
     ]
   },
@@ -12846,72 +12846,6 @@
           "Friday"
         ],
         "opens": "11:00",
-        "closes": "22:30"
-      }
-    ]
-  },
-  {
-    "venue_name": "NTUC Centre",
-    "room_name": "Stephen Riady Auditorium",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/73129/ntuc-centre/stephen-riady-auditorium",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/41133/ntuc-centre",
-    "venue_id": 41133,
-    "room_id": 73129,
-    "area": "Central Subzone",
-    "address": "1 Marina Boulevard ",
-    "city": "Singapore",
-    "postcode": "018989",
-    "lat": 1.2822004,
-    "lng": 103.8526513,
-    "capacity_standing": 0,
-    "capacity_seated": 550,
-    "min_attendees": null,
-    "price": "S$875",
-    "price_method": "hire fee",
-    "price_type": "per hour",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 5,
-    "reviews": 2,
-    "mrt_station": "Raffles Place MRT Station",
-    "mrt_distance": "250 m",
-    "venue_type": "Conference Centre",
-    "space_type": "Auditorium / Conference Room",
-    "venue_part": "Private space",
-    "is_supervenue": false,
-    "response_time_min": 222,
-    "response_rate": 0.8806,
-    "catering_options": [
-      16,
-      1000,
-      1001
-    ],
-    "room_features": [
-      3,
-      5,
-      6,
-      7,
-      8,
-      12,
-      16,
-      17,
-      18,
-      19
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "08:30",
         "closes": "22:30"
       }
     ]
@@ -13861,6 +13795,72 @@
     ]
   },
   {
+    "venue_name": "NTUC Centre",
+    "room_name": "Stephen Riady Auditorium",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/73129/ntuc-centre/stephen-riady-auditorium",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/41133/ntuc-centre",
+    "venue_id": 41133,
+    "room_id": 73129,
+    "area": "Central Subzone",
+    "address": "1 Marina Boulevard ",
+    "city": "Singapore",
+    "postcode": "018989",
+    "lat": 1.2822004,
+    "lng": 103.8526513,
+    "capacity_standing": 0,
+    "capacity_seated": 550,
+    "min_attendees": null,
+    "price": "S$875",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 5,
+    "reviews": 2,
+    "mrt_station": "Raffles Place MRT Station",
+    "mrt_distance": "250 m",
+    "venue_type": "Conference Centre",
+    "space_type": "Auditorium / Conference Room",
+    "venue_part": "Private space",
+    "is_supervenue": false,
+    "response_time_min": 222,
+    "response_rate": 0.881,
+    "catering_options": [
+      16,
+      1000,
+      1001
+    ],
+    "room_features": [
+      3,
+      5,
+      6,
+      7,
+      8,
+      12,
+      16,
+      17,
+      18,
+      19
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:30",
+        "closes": "22:30"
+      }
+    ]
+  },
+  {
     "venue_name": "Tee Side Chalet",
     "room_name": "TSC - Central Green",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/115163/tee-side-chalet/tsc-central-green",
@@ -13984,6 +13984,73 @@
     ]
   },
   {
+    "venue_name": "Partners In Crime",
+    "room_name": "Indoor Space",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/62894/partners-in-crime/indoor-space",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/31553/partners-in-crime",
+    "venue_id": 31553,
+    "room_id": 62894,
+    "area": "Chatsworth",
+    "address": "397 River Valley Road ",
+    "city": "Singapore",
+    "postcode": "248292",
+    "lat": 1.2953896,
+    "lng": 103.8302869,
+    "capacity_standing": 80,
+    "capacity_seated": 50,
+    "min_attendees": null,
+    "price": "S$900",
+    "price_method": "minimum spend",
+    "price_type": "per session",
+    "price_per_person": 2000,
+    "price_per_person_type": "per session",
+    "rating": 4.9,
+    "reviews": 3,
+    "mrt_station": null,
+    "mrt_distance": null,
+    "venue_type": "Bar",
+    "space_type": "Bar",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 319,
+    "response_rate": 0.9783,
+    "catering_options": [
+      1,
+      7,
+      9,
+      16,
+      21,
+      8,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      12,
+      17
+    ],
+    "cuisine": "American",
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "11:00",
+        "closes": "00:00"
+      }
+    ]
+  },
+  {
     "venue_name": "RALOVS Cafe",
     "room_name": "Creative Cafe Space",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/114007/ralovs-cafe/creative-cafe-space",
@@ -14054,73 +14121,6 @@
     ]
   },
   {
-    "venue_name": "Partners In Crime",
-    "room_name": "Indoor Space",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/62894/partners-in-crime/indoor-space",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/31553/partners-in-crime",
-    "venue_id": 31553,
-    "room_id": 62894,
-    "area": "Chatsworth",
-    "address": "397 River Valley Road ",
-    "city": "Singapore",
-    "postcode": "248292",
-    "lat": 1.2953896,
-    "lng": 103.8302869,
-    "capacity_standing": 80,
-    "capacity_seated": 50,
-    "min_attendees": null,
-    "price": "S$900",
-    "price_method": "minimum spend",
-    "price_type": "per session",
-    "price_per_person": 2000,
-    "price_per_person_type": "per session",
-    "rating": 4.9,
-    "reviews": 3,
-    "mrt_station": null,
-    "mrt_distance": null,
-    "venue_type": "Bar",
-    "space_type": "Bar",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 319,
-    "response_rate": 0.9781,
-    "catering_options": [
-      1,
-      7,
-      9,
-      16,
-      21,
-      8,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      8,
-      9,
-      12,
-      17
-    ],
-    "cuisine": "American",
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "11:00",
-        "closes": "00:00"
-      }
-    ]
-  },
-  {
     "venue_name": "We Care Training and Events Space",
     "room_name": "The Serenity Room",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/60708/we-care-training-and-events-space/the-serenity-room",
@@ -14183,68 +14183,6 @@
           "Sunday"
         ],
         "opens": "09:00",
-        "closes": "22:00"
-      }
-    ]
-  },
-  {
-    "venue_name": "Waka 62",
-    "room_name": "Tiki Bar",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/84549/waka-62/tiki-bar",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/50955/waka-62-2",
-    "venue_id": 50955,
-    "room_id": 84549,
-    "area": "Singapore City Centre",
-    "address": "62 Circular Road #01-01",
-    "city": "Singapore",
-    "postcode": "049416",
-    "lat": 1.286274,
-    "lng": 103.8491763,
-    "capacity_standing": 50,
-    "capacity_seated": 40,
-    "min_attendees": null,
-    "price": "S$14",
-    "price_method": "per person",
-    "price_type": "per session",
-    "price_per_person": 1400,
-    "price_per_person_type": "per session",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Raffles Place MRT Station",
-    "mrt_distance": "350 m",
-    "venue_type": "Karaoke Bar",
-    "space_type": "Karaoke Bar",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 33,
-    "response_rate": 1,
-    "catering_options": [
-      16,
-      21,
-      8,
-      1000,
-      1001
-    ],
-    "room_features": [
-      3,
-      7,
-      9,
-      12,
-      18
-    ],
-    "cuisine": "British",
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday"
-        ],
-        "opens": "18:00",
         "closes": "22:00"
       }
     ]
@@ -14495,6 +14433,68 @@
         ],
         "opens": "11:00",
         "closes": "21:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "Waka 62",
+    "room_name": "Tiki Bar",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/84549/waka-62/tiki-bar",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/50955/waka-62-2",
+    "venue_id": 50955,
+    "room_id": 84549,
+    "area": "Singapore City Centre",
+    "address": "62 Circular Road #01-01",
+    "city": "Singapore",
+    "postcode": "049416",
+    "lat": 1.286274,
+    "lng": 103.8491763,
+    "capacity_standing": 50,
+    "capacity_seated": 40,
+    "min_attendees": null,
+    "price": "S$14",
+    "price_method": "per person",
+    "price_type": "per session",
+    "price_per_person": 1400,
+    "price_per_person_type": "per session",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Raffles Place MRT Station",
+    "mrt_distance": "350 m",
+    "venue_type": "Karaoke Bar",
+    "space_type": "Karaoke Bar",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 33,
+    "response_rate": 1,
+    "catering_options": [
+      16,
+      21,
+      8,
+      1000,
+      1001
+    ],
+    "room_features": [
+      3,
+      7,
+      9,
+      12,
+      18
+    ],
+    "cuisine": "British",
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "18:00",
+        "closes": "22:00"
       }
     ]
   },
@@ -16404,6 +16404,70 @@
     ]
   },
   {
+    "venue_name": "Warehouse on River Promenade",
+    "room_name": "Main Event Space",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/76952/warehouse-on-river-promenade/main-event-space",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/44636/warehouse-on-river-promenade",
+    "venue_id": 44636,
+    "room_id": 76952,
+    "area": "River Valley",
+    "address": "5 Jiak Kim Street ",
+    "city": "Singapore",
+    "postcode": "169425",
+    "lat": 1.2910971,
+    "lng": 103.8352666,
+    "capacity_standing": 350,
+    "capacity_seated": 240,
+    "min_attendees": null,
+    "price": "S$10900",
+    "price_method": "hire fee",
+    "price_type": "per day",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 5,
+    "reviews": 4,
+    "mrt_station": null,
+    "mrt_distance": null,
+    "venue_type": "Warehouse",
+    "space_type": "Hall",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 137,
+    "response_rate": 0.8991,
+    "catering_options": [
+      16,
+      1000,
+      1001
+    ],
+    "room_features": [
+      3,
+      6,
+      7,
+      9,
+      12,
+      17,
+      18,
+      20
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  {
     "venue_name": "Group Therapy (Cross St Exchange)",
     "room_name": "Entire Venue",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/14507/group-therapy-cross-st-exchange/entire-venue",
@@ -16688,142 +16752,6 @@
     ]
   },
   {
-    "venue_name": "Estuary Restaurant",
-    "room_name": "Indoor Seating Area",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/115166/estuary-restaurant/indoor-seating-area",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/67866/estuary-restaurant",
-    "venue_id": 67866,
-    "room_id": 115166,
-    "area": "Dhoby Ghaut",
-    "address": "9 Penang Road #01-08/09",
-    "city": "Singapore",
-    "postcode": "238459",
-    "lat": 1.2979041,
-    "lng": 103.845453,
-    "capacity_standing": 120,
-    "capacity_seated": 100,
-    "min_attendees": null,
-    "price": "S$800",
-    "price_method": "minimum spend",
-    "price_type": "per morning",
-    "price_per_person": 2500,
-    "price_per_person_type": "per session",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Dhoby Ghaut MRT Station",
-    "mrt_distance": "100 m",
-    "venue_type": "Restaurant",
-    "space_type": "Event Space",
-    "venue_part": "Private space",
-    "is_supervenue": false,
-    "response_time_min": 1232,
-    "response_rate": 0.5,
-    "catering_options": [
-      1,
-      7,
-      14,
-      15,
-      20,
-      8,
-      1001
-    ],
-    "room_features": [
-      3,
-      5,
-      6,
-      7,
-      8,
-      9,
-      11,
-      12,
-      16,
-      17,
-      18,
-      19
-    ],
-    "cuisine": "Asian",
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "07:30",
-        "closes": "22:00"
-      }
-    ]
-  },
-  {
-    "venue_name": "Warehouse on River Promenade",
-    "room_name": "Main Event Space",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/76952/warehouse-on-river-promenade/main-event-space",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/44636/warehouse-on-river-promenade",
-    "venue_id": 44636,
-    "room_id": 76952,
-    "area": "River Valley",
-    "address": "5 Jiak Kim Street ",
-    "city": "Singapore",
-    "postcode": "169425",
-    "lat": 1.2910971,
-    "lng": 103.8352666,
-    "capacity_standing": 350,
-    "capacity_seated": 240,
-    "min_attendees": null,
-    "price": "S$10900",
-    "price_method": "hire fee",
-    "price_type": "per day",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 5,
-    "reviews": 4,
-    "mrt_station": null,
-    "mrt_distance": null,
-    "venue_type": "Warehouse",
-    "space_type": "Hall",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 137,
-    "response_rate": 0.8987,
-    "catering_options": [
-      16,
-      1000,
-      1001
-    ],
-    "room_features": [
-      3,
-      6,
-      7,
-      9,
-      12,
-      17,
-      18,
-      20
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "09:00",
-        "closes": "22:00"
-      }
-    ]
-  },
-  {
     "venue_name": "Italian Patio",
     "room_name": "Indoor",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/111291/italian-patio/indoor",
@@ -16955,6 +16883,78 @@
         ],
         "opens": "12:00",
         "closes": "01:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "Estuary Restaurant",
+    "room_name": "Indoor Seating Area",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/115166/estuary-restaurant/indoor-seating-area",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/67866/estuary-restaurant",
+    "venue_id": 67866,
+    "room_id": 115166,
+    "area": "Dhoby Ghaut",
+    "address": "9 Penang Road #01-08/09",
+    "city": "Singapore",
+    "postcode": "238459",
+    "lat": 1.2979041,
+    "lng": 103.845453,
+    "capacity_standing": 120,
+    "capacity_seated": 100,
+    "min_attendees": null,
+    "price": "S$800",
+    "price_method": "minimum spend",
+    "price_type": "per morning",
+    "price_per_person": 2500,
+    "price_per_person_type": "per session",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Dhoby Ghaut MRT Station",
+    "mrt_distance": "100 m",
+    "venue_type": "Restaurant",
+    "space_type": "Event Space",
+    "venue_part": "Private space",
+    "is_supervenue": false,
+    "response_time_min": 994,
+    "response_rate": 0.5,
+    "catering_options": [
+      1,
+      7,
+      14,
+      15,
+      20,
+      8,
+      1001
+    ],
+    "room_features": [
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12,
+      16,
+      17,
+      18,
+      19
+    ],
+    "cuisine": "Asian",
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "07:30",
+        "closes": "22:00"
       }
     ]
   },
@@ -17153,144 +17153,6 @@
     ]
   },
   {
-    "venue_name": "CIN CIN",
-    "room_name": "Entire Venue",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/53022/cin-cin/entire-venue",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/25773/cin-cin",
-    "venue_id": 25773,
-    "room_id": 53022,
-    "area": "Tanjong Pagar",
-    "address": "Oasia Hotel Downtown, 100 Peck Seah Street, #01-02 ",
-    "city": "Singapore",
-    "postcode": "079333",
-    "lat": 1.2758528,
-    "lng": 103.8443611,
-    "capacity_standing": 100,
-    "capacity_seated": 70,
-    "min_attendees": null,
-    "price": "S$3000",
-    "price_method": "minimum spend",
-    "price_type": "per session",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 4.9,
-    "reviews": 1,
-    "mrt_station": "Tanjong Pagar MRT Station",
-    "mrt_distance": "200 m",
-    "venue_type": "Bar",
-    "space_type": "Bar",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 216,
-    "response_rate": 0.8983,
-    "catering_options": [
-      1,
-      9,
-      8,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      12,
-      17,
-      27
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday"
-        ],
-        "opens": "17:00",
-        "closes": "23:00"
-      },
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Friday"
-        ],
-        "opens": "17:00",
-        "closes": "00:00"
-      },
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Saturday"
-        ],
-        "opens": "15:00",
-        "closes": "00:00"
-      }
-    ]
-  },
-  {
-    "venue_name": "Harry’s Tampines",
-    "room_name": "Entire Venue",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/113447/harrys-tampines/entire-venue",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/66996/harry-s-tampines",
-    "venue_id": 66996,
-    "room_id": 113447,
-    "area": "Tampines East",
-    "address": "9 Tampines Grande #01-19",
-    "city": "Singapore",
-    "postcode": "528735",
-    "lat": 1.3557701,
-    "lng": 103.9414999,
-    "capacity_standing": 120,
-    "capacity_seated": 80,
-    "min_attendees": null,
-    "price": "S$50",
-    "price_method": "per person",
-    "price_type": "per session",
-    "price_per_person": 5000,
-    "price_per_person_type": "per session",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Tampines MRT Station",
-    "mrt_distance": "500 m",
-    "venue_type": "Restaurant",
-    "space_type": "Restaurant",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 0,
-    "response_rate": 0,
-    "catering_options": [
-      1,
-      20,
-      8,
-      1000,
-      1001
-    ],
-    "room_features": [
-      6,
-      9,
-      12
-    ],
-    "cuisine": "British",
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "12:00",
-        "closes": "22:00"
-      }
-    ]
-  },
-  {
     "venue_name": "Carros",
     "room_name": "99 Bends VIP Lounge",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/76942/carros/99-bends-vip-lounge",
@@ -17362,6 +17224,67 @@
         ],
         "opens": "10:00",
         "closes": "03:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "Harry’s Tampines",
+    "room_name": "Entire Venue",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/113447/harrys-tampines/entire-venue",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/66996/harry-s-tampines",
+    "venue_id": 66996,
+    "room_id": 113447,
+    "area": "Tampines East",
+    "address": "9 Tampines Grande #01-19",
+    "city": "Singapore",
+    "postcode": "528735",
+    "lat": 1.3557701,
+    "lng": 103.9414999,
+    "capacity_standing": 120,
+    "capacity_seated": 80,
+    "min_attendees": null,
+    "price": "S$50",
+    "price_method": "per person",
+    "price_type": "per session",
+    "price_per_person": 5000,
+    "price_per_person_type": "per session",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Tampines MRT Station",
+    "mrt_distance": "500 m",
+    "venue_type": "Restaurant",
+    "space_type": "Restaurant",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 0,
+    "response_rate": 0,
+    "catering_options": [
+      1,
+      20,
+      8,
+      1000,
+      1001
+    ],
+    "room_features": [
+      6,
+      9,
+      12
+    ],
+    "cuisine": "British",
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "12:00",
+        "closes": "22:00"
       }
     ]
   },
@@ -17636,6 +17559,159 @@
     ]
   },
   {
+    "venue_name": "CIN CIN",
+    "room_name": "Entire Venue",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/53022/cin-cin/entire-venue",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/25773/cin-cin",
+    "venue_id": 25773,
+    "room_id": 53022,
+    "area": "Tanjong Pagar",
+    "address": "Oasia Hotel Downtown, 100 Peck Seah Street, #01-02 ",
+    "city": "Singapore",
+    "postcode": "079333",
+    "lat": 1.2758528,
+    "lng": 103.8443611,
+    "capacity_standing": 100,
+    "capacity_seated": 70,
+    "min_attendees": null,
+    "price": "S$3000",
+    "price_method": "minimum spend",
+    "price_type": "per session",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 4.9,
+    "reviews": 1,
+    "mrt_station": "Tanjong Pagar MRT Station",
+    "mrt_distance": "200 m",
+    "venue_type": "Bar",
+    "space_type": "Bar",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 216,
+    "response_rate": 0.8983,
+    "catering_options": [
+      1,
+      9,
+      8,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      12,
+      17,
+      27
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      },
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday"
+        ],
+        "opens": "17:00",
+        "closes": "00:00"
+      },
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Saturday"
+        ],
+        "opens": "15:00",
+        "closes": "00:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "Meownistry of Meow | Cat-friendly co-working",
+    "room_name": "Whole Space booking",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/106715/meownistry-of-meow-cat-friendly-co-working/whole-space-booking",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/62337/meownistry-of-meow-cat-friendly-co-working",
+    "venue_id": 62337,
+    "room_id": 106715,
+    "area": "Kampong Glam",
+    "address": "4A Jalan Klapa ",
+    "city": "Singapore",
+    "postcode": "199316",
+    "lat": 1.3041615,
+    "lng": 103.8599587,
+    "capacity_standing": 35,
+    "capacity_seated": 25,
+    "min_attendees": null,
+    "price": "S$150",
+    "price_method": "hire fee",
+    "price_type": "per hour",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 5,
+    "reviews": 7,
+    "mrt_station": "Lavender MRT Station",
+    "mrt_distance": "500 m",
+    "venue_type": "Coworking Space",
+    "space_type": "Event Venue",
+    "venue_part": "Whole venue",
+    "is_supervenue": true,
+    "response_time_min": 57,
+    "response_rate": 0.9889,
+    "catering_options": [
+      9,
+      10,
+      16,
+      18,
+      21,
+      1000,
+      1001
+    ],
+    "room_features": [
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      16,
+      17,
+      18,
+      19,
+      20,
+      24
+    ],
+    "cuisine": null,
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "11:00",
+        "closes": "22:00"
+      }
+    ]
+  },
+  {
     "venue_name": "Bombay Brasserie",
     "room_name": "Indoor Area",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/90495/bombay-brasserie/indoor-area",
@@ -17890,82 +17966,6 @@
         ],
         "opens": "11:00",
         "closes": "21:30"
-      }
-    ]
-  },
-  {
-    "venue_name": "Meownistry of Meow | Cat-friendly co-working",
-    "room_name": "Whole Space booking",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/106715/meownistry-of-meow-cat-friendly-co-working/whole-space-booking",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/62337/meownistry-of-meow-cat-friendly-co-working",
-    "venue_id": 62337,
-    "room_id": 106715,
-    "area": "Kampong Glam",
-    "address": "4A Jalan Klapa ",
-    "city": "Singapore",
-    "postcode": "199316",
-    "lat": 1.3041615,
-    "lng": 103.8599587,
-    "capacity_standing": 35,
-    "capacity_seated": 25,
-    "min_attendees": null,
-    "price": "S$150",
-    "price_method": "hire fee",
-    "price_type": "per hour",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 5,
-    "reviews": 7,
-    "mrt_station": "Lavender MRT Station",
-    "mrt_distance": "500 m",
-    "venue_type": "Coworking Space",
-    "space_type": "Event Venue",
-    "venue_part": "Whole venue",
-    "is_supervenue": true,
-    "response_time_min": 57,
-    "response_rate": 0.9889,
-    "catering_options": [
-      9,
-      10,
-      16,
-      18,
-      21,
-      1000,
-      1001
-    ],
-    "room_features": [
-      3,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      16,
-      17,
-      18,
-      19,
-      20,
-      24
-    ],
-    "cuisine": null,
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "11:00",
-        "closes": "22:00"
       }
     ]
   },
@@ -19039,6 +19039,74 @@
     ]
   },
   {
+    "venue_name": "HOME Dawn & Dusk",
+    "room_name": "Event Space",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/71139/home-dawn-dusk/event-space",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/39222/home-dawn-dusk",
+    "venue_id": 39222,
+    "room_id": 71139,
+    "area": "Singapore City Centre",
+    "address": "3A River Valley Road #02-03",
+    "city": "Singapore",
+    "postcode": "179020",
+    "lat": 1.2903646,
+    "lng": 103.8448929,
+    "capacity_standing": 200,
+    "capacity_seated": 200,
+    "min_attendees": null,
+    "price": "S$10000",
+    "price_method": "minimum spend",
+    "price_type": "per evening",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Fort Canning MRT Station",
+    "mrt_distance": "250 m",
+    "venue_type": "Restaurant",
+    "space_type": "Event Space",
+    "venue_part": "Whole venue",
+    "is_supervenue": false,
+    "response_time_min": 393,
+    "response_rate": 0.726,
+    "catering_options": [
+      1,
+      21,
+      8,
+      1000,
+      1001
+    ],
+    "room_features": [
+      5,
+      6,
+      7,
+      9,
+      12,
+      13,
+      16,
+      17,
+      18,
+      19
+    ],
+    "cuisine": "Asian",
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "17:00",
+        "closes": "01:00"
+      }
+    ]
+  },
+  {
     "venue_name": "Enjoy Eating House and Bar",
     "room_name": "Restaurant",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/36572/enjoy-eating-house-and-bar/restaurant",
@@ -19320,74 +19388,6 @@
         ],
         "opens": "09:00",
         "closes": "23:30"
-      }
-    ]
-  },
-  {
-    "venue_name": "HOME Dawn & Dusk",
-    "room_name": "Event Space",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/71139/home-dawn-dusk/event-space",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/39222/home-dawn-dusk",
-    "venue_id": 39222,
-    "room_id": 71139,
-    "area": "Singapore City Centre",
-    "address": "3A River Valley Road #02-03",
-    "city": "Singapore",
-    "postcode": "179020",
-    "lat": 1.2903646,
-    "lng": 103.8448929,
-    "capacity_standing": 200,
-    "capacity_seated": 200,
-    "min_attendees": null,
-    "price": "S$10000",
-    "price_method": "minimum spend",
-    "price_type": "per evening",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Fort Canning MRT Station",
-    "mrt_distance": "250 m",
-    "venue_type": "Restaurant",
-    "space_type": "Event Space",
-    "venue_part": "Whole venue",
-    "is_supervenue": false,
-    "response_time_min": 393,
-    "response_rate": 0.726,
-    "catering_options": [
-      1,
-      21,
-      8,
-      1000,
-      1001
-    ],
-    "room_features": [
-      5,
-      6,
-      7,
-      9,
-      12,
-      13,
-      16,
-      17,
-      18,
-      19
-    ],
-    "cuisine": "Asian",
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "17:00",
-        "closes": "01:00"
       }
     ]
   },
@@ -21503,77 +21503,6 @@
     ]
   },
   {
-    "venue_name": "AIBI Maxwell",
-    "room_name": "Outdoor Plaza",
-    "url": "https://www.tagvenue.com/sg/rooms/singapore/117227/aibi-maxwell/outdoor-plaza",
-    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/68959/aibi-maxwell",
-    "venue_id": 68959,
-    "room_id": 117227,
-    "area": "Tanjong Pagar",
-    "address": "30 Maxwell Road ",
-    "city": "Singapore",
-    "postcode": "069114",
-    "lat": 1.2775878,
-    "lng": 103.845288,
-    "capacity_standing": 300,
-    "capacity_seated": 150,
-    "min_attendees": null,
-    "price": "S$3000",
-    "price_method": "hire fee",
-    "price_type": "per day",
-    "price_per_person": -1,
-    "price_per_person_type": "NULL",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Tanjong Pagar MRT Station",
-    "mrt_distance": "150 m",
-    "venue_type": "Event Venue",
-    "space_type": "Outdoor Space",
-    "venue_part": "Semi-private area",
-    "is_supervenue": false,
-    "response_time_min": 0,
-    "response_rate": 0,
-    "catering_options": [
-      1,
-      7,
-      16,
-      8,
-      1000,
-      1001
-    ],
-    "room_features": [
-      3,
-      5,
-      6,
-      9,
-      10,
-      12,
-      13,
-      17,
-      18,
-      19,
-      20,
-      25
-    ],
-    "cuisine": "Chinese",
-    "opening_hours": [
-      {
-        "type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "11:00",
-        "closes": "19:00"
-      }
-    ]
-  },
-  {
     "venue_name": "White Shades",
     "room_name": "Lumina",
     "url": "https://www.tagvenue.com/sg/rooms/singapore/117896/white-shades/lumina",
@@ -21632,6 +21561,77 @@
         ],
         "opens": "17:00",
         "closes": "00:00"
+      }
+    ]
+  },
+  {
+    "venue_name": "AIBI Maxwell",
+    "room_name": "Outdoor Plaza",
+    "url": "https://www.tagvenue.com/sg/rooms/singapore/117227/aibi-maxwell/outdoor-plaza",
+    "venue_url": "https://www.tagvenue.com/sg/venues/singapore/68959/aibi-maxwell",
+    "venue_id": 68959,
+    "room_id": 117227,
+    "area": "Tanjong Pagar",
+    "address": "30 Maxwell Road ",
+    "city": "Singapore",
+    "postcode": "069114",
+    "lat": 1.2775878,
+    "lng": 103.845288,
+    "capacity_standing": 300,
+    "capacity_seated": 200,
+    "min_attendees": null,
+    "price": "S$3000",
+    "price_method": "hire fee",
+    "price_type": "per day",
+    "price_per_person": -1,
+    "price_per_person_type": "NULL",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Tanjong Pagar MRT Station",
+    "mrt_distance": "150 m",
+    "venue_type": "Event Venue",
+    "space_type": "Outdoor Space",
+    "venue_part": "Semi-private area",
+    "is_supervenue": false,
+    "response_time_min": 0,
+    "response_rate": 0,
+    "catering_options": [
+      1,
+      7,
+      16,
+      8,
+      1000,
+      1001
+    ],
+    "room_features": [
+      3,
+      5,
+      6,
+      9,
+      10,
+      12,
+      13,
+      17,
+      18,
+      19,
+      20,
+      25
+    ],
+    "cuisine": "Chinese",
+    "opening_hours": [
+      {
+        "type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "11:00",
+        "closes": "19:00"
       }
     ]
   }

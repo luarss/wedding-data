@@ -70,24 +70,24 @@
     "response_time": null
   },
   {
-    "name": "Maduro",
-    "url": "https://www.venuerific.com/sg/venues/maduro",
-    "slug": "maduro",
-    "area": "Sentosa",
-    "address": "2 Bukit Manis Rd, Lower Lobby of Sofitel Singapore Sentosa, Singapore 099891",
-    "lat": 1.2456916,
-    "lng": 103.8278754,
-    "capacity_standing": 150,
-    "capacity_seated": 100,
+    "name": "Mandai Wildlife Reserve",
+    "url": "https://www.venuerific.com/sg/venues/mandai-wildlife-reserve",
+    "slug": "mandai-wildlife-reserve",
+    "area": "Bukit Batok, Woodlands, Yishun",
+    "address": "80 Mandai Lake Rd, Singapore 729826",
+    "lat": 1.4049843,
+    "lng": 103.7905489,
+    "capacity_standing": 1300,
+    "capacity_seated": 500,
     "rooms_count": 5,
-    "price": "S$2,000",
+    "price": "S$1,200",
     "price_unit": "Min spend",
     "rating": 0,
     "reviews": 0,
-    "mrt_station": "HarbourFront MRT Station",
+    "mrt_station": "",
     "event_types": [
-      "Birthday",
-      "Wedding"
+      "Corporate Seminar",
+      "Team Building"
     ],
     "fast_response": false,
     "response_time": null
@@ -129,7 +129,7 @@
     "price": "S$80",
     "price_unit": "Per hour",
     "rating": 5.0,
-    "reviews": 4,
+    "reviews": 5,
     "mrt_station": "🚆 Farrer Park MRT Station (NE8)  🚆 Jalan Besar MRT Station (DT22)",
     "event_types": [
       "Product Launch",
@@ -255,6 +255,29 @@
     ],
     "fast_response": true,
     "response_time": "6 hrs"
+  },
+  {
+    "name": "Maduro",
+    "url": "https://www.venuerific.com/sg/venues/maduro",
+    "slug": "maduro",
+    "area": "Sentosa",
+    "address": "2 Bukit Manis Rd, Lower Lobby of Sofitel Singapore Sentosa, Singapore 099891",
+    "lat": 1.2456916,
+    "lng": 103.8278754,
+    "capacity_standing": 150,
+    "capacity_seated": 100,
+    "rooms_count": 5,
+    "price": "S$2,000",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "HarbourFront MRT Station",
+    "event_types": [
+      "Birthday",
+      "Wedding"
+    ],
+    "fast_response": false,
+    "response_time": null
   },
   {
     "name": "KOMYUNITI Bar & Restaurant",
@@ -417,30 +440,6 @@
     "response_time": "4 hrs"
   },
   {
-    "name": "ARC.",
-    "url": "https://www.venuerific.com/sg/venues/arc",
-    "slug": "arc",
-    "area": "Paya Lebar, Tai Seng",
-    "address": "23 New Industrial Rd, Solstice Business Centre, Singapore 536209",
-    "lat": 1.3432311,
-    "lng": 103.8854051,
-    "capacity_standing": 120,
-    "capacity_seated": 100,
-    "rooms_count": 1,
-    "price": "S$220",
-    "price_unit": "Per hour",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Bartley MRT Station (650 m)",
-    "event_types": [
-      "Birthday",
-      "Baby Shower",
-      "Kid's 1st Birthday"
-    ],
-    "fast_response": false,
-    "response_time": null
-  },
-  {
     "name": "The Pan Pacific Hotel Singapore",
     "url": "https://www.venuerific.com/sg/venues/the-pan-pacific-hotel-singapore",
     "slug": "the-pan-pacific-hotel-singapore",
@@ -482,29 +481,6 @@
     ],
     "fast_response": true,
     "response_time": null
-  },
-  {
-    "name": "DOMO",
-    "url": "https://www.venuerific.com/sg/venues/domo",
-    "slug": "domo",
-    "area": "City Hall, Esplanade, Raffles Place",
-    "address": "252 N Bridge Rd, #03-00 Fairmont Singapore, Singapore 179103",
-    "lat": 1.2942831,
-    "lng": 103.8529487,
-    "capacity_standing": 400,
-    "capacity_seated": 220,
-    "rooms_count": 4,
-    "price": "S$80",
-    "price_unit": "Per hour",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "City Hall MRT Station",
-    "event_types": [
-      "Product Launch",
-      "Wedding"
-    ],
-    "fast_response": true,
-    "response_time": "5 hrs"
   },
   {
     "name": "The Mill — A Modern, Versatile Event Venue",
@@ -689,29 +665,6 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": null
-  },
-  {
-    "name": "Mandai Wildlife Reserve",
-    "url": "https://www.venuerific.com/sg/venues/mandai-wildlife-reserve",
-    "slug": "mandai-wildlife-reserve",
-    "area": "Bukit Batok, Woodlands, Yishun",
-    "address": "80 Mandai Lake Rd, Singapore 729826",
-    "lat": 1.4049843,
-    "lng": 103.7905489,
-    "capacity_standing": 1300,
-    "capacity_seated": 500,
-    "rooms_count": 5,
-    "price": "S$1,200",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "",
-    "event_types": [
-      "Corporate Seminar",
-      "Team Building"
-    ],
-    "fast_response": false,
     "response_time": null
   },
   {
@@ -989,6 +942,53 @@
     ],
     "fast_response": true,
     "response_time": "8 hrs"
+  },
+  {
+    "name": "ARC.",
+    "url": "https://www.venuerific.com/sg/venues/arc",
+    "slug": "arc",
+    "area": "Paya Lebar, Tai Seng",
+    "address": "23 New Industrial Rd, Solstice Business Centre, Singapore 536209",
+    "lat": 1.3432311,
+    "lng": 103.8854051,
+    "capacity_standing": 120,
+    "capacity_seated": 100,
+    "rooms_count": 1,
+    "price": "S$220",
+    "price_unit": "Per hour",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Bartley MRT Station (650 m)",
+    "event_types": [
+      "Birthday",
+      "Baby Shower",
+      "Kid's 1st Birthday"
+    ],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
+    "name": "DOMO",
+    "url": "https://www.venuerific.com/sg/venues/domo",
+    "slug": "domo",
+    "area": "City Hall, Esplanade, Raffles Place",
+    "address": "252 N Bridge Rd, #03-00 Fairmont Singapore, Singapore 179103",
+    "lat": 1.2942831,
+    "lng": 103.8529487,
+    "capacity_standing": 400,
+    "capacity_seated": 220,
+    "rooms_count": 4,
+    "price": "S$80",
+    "price_unit": "Per hour",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "City Hall MRT Station",
+    "event_types": [
+      "Product Launch",
+      "Wedding"
+    ],
+    "fast_response": true,
+    "response_time": "5 hrs"
   },
   {
     "name": "WingsOverAsia",
