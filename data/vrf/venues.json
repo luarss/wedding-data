@@ -93,27 +93,27 @@
     "response_time": null
   },
   {
-    "name": "HomeTeamNS Bedok Reservoir Clubhouse",
-    "url": "https://www.venuerific.com/sg/venues/hometeamns-bedok-reservoir-clubhouse",
-    "slug": "hometeamns-bedok-reservoir-clubhouse",
-    "area": "Bedok",
-    "address": "900 Bedok North Rd, Singapore 479994",
-    "lat": 1.3409594,
-    "lng": 103.9195417,
-    "capacity_standing": 380,
-    "capacity_seated": 380,
-    "rooms_count": 6,
-    "price": "S$478",
+    "name": "Maduro",
+    "url": "https://www.venuerific.com/sg/venues/maduro",
+    "slug": "maduro",
+    "area": "Sentosa",
+    "address": "2 Bukit Manis Rd, Lower Lobby of Sofitel Singapore Sentosa, Singapore 099891",
+    "lat": 1.2456916,
+    "lng": 103.8278754,
+    "capacity_standing": 150,
+    "capacity_seated": 100,
+    "rooms_count": 5,
+    "price": "S$2,000",
     "price_unit": "Min spend",
     "rating": 0,
     "reviews": 0,
-    "mrt_station": "Bedok North MRT Station (DT29)",
+    "mrt_station": "HarbourFront MRT Station",
     "event_types": [
-      "Conference",
-      "Team Bonding"
+      "Birthday",
+      "Wedding"
     ],
-    "fast_response": true,
-    "response_time": "17 hrs"
+    "fast_response": false,
+    "response_time": null
   },
   {
     "name": "The Inspire Space Sg",
@@ -255,29 +255,6 @@
     ],
     "fast_response": true,
     "response_time": "6 hrs"
-  },
-  {
-    "name": "Maduro",
-    "url": "https://www.venuerific.com/sg/venues/maduro",
-    "slug": "maduro",
-    "area": "Sentosa",
-    "address": "2 Bukit Manis Rd, Lower Lobby of Sofitel Singapore Sentosa, Singapore 099891",
-    "lat": 1.2456916,
-    "lng": 103.8278754,
-    "capacity_standing": 150,
-    "capacity_seated": 100,
-    "rooms_count": 5,
-    "price": "S$2,000",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "HarbourFront MRT Station",
-    "event_types": [
-      "Birthday",
-      "Wedding"
-    ],
-    "fast_response": false,
-    "response_time": null
   },
   {
     "name": "KOMYUNITI Bar & Restaurant",
@@ -440,6 +417,29 @@
     "response_time": "4 hrs"
   },
   {
+    "name": "HomeTeamNS Bedok Reservoir Clubhouse",
+    "url": "https://www.venuerific.com/sg/venues/hometeamns-bedok-reservoir-clubhouse",
+    "slug": "hometeamns-bedok-reservoir-clubhouse",
+    "area": "Bedok",
+    "address": "900 Bedok North Rd, Singapore 479994",
+    "lat": 1.3409594,
+    "lng": 103.9195417,
+    "capacity_standing": 380,
+    "capacity_seated": 380,
+    "rooms_count": 6,
+    "price": "S$478",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Bedok North MRT Station (DT29)",
+    "event_types": [
+      "Conference",
+      "Team Bonding"
+    ],
+    "fast_response": true,
+    "response_time": "15 hrs"
+  },
+  {
     "name": "The Pan Pacific Hotel Singapore",
     "url": "https://www.venuerific.com/sg/venues/the-pan-pacific-hotel-singapore",
     "slug": "the-pan-pacific-hotel-singapore",
@@ -550,7 +550,7 @@
       "Product Launch"
     ],
     "fast_response": true,
-    "response_time": "3 hrs"
+    "response_time": "12 hrs"
   },
   {
     "name": "METT Hotel",
