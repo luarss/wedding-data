@@ -136,7 +136,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "3 hrs"
+    "response_time": "4 hrs"
   },
   {
     "name": "Cargo39",
@@ -440,6 +440,30 @@
     "response_time": "15 hrs"
   },
   {
+    "name": "ARC.",
+    "url": "https://www.venuerific.com/sg/venues/arc",
+    "slug": "arc",
+    "area": "Paya Lebar, Tai Seng",
+    "address": "23 New Industrial Rd, Solstice Business Centre, Singapore 536209",
+    "lat": 1.3432311,
+    "lng": 103.8854051,
+    "capacity_standing": 120,
+    "capacity_seated": 100,
+    "rooms_count": 1,
+    "price": "S$220",
+    "price_unit": "Per hour",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Bartley MRT Station (650 m)",
+    "event_types": [
+      "Birthday",
+      "Baby Shower",
+      "Kid's 1st Birthday"
+    ],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
     "name": "The Pan Pacific Hotel Singapore",
     "url": "https://www.venuerific.com/sg/venues/the-pan-pacific-hotel-singapore",
     "slug": "the-pan-pacific-hotel-singapore",
@@ -729,7 +753,10 @@
     "rating": 0,
     "reviews": 0,
     "mrt_station": "Mattar MRT Station",
-    "event_types": [],
+    "event_types": [
+      "Workshop",
+      "Photo Shoot"
+    ],
     "fast_response": true,
     "response_time": "6 hrs"
   },
@@ -942,30 +969,6 @@
     ],
     "fast_response": true,
     "response_time": "8 hrs"
-  },
-  {
-    "name": "ARC.",
-    "url": "https://www.venuerific.com/sg/venues/arc",
-    "slug": "arc",
-    "area": "Paya Lebar, Tai Seng",
-    "address": "23 New Industrial Rd, Solstice Business Centre, Singapore 536209",
-    "lat": 1.3432311,
-    "lng": 103.8854051,
-    "capacity_standing": 120,
-    "capacity_seated": 100,
-    "rooms_count": 1,
-    "price": "S$220",
-    "price_unit": "Per hour",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Bartley MRT Station (650 m)",
-    "event_types": [
-      "Birthday",
-      "Baby Shower",
-      "Kid's 1st Birthday"
-    ],
-    "fast_response": false,
-    "response_time": null
   },
   {
     "name": "DOMO",
