@@ -280,7 +280,7 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ad072a4e-0346-4def-a12c-74e71edf9ea6/630c5835-7a74-416d-add8-bfbbd2d6c013/high.webp"
       }
     ],
-    "description": "Grand Hyatt Kuala Lumpur, located in the vicinity of the iconic Petronas Twin Towers, is one of the most popular hotel venue for weddings, this is due to its high capacity; the Grand Ballroom with 700 pax, and the Grand Salon with maximum capacity of 450 pax. Wedding packages start from RM455 nett per person as of the date of publication.\n\nThe oval-shaped, pillar-free Grand Ballroom and Grand Salon are dazzling options for gala events, especially weddings, thanks to their energy-efficient crystal chandeliers and their most recent instalment – LED screens that cover 360 of the ballroom, easily transforming a space to match your wedding theme. On the other hand, the Grand Residence, with its capacity of 20-330 guests, is a welcoming and functional entertainment space that is ideal for product launches and art exhibitions, or events such as exclusive meetings and cocktail receptions.\n\nGrand Hyatt KL also features 412 guestrooms, including 42 suites, and three exciting dining options: THIRTY8 offers a selection of steaks, seafood, sushi and sashimi; JP Teres serves the best of Malaysian cuisine; and Poolside features healthy international and local favourites.",
+    "description": "Grand Hyatt Kuala Lumpur, located in the vicinity of the iconic Petronas Twin Towers, is one of the most popular hotel venue for weddings, this is due to its high capacity; the Grand Ballroom with 500 pax, and the Grand Salon with maximum capacity of 250 pax. Wedding packages start from RM498 nett per person as of the date of publication.\r\n\r\nThe oval-shaped, pillar-free Grand Ballroom and Grand Salon are dazzling options for gala events, especially weddings, thanks to their energy-efficient crystal chandeliers and their most recent instalment – LED screens that cover 360 of the ballroom, easily transforming a space to match your wedding theme. On the other hand, the Grand Residence, with its capacity of 20-330 guests, is a welcoming and functional entertainment space that is ideal for product launches and art exhibitions, or events such as exclusive meetings and cocktail receptions.\r\n\r\nGrand Hyatt KL also features 412 guestrooms, including 42 suites, and three exciting dining options: THIRTY8 offers a selection of steaks, seafood, sushi and sashimi; JP Teres serves the best of Malaysian cuisine; and Poolside features healthy international and local favourites.",
     "createdAt": "2023-12-12T08:28:47.320Z",
     "vendorId": "user_3HU7XNDkPwlsPhzMnDxD4OucLNF",
     "address": "12, Jalan Pinang, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
@@ -294,7 +294,7 @@
     "wazeLink": null,
     "googleRating": null,
     "googleTotalReviews": null,
-    "metaDescription": "Grand Hyatt Kuala Lumpur — a sought-after wedding venue by the Petronas Twin Towers with a 700-guest Grand Ballroom and elegant salon.",
+    "metaDescription": "Grand Hyatt Kuala Lumpur — a sought-after wedding venue by the Petronas Twin Towers with a 500-guest Grand Ballroom and elegant salon.",
     "whatsappNumber": null,
     "whatsappMessage": null,
     "youtubeLink": "https://www.youtube.com/watch?v=i9NB8wKTe5c",
@@ -318,7 +318,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'-330':128B '20':127B '360':103B '412':160B '42':163B '450':50B '700':40B 'also':158B 'art':144B 'ballroom':38B,74B,106B 'best':184B 'capac':35B,48B,125B 'chandeli':93B 'cocktail':153B 'cover':102B 'crystal':92B 'cuisin':187B 'date':63B 'dazzl':79B 'dine':168B 'due':31B 'easili':107B 'effici':91B 'energi':90B 'energy-effici':89B 'entertain':135B 'especi':84B 'event':83B,147B 'excit':167B 'exclus':150B 'exhibit':145B 'favourit':195B 'featur':159B,190B 'free':72B 'function':134B 'gala':82B 'grand':1A,5B,37B,44B,73B,76B,121B,155B 'guest':129B 'guestroom':161B 'hand':119B 'healthi':191B 'high':34B 'hotel':25B 'hyatt':2A,6B,156B 'icon':15B 'ideal':139B 'includ':162B 'instal':98B 'intern':192B 'jp':180B 'kl':157B 'kuala':3A,7B,196C,198C 'launch':142B 'led':99B 'local':194B 'locat':9B 'lumpur':4A,8B,197C,199C 'malaysian':186B 'match':112B 'maximum':47B 'meet':151B 'nett':57B 'offer':171B 'one':20B 'option':80B,169B 'oval':68B 'oval-shap':67B 'packag':53B 'pax':41B,51B 'per':58B 'person':59B 'petrona':16B 'pillar':71B 'pillar-fre':70B 'poolsid':189B 'popular':24B 'product':141B 'public':65B 'recent':97B 'recept':154B 'resid':122B 'rm455':56B 'salon':45B,77B 'sashimi':179B 'screen':100B 'seafood':176B 'select':173B 'serv':182B 'shape':69B 'space':110B,136B 'start':54B 'steak':175B 'suit':164B 'sushi':177B 'tere':181B 'thank':86B 'theme':115B 'thirty8':170B 'three':166B 'tower':18B 'transform':108B 'twin':17B 'venu':26B 'vicin':12B 'wed':28B,52B,85B,114B 'welcom':132B",
+    "fts": "'-330':128B '20':127B '250':50B '360':103B '412':160B '42':163B '500':40B 'also':158B 'art':144B 'ballroom':38B,74B,106B 'best':184B 'capac':35B,48B,125B 'chandeli':93B 'cocktail':153B 'cover':102B 'crystal':92B 'cuisin':187B 'date':63B 'dazzl':79B 'dine':168B 'due':31B 'easili':107B 'effici':91B 'energi':90B 'energy-effici':89B 'entertain':135B 'especi':84B 'event':83B,147B 'excit':167B 'exclus':150B 'exhibit':145B 'favourit':195B 'featur':159B,190B 'free':72B 'function':134B 'gala':82B 'grand':1A,5B,37B,44B,73B,76B,121B,155B 'guest':129B 'guestroom':161B 'hand':119B 'healthi':191B 'high':34B 'hotel':25B 'hyatt':2A,6B,156B 'icon':15B 'ideal':139B 'includ':162B 'instal':98B 'intern':192B 'jp':180B 'kl':157B 'kuala':3A,7B,196C,198C 'launch':142B 'led':99B 'local':194B 'locat':9B 'lumpur':4A,8B,197C,199C 'malaysian':186B 'match':112B 'maximum':47B 'meet':151B 'nett':57B 'offer':171B 'one':20B 'option':80B,169B 'oval':68B 'oval-shap':67B 'packag':53B 'pax':41B,51B 'per':58B 'person':59B 'petrona':16B 'pillar':71B 'pillar-fre':70B 'poolsid':189B 'popular':24B 'product':141B 'public':65B 'recent':97B 'recept':154B 'resid':122B 'rm498':56B 'salon':45B,77B 'sashimi':179B 'screen':100B 'seafood':176B 'select':173B 'serv':182B 'shape':69B 'space':110B,136B 'start':54B 'steak':175B 'suit':164B 'sushi':177B 'tere':181B 'thank':86B 'theme':115B 'thirty8':170B 'three':166B 'tower':18B 'transform':108B 'twin':17B 'venu':26B 'vicin':12B 'wed':28B,52B,85B,114B 'welcom':132B",
     "textEmbedding": null,
     "catalogPosition": 77,
     "isSpotlight": false,
@@ -330,7 +330,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-08-11T10:21:35.596Z",
     "spaces": [],
     "packages": [
       {
