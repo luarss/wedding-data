@@ -70,29 +70,6 @@
     "response_time": null
   },
   {
-    "name": "Maduro",
-    "url": "https://www.venuerific.com/sg/venues/maduro",
-    "slug": "maduro",
-    "area": "Sentosa",
-    "address": "2 Bukit Manis Rd, Lower Lobby of Sofitel Singapore Sentosa, Singapore 099891",
-    "lat": 1.2456916,
-    "lng": 103.8278754,
-    "capacity_standing": 150,
-    "capacity_seated": 100,
-    "rooms_count": 5,
-    "price": "S$2,000",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "HarbourFront MRT Station",
-    "event_types": [
-      "Birthday",
-      "Wedding"
-    ],
-    "fast_response": false,
-    "response_time": null
-  },
-  {
     "name": "HomeTeamNS Bedok Reservoir Clubhouse",
     "url": "https://www.venuerific.com/sg/venues/hometeamns-bedok-reservoir-clubhouse",
     "slug": "hometeamns-bedok-reservoir-clubhouse",
@@ -116,6 +93,29 @@
     "response_time": "17 hrs"
   },
   {
+    "name": "Maduro",
+    "url": "https://www.venuerific.com/sg/venues/maduro",
+    "slug": "maduro",
+    "area": "Sentosa",
+    "address": "2 Bukit Manis Rd, Lower Lobby of Sofitel Singapore Sentosa, Singapore 099891",
+    "lat": 1.2456916,
+    "lng": 103.8278754,
+    "capacity_standing": 150,
+    "capacity_seated": 100,
+    "rooms_count": 5,
+    "price": "S$2,000",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "HarbourFront MRT Station",
+    "event_types": [
+      "Birthday",
+      "Wedding"
+    ],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
     "name": "The Inspire Space Sg",
     "url": "https://www.venuerific.com/sg/venues/the-inspire-space-sg",
     "slug": "the-inspire-space-sg",
@@ -136,7 +136,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "4 hrs"
+    "response_time": "3 hrs"
   },
   {
     "name": "Cargo39",
@@ -206,7 +206,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "18 mins"
+    "response_time": "24 mins"
   },
   {
     "name": "ONE°15 Marina Sentosa Cove",
@@ -278,7 +278,7 @@
       "Media Event"
     ],
     "fast_response": true,
-    "response_time": "12 hrs"
+    "response_time": "10 hrs"
   },
   {
     "name": "Singapore EXPO",
@@ -344,7 +344,7 @@
     "mrt_station": "Tanjong Pagar MRT Station",
     "event_types": [],
     "fast_response": true,
-    "response_time": "16 hrs"
+    "response_time": "10 hrs"
   },
   {
     "name": "Alta Studio",
@@ -391,7 +391,7 @@
       "Solemnisation"
     ],
     "fast_response": true,
-    "response_time": "17 hrs"
+    "response_time": "8 hrs"
   },
   {
     "name": "WAKANUI Grill Dining Singapore",

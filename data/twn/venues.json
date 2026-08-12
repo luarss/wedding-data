@@ -1407,7 +1407,7 @@
     "adminOverrides": {
       "spaces": {
         "value": "spaces",
-        "overriddenAt": "2026-04-15T09:46:06.167Z",
+        "overriddenAt": "2026-08-12T10:42:22.360Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "packages": {
@@ -1417,7 +1417,7 @@
       },
       "photos-videos": {
         "value": "photos-videos",
-        "overriddenAt": "2026-04-15T09:47:25.187Z",
+        "overriddenAt": "2026-08-12T10:43:14.026Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "venue-details": {
@@ -1442,7 +1442,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-08-12T10:43:13.850Z",
     "spaces": [],
     "packages": [
       {
@@ -1472,7 +1472,7 @@
     ],
     "venueCapacity": {
       "min": 70,
-      "max": 90
+      "max": 120
     }
   },
   {
@@ -10955,7 +10955,7 @@
         "question": "Question 2 What is the duration of the event packages?"
       },
       {
-        "answer": "Ampang Glasshouse can accommodate up to 288 guests, ensuring a spacious and comfortable setting for both small and large events.",
+        "answer": "Ampang Glasshouse can accommodate up to 200 - 250 guests, ensuring a spacious and comfortable setting for both small and large events.",
         "question": "Question 3 How many people can the venue accommodate?"
       },
       {
@@ -11017,7 +11017,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-08-12T04:34:57.050Z",
     "spaces": [],
     "packages": [
       {
@@ -11061,7 +11061,7 @@
     ],
     "venueCapacity": {
       "min": 50,
-      "max": 250
+      "max": 200
     }
   },
   {
@@ -16208,7 +16208,7 @@
     ],
     "description": "G Hotel Gurney sits on Persiaran Gurney next to Gurney Plaza, which puts a banquet of several hundred guests within walking distance of the promenade and the mall. The wedding rooms are on Level 2. The Grand Ballroom runs 723 square metres under a 4.6 metre ceiling with no pillars in the floor, and it seats 500 guests at round tables. It divides into Ballroom 1 and Ballroom 2 for smaller banquets, at 250 and 200 seated. The room carries a large LED screen behind the stage, and the adjoining 465 square metre foyer takes 200 seated or 240 standing for a pre-dinner reception.\n\nOutdoors, the poolside deck holds 150 seated or 260 standing, and the hotel's own photographs show it set for a ceremony with an aisle and an arch. For a small party, Salon III and IV combine into 170 square metres for 120 guests. Wedding packages are priced per table of ten and run on an eight-course Chinese set menu, with a five-tier cake, a champagne fountain, red-dates tea for the tea ceremony and a bridal suite for the night included at every tier.",
     "createdAt": "2026-08-07T03:12:22.127Z",
-    "vendorId": "pending_02aad3a9fc14f391",
+    "vendorId": "user_3HoDvAiHsTc2kcJs4A2TchaAMsb",
     "address": "168A Persiaran Gurney, 10250 George Town, Pulau Pinang, Malaysia",
     "postCode": null,
     "googlePlaceId": "ChIJjdDYepjDSjARDxRysG-leWg",
@@ -16245,7 +16245,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:31:26.509Z",
+    "updatedAt": "2026-08-12T09:37:34.416Z",
     "spaces": [],
     "packages": [
       {

@@ -255,6 +255,21 @@
     "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"120-170 pax\", \"price\": \"From $138/pax\"}]"
   },
   {
+    "recordId": "recmnhQh4ANr89IdH",
+    "name": "Mount Faber Peak",
+    "url": "https://www.bridely.sg/venue/mount-faber-peak/r/recmnhQh4ANr89IdH",
+    "location": "Bukit Merah",
+    "overallRating": 4.7,
+    "venueRating": 4.8,
+    "serviceRating": 4.7,
+    "foodRating": 4.8,
+    "reviews": 38,
+    "tags": "Event Hall, Restaurant, Chinese, Fusion, Western, Ballroom, Garden & Greenery, Glasshouse, Indoor, Outdoor, Pet Friendly, Rooftop, Waterfront",
+    "price": "From $118/pax",
+    "capacity": "1-100 pax",
+    "rooms": "[{\"name\": \"Arbora\", \"capacity\": \"1-100 pax\", \"price\": \"From $118/pax\"}, {\"name\": \"The Ballroom\", \"capacity\": \"100-200 pax\", \"price\": \"From $148/pax\"}, {\"name\": \"Angsana Glasshouse\", \"capacity\": \"40-70 pax\", \"price\": \"From $148/pax\"}, {\"name\": \"Dusk & The Mirabilis Bar\", \"capacity\": \"1-100 pax\", \"price\": \"From $168/pax\"}]"
+  },
+  {
     "recordId": "recu87sCQAVtXkfCT",
     "name": "Grand Copthorne Waterfront Hotel",
     "url": "https://www.bridely.sg/venue/grand-copthorne-waterfront-hotel/r/recu87sCQAVtXkfCT",
@@ -268,6 +283,21 @@
     "price": "From $158/pax",
     "capacity": "300-550 pax",
     "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"300-550 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Waterfront Ballroom\", \"capacity\": \"200-280 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Riverfront Ballroom\", \"capacity\": \"150-200 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Galleria Ballroom\", \"capacity\": \"100-160 pax\", \"price\": \"From $158/pax\"}]"
+  },
+  {
+    "recordId": "recAjyLcQI7Qc6VDD",
+    "name": "Altro Zafferano",
+    "url": "https://www.bridely.sg/venue/altro-zafferano/r/recAjyLcQI7Qc6VDD",
+    "location": "Central Area",
+    "overallRating": 4.9,
+    "venueRating": 4.8,
+    "serviceRating": 4.9,
+    "foodRating": 4.9,
+    "reviews": 23,
+    "tags": "Restaurant",
+    "price": "From $8,000",
+    "capacity": "",
+    "rooms": "[{\"name\": \"Main Dining Hall\", \"capacity\": \"\", \"price\": \"From $8,000\"}, {\"name\": \"Terrace Lounge\", \"capacity\": \"\", \"price\": \"\"}, {\"name\": \"Private Dining Space (1\\u20132 rooms)\", \"capacity\": \"\", \"price\": \"\"}, {\"name\": \"Private Dining Room\", \"capacity\": \"\", \"price\": \"\"}]"
   },
   {
     "recordId": "recEVqHq1aNQ9gkfi",
@@ -690,6 +720,21 @@
     "rooms": "[{\"name\": \"Apollo\", \"capacity\": \"100-150 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Jupiter\", \"capacity\": \"150-250 pax\", \"price\": \"From $153/pax\"}, {\"name\": \"Mercury\", \"capacity\": \"180-340 pax\", \"price\": \"From $157/pax\"}, {\"name\": \"Mercury I & II\", \"capacity\": \"100-120 pax\", \"price\": \"From $162/pax\"}, {\"name\": \"Venus Grand\", \"capacity\": \"350-480 pax\", \"price\": \"From $168/pax\"}, {\"name\": \"Venus II or III\", \"capacity\": \"200-250 pax\", \"price\": \"From $171/pax\"}, {\"name\": \"Venus I\", \"capacity\": \"100-120 pax\", \"price\": \"From $171/pax\"}, {\"name\": \"The Waterfall\", \"capacity\": \"150-200 pax\", \"price\": \"From $176/pax\"}]"
   },
   {
+    "recordId": "jpwedding",
+    "name": "JP Wedding",
+    "url": "https://www.bridely.sg/venue/jp-wedding/r/jpwedding",
+    "location": "Singapore",
+    "overallRating": 4.9,
+    "venueRating": 5,
+    "serviceRating": 4.9,
+    "foodRating": 4,
+    "reviews": 9,
+    "tags": "Chapel, Ballroom, Colonial/Historical, Garden & Greenery, Indoor, Outdoor, Pet Friendly",
+    "price": "",
+    "capacity": "",
+    "rooms": "[]"
+  },
+  {
     "recordId": "recpIhlNS9DIgpfoP",
     "name": "Sky Garden Sentosa",
     "url": "https://www.bridely.sg/venue/sky-garden-sentosa/r/recpIhlNS9DIgpfoP",
@@ -930,21 +975,6 @@
     "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"1-1500 pax\", \"price\": \"\"}, {\"name\": \"Sapphire Suite\", \"capacity\": \"1-300 pax\", \"price\": \"\"}, {\"name\": \"Tea Garden Foyer\", \"capacity\": \"1-250 pax\", \"price\": \"\"}, {\"name\": \"Emerald Suite\", \"capacity\": \"1-240 pax\", \"price\": \"\"}, {\"name\": \"The Garden Pavilion\", \"capacity\": \"1-80 pax\", \"price\": \"From $888\"}]"
   },
   {
-    "recordId": "recAjyLcQI7Qc6VDD",
-    "name": "Altro Zafferano",
-    "url": "https://www.bridely.sg/venue/altro-zafferano/r/recAjyLcQI7Qc6VDD",
-    "location": "Central Area",
-    "overallRating": 4.7,
-    "venueRating": 4.7,
-    "serviceRating": 4.7,
-    "foodRating": 4.8,
-    "reviews": 9,
-    "tags": "Restaurant",
-    "price": "From $8,000",
-    "capacity": "",
-    "rooms": "[{\"name\": \"Main Dining Hall\", \"capacity\": \"\", \"price\": \"From $8,000\"}, {\"name\": \"Terrace Lounge\", \"capacity\": \"\", \"price\": \"\"}, {\"name\": \"Private Dining Space (1\\u20132 rooms)\", \"capacity\": \"\", \"price\": \"\"}, {\"name\": \"Private Dining Room\", \"capacity\": \"\", \"price\": \"\"}]"
-  },
-  {
     "recordId": "recnI0gIYtLxQfxXD",
     "name": "Pan Pacific Orchard",
     "url": "https://www.bridely.sg/venue/pan-pacific-orchard/r/recnI0gIYtLxQfxXD",
@@ -1003,21 +1033,6 @@
     "price": "From $173/pax",
     "capacity": "100-150 pax",
     "rooms": "[{\"name\": \"Symphony Ballroom\", \"capacity\": \"100-150 pax\", \"price\": \"From $173/pax\"}]"
-  },
-  {
-    "recordId": "jpwedding",
-    "name": "JP Wedding",
-    "url": "https://www.bridely.sg/venue/jp-wedding/r/jpwedding",
-    "location": "Singapore",
-    "overallRating": 4.8,
-    "venueRating": 5,
-    "serviceRating": 4.8,
-    "foodRating": 4,
-    "reviews": 5,
-    "tags": "Chapel, Ballroom, Colonial/Historical, Garden & Greenery, Indoor, Outdoor, Pet Friendly",
-    "price": "",
-    "capacity": "",
-    "rooms": "[]"
   },
   {
     "recordId": "recTLNPKosjiEkhBN",
@@ -1513,21 +1528,6 @@
     "price": "From $1,200",
     "capacity": "80-120 pax",
     "rooms": "[{\"name\": \"Event Space\", \"capacity\": \"80-120 pax\", \"price\": \"From $1,200\"}]"
-  },
-  {
-    "recordId": "reciMgHviimwfaRnn",
-    "name": "NUSS Guild Houses",
-    "url": "https://www.bridely.sg/venue/nuss-guild-houses/r/reciMgHviimwfaRnn",
-    "location": "NUSS KENT RIDGE GUILD HOUSE: 9 Kent Ridge Dr, Singapore 119241 | NUSS SUNTEC CITY GUILD HOUSE: 3 Temasek Blvd, Tower 5, Mall, #02-401/402 Suntec City, Singapore 038983 | NUSS MANDALAY GUILD HOUSE: 2 Mandalay Rd, Singapore 308206",
-    "overallRating": 5,
-    "venueRating": null,
-    "serviceRating": 5,
-    "foodRating": 5,
-    "reviews": 1,
-    "tags": "Event Hall, Chinese, Fusion, Muslim-friendly, Western",
-    "price": "From $78/pax",
-    "capacity": "160-200 pax",
-    "rooms": "[{\"name\": \"Kent Ridge Guild House\", \"capacity\": \"160-200 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Suntec City Guild House\", \"capacity\": \"100-120 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Mandalay Guild House\", \"capacity\": \"40-50 pax\", \"price\": \"From $89/pax\"}]"
   },
   {
     "recordId": "recXKWo4ND5I4I1y4",
