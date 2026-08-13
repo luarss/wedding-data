@@ -136,7 +136,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "3 hrs"
+    "response_time": "1 hr"
   },
   {
     "name": "Cargo39",
@@ -344,7 +344,7 @@
     "mrt_station": "Tanjong Pagar MRT Station",
     "event_types": [],
     "fast_response": true,
-    "response_time": "10 hrs"
+    "response_time": "4 hrs"
   },
   {
     "name": "Alta Studio",
@@ -945,6 +945,26 @@
     ],
     "fast_response": true,
     "response_time": "4 hrs"
+  },
+  {
+    "name": "Venuerific",
+    "url": "https://www.venuerific.com/sg/venues/venuerific",
+    "slug": "venuerific",
+    "area": "Raffles Place",
+    "address": "9 Raffles Pl, Republic Plaza, Singapore 048619",
+    "lat": 1.2832744,
+    "lng": 103.8508826,
+    "capacity_standing": 50,
+    "capacity_seated": 40,
+    "rooms_count": 0,
+    "price": "",
+    "price_unit": null,
+    "rating": 4.5,
+    "reviews": 6,
+    "mrt_station": "",
+    "event_types": [],
+    "fast_response": false,
+    "response_time": null
   },
   {
     "name": "Moon Rooftop Bar and Lounge",

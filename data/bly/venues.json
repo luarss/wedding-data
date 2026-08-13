@@ -255,21 +255,6 @@
     "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"120-170 pax\", \"price\": \"From $138/pax\"}]"
   },
   {
-    "recordId": "recmnhQh4ANr89IdH",
-    "name": "Mount Faber Peak",
-    "url": "https://www.bridely.sg/venue/mount-faber-peak/r/recmnhQh4ANr89IdH",
-    "location": "Bukit Merah",
-    "overallRating": 4.7,
-    "venueRating": 4.8,
-    "serviceRating": 4.7,
-    "foodRating": 4.8,
-    "reviews": 38,
-    "tags": "Event Hall, Restaurant, Chinese, Fusion, Western, Ballroom, Garden & Greenery, Glasshouse, Indoor, Outdoor, Pet Friendly, Rooftop, Waterfront",
-    "price": "From $118/pax",
-    "capacity": "1-100 pax",
-    "rooms": "[{\"name\": \"Arbora\", \"capacity\": \"1-100 pax\", \"price\": \"From $118/pax\"}, {\"name\": \"The Ballroom\", \"capacity\": \"100-200 pax\", \"price\": \"From $148/pax\"}, {\"name\": \"Angsana Glasshouse\", \"capacity\": \"40-70 pax\", \"price\": \"From $148/pax\"}, {\"name\": \"Dusk & The Mirabilis Bar\", \"capacity\": \"1-100 pax\", \"price\": \"From $168/pax\"}]"
-  },
-  {
     "recordId": "recu87sCQAVtXkfCT",
     "name": "Grand Copthorne Waterfront Hotel",
     "url": "https://www.bridely.sg/venue/grand-copthorne-waterfront-hotel/r/recu87sCQAVtXkfCT",
@@ -283,6 +268,21 @@
     "price": "From $158/pax",
     "capacity": "300-550 pax",
     "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"300-550 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Waterfront Ballroom\", \"capacity\": \"200-280 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Riverfront Ballroom\", \"capacity\": \"150-200 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Galleria Ballroom\", \"capacity\": \"100-160 pax\", \"price\": \"From $158/pax\"}]"
+  },
+  {
+    "recordId": "recBjzDZV6Tmy22FL",
+    "name": "The Acacia Geneo",
+    "url": "https://www.bridely.sg/venue/the-acacia-geneo/r/recBjzDZV6Tmy22FL",
+    "location": "1 Science Park Dr, #01-07, Singapore 118221",
+    "overallRating": 5,
+    "venueRating": 5,
+    "serviceRating": 5,
+    "foodRating": 5,
+    "reviews": 18,
+    "tags": "Restaurant, Fusion, Indian, Muslim-friendly, Peranakan, Vegetarian, Western",
+    "price": "From $55/pax",
+    "capacity": "100-500 pax",
+    "rooms": "[{\"name\": \"The Acacia Geneo\", \"capacity\": \"100-500 pax\", \"price\": \"From $55/pax\"}]"
   },
   {
     "recordId": "recAjyLcQI7Qc6VDD",

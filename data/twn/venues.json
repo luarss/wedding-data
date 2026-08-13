@@ -694,7 +694,7 @@
     ],
     "venueCapacity": {
       "min": 10,
-      "max": 1100
+      "max": 1000
     }
   },
   {
@@ -4797,10 +4797,10 @@
     "state": "Kuala Lumpur",
     "images": [
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786072955661-Dominic_Rachel_1004/original.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786074606949-Dominic_Rachel_0911/original.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786074606949-Dominic_Rachel_0911/original.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786072955661-Dominic_Rachel_1004/original.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/sofitel-kuala-lumpur-damansara/1786074602039-Dominic_Rachel_0906/original.webp"
@@ -4946,7 +4946,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:54:27.861Z",
+    "updatedAt": "2026-08-13T08:36:31.883Z",
     "spaces": [],
     "packages": [
       {
@@ -5522,7 +5522,7 @@
   },
   {
     "id": "ff6fcb5b-f330-48a9-812f-d78c85336a07",
-    "name": "Intercontinental Hotel",
+    "name": "InterContinental Kuala Lumpur",
     "slug": "intercontinental-hotel",
     "vendorType": "venue",
     "status": "live",
@@ -5530,19 +5530,22 @@
     "state": "Kuala Lumpur",
     "images": [
       {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/intercontinental-hotel/1786611308671-D4A00774/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/intercontinental-hotel/1786611428459-LUQMAN___AIDA-89/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/intercontinental-hotel/1786611731587-DSC_7424/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/intercontinental-hotel/1786611892275-Alif___Marissa_Reception_Jubsi__323_of_701_/original.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/intercontinental-hotel/1786612018737-DSC06807/original.webp"
+      },
+      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/c56d5c48-8191-4aa8-abaf-9d5bdc7735d3/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/85cb6034-4903-46ed-87ef-90f1534965c6/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/0a6d03fc-1f4e-45d6-81c9-1f80342605cf/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/13ebabb8-9feb-4b5f-96a7-87cc76e56ec9/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/14aaf367-2141-4e22-a139-0009c1d07c8d/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/5df98520-d251-4bcf-970c-e4c95722f1a9/high.webp"
@@ -5554,22 +5557,34 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/8515cf49-4e5e-4ef8-b720-80ea7c0d414f/high.webp"
       },
       {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/85cb6034-4903-46ed-87ef-90f1534965c6/high.webp"
+      },
+      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/f8457652-1ca7-41fb-92db-b03b9a6ef2ef/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/d3bf5479-ad88-4f16-8c6d-3c1b7bd0daa7/high.webp"
       },
       {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/0a6d03fc-1f4e-45d6-81c9-1f80342605cf/high.webp"
+      },
+      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/15a9cfbd-b229-4702-ae0d-b5bf363eb780/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/b3af62e5-c987-4ede-9afe-94a89935ab0f/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/13ebabb8-9feb-4b5f-96a7-87cc76e56ec9/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/82fecb77-f8b4-4ac8-889a-88f41d86a757/high.webp"
       },
       {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/b3af62e5-c987-4ede-9afe-94a89935ab0f/high.webp"
+      },
+      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/d8273c13-6d01-4f7d-8955-01957bec08fd/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/ff6fcb5b-f330-48a9-812f-d78c85336a07/14aaf367-2141-4e22-a139-0009c1d07c8d/high.webp"
       }
     ],
     "description": "A jewel in the heart of Malaysia, InterContinental Kuala Lumpur offers one of the most sought-after locations in the heart of the city, making it an ideal urban retreat for both business and leisure travellers. The hotel is just steps away from the iconic Petronas Twin Towers & Kuala Lumpur Convention Centre, and within walking distance to two metro stations, as well as countless shopping and entertainment activities. Alternatively, you may enjoy our complimentary scheduled shuttle service to Pavilion KL and Suria KLCC shopping centre.\r\n",
@@ -5589,7 +5604,7 @@
     "metaDescription": "InterContinental Kuala Lumpur — an elegant city-centre wedding venue steps from the Petronas Twin Towers and KL Convention Centre.",
     "whatsappNumber": null,
     "whatsappMessage": null,
-    "youtubeLink": null,
+    "youtubeLink": "",
     "wpTag": "intercontinental-kuala-lumpur",
     "faq": [],
     "venueDetails": null,
@@ -5610,7 +5625,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'activ':71B 'altern':72B 'away':45B 'busi':36B 'centr':55B,88B 'citi':27B 'complimentari':77B 'convent':54B 'countless':67B 'distanc':59B 'enjoy':75B 'entertain':70B 'heart':7B,24B 'hotel':2A,41B 'icon':48B 'ideal':31B 'intercontinent':1A,10B 'jewel':4B 'kl':83B 'klcc':86B 'kuala':11B,52B,89C,91C 'leisur':38B 'locat':21B 'lumpur':12B,53B,90C,92C 'make':28B 'malaysia':9B 'may':74B 'metro':62B 'offer':13B 'one':14B 'pavilion':82B 'petrona':49B 'retreat':33B 'schedul':78B 'servic':80B 'shop':68B,87B 'shuttl':79B 'sought':19B 'sought-aft':18B 'station':63B 'step':44B 'suria':85B 'tower':51B 'travel':39B 'twin':50B 'two':61B 'urban':32B 'walk':58B 'well':65B 'within':57B",
+    "fts": "'activ':72B 'altern':73B 'away':46B 'busi':37B 'centr':56B,89B 'citi':28B 'complimentari':78B 'convent':55B 'countless':68B 'distanc':60B 'enjoy':76B 'entertain':71B 'heart':8B,25B 'hotel':42B 'icon':49B 'ideal':32B 'intercontinent':1A,11B 'jewel':5B 'kl':84B 'klcc':87B 'kuala':2A,12B,53B,90C,92C 'leisur':39B 'locat':22B 'lumpur':3A,13B,54B,91C,93C 'make':29B 'malaysia':10B 'may':75B 'metro':63B 'offer':14B 'one':15B 'pavilion':83B 'petrona':50B 'retreat':34B 'schedul':79B 'servic':81B 'shop':69B,88B 'shuttl':80B 'sought':20B 'sought-aft':19B 'station':64B 'step':45B 'suria':86B 'tower':52B 'travel':40B 'twin':51B 'two':62B 'urban':33B 'walk':59B 'well':66B 'within':58B",
     "textEmbedding": null,
     "catalogPosition": 49,
     "isSpotlight": false,
@@ -5622,7 +5637,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-08-13T09:13:35.719Z",
     "spaces": [],
     "packages": [
       {
@@ -9331,7 +9346,7 @@
     "googleRating": "4.3",
     "googleTotalReviews": 172,
     "metaDescription": null,
-    "whatsappNumber": "60175966109",
+    "whatsappNumber": "60126605921",
     "whatsappMessage": null,
     "youtubeLink": "",
     "wpTag": "club-360-setia-ecohill-semenyih",
@@ -9401,22 +9416,26 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-08-13T01:38:31.468Z",
     "spaces": [],
     "packages": [
       {
-        "name": "Setia Wedding Package",
-        "price": 66,
+        "name": "Conference Package @ Templer's Club",
+        "price": 98,
         "priceMax": null,
         "priceFixture": "per_pax",
-        "pricePerPax": 66,
-        "description": null,
+        "pricePerPax": 98,
+        "description": "Nestled within the tranquil enclave of Setia Eco Templer, Templerâs Club offers a prestigious and serene environment ideal for hosting corporate functions. Featuring the elegant Templerâs Ballroom, the venue is thoughtfully designed to cater to business meetings, conferences, seminars, training sessions, and corporate luncheons.\n\nWith comprehensive facilities, customizable layouts, and dedicated event support, Templerâs Club is the preferred choice for organizations seeking a professional yet peaceful setting for impactful business events.",
         "includes": [
-          "Hall Rental"
+          "Event Space",
+          "Food & Beverage",
+          "Basic Sound System",
+          "Amenities",
+          "Projector & Screen"
         ],
-        "guestMin": 500,
-        "guestMax": 1200,
-        "brochureUrl": "documents/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/brochure-1784771937089-LPC_Malay_Wedding_Event_.pdf"
+        "guestMin": 20,
+        "guestMax": 500,
+        "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-1786589387370-Templer_s_Club_-_RM98_Conference_Package.pdf"
       }
     ],
     "venueCapacity": {
@@ -13365,9 +13384,14 @@
         "overriddenAt": "2026-07-23T15:51:20.827Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
+      "brochure": {
+        "value": "brochure",
+        "overriddenAt": "2026-08-13T10:53:57.944Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      },
       "packages": {
         "value": "packages",
-        "overriddenAt": "2026-07-23T16:02:00.145Z",
+        "overriddenAt": "2026-08-13T10:54:01.240Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "food-menu": {
