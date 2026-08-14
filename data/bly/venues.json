@@ -270,21 +270,6 @@
     "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"300-550 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Waterfront Ballroom\", \"capacity\": \"200-280 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Riverfront Ballroom\", \"capacity\": \"150-200 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Galleria Ballroom\", \"capacity\": \"100-160 pax\", \"price\": \"From $158/pax\"}]"
   },
   {
-    "recordId": "recBjzDZV6Tmy22FL",
-    "name": "The Acacia Geneo",
-    "url": "https://www.bridely.sg/venue/the-acacia-geneo/r/recBjzDZV6Tmy22FL",
-    "location": "1 Science Park Dr, #01-07, Singapore 118221",
-    "overallRating": 5,
-    "venueRating": 5,
-    "serviceRating": 5,
-    "foodRating": 5,
-    "reviews": 18,
-    "tags": "Restaurant, Fusion, Indian, Muslim-friendly, Peranakan, Vegetarian, Western",
-    "price": "From $55/pax",
-    "capacity": "100-500 pax",
-    "rooms": "[{\"name\": \"The Acacia Geneo\", \"capacity\": \"100-500 pax\", \"price\": \"From $55/pax\"}]"
-  },
-  {
     "recordId": "recAjyLcQI7Qc6VDD",
     "name": "Altro Zafferano",
     "url": "https://www.bridely.sg/venue/altro-zafferano/r/recAjyLcQI7Qc6VDD",
@@ -1528,6 +1513,21 @@
     "price": "From $1,200",
     "capacity": "80-120 pax",
     "rooms": "[{\"name\": \"Event Space\", \"capacity\": \"80-120 pax\", \"price\": \"From $1,200\"}]"
+  },
+  {
+    "recordId": "reciMgHviimwfaRnn",
+    "name": "NUSS Guild Houses",
+    "url": "https://www.bridely.sg/venue/nuss-guild-houses/r/reciMgHviimwfaRnn",
+    "location": "NUSS KENT RIDGE GUILD HOUSE: 9 Kent Ridge Dr, Singapore 119241 | NUSS SUNTEC CITY GUILD HOUSE: 3 Temasek Blvd, Tower 5, Mall, #02-401/402 Suntec City, Singapore 038983 | NUSS MANDALAY GUILD HOUSE: 2 Mandalay Rd, Singapore 308206",
+    "overallRating": 5,
+    "venueRating": null,
+    "serviceRating": 5,
+    "foodRating": 5,
+    "reviews": 1,
+    "tags": "Event Hall, Chinese, Fusion, Muslim-friendly, Western",
+    "price": "From $78/pax",
+    "capacity": "160-200 pax",
+    "rooms": "[{\"name\": \"Kent Ridge Guild House\", \"capacity\": \"160-200 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Suntec City Guild House\", \"capacity\": \"100-120 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Mandalay Guild House\", \"capacity\": \"40-50 pax\", \"price\": \"From $89/pax\"}]"
   },
   {
     "recordId": "recXKWo4ND5I4I1y4",

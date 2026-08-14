@@ -70,27 +70,28 @@
     "response_time": null
   },
   {
-    "name": "HomeTeamNS Bedok Reservoir Clubhouse",
-    "url": "https://www.venuerific.com/sg/venues/hometeamns-bedok-reservoir-clubhouse",
-    "slug": "hometeamns-bedok-reservoir-clubhouse",
-    "area": "Bedok",
-    "address": "900 Bedok North Rd, Singapore 479994",
-    "lat": 1.3409594,
-    "lng": 103.9195417,
-    "capacity_standing": 380,
-    "capacity_seated": 380,
-    "rooms_count": 6,
-    "price": "S$478",
+    "name": "Museum Of Ice Cream",
+    "url": "https://www.venuerific.com/sg/venues/museum-of-ice-cream",
+    "slug": "museum-of-ice-cream",
+    "area": "Tanglin",
+    "address": "100 Loewen Rd, Singapore 248837",
+    "lat": 1.30273,
+    "lng": 103.812423,
+    "capacity_standing": 700,
+    "capacity_seated": 700,
+    "rooms_count": 4,
+    "price": "S$500",
     "price_unit": "Min spend",
     "rating": 0,
     "reviews": 0,
-    "mrt_station": "Bedok North MRT Station (DT29)",
+    "mrt_station": "Napier MRT Station",
     "event_types": [
-      "Conference",
-      "Team Bonding"
+      "Product Launch",
+      "Product Exhibition",
+      "Party"
     ],
     "fast_response": true,
-    "response_time": "17 hrs"
+    "response_time": null
   },
   {
     "name": "Maduro",
@@ -112,8 +113,8 @@
       "Birthday",
       "Wedding"
     ],
-    "fast_response": false,
-    "response_time": null
+    "fast_response": true,
+    "response_time": "1 hr"
   },
   {
     "name": "The Inspire Space Sg",
@@ -254,7 +255,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "6 hrs"
+    "response_time": "7 hrs"
   },
   {
     "name": "KOMYUNITI Bar & Restaurant",
@@ -415,6 +416,29 @@
     ],
     "fast_response": true,
     "response_time": "4 hrs"
+  },
+  {
+    "name": "HomeTeamNS Bedok Reservoir Clubhouse",
+    "url": "https://www.venuerific.com/sg/venues/hometeamns-bedok-reservoir-clubhouse",
+    "slug": "hometeamns-bedok-reservoir-clubhouse",
+    "area": "Bedok",
+    "address": "900 Bedok North Rd, Singapore 479994",
+    "lat": 1.3409594,
+    "lng": 103.9195417,
+    "capacity_standing": 380,
+    "capacity_seated": 380,
+    "rooms_count": 6,
+    "price": "S$478",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Bedok North MRT Station (DT29)",
+    "event_types": [
+      "Conference",
+      "Team Bonding"
+    ],
+    "fast_response": true,
+    "response_time": "17 hrs"
   },
   {
     "name": "ARC.",
@@ -619,30 +643,6 @@
     "event_types": [],
     "fast_response": true,
     "response_time": "6 hrs"
-  },
-  {
-    "name": "Museum Of Ice Cream",
-    "url": "https://www.venuerific.com/sg/venues/museum-of-ice-cream",
-    "slug": "museum-of-ice-cream",
-    "area": "Tanglin",
-    "address": "100 Loewen Rd, Singapore 248837",
-    "lat": 1.30273,
-    "lng": 103.812423,
-    "capacity_standing": 700,
-    "capacity_seated": 700,
-    "rooms_count": 4,
-    "price": "S$500",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Napier MRT Station",
-    "event_types": [
-      "Product Launch",
-      "Product Exhibition",
-      "Party"
-    ],
-    "fast_response": true,
-    "response_time": null
   },
   {
     "name": "Unfolded",
