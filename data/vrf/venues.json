@@ -70,6 +70,29 @@
     "response_time": null
   },
   {
+    "name": "Maduro",
+    "url": "https://www.venuerific.com/sg/venues/maduro",
+    "slug": "maduro",
+    "area": "Sentosa",
+    "address": "2 Bukit Manis Rd, Lower Lobby of Sofitel Singapore Sentosa, Singapore 099891",
+    "lat": 1.2456916,
+    "lng": 103.8278754,
+    "capacity_standing": 150,
+    "capacity_seated": 100,
+    "rooms_count": 5,
+    "price": "S$2,000",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "HarbourFront MRT Station",
+    "event_types": [
+      "Birthday",
+      "Wedding"
+    ],
+    "fast_response": true,
+    "response_time": "1 hr"
+  },
+  {
     "name": "Museum Of Ice Cream",
     "url": "https://www.venuerific.com/sg/venues/museum-of-ice-cream",
     "slug": "museum-of-ice-cream",
@@ -92,29 +115,6 @@
     ],
     "fast_response": true,
     "response_time": null
-  },
-  {
-    "name": "Maduro",
-    "url": "https://www.venuerific.com/sg/venues/maduro",
-    "slug": "maduro",
-    "area": "Sentosa",
-    "address": "2 Bukit Manis Rd, Lower Lobby of Sofitel Singapore Sentosa, Singapore 099891",
-    "lat": 1.2456916,
-    "lng": 103.8278754,
-    "capacity_standing": 150,
-    "capacity_seated": 100,
-    "rooms_count": 5,
-    "price": "S$2,000",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "HarbourFront MRT Station",
-    "event_types": [
-      "Birthday",
-      "Wedding"
-    ],
-    "fast_response": true,
-    "response_time": "1 hr"
   },
   {
     "name": "The Inspire Space Sg",
@@ -831,29 +831,6 @@
     "response_time": null
   },
   {
-    "name": "Suntec Convention Hall",
-    "url": "https://www.venuerific.com/sg/venues/suntec-convention-hall",
-    "slug": "suntec-convention-hall",
-    "area": "Marina Bay, Promenade, Raffles Place",
-    "address": "1 Raffles Blvd, Singapore 039593",
-    "lat": 1.2936739,
-    "lng": 103.8572447,
-    "capacity_standing": 900,
-    "capacity_seated": 900,
-    "rooms_count": 0,
-    "price": "",
-    "price_unit": null,
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Esplanade MRT Station",
-    "event_types": [
-      "Corporate Seminar",
-      "Conference"
-    ],
-    "fast_response": true,
-    "response_time": "15 hrs"
-  },
-  {
     "name": "Lebua Thai",
     "url": "https://www.venuerific.com/sg/venues/lebua-thai",
     "slug": "lebua-thai",
@@ -1012,6 +989,29 @@
     ],
     "fast_response": true,
     "response_time": "5 hrs"
+  },
+  {
+    "name": "Suntec Convention Hall",
+    "url": "https://www.venuerific.com/sg/venues/suntec-convention-hall",
+    "slug": "suntec-convention-hall",
+    "area": "Marina Bay, Promenade, Raffles Place",
+    "address": "1 Raffles Blvd, Singapore 039593",
+    "lat": 1.2936739,
+    "lng": 103.8572447,
+    "capacity_standing": 900,
+    "capacity_seated": 900,
+    "rooms_count": 0,
+    "price": "",
+    "price_unit": null,
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Esplanade MRT Station",
+    "event_types": [
+      "Corporate Seminar",
+      "Conference"
+    ],
+    "fast_response": true,
+    "response_time": "15 hrs"
   },
   {
     "name": "WingsOverAsia",
