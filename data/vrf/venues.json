@@ -112,8 +112,8 @@
       "Birthday",
       "Wedding"
     ],
-    "fast_response": true,
-    "response_time": "1 hr"
+    "fast_response": false,
+    "response_time": null
   },
   {
     "name": "The Inspire Space Sg",
@@ -136,7 +136,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "1 hr"
+    "response_time": "27 mins"
   },
   {
     "name": "Cargo39",
@@ -158,8 +158,8 @@
       "Office Party",
       "Wedding"
     ],
-    "fast_response": true,
-    "response_time": "3 hrs"
+    "fast_response": false,
+    "response_time": null
   },
   {
     "name": "Artyzen Singapore",
@@ -183,7 +183,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "21 hrs"
+    "response_time": null
   },
   {
     "name": "Plume",
@@ -206,7 +206,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "24 mins"
+    "response_time": "29 mins"
   },
   {
     "name": "ONE°15 Marina Sentosa Cove",
@@ -344,7 +344,7 @@
     "mrt_station": "Tanjong Pagar MRT Station",
     "event_types": [],
     "fast_response": true,
-    "response_time": "4 hrs"
+    "response_time": "3 hrs"
   },
   {
     "name": "Alta Studio",
@@ -367,7 +367,7 @@
       "Networking"
     ],
     "fast_response": true,
-    "response_time": "17 mins"
+    "response_time": "19 mins"
   },
   {
     "name": "The Spot Singapore",
@@ -618,7 +618,7 @@
     "mrt_station": "Harbourfront",
     "event_types": [],
     "fast_response": true,
-    "response_time": "6 hrs"
+    "response_time": "5 hrs"
   },
   {
     "name": "Museum Of Ice Cream",
@@ -735,7 +735,7 @@
       "Product Launch"
     ],
     "fast_response": true,
-    "response_time": "16 hrs"
+    "response_time": "10 hrs"
   },
   {
     "name": "Creative lifestyle studio in Kallang",
@@ -829,6 +829,29 @@
     ],
     "fast_response": false,
     "response_time": null
+  },
+  {
+    "name": "Suntec Convention Hall",
+    "url": "https://www.venuerific.com/sg/venues/suntec-convention-hall",
+    "slug": "suntec-convention-hall",
+    "area": "Marina Bay, Promenade, Raffles Place",
+    "address": "1 Raffles Blvd, Singapore 039593",
+    "lat": 1.2936739,
+    "lng": 103.8572447,
+    "capacity_standing": 900,
+    "capacity_seated": 900,
+    "rooms_count": 0,
+    "price": "",
+    "price_unit": null,
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Esplanade MRT Station",
+    "event_types": [
+      "Corporate Seminar",
+      "Conference"
+    ],
+    "fast_response": true,
+    "response_time": "15 hrs"
   },
   {
     "name": "Lebua Thai",
@@ -965,7 +988,7 @@
       "Party"
     ],
     "fast_response": true,
-    "response_time": "8 hrs"
+    "response_time": "6 hrs"
   },
   {
     "name": "DOMO",
@@ -989,29 +1012,6 @@
     ],
     "fast_response": true,
     "response_time": "5 hrs"
-  },
-  {
-    "name": "Suntec Convention Hall",
-    "url": "https://www.venuerific.com/sg/venues/suntec-convention-hall",
-    "slug": "suntec-convention-hall",
-    "area": "Marina Bay, Promenade, Raffles Place",
-    "address": "1 Raffles Blvd, Singapore 039593",
-    "lat": 1.2936739,
-    "lng": 103.8572447,
-    "capacity_standing": 900,
-    "capacity_seated": 900,
-    "rooms_count": 0,
-    "price": "",
-    "price_unit": null,
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Esplanade MRT Station",
-    "event_types": [
-      "Corporate Seminar",
-      "Conference"
-    ],
-    "fast_response": true,
-    "response_time": "15 hrs"
   },
   {
     "name": "WingsOverAsia",
