@@ -148,6 +148,14 @@
     ]
   },
   {
+    "venue_id": "255",
+    "source": "wedding-venues-booking",
+    "name": "Caroline’s Mansion",
+    "vendor_name": "The St. Regis Singapore",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1465/The-St--Regis-Singapore",
+    "location": "29 Tanglin Rd Singapore 247911"
+  },
+  {
     "source": "banquet-price-list",
     "name": "Changi Cove Hotel",
     "lunch_price": "$1424–$1499Mon - Sun",
@@ -829,6 +837,14 @@
     "tables_min": "10",
     "tables_max": "28",
     "tables_range": "10 - 28Mon - Sun"
+  },
+  {
+    "venue_id": "254",
+    "source": "wedding-venues-booking",
+    "name": "John Jacob Ballroom",
+    "vendor_name": "The St. Regis Singapore",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1465/The-St--Regis-Singapore",
+    "location": "29 Tanglin Rd Singapore 247911"
   },
   {
     "venue_id": "249",

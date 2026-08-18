@@ -136,7 +136,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "27 mins"
+    "response_time": "20 mins"
   },
   {
     "name": "Cargo39",
@@ -254,7 +254,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "7 hrs"
+    "response_time": "6 hrs"
   },
   {
     "name": "KOMYUNITI Bar & Restaurant",
@@ -355,7 +355,7 @@
     "lat": 1.3191737,
     "lng": 103.8653791,
     "capacity_standing": 80,
-    "capacity_seated": 70,
+    "capacity_seated": 50,
     "rooms_count": 4,
     "price": "S$150",
     "price_unit": "Per hour",
@@ -364,7 +364,8 @@
     "mrt_station": "Bendemeer MRT Station",
     "event_types": [
       "Team Bonding",
-      "Networking"
+      "Birthday",
+      "Video Shoot"
     ],
     "fast_response": true,
     "response_time": "19 mins"
@@ -805,7 +806,7 @@
       "Company Dinner and Dance"
     ],
     "fast_response": true,
-    "response_time": null
+    "response_time": "20 hrs"
   },
   {
     "name": "Chui Huay Lim Teochew Cuisines ",

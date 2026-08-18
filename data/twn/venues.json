@@ -3625,7 +3625,7 @@
         "priceMax": 3277.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$6f",
+        "description": "$6d",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3637,7 +3637,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$70",
+        "description": "$6e",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3649,7 +3649,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$71",
+        "description": "$6f",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3661,7 +3661,7 @@
         "priceMax": 3227,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$72",
+        "description": "$70",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3673,7 +3673,7 @@
         "priceMax": 3659,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$73",
+        "description": "$71",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3685,7 +3685,7 @@
         "priceMax": 4307,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$74",
+        "description": "$72",
         "includes": null,
         "guestMin": 399,
         "guestMax": 431,
@@ -3697,7 +3697,7 @@
         "priceMax": 3227.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$75",
+        "description": "$73",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3709,7 +3709,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$76",
+        "description": "$74",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3721,7 +3721,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$77",
+        "description": "$75",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3733,7 +3733,7 @@
         "priceMax": 3227.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$78",
+        "description": "$76",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3745,7 +3745,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$79",
+        "description": "$77",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3757,7 +3757,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$7a",
+        "description": "$78",
         "includes": null,
         "guestMin": 100,
         "guestMax": 298,
@@ -11424,7 +11424,7 @@
         "pricePerPax": null,
         "description": "Create a memorable and elegant celebration with our Tulips Package, designed for up to 500 guests.\nFeaturing refined dÃ©cor, delicious cuisine, and a beautifully arranged venue, this package ensures your special day unfolds seamlessly from start to finish.",
         "includes": [
-          "$6f"
+          "$6d"
         ],
         "guestMin": null,
         "guestMax": 500,
@@ -15613,7 +15613,7 @@
         "priceMax": 123000,
         "priceFixture": "all_inclusive",
         "pricePerPax": null,
-        "description": "$71",
+        "description": "$6f",
         "includes": [
           "Exclusive use of all 18 suites, accommodating 38-40 guests: 2 Heritage Suites, 2 Premium Suites with private jacuzzi and hot tubs, 5 Garden Suites with pool and garden access, and 9 standard suites, all with full amenities",
           "Exclusive use of the front lawn, Oriental Garden and pool, main courtyard and Indigo Restaurant",
@@ -15634,7 +15634,7 @@
         "priceMax": 94000,
         "priceFixture": "all_inclusive",
         "pricePerPax": null,
-        "description": "$72",
+        "description": "$70",
         "includes": [
           "Exclusive use of all 18 suites, accommodating 38-40 guests: 2 Heritage Suites, 2 Premium Suites with private jacuzzi and hot tubs, 5 Garden Suites with pool and garden access, and 9 standard suites, all with full amenities",
           "Exclusive use of the front lawn, Oriental Garden and pool, main courtyard and Indigo Restaurant",
@@ -15655,7 +15655,7 @@
         "priceMax": 50000,
         "priceFixture": "all_inclusive",
         "pricePerPax": null,
-        "description": "$73",
+        "description": "$71",
         "includes": [
           "Exclusive use of 9 elegant suites, accommodating 19-20 guests for a two-day, one-night stay",
           "Nine luxurious suites with direct access to the Oriental Garden",
@@ -17102,6 +17102,112 @@
     "venueCapacity": {
       "min": 0,
       "max": 20
+    }
+  },
+  {
+    "id": "2dbb3073-3a39-430d-b526-451b90d05d1d",
+    "name": "Lone Pine, Penang, a Tribute Portfolio Resort",
+    "slug": "lone-pine-penang-a-tribute-portfolio-resort-msy4rrrm",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "Batu Ferringhi",
+    "state": "Pulau Pinang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/lone-pine-penang-a-tribute-portfolio-resort-msy4rrrm/1787025921924-20250417-113607-lonepine-ZPP_7882/original.jpg"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/lone-pine-penang-a-tribute-portfolio-resort-msy4rrrm/1787025940181-20250417-113631-lonepine-ZPP_7883/original.jpg"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/lone-pine-penang-a-tribute-portfolio-resort-msy4rrrm/1787025952043-20250417-112659-lonepine-ZPP_7869/original.jpg"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/lone-pine-penang-a-tribute-portfolio-resort-msy4rrrm/1787025958546-20250417-112726-lonepine-ZPP_7871/original.jpg"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/lone-pine-penang-a-tribute-portfolio-resort-msy4rrrm/1787025967529-20250417-113509-lonepine-ZPP_7880/original.jpg"
+      }
+    ],
+    "description": "Lone Pine, Penang, a Tribute Portfolio Resort isn't just a venue, it's a destination where dreams come true. Let us be a part of your love story and create an enchanting wedding experience that reflects your unique journey. Your love story begins at Lone Pine, Penang, a Tribute Portfolio Resort, Where Timeless Romance Meets Unparalleled Luxury.",
+    "createdAt": "2026-08-18T03:56:19.687Z",
+    "vendorId": "user_3HWxHd65tTwDvH3tZtZQFFPGXhM",
+    "address": "97, Jalan Batu Ferringhi, 11100 Batu Ferringhi, Pulau Pinang, Malaysia",
+    "postCode": "11100",
+    "googlePlaceId": "ChIJBxej3_znSjAR7lZr55ag2hM",
+    "latitude": "5.4762606",
+    "longitude": "100.2501211",
+    "googlePlaceName": "Lone Pine, Penang, a Tribute Portfolio Resort",
+    "neighbourhood": null,
+    "googleMapsLink": "https://maps.google.com/?cid=1430632401631663854",
+    "wazeLink": "https://waze.com/ul?ll=5.4762606,100.2501211&navigate=yes",
+    "googleRating": "4.1",
+    "googleTotalReviews": 2613,
+    "metaDescription": "Garden Wedding in Penang",
+    "whatsappNumber": "+601121588158",
+    "whatsappMessage": "Hi TWN! I am interested in having a wedding at Lone Pine, Penang, a Tribute Portfolio Resort, I would like to know more details about it!",
+    "youtubeLink": "-",
+    "wpTag": null,
+    "faq": [
+      {
+        "answer": "Our payment terms require a deposit of RM 5,000 to confirm your booking.",
+        "question": "What are your payment terms?"
+      },
+      {
+        "answer": "Yes. Email at sm@lonepinehotel.com | sc@lonepinehotel.com",
+        "question": "Do you offer on-site wedding specialist?"
+      },
+      {
+        "answer": "Yes but with corkage fee",
+        "question": "Do you allow alcohol/liquor to be brought in?"
+      },
+      {
+        "answer": "We have a total capacity of 90 available rooms.",
+        "question": "How many rooms do you have in your hotel/resort/villa/etc?"
+      },
+      {
+        "answer": "We offer three event spaces: The Pine (our largest function room), The Forum, and our outdoor Garden.",
+        "question": "How many event spaces do you have?"
+      }
+    ],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": null,
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'batu':66C 'begin':51B 'come':26B 'creat':38B 'destin':23B 'dream':25B 'enchant':40B 'experi':42B 'ferringhi':67C 'isn':15B 'journey':47B 'let':28B 'lone':1A,8B,53B 'love':35B,49B 'luxuri':65B 'meet':63B 'part':32B 'penang':3A,10B,55B 'pinang':69C 'pine':2A,9B,54B 'portfolio':6A,13B,58B 'pulau':68C 'reflect':44B 'resort':7A,14B,59B 'romanc':62B 'stori':36B,50B 'timeless':61B 'tribut':5A,12B,57B 'true':27B 'uniqu':46B 'unparallel':64B 'us':29B 'venu':19B 'wed':41B",
+    "textEmbedding": null,
+    "catalogPosition": null,
+    "isSpotlight": false,
+    "isDemo": false,
+    "isHidden": false,
+    "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
+    "liveAt": "2026-08-18T08:21:36.262Z",
+    "spacePhotoNudgeDismissedAt": null,
+    "updatedAt": "2026-08-18T08:21:36.262Z",
+    "spaces": [],
+    "packages": [
+      {
+        "name": "Package 1",
+        "price": 12088,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": null,
+        "includes": [],
+        "guestMin": 30,
+        "guestMax": 250,
+        "brochureUrl": null
+      }
+    ],
+    "venueCapacity": {
+      "min": 30,
+      "max": 100
     }
   }
 ]
