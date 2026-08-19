@@ -285,21 +285,6 @@
     "rooms": "[{\"name\": \"The Acacia Geneo\", \"capacity\": \"100-500 pax\", \"price\": \"From $55/pax\"}]"
   },
   {
-    "recordId": "recAjyLcQI7Qc6VDD",
-    "name": "Altro Zafferano",
-    "url": "https://www.bridely.sg/venue/altro-zafferano/r/recAjyLcQI7Qc6VDD",
-    "location": "Central Area",
-    "overallRating": 4.9,
-    "venueRating": 4.8,
-    "serviceRating": 4.9,
-    "foodRating": 4.9,
-    "reviews": 23,
-    "tags": "Restaurant, Western, Indoor, Outdoor, Rooftop",
-    "price": "From $8,000",
-    "capacity": "",
-    "rooms": "[{\"name\": \"Main Dining Hall\", \"capacity\": \"\", \"price\": \"From $8,000\"}, {\"name\": \"Terrace Lounge\", \"capacity\": \"\", \"price\": \"\"}, {\"name\": \"Private Dining Space (1\\u20132 rooms)\", \"capacity\": \"\", \"price\": \"\"}, {\"name\": \"Private Dining Room\", \"capacity\": \"\", \"price\": \"\"}]"
-  },
-  {
     "recordId": "recEVqHq1aNQ9gkfi",
     "name": "JW Marriott Hotel Singapore South Beach",
     "url": "https://www.bridely.sg/venue/jw-marriott-hotel-singapore-south-beach/r/recEVqHq1aNQ9gkfi",
@@ -1528,6 +1513,21 @@
     "price": "From $1,200",
     "capacity": "80-120 pax",
     "rooms": "[{\"name\": \"Event Space\", \"capacity\": \"80-120 pax\", \"price\": \"From $1,200\"}]"
+  },
+  {
+    "recordId": "reciMgHviimwfaRnn",
+    "name": "NUSS Guild Houses",
+    "url": "https://www.bridely.sg/venue/nuss-guild-houses/r/reciMgHviimwfaRnn",
+    "location": "NUSS KENT RIDGE GUILD HOUSE: 9 Kent Ridge Dr, Singapore 119241 | NUSS SUNTEC CITY GUILD HOUSE: 3 Temasek Blvd, Tower 5, Mall, #02-401/402 Suntec City, Singapore 038983 | NUSS MANDALAY GUILD HOUSE: 2 Mandalay Rd, Singapore 308206",
+    "overallRating": 5,
+    "venueRating": null,
+    "serviceRating": 5,
+    "foodRating": 5,
+    "reviews": 1,
+    "tags": "Event Hall, Chinese, Fusion, Muslim-friendly, Western",
+    "price": "From $78/pax",
+    "capacity": "160-200 pax",
+    "rooms": "[{\"name\": \"Kent Ridge Guild House\", \"capacity\": \"160-200 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Suntec City Guild House\", \"capacity\": \"100-120 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Mandalay Guild House\", \"capacity\": \"40-50 pax\", \"price\": \"From $89/pax\"}]"
   },
   {
     "recordId": "recXKWo4ND5I4I1y4",

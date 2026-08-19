@@ -3337,103 +3337,6 @@
     }
   },
   {
-    "id": "d57c4465-0367-4133-8dc3-c7005df284f7",
-    "name": "Ruang Rama PJ",
-    "slug": "ruang-rama-pj",
-    "vendorType": "venue",
-    "status": "live",
-    "city": "Petaling Jaya",
-    "state": "Selangor",
-    "images": [
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/d57c4465-0367-4133-8dc3-c7005df284f7/dfc7e85f-67ee-4e42-b383-4907a060bde4/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/d57c4465-0367-4133-8dc3-c7005df284f7/72a3fd4c-214f-4d12-a4e5-eec490370ae3/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/d57c4465-0367-4133-8dc3-c7005df284f7/bd1b385a-320f-4f6f-b555-3bdccda9d3ea/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/d57c4465-0367-4133-8dc3-c7005df284f7/a3293413-e5cd-42a6-be08-f1076f227540/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/d57c4465-0367-4133-8dc3-c7005df284f7/4c2c9f5e-52a0-4a1c-9eb0-150a918e9813/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/d57c4465-0367-4133-8dc3-c7005df284f7/274db7c0-69dc-45ed-a3d8-76b728257f68/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/d57c4465-0367-4133-8dc3-c7005df284f7/52acc97d-fed1-4dbf-a2d2-31b3efba5afa/high.webp"
-      }
-    ],
-    "description": "Strategically located in Petaling Jaya, Ruang Rama offers easy access for all guests, with direct links to the Federal Highway and a short walking distance from the Asia Jaya LRT station.\n\nBeyond its convenient location, the venue accommodates all types of events. It offers the community a beautiful space to celebrate your special day.",
-    "createdAt": "2025-03-19T06:05:02.403Z",
-    "vendorId": "user_3Cy3Yz8yDkM9kiVwKHPBOi17yo1",
-    "address": "WISMA DAJU 5, 21, Jalan Barat, Pjs 8, 46200 Petaling Jaya, Selangor, Malaysia",
-    "postCode": "46200",
-    "googlePlaceId": "ChIJ_57Ie09LzDERLxnbuwf1r5c",
-    "latitude": "3.1016037",
-    "longitude": "101.6404108",
-    "googlePlaceName": "WISMA DAJU 5, 21, Jalan Barat, Pjs 8, 46200 Petaling Jaya, Selangor, Malaysia",
-    "neighbourhood": null,
-    "googleMapsLink": null,
-    "wazeLink": null,
-    "googleRating": null,
-    "googleTotalReviews": null,
-    "metaDescription": "Ruang Rama, Petaling Jaya — a beautiful, versatile wedding venue with Federal Highway access, a short walk from Asia Jaya LRT.",
-    "whatsappNumber": null,
-    "whatsappMessage": null,
-    "youtubeLink": null,
-    "wpTag": "ruang-rama-petaling-jaya",
-    "faq": [],
-    "venueDetails": null,
-    "photographerDetails": null,
-    "adminOverrides": {
-      "packages": {
-        "value": "packages",
-        "overriddenAt": "2026-04-15T15:55:45.369Z",
-        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
-      }
-    },
-    "coverImageFocalPoint": null,
-    "coverImageDetectionData": null,
-    "coverImageSmartCrops": null,
-    "coverImageFocalPointOverride": null,
-    "fts": "'access':13B 'accommod':41B 'asia':31B 'beauti':51B 'beyond':35B 'celebr':54B 'communiti':49B 'conveni':37B 'day':57B 'direct':18B 'distanc':28B 'easi':12B 'event':45B 'feder':22B 'guest':16B 'highway':23B 'jaya':8B,32B,59C 'link':19B 'locat':5B,38B 'lrt':33B 'offer':11B,47B 'petal':7B,58C 'pj':3A 'rama':2A,10B 'ruang':1A,9B 'selangor':60C 'short':26B 'space':52B 'special':56B 'station':34B 'strateg':4B 'type':43B 'venu':40B 'walk':27B",
-    "textEmbedding": null,
-    "catalogPosition": 56,
-    "isSpotlight": false,
-    "isDemo": false,
-    "isHidden": false,
-    "publishRequestedAt": null,
-    "isAiGenerated": false,
-    "humanReviewedAt": null,
-    "humanReviewedBy": null,
-    "liveAt": null,
-    "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
-    "spaces": [],
-    "packages": [
-      {
-        "name": "Grand Launch - Venue Rental",
-        "price": 12999,
-        "priceMax": 37000,
-        "priceFixture": "all_inclusive",
-        "pricePerPax": null,
-        "description": "Spanning two floors, the hall comfortably accommodates up to 400 pax with round table seating or up to 600 pax in a theatre-style setup. With two foyers and restrooms on each level, the space is convenient and easily tailored to turn visions into reality.",
-        "includes": [],
-        "guestMin": 200,
-        "guestMax": 800,
-        "brochureUrl": "documents/d57c4465-0367-4133-8dc3-c7005df284f7/brochure-b2c07171-7392-4f79-af7c-e29687c4579c.pdf"
-      }
-    ],
-    "venueCapacity": {
-      "min": 100,
-      "max": 450
-    }
-  },
-  {
     "id": "2f64df50-ca4e-4b64-81dd-049010fb2eb9",
     "name": "K'Seena House",
     "slug": "kseena-house",
@@ -3625,7 +3528,7 @@
         "priceMax": 3277.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$6d",
+        "description": "$6f",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3637,7 +3540,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$6e",
+        "description": "$70",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3649,7 +3552,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$6f",
+        "description": "$71",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3661,7 +3564,7 @@
         "priceMax": 3227,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$70",
+        "description": "$72",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3673,7 +3576,7 @@
         "priceMax": 3659,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$71",
+        "description": "$73",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3685,7 +3588,7 @@
         "priceMax": 4307,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$72",
+        "description": "$74",
         "includes": null,
         "guestMin": 399,
         "guestMax": 431,
@@ -3697,7 +3600,7 @@
         "priceMax": 3227.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$73",
+        "description": "$75",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3709,7 +3612,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$74",
+        "description": "$76",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3721,7 +3624,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$75",
+        "description": "$77",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3733,7 +3636,7 @@
         "priceMax": 3227.04,
         "priceFixture": "per_table",
         "pricePerPax": 298.8,
-        "description": "$76",
+        "description": "$78",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3745,7 +3648,7 @@
         "priceMax": 3659.04,
         "priceFixture": "per_table",
         "pricePerPax": 338.8,
-        "description": "$77",
+        "description": "$79",
         "includes": null,
         "guestMin": 100,
         "guestMax": 300,
@@ -3757,7 +3660,7 @@
         "priceMax": 4307.04,
         "priceFixture": "per_table",
         "pricePerPax": 398.8,
-        "description": "$78",
+        "description": "$7a",
         "includes": null,
         "guestMin": 100,
         "guestMax": 298,
@@ -11424,7 +11327,7 @@
         "pricePerPax": null,
         "description": "Create a memorable and elegant celebration with our Tulips Package, designed for up to 500 guests.\nFeaturing refined dÃ©cor, delicious cuisine, and a beautifully arranged venue, this package ensures your special day unfolds seamlessly from start to finish.",
         "includes": [
-          "$6d"
+          "$6f"
         ],
         "guestMin": null,
         "guestMax": 500,
@@ -15613,7 +15516,7 @@
         "priceMax": 123000,
         "priceFixture": "all_inclusive",
         "pricePerPax": null,
-        "description": "$6f",
+        "description": "$71",
         "includes": [
           "Exclusive use of all 18 suites, accommodating 38-40 guests: 2 Heritage Suites, 2 Premium Suites with private jacuzzi and hot tubs, 5 Garden Suites with pool and garden access, and 9 standard suites, all with full amenities",
           "Exclusive use of the front lawn, Oriental Garden and pool, main courtyard and Indigo Restaurant",
@@ -15634,7 +15537,7 @@
         "priceMax": 94000,
         "priceFixture": "all_inclusive",
         "pricePerPax": null,
-        "description": "$70",
+        "description": "$72",
         "includes": [
           "Exclusive use of all 18 suites, accommodating 38-40 guests: 2 Heritage Suites, 2 Premium Suites with private jacuzzi and hot tubs, 5 Garden Suites with pool and garden access, and 9 standard suites, all with full amenities",
           "Exclusive use of the front lawn, Oriental Garden and pool, main courtyard and Indigo Restaurant",
@@ -15655,7 +15558,7 @@
         "priceMax": 50000,
         "priceFixture": "all_inclusive",
         "pricePerPax": null,
-        "description": "$71",
+        "description": "$73",
         "includes": [
           "Exclusive use of 9 elegant suites, accommodating 19-20 guests for a two-day, one-night stay",
           "Nine luxurious suites with direct access to the Oriental Garden",

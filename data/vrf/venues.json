@@ -136,7 +136,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "20 mins"
+    "response_time": "38 mins"
   },
   {
     "name": "Cargo39",
@@ -254,7 +254,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "6 hrs"
+    "response_time": "3 hrs"
   },
   {
     "name": "KOMYUNITI Bar & Restaurant",
@@ -278,7 +278,7 @@
       "Media Event"
     ],
     "fast_response": true,
-    "response_time": "10 hrs"
+    "response_time": "11 hrs"
   },
   {
     "name": "Singapore EXPO",
@@ -368,7 +368,7 @@
       "Video Shoot"
     ],
     "fast_response": true,
-    "response_time": "19 mins"
+    "response_time": "21 mins"
   },
   {
     "name": "The Spot Singapore",
@@ -392,7 +392,7 @@
       "Solemnisation"
     ],
     "fast_response": true,
-    "response_time": "8 hrs"
+    "response_time": "7 hrs"
   },
   {
     "name": "WAKANUI Grill Dining Singapore",
@@ -852,7 +852,7 @@
       "Conference"
     ],
     "fast_response": true,
-    "response_time": "15 hrs"
+    "response_time": null
   },
   {
     "name": "Lebua Thai",
@@ -989,7 +989,7 @@
       "Party"
     ],
     "fast_response": true,
-    "response_time": "6 hrs"
+    "response_time": "7 hrs"
   },
   {
     "name": "DOMO",
