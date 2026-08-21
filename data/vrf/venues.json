@@ -47,6 +47,29 @@
     "response_time": null
   },
   {
+    "name": "7th Heaven Cafe ",
+    "url": "https://www.venuerific.com/sg/venues/7th-heaven-cafe",
+    "slug": "7th-heaven-cafe",
+    "area": "Tampines",
+    "address": "1/A Tampines Street 92, SAFRA Tampines #03-02, 528882",
+    "lat": 1.344724,
+    "lng": 103.94173899999998,
+    "capacity_standing": 150,
+    "capacity_seated": 120,
+    "rooms_count": 3,
+    "price": "S$100",
+    "price_unit": "Min spend",
+    "rating": 5.0,
+    "reviews": 1,
+    "mrt_station": "Tampines West MRT Station",
+    "event_types": [
+      "Birthday",
+      "Solemnisation"
+    ],
+    "fast_response": true,
+    "response_time": "8 hrs"
+  },
+  {
     "name": "temper. Wine Room & Lounge",
     "url": "https://www.venuerific.com/sg/venues/temper-wine-room-lounge",
     "slug": "temper-wine-room-lounge",
@@ -68,29 +91,6 @@
     ],
     "fast_response": false,
     "response_time": null
-  },
-  {
-    "name": "HomeTeamNS Bedok Reservoir Clubhouse",
-    "url": "https://www.venuerific.com/sg/venues/hometeamns-bedok-reservoir-clubhouse",
-    "slug": "hometeamns-bedok-reservoir-clubhouse",
-    "area": "Bedok",
-    "address": "900 Bedok North Rd, Singapore 479994",
-    "lat": 1.3409594,
-    "lng": 103.9195417,
-    "capacity_standing": 380,
-    "capacity_seated": 380,
-    "rooms_count": 6,
-    "price": "S$478",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Bedok North MRT Station (DT29)",
-    "event_types": [
-      "Conference",
-      "Team Bonding"
-    ],
-    "fast_response": true,
-    "response_time": "17 hrs"
   },
   {
     "name": "Maduro",
@@ -136,7 +136,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "38 mins"
+    "response_time": "34 mins"
   },
   {
     "name": "Cargo39",
@@ -206,7 +206,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "29 mins"
+    "response_time": "31 mins"
   },
   {
     "name": "ONE°15 Marina Sentosa Cove",
@@ -344,7 +344,7 @@
     "mrt_station": "Tanjong Pagar MRT Station",
     "event_types": [],
     "fast_response": true,
-    "response_time": "3 hrs"
+    "response_time": "1 hr"
   },
   {
     "name": "Alta Studio",
@@ -416,6 +416,29 @@
     ],
     "fast_response": true,
     "response_time": "4 hrs"
+  },
+  {
+    "name": "HomeTeamNS Bedok Reservoir Clubhouse",
+    "url": "https://www.venuerific.com/sg/venues/hometeamns-bedok-reservoir-clubhouse",
+    "slug": "hometeamns-bedok-reservoir-clubhouse",
+    "area": "Bedok",
+    "address": "900 Bedok North Rd, Singapore 479994",
+    "lat": 1.3409594,
+    "lng": 103.9195417,
+    "capacity_standing": 380,
+    "capacity_seated": 380,
+    "rooms_count": 6,
+    "price": "S$478",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Bedok North MRT Station (DT29)",
+    "event_types": [
+      "Conference",
+      "Team Bonding"
+    ],
+    "fast_response": true,
+    "response_time": "17 hrs"
   },
   {
     "name": "ARC.",
@@ -576,7 +599,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "17 hrs"
+    "response_time": "16 hrs"
   },
   {
     "name": "Lotus@Norris",

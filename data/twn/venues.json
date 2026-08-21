@@ -1163,7 +1163,7 @@
     ],
     "description": "Le Meridien Kuala Lumpur, a beacon of contemporary luxury in the heart of Malaysia's bustling capital, presents an exquisite destination for couples dreaming of an unforgettable wedding. Nestled amidst the vibrant cityscape, this hotel combines modern elegance with world-class hospitality, making it an ideal choice for a wedding that balances urban sophistication with intimate charm. The hotel's prime location offers easy access to Kuala Lumpur's key attractions, providing a perfect backdrop for both local and destination weddings. Its grand ballrooms and event spaces, characterized by their sleek design and flexible layouts, cater to celebrations of all sizes, from intimate gatherings to lavish affairs. The culinary team at Le Meridien excels in crafting bespoke menus, ensuring a dining experience that complements the unique spirit of each wedding.\n\nBeyond the allure of its facilities, Le Meridien Kuala Lumpur is renowned for its impeccable service, ensuring that every aspect of a wedding is executed with precision and grace. The dedicated wedding planners at the hotel work tirelessly to bring each couple's vision to life, paying attention to the smallest details to create a seamless and stress-free experience. From the initial planning stages to the final toast, couples can expect personalized attention and expertise. The hotel also offers luxurious accommodations and amenities, providing a serene retreat for the couple and their guests. With its fusion of contemporary luxury and a deep understanding of the cultural nuances of Malaysian weddings, Le Meridien Kuala Lumpur stands as a distinguished venue that promises a wedding celebration as memorable and unique as the love it honors.",
     "createdAt": "2024-01-09T12:37:04.496Z",
-    "vendorId": "user_3Cy3Yz8yDkM9kiVwKHPBOi17yo1",
+    "vendorId": "user_3I7E3fIiZtKZrIzURvBuz9iut5z",
     "address": "2, Jalan Stesen Sentral, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
     "postCode": "50470",
     "googlePlaceId": "ChIJI2Ho3cBJzDERaM_NcBRA1rc",
@@ -1211,7 +1211,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-08-21T07:10:23.430Z",
     "spaces": [],
     "packages": [
       {
@@ -3975,7 +3975,7 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/e0612547-6248-4a12-87e7-bde6b3e93322/06ce7f7b-9dd2-4fee-b2d6-8f0f44d0ea83/high.webp"
       }
     ],
-    "description": "Come and experience a modern Chinese Wedding at the Atlantic Grand Ballroom (food by Unique Seafood Group). Nestled within the prestigious Tropicana Golf & Country Resort, discover an exquisite wedding venue where every detail is designed for flawless celebrations. Ascend the Instagrammable staircase, a prelude that awaits in our full-scale ballroom. Envision your special day beneath soaring ceilings, illuminated by elegant chandeliers, with a prominent stage and state-of-the-art LED screens. Our venue comes with complimentary parking and buggy shuttle services ensuring effortless arrival for your guests. Prepare in style within our dedicated bridal makeup and dressing room. For intimate ROM ceremonies, the enchanting Spanish Courtyard offers a uniquely romantic setting. ",
+    "description": "Located within Tropicana Golf & Country Resort in Petaling Jaya, Atlantic Grand Ballroom specializes in traditional Chinese wedding banquets featuring curated Cantonese set menus, premium seafood dishes and elegant round-table dining.\r\n\r\nDesigned for grand Chinese wedding celebrations, the ballroom provides a spacious stage, crystal chandeliers, full carpeting, professional lighting and sound systems, with ample complimentary parking and buggy assistance available for elderly guests.\r\n\r\nFrom the tea ceremony and bridal entrance to the wedding feast and traditional Yum Seng toast, our experienced banquet team is ready to support every important moment of your celebration.\r\n\r\nChinese Wedding Banquet Highlights\r\n- Traditional Chinese round-table banquet setting\r\n- Curated Cantonese wedding menus with premium seafood\r\n- Pork-free Chinese cuisine\r\n- Grand ballroom suitable for 100–550 guests\r\n- Impressive stage with professional lighting and sound system\r\n- Elegant crystal chandeliers and fully carpeted interior\r\n- Complimentary on-site parking\r\n- Buggy assistance available for elderly guests\r\n- Dedicated banquet team for Chinese wedding-day coordination\r\n- Located within Tropicana Golf & Country Resort, Petaling Jaya",
     "createdAt": "2025-04-04T01:55:34.429Z",
     "vendorId": "user_3G9hC4vTAF4lRu7VbUSle7sei3v",
     "address": "Lot TG-MW, 001 & 004, Ground Floor, Tropicana Golf & Country Resort, Main Wing, Jalan Kelab Tropicana, Tropicana, 47410 Petaling Jaya, Selangor, Malaysia",
@@ -3990,7 +3990,7 @@
     "googleRating": null,
     "googleTotalReviews": null,
     "metaDescription": "Host a stunning Chinese wedding at Atlantic Grand Ballroom in Tropicana, Petaling Jaya — grand interiors, an Instagrammable staircase and fine cuisine.",
-    "whatsappNumber": null,
+    "whatsappNumber": "60122719835",
     "whatsappMessage": null,
     "youtubeLink": "",
     "wpTag": "atlantic-seafood-restaurant",
@@ -4034,6 +4034,10 @@
       {
         "answer": "If you wish to cancel or reschedule, please notify us at least 30 days in advance. Deposits are refundable or forfeited based on the circumstances.",
         "question": "What is your cancellation or rescheduling policy?"
+      },
+      {
+        "answer": "Atlantic Seafood is a pork-free restaurant; however, the restaurant is not Halal-certified. Couples with specific dietary requirements are encouraged to discuss them with our banquet team before confirmation.",
+        "question": "Is the venue Halal-certified?"
       }
     ],
     "venueDetails": null,
@@ -4064,7 +4068,7 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'arriv':91B 'art':76B 'ascend':42B 'atlant':1A,13B 'await':49B 'ballroom':3A,15B,55B 'beneath':60B 'bridal':101B 'buggi':86B 'ceil':62B 'celebr':41B 'ceremoni':109B 'chandeli':66B 'chines':9B 'come':4B,81B 'complimentari':83B 'countri':27B 'courtyard':113B 'day':59B 'dedic':100B 'design':38B 'detail':36B 'discov':29B 'dress':104B 'effortless':90B 'eleg':65B 'enchant':111B 'ensur':89B 'envis':56B 'everi':35B 'experi':6B 'exquisit':31B 'flawless':40B 'food':16B 'full':53B 'full-scal':52B 'golf':26B 'grand':2A,14B 'group':20B 'guest':94B 'illumin':63B 'instagramm':44B 'intim':107B 'jaya':120C 'led':77B 'makeup':102B 'modern':8B 'nestl':21B 'offer':114B 'park':84B 'petal':119C 'prelud':47B 'prepar':95B 'prestigi':24B 'promin':69B 'resort':28B 'rom':108B 'romant':117B 'room':105B 'scale':54B 'screen':78B 'seafood':19B 'selangor':121C 'servic':88B 'set':118B 'shuttl':87B 'soar':61B 'spanish':112B 'special':58B 'stage':70B 'staircas':45B 'state':73B 'state-of-the-art':72B 'style':97B 'tropicana':25B 'uniqu':18B,116B 'venu':33B,80B 'wed':10B,32B 'within':22B,98B",
+    "fts": "'100':125B '550':126B 'ampl':58B 'assist':63B,149B 'atlant':1A,13B 'avail':64B,150B 'ballroom':3A,15B,43B,122B 'banquet':21B,86B,100B,107B,155B 'bridal':73B 'buggi':62B,148B 'cantones':24B,110B 'carpet':51B,141B 'celebr':41B,97B 'ceremoni':71B 'chandeli':49B,138B 'chines':19B,39B,98B,103B,119B,158B 'complimentari':59B,143B 'coordin':162B 'countri':8B,167B 'crystal':48B,137B 'cuisin':120B 'curat':23B,109B 'day':161B 'dedic':154B 'design':36B 'dine':35B 'dish':29B 'elder':66B,152B 'eleg':31B,136B 'entranc':74B 'everi':92B 'experienc':85B 'feast':78B 'featur':22B 'free':118B 'full':50B 'fulli':140B 'golf':7B,166B 'grand':2A,14B,38B,121B 'guest':67B,127B,153B 'highlight':101B 'import':93B 'impress':128B 'interior':142B 'jaya':12B,170B,172C 'light':53B,132B 'locat':4B,163B 'menus':26B,112B 'moment':94B 'on-sit':144B 'park':60B,147B 'petal':11B,169B,171C 'pork':117B 'pork-fre':116B 'premium':27B,114B 'profession':52B,131B 'provid':44B 'readi':89B 'resort':9B,168B 'round':33B,105B 'round-tabl':32B,104B 'seafood':28B,115B 'selangor':173C 'seng':82B 'set':25B,108B 'site':146B 'sound':55B,134B 'spacious':46B 'special':16B 'stage':47B,129B 'suitabl':123B 'support':91B 'system':56B,135B 'tabl':34B,106B 'tea':70B 'team':87B,156B 'toast':83B 'tradit':18B,80B,102B 'tropicana':6B,165B 'wed':20B,40B,77B,99B,111B,160B 'wedding-day':159B 'within':5B,164B 'yum':81B",
     "textEmbedding": null,
     "catalogPosition": 10,
     "isSpotlight": false,
@@ -4074,9 +4078,9 @@
     "isAiGenerated": false,
     "humanReviewedAt": null,
     "humanReviewedBy": null,
-    "liveAt": null,
+    "liveAt": "2026-08-21T07:14:47.093Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-08-21T07:14:47.093Z",
     "spaces": [],
     "packages": [
       {
@@ -9385,7 +9389,7 @@
       },
       "packages": {
         "value": "packages",
-        "overriddenAt": "2026-04-15T06:39:22.714Z",
+        "overriddenAt": "2026-08-21T08:09:33.778Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "photos-videos": {
@@ -9419,22 +9423,103 @@
     "spaces": [],
     "packages": [
       {
-        "name": "Conference Package @ Templer's Club",
+        "name": "HALL RENTAL PACKAGE @ TEMPLER'S BALLROOM",
+        "price": 7500,
+        "priceMax": 22000,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": null,
+        "includes": [
+          "TABLES & CHAIRS (WITH LINENS)",
+          "PROJECTOR & WHITE SCREEN",
+          "STAGE",
+          "VIP & HOLDING ROOM"
+        ],
+        "guestMin": 100,
+        "guestMax": 1500,
+        "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-1787300196915-Templer_s_Ballroom_-_Hall_Rental_Rates.pdf"
+      },
+      {
+        "name": "CONFERENCE PACKAGE @ TEMPLER'S BALLROOM",
         "price": 98,
         "priceMax": null,
         "priceFixture": "per_pax",
         "pricePerPax": 98,
-        "description": "Nestled within the tranquil enclave of Setia Eco Templer, Templerâs Club offers a prestigious and serene environment ideal for hosting corporate functions. Featuring the elegant Templerâs Ballroom, the venue is thoughtfully designed to cater to business meetings, conferences, seminars, training sessions, and corporate luncheons.\n\nWith comprehensive facilities, customizable layouts, and dedicated event support, Templerâs Club is the preferred choice for organizations seeking a professional yet peaceful setting for impactful business events.",
+        "description": null,
         "includes": [
-          "Event Space",
-          "Food & Beverage",
-          "Basic Sound System",
-          "Amenities",
-          "Projector & Screen"
+          "EVENT SPACE",
+          "FOOD & BEVERAGES",
+          "AMENITIES",
+          "PROJECTOR & WHITE SCREEN"
         ],
-        "guestMin": 20,
+        "guestMin": 50,
         "guestMax": 500,
-        "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-1786589387370-Templer_s_Club_-_RM98_Conference_Package.pdf"
+        "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-1787300360087-Templer_s_Club_-_RM98_Conference_Package.pdf"
+      },
+      {
+        "name": "ANNUAL DINNER @ TEMPLER'S BALLROOM",
+        "price": 115,
+        "priceMax": 130,
+        "priceFixture": "per_pax",
+        "pricePerPax": 115,
+        "description": null,
+        "includes": [
+          "EVENT SPACE",
+          "FOOD & BEVERAGES",
+          "PROJECTOR & WHITE SCREEN"
+        ],
+        "guestMin": 200,
+        "guestMax": 500,
+        "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-1787300419122-TEMPLER_S_CLUB_-_ANNUAL_DINNER_PACKAGE_.pdf"
+      },
+      {
+        "name": "HI TEA PACKAGE @ TEMPLER'S BALLROOM ",
+        "price": 90,
+        "priceMax": 100,
+        "priceFixture": "per_pax",
+        "pricePerPax": 90,
+        "description": null,
+        "includes": [
+          "EVENT SPACE",
+          "FOOD & BEVERAGES",
+          "PROJECTOR & WHITE SCREEN"
+        ],
+        "guestMin": 50,
+        "guestMax": 500,
+        "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-1787300548541-TC_-_HI_TEA_PACKAGE.pdf"
+      },
+      {
+        "name": "BIRTHDAY PARTY PACKAGE @ TEMPLER'S BALLROOM",
+        "price": 600,
+        "priceMax": null,
+        "priceFixture": "all_inclusive",
+        "pricePerPax": null,
+        "description": null,
+        "includes": [
+          "EVENT SPACE",
+          "TABLES & CHAIRS (WITH LINENS)",
+          "4 HOURS USAGE"
+        ],
+        "guestMin": 50,
+        "guestMax": 500,
+        "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-1787300661478-Templer_s_Club_-_BBQ___Birthday_Party_Poster.pdf"
+      },
+      {
+        "name": "MALAY WEDDING PACKAGE @ TEMPLER'S BALLROOM",
+        "price": 13800,
+        "priceMax": 36800,
+        "priceFixture": "per_pax",
+        "pricePerPax": 13800,
+        "description": null,
+        "includes": [
+          "EVENT SPACE",
+          "FOOD & BEVERAGES",
+          "TABLES & CHAIRS (WITH LINENS)",
+          "PROJECTOR & WHITE SCREEN"
+        ],
+        "guestMin": 300,
+        "guestMax": 1000,
+        "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-1787300755910-TC_-_WEDDING_PACKAGE_2026.pdf"
       }
     ],
     "venueCapacity": {
@@ -9760,7 +9845,7 @@
       },
       "packages": {
         "value": "packages",
-        "overriddenAt": "2026-04-15T09:06:01.481Z",
+        "overriddenAt": "2026-08-21T08:09:28.173Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "photos-videos": {
@@ -9792,36 +9877,8 @@
     "spacePhotoNudgeDismissedAt": null,
     "updatedAt": "2026-08-07T03:01:13.517Z",
     "spaces": [],
-    "packages": [
-      {
-        "name": "Conference Package @ Canopy Club",
-        "price": 80,
-        "priceMax": 120,
-        "priceFixture": "per_pax",
-        "pricePerPax": 80,
-        "description": "Conference Package at Canopy Club\nHost impactful corporate events at Camellia Hall, Canopy Clubâs elegant venue in Setia Eco Park. Ideal for seminars, workshops, and exhibitions, our package includes:\n\nAV equipment & flexible seating\nCustom catering options\nAmple parking & easy access\nScenic garden surroundings\n\nLocated near DâNetwork, itâs the perfect blend of professionalism and tranquility.",
-        "includes": [],
-        "guestMin": 50,
-        "guestMax": 300,
-        "brochureUrl": "documents/049ef9e4-d1ac-4d65-8c1d-43084ba4dc01/brochure-4a731a55-2353-40a6-a806-14571522acb3.pdf"
-      },
-      {
-        "name": "Event Space Rental",
-        "price": 1500,
-        "priceMax": 5600,
-        "priceFixture": "all_inclusive",
-        "pricePerPax": null,
-        "description": "Located within the serene Canopy Club at Setia Eco Park, Camellia Hall is a beautifully designed indoor event space ideal for:\n\nWeddings & birthday celebrations\nCorporate seminars & training sessions\nExhibitions & gala dinners\nNamed after the vibrant camellia flower, the hall offers a refined ambiance with modern amenities, including a VIP room, pantry, and ample restrooms. It comfortably accommodates up to 240 guests, making it perfect for both intimate and large-scale events.\n\nSet amidst lush gardens and conveniently located near DâNetwork, Camellia Hall combines elegance, accessibility, and affordability for unforgettable gatherings",
-        "includes": [],
-        "guestMin": 20,
-        "guestMax": 300,
-        "brochureUrl": "documents/049ef9e4-d1ac-4d65-8c1d-43084ba4dc01/brochure-c030b031-72cf-452f-a159-5ffe7d7c2016.pdf"
-      }
-    ],
-    "venueCapacity": {
-      "min": 100,
-      "max": 500
-    }
+    "packages": [],
+    "venueCapacity": {}
   },
   {
     "id": "46791565-d65c-44ce-868d-e740a57d63c5",
@@ -10195,333 +10252,6 @@
     ],
     "venueCapacity": {
       "min": 50,
-      "max": 1000
-    }
-  },
-  {
-    "id": "c00f5028-92fe-4b22-8cd5-9c9048238e9e",
-    "name": "Templer's Ballroom @ Setia Eco Templer, Rawang",
-    "slug": "templers-ballroom-setia-eco-templer-rawang",
-    "vendorType": "venue",
-    "status": "live",
-    "city": "Rawang",
-    "state": "Selangor",
-    "images": [
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/3a855dc5-eed6-4bf1-a690-b5d9300af40b/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/469ea49f-8b92-44e0-addc-faf020e296f0/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/c8240e1f-a06e-4149-a723-d7cb2b79eee1/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/960b2635-3fd0-4b2e-90c4-d6b383721605/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/14ff4d82-d74c-4782-a25d-5b5bb5c676c7/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/5360b2f7-c173-4f87-a0cc-0822ff4874d0/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/1db1be31-c1fd-449a-8f6a-5980b6fb6935/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/54bf0362-d928-4a7e-914b-180735bf85be/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/33a631af-68c5-408d-bf6e-cf7f6559d9d2/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/44c078c1-b4ee-4453-93af-1f97900d1361/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/17778d27-53e1-40d5-87ac-45230db5fb7e/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/5781352e-5b34-42e2-bf06-af234953e664/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/5a688f43-53c6-480e-b861-8544962c1e56/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/6df11776-2fb0-4d30-ba1a-1d3b3edd0ef3/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/ce075ca7-bf70-45e5-972b-a790ff660a6c/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/afc32311-ca1b-4b8b-9e8c-d2d4d2037880/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/eb3d6ffa-b848-4756-b97d-18b5a322e4be/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/3b273e50-774b-410d-99d2-8431b27d5722/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/4c23c961-ea87-4db2-9099-8deb8dc51f67/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/6f9812c6-b6da-4abe-af80-c3e58b4c5bb9/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/3c85c559-f729-4916-8b7f-2f536ef745cf/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/da711342-0722-4652-9e0a-c52bb81a5471/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/e2a8957a-2347-4610-ba80-1726aaa6a079/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/1a13350b-f2ea-4a0a-a0be-455816f4e762/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/8f0c711c-3e87-4856-bc53-c20d22708202/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/41581546-2f5e-4cf8-b24c-b99d765bc51d/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/906e00b8-5c03-4120-9c3b-915e386f8cac/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/207c79c5-f056-409e-be3b-bf2386dd705b/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/97d2145f-d39d-41fc-b5cc-e5a8bf0689bb/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/2b758312-d0ad-490c-8a53-82a4da282361/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/bcd706d9-25c7-4875-9af5-997e279a53bd/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/f472d7f4-0a0f-49e2-b8dc-53a0d4c9410e/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/d409bcc4-0f97-4652-a5b7-360c9e2a1685/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/910cdd3c-b29e-490a-b542-99e94e132c95/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/8fcb7eb6-375d-4a9e-8495-bef3c5207246/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/931da6e6-dd56-45ea-8d34-f2360e2664d7/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/8cb284dd-4b59-4269-9922-5376a16d84ed/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/0f1bbb2d-e766-4562-98c9-8cec92605c79/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/473a1533-41b5-4fbd-95b1-e6d219130d88/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/6aa881b3-2e03-44e0-a804-fe17f1f2e84a/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/7bdbbd46-e8b9-4e77-8d4f-79f5e1cdce04/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/73588576-cb29-4cc7-b39c-90e257e16e5d/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/48aea24d-0aac-46a8-a918-eb609dd74758/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/a850a866-f8ec-4eb1-8bee-1127b0d87db8/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/429a4805-b861-4fb3-b8e9-5406fc71bd08/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/5013c6aa-7379-441b-a56a-e8862442fd89/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/bf48d39a-4986-47c3-ad8b-3229ee32aab4/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/77f67ce8-93b3-4b2d-86a3-be22ce498baf/high.webp"
-      }
-    ],
-    "description": "Located amidst lush greenery in Setia Eco Templer, Rawang, Templer’s Ballroom offers a grand, pillar-free event space ideal for weddings, corporate functions, and cultural celebrations. The ballroom features high ceilings, elegant chandeliers, and a luxurious interior that blends modern sophistication with natural surroundings.\n\nCapacity: Up to 600 guests (banquet) or 800 guests (theatre-style)\n\nLayout: Divisible into two smaller ballrooms; includes a spacious pre-function foyer\n\nFacilities: AV system, stage, bridal/VIP rooms, cocktail tables, registration counter\n\nAmbience: Classic and refined with dark wood accents, red carpet, and natural light\n\nAccessibility: ~20 km from KL, easily accessible via major highways\n\nAmenities: On-site parking (300+ bays), swimming pool, gym, mini park (via Templer Club)\n\nTempler’s Ballroom is a versatile, scenic venue perfect for those seeking a tranquil yet elegant event setting near the city.",
-    "createdAt": "2025-08-05T06:59:58.663Z",
-    "vendorId": "user_3D3zIdzPTZearIFvCPx9DBhPdLD",
-    "address": "1, Jalan Ipoh- KM20, Taman Rekreasi Templar, Templer Park, 48000 Rawang, Selangor, Malaysia",
-    "postCode": "48000",
-    "googlePlaceId": "ChIJc_K6nBNBzDER69uKpYSOwAk",
-    "latitude": "3.3010428",
-    "longitude": "101.6416892",
-    "googlePlaceName": "1, Jalan Ipoh- KM20, Taman Rekreasi Templar, Templer Park, 48000 Rawang, Selangor, Malaysia",
-    "neighbourhood": null,
-    "googleMapsLink": null,
-    "wazeLink": null,
-    "googleRating": null,
-    "googleTotalReviews": null,
-    "metaDescription": "Templer's Ballroom, Setia Eco Templer (Rawang) — a grand, pillar-free wedding venue amid lush greenery with elegant chandeliers.",
-    "whatsappNumber": null,
-    "whatsappMessage": null,
-    "youtubeLink": "",
-    "wpTag": "templer's-ballroom-setia-eco-templer-rawang",
-    "faq": [
-      {
-        "answer": "Templer’s Ballroom can accommodate up to 60 banquet tables (600 pax) or up to 1,000 guests in theatre-style. The space is ideal for weddings, corporate events, gala dinners, and private functions.",
-        "question": "What is the capacity of Templer’s Ballroom?"
-      },
-      {
-        "answer": "Our standard event duration is 8 hours (Full Day). You may request additional setup or event time in advance, subject to availability and applicable fees.",
-        "question": "How many hours are included in the hall rental?"
-      },
-      {
-        "answer": "Yes, we offer complete wedding and event packages inclusive of catering. Our preferred selected caterers include, offering halal-certified menus. External caterers may be allowed with management approval and subject to conditions.",
-        "question": "Is catering included in the package?"
-      },
-      {
-        "answer": "Yes, a private VIP room / bridal suite is provided complimentary for the bridal couple or main VIP during the event.",
-        "question": "Is there a bridal room or changing area available?"
-      },
-      {
-        "answer": "Yes, there is ample complimentary parking within walking distance of the ballroom. Security personnel will be on-site to manage traffic flow.",
-        "question": "Is parking available for guests?"
-      },
-      {
-        "answer": "Yes. We highly encourage prospective clients to schedule a personalized site tour with our event team. This allows you to explore the space, discuss your ideas, and view available setups.",
-        "question": "Can I schedule a site visit?"
-      }
-    ],
-    "venueDetails": null,
-    "photographerDetails": null,
-    "adminOverrides": {
-      "spaces": {
-        "value": "spaces",
-        "overriddenAt": "2026-04-15T09:09:34.304Z",
-        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
-      },
-      "packages": {
-        "value": "packages",
-        "overriddenAt": "2026-06-22T07:39:50.410Z",
-        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
-      },
-      "photos-videos": {
-        "value": "photos-videos",
-        "overriddenAt": "2026-04-15T09:12:29.150Z",
-        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
-      }
-    },
-    "coverImageFocalPoint": null,
-    "coverImageDetectionData": null,
-    "coverImageSmartCrops": null,
-    "coverImageFocalPointOverride": null,
-    "fts": "'20':103B '300':117B '600':57B '800':61B 'accent':96B 'access':102B,108B 'ambienc':89B 'amen':112B 'amidst':9B 'av':80B 'ballroom':3A,19B,37B,71B,129B 'banquet':59B 'bay':118B 'blend':48B 'bridal/vip':83B 'capac':54B 'carpet':98B 'ceil':40B 'celebr':35B 'chandeli':42B 'citi':147B 'classic':90B 'club':126B 'cocktail':85B 'corpor':31B 'counter':88B 'cultur':34B 'dark':94B 'divis':67B 'easili':107B 'eco':5A,14B 'eleg':41B,142B 'event':26B,143B 'facil':79B 'featur':38B 'foyer':78B 'free':25B 'function':32B,77B 'grand':22B 'greeneri':11B 'guest':58B,62B 'gym':121B 'high':39B 'highway':111B 'ideal':28B 'includ':72B 'interior':46B 'kl':106B 'km':104B 'layout':66B 'light':101B 'locat':8B 'lush':10B 'luxuri':45B 'major':110B 'mini':122B 'modern':49B 'natur':52B,100B 'near':145B 'offer':20B 'on-sit':113B 'park':116B,123B 'perfect':135B 'pillar':24B 'pillar-fre':23B 'pool':120B 'pre':76B 'pre-funct':75B 'rawang':7A,16B,148C 'red':97B 'refin':92B 'registr':87B 'room':84B 'scenic':133B 'seek':138B 'selangor':149C 'set':144B 'setia':4A,13B 'site':115B 'smaller':70B 'sophist':50B 'space':27B 'spacious':74B 'stage':82B 'style':65B 'surround':53B 'swim':119B 'system':81B 'tabl':86B 'templer':1A,6A,15B,17B,125B,127B 'theatr':64B 'theatre-styl':63B 'tranquil':140B 'two':69B 'venu':134B 'versatil':132B 'via':109B,124B 'wed':30B 'wood':95B 'yet':141B",
-    "textEmbedding": null,
-    "catalogPosition": 20,
-    "isSpotlight": false,
-    "isDemo": false,
-    "isHidden": false,
-    "publishRequestedAt": null,
-    "isAiGenerated": false,
-    "humanReviewedAt": null,
-    "humanReviewedBy": null,
-    "liveAt": null,
-    "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
-    "spaces": [],
-    "packages": [
-      {
-        "name": "Conference Package @ Templer's Club",
-        "price": 80,
-        "priceMax": 140,
-        "priceFixture": "per_pax",
-        "pricePerPax": 80,
-        "description": "Nestled within the tranquil enclave of Setia Eco Templer, Templerâs Club offers a prestigious and serene environment ideal for hosting corporate functions. Featuring the elegant Templerâs Ballroom, the venue is thoughtfully designed to cater to business meetings, conferences, seminars, training sessions, and corporate luncheons.\n\nWith comprehensive facilities, customizable layouts, and dedicated event support, Templerâs Club is the preferred choice for organizations seeking a professional yet peaceful setting for impactful business events.",
-        "includes": [],
-        "guestMin": 20,
-        "guestMax": 500,
-        "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-9414a5ab-0c40-48c1-a9f6-69905e9009be.pdf"
-      },
-      {
-        "name": "Jutarasa Catering Malay Wedding Packages",
-        "price": 54500,
-        "priceMax": null,
-        "priceFixture": "all_inclusive",
-        "pricePerPax": null,
-        "description": "In collaboration with Jutarasa Catering- Celebrate your dream wedding at Templerâs Ballroom, Setia Eco Templer â a grand and elegant venue surrounded by the natural beauty of Rawangâs lush greenery and tranquil landscapes. Perfect for luxurious wedding receptions, the ballroom accommodates up to 600 guests, featuring a spacious, pillarless layout with glittering chandeliers and a majestic setting.In partnership with Jutarasa Catering, renowned for their exceptional service and delectable cuisine, this all-in-one wedding reception package is crafted to ensure a seamless, memorable, and tastefully executed celebration.",
-        "includes": [],
-        "guestMin": 100,
-        "guestMax": 500,
-        "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-eca5417c-84c9-4233-aecc-a8edd57b44bc.pdf"
-      },
-      {
-        "name": "Sanggul Event Malay Wedding Package",
-        "price": 66500,
-        "priceMax": null,
-        "priceFixture": "all_inclusive",
-        "pricePerPax": null,
-        "description": "In collaboration with Sanggul Event- Celebrate your dream wedding at Templerâs Ballroom, Setia Eco Templer â a grand and elegant venue surrounded by the natural beauty of Rawangâs lush greenery and tranquil landscapes. Perfect for luxurious wedding receptions, the ballroom accommodates up to 600 guests, featuring a spacious, pillarless layout with glittering chandeliers and a majestic setting.In partnership with Sanggul Event, renowned for their exceptional service and delectable cuisine, this all-in-one wedding reception package is crafted to ensure a seamless, memorable, and tastefully executed celebration.",
-        "includes": [],
-        "guestMin": 100,
-        "guestMax": 500,
-        "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-9ffd9541-f835-4d7e-a70b-1d96ac356ef2.pdf"
-      },
-      {
-        "name": "Rassdeco Event Malay Wedding Package",
-        "price": 31800,
-        "priceMax": 42000,
-        "priceFixture": "all_inclusive",
-        "pricePerPax": null,
-        "description": "In collaboration with Rassdeco Event- Celebrate your dream wedding at Templerâs Ballroom, Setia Eco Templer â a grand and elegant venue surrounded by the natural beauty of Rawangâs lush greenery and tranquil landscapes. Perfect for luxurious wedding receptions, the ballroom accommodates up to 600 guests, featuring a spacious, pillarless layout with glittering chandeliers and a majestic setting.In partnership with Rassdeco Event, renowned for their exceptional service and delectable cuisine, this all-in-one wedding reception package is crafted to ensure a seamless, memorable, and tastefully executed celebration.",
-        "includes": [],
-        "guestMin": 500,
-        "guestMax": 1000,
-        "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-2b7b5f53-1c35-49a2-9f99-4cfb6bd58dce.pdf"
-      },
-      {
-        "name": "Fast Event Entertainment Indian Wedding Package",
-        "price": 40999,
-        "priceMax": 75999,
-        "priceFixture": "all_inclusive",
-        "pricePerPax": null,
-        "description": "In collaboration with Fast Event Entertainment - Celebrate your dream wedding at Templerâs Ballroom, Setia Eco Templer â a grand and elegant venue surrounded by the natural beauty of Rawangâs lush greenery and tranquil landscapes. Perfect for luxurious wedding receptions, the ballroom accommodates up to 600 guests, featuring a spacious, pillarless layout with glittering chandeliers and a majestic setting.In partnership with Fast Event Entertainment, renowned for their exceptional service and delectable cuisine, this all-in-one wedding reception package is crafted to ensure a seamless, memorable, and tastefully executed celebration.",
-        "includes": [],
-        "guestMin": 500,
-        "guestMax": 1000,
-        "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-adcbd852-1665-4d6a-8716-79eb4a02e744.pdf"
-      },
-      {
-        "name": "Great Creation Malay Wedding Package",
-        "price": 31000,
-        "priceMax": 58000,
-        "priceFixture": "all_inclusive",
-        "pricePerPax": null,
-        "description": "In collaboration with Great Creation Event- Celebrate your dream wedding at Templerâs Ballroom, Setia Eco Templer â a grand and elegant venue surrounded by the natural beauty of Rawangâs lush greenery and tranquil landscapes. Perfect for luxurious wedding receptions, the ballroom accommodates up to 600 guests, featuring a spacious, pillarless layout with glittering chandeliers and a majestic setting.In partnership with Great Creation Event, renowned for their exceptional service and delectable cuisine, this all-in-one wedding reception package is crafted to ensure a seamless, memorable, and tastefully executed celebration.",
-        "includes": [],
-        "guestMin": 100,
-        "guestMax": 1000,
-        "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-d51e2317-815b-45f1-9d70-226bbaf732f0.pdf"
-      },
-      {
-        "name": "Amazing Creation Indian Wedding Package",
-        "price": 38500,
-        "priceMax": 76000,
-        "priceFixture": "all_inclusive",
-        "pricePerPax": null,
-        "description": "In collaboration with Amazing Creation Event - Celebrate your dream wedding at Templerâs Ballroom, Setia Eco Templer â a grand and elegant venue surrounded by the natural beauty of Rawangâs lush greenery and tranquil landscapes. Perfect for luxurious wedding receptions, the ballroom accommodates up to 600 guests, featuring a spacious, pillarless layout with glittering chandeliers and a majestic setting.In partnership with Amazing Creation Event, renowned for their exceptional service and delectable cuisine, this all-in-one wedding reception package is crafted to ensure a seamless, memorable, and tastefully executed celebration.",
-        "includes": [],
-        "guestMin": 500,
-        "guestMax": 1000,
-        "brochureUrl": "documents/c00f5028-92fe-4b22-8cd5-9c9048238e9e/brochure-bfb76e96-712a-426e-a62d-2503c3eadee1.pdf"
-      }
-    ],
-    "venueCapacity": {
-      "min": 100,
       "max": 1000
     }
   },
