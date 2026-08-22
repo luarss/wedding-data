@@ -131,8 +131,8 @@
     "reviews": 40,
     "tags": "Event Hall, Western",
     "price": "From $78/pax",
-    "capacity": "1-300 pax",
-    "rooms": "[{\"name\": \"Whole Venue\", \"capacity\": \"1-300 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Main Room\", \"capacity\": \"1-200 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Bar Room\", \"capacity\": \"1-70 pax\", \"price\": \"From $78/pax\"}]"
+    "capacity": "1-150 pax",
+    "rooms": "[{\"name\": \"Whole Venue\", \"capacity\": \"1-150 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Main Room\", \"capacity\": \"1-120 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Bar Room\", \"capacity\": \"1-50 pax\", \"price\": \"From $78/pax\"}]"
   },
   {
     "recordId": "recQpPPBl9LBtl9ft",
@@ -195,21 +195,6 @@
     "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"1-146 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"Indoor Dining Hall\", \"capacity\": \"1-86 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"The Verandah (Air Conditioned Outdoor)\", \"capacity\": \"1-60 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"The Verandah (Air-Conditioned Outdoor)\", \"capacity\": \"1-60 pax\", \"price\": \"From $167/pax\"}]"
   },
   {
-    "recordId": "recDE70TqO66tuVMT",
-    "name": "Little Island Brewing Co",
-    "url": "https://www.bridely.sg/venue/little-island-brewing-co/r/recDE70TqO66tuVMT",
-    "location": "Changi",
-    "overallRating": 4.8,
-    "venueRating": 4.9,
-    "serviceRating": 4.8,
-    "foodRating": 4.9,
-    "reviews": 35,
-    "tags": "Restaurant, Western",
-    "price": "From $68/pax",
-    "capacity": "50-350 pax",
-    "rooms": "[{\"name\": \"Changi Village\", \"capacity\": \"50-350 pax\", \"price\": \"From $68/pax\"}, {\"name\": \"Gillman Barracks\", \"capacity\": \"50-200 pax\", \"price\": \"From $78/pax\"}]"
-  },
-  {
     "recordId": "recaFuygUVJPHDLpF",
     "name": "Conrad Singapore Orchard",
     "url": "https://www.bridely.sg/venue/conrad-singapore-orchard/r/recaFuygUVJPHDLpF",
@@ -268,6 +253,21 @@
     "price": "From $138/pax",
     "capacity": "120-170 pax",
     "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"120-170 pax\", \"price\": \"From $138/pax\"}]"
+  },
+  {
+    "recordId": "recmnhQh4ANr89IdH",
+    "name": "Mount Faber Peak",
+    "url": "https://www.bridely.sg/venue/mount-faber-peak/r/recmnhQh4ANr89IdH",
+    "location": "Bukit Merah",
+    "overallRating": 4.7,
+    "venueRating": 4.8,
+    "serviceRating": 4.7,
+    "foodRating": 4.8,
+    "reviews": 38,
+    "tags": "Event Hall, Restaurant, Chinese, Fusion, Western, Ballroom, Garden & Greenery, Glasshouse, Indoor, Outdoor, Pet Friendly, Rooftop, Waterfront",
+    "price": "From $118/pax",
+    "capacity": "1-100 pax",
+    "rooms": "[{\"name\": \"Arbora\", \"capacity\": \"1-100 pax\", \"price\": \"From $118/pax\"}, {\"name\": \"The Ballroom\", \"capacity\": \"100-200 pax\", \"price\": \"From $148/pax\"}, {\"name\": \"Angsana Glasshouse\", \"capacity\": \"40-70 pax\", \"price\": \"From $148/pax\"}, {\"name\": \"Dusk & The Mirabilis Bar\", \"capacity\": \"1-100 pax\", \"price\": \"From $168/pax\"}]"
   },
   {
     "recordId": "recu87sCQAVtXkfCT",
