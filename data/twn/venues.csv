@@ -1,6 +1,5 @@
 id,name,slug,vendorType,state,city,address,postCode,capacityMin,capacityMax,packagePrice,packageGuestMin,packageGuestMax
 e52f666f-c6c1-4d0f-81f0-37c10c9a54f4,Sentul Pavilion KL,sentul-pavilion-kl,venue,Kuala Lumpur,Kuala Lumpur,"Jalan Strachan, Sentul West, 51100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",51100,1,300,0,80,300
-3fc9ad2b-91e6-4d98-8596-bef8828ee032,Epitro House,epitro-house,venue,Selangor,Petaling Jaya,"19, Jln 14/29, Seksyen 14, 46100 Petaling Jaya, Selangor, Malaysia",46100,1,50,1200,1,50
 ad072a4e-0346-4def-a12c-74e71edf9ea6,Grand Hyatt Kuala Lumpur,grand-hyatt-kuala-lumpur,venue,Kuala Lumpur,Kuala Lumpur,"12, Jalan Pinang, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50450,200,700,393,200,700
 5764534f-6443-4c1b-b013-6fcdf5ead301,The Majestic Hotel Kuala Lumpur,the-majestic-hotel-kuala-lumpur,venue,Kuala Lumpur,Kuala Lumpur,"5, Jalan Sultan Hishamuddin, Tasik Perdana, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50470,50,1200,250,80,200
 44d81001-d976-48c5-8e22-aef943a1ce35,Hilton Kuala Lumpur,hilton-kuala-lumpur,venue,Kuala Lumpur,Kuala Lumpur,"3, Jalan Stesen Sentral, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",50470,10,800,428,300,800

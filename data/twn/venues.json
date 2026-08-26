@@ -107,149 +107,6 @@
     }
   },
   {
-    "id": "3fc9ad2b-91e6-4d98-8596-bef8828ee032",
-    "name": "Epitro House",
-    "slug": "epitro-house",
-    "vendorType": "venue",
-    "status": "live",
-    "city": "Petaling Jaya",
-    "state": "Selangor",
-    "images": [
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/3fc9ad2b-91e6-4d98-8596-bef8828ee032/f80717e6-1e62-43e5-9d3d-d04c37a87cb2/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/3fc9ad2b-91e6-4d98-8596-bef8828ee032/e07c7a6d-698b-4cbf-9dec-9d4b9b00f5bf/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/3fc9ad2b-91e6-4d98-8596-bef8828ee032/88411545-a454-4eda-bf82-18c8ac1cf9fa/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/3fc9ad2b-91e6-4d98-8596-bef8828ee032/d924bdb5-e7de-4c78-9911-b40be175abe4/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/3fc9ad2b-91e6-4d98-8596-bef8828ee032/79c81042-c3a6-45a8-8fcc-dcf788747808/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/3fc9ad2b-91e6-4d98-8596-bef8828ee032/9ef16262-702a-4b5f-a051-ade78b8769a7/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/3fc9ad2b-91e6-4d98-8596-bef8828ee032/c8cd3136-7c50-4f47-b38a-9ddcf8767c65/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/3fc9ad2b-91e6-4d98-8596-bef8828ee032/855cac6c-8577-4627-9137-157839e21471/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/3fc9ad2b-91e6-4d98-8596-bef8828ee032/6a0cd4b9-c571-4990-a844-8e874d72ee59/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/3fc9ad2b-91e6-4d98-8596-bef8828ee032/bc99ab8f-496a-4b15-8bbf-26f7e9273312/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/3fc9ad2b-91e6-4d98-8596-bef8828ee032/6f2d800d-1e9c-44a5-ab7d-021e7dfbd049/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/3fc9ad2b-91e6-4d98-8596-bef8828ee032/d2d636ac-8334-4d45-952f-9a6b777e9b6c/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/3fc9ad2b-91e6-4d98-8596-bef8828ee032/6619a962-fda0-442a-a493-ad51968fb801/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/3fc9ad2b-91e6-4d98-8596-bef8828ee032/857dae53-f81e-4f37-94fb-a50d82055165/high.webp"
-      }
-    ],
-    "description": "Epitro House is a spacious urban architectural detached house nestled among the bustling Petaling Jaya, right at the heart of Klang Valley. With towering trees surrounding the property, and a drive-through pavement ensuring ease of traffic for your guests, along with a maximum capacity of 25 parking bays, it offers convenience like no other houses. \n​\nAdmire the floor to ceiling glass panelling, with an internal double storey entrance air-well, ensuring that the space is continually basked with the natural warmth of sunlight. It is the perfect setting for a lasting impression today!",
-    "createdAt": "2023-09-25T05:31:30.219Z",
-    "vendorId": "user_3Cy3Yz8yDkM9kiVwKHPBOi17yo1",
-    "address": "19, Jln 14/29, Seksyen 14, 46100 Petaling Jaya, Selangor, Malaysia",
-    "postCode": "46100",
-    "googlePlaceId": "ChIJgTjDjONLzDERSJEBsbqghWU",
-    "latitude": "3.108338",
-    "longitude": "101.6313489",
-    "googlePlaceName": "19, Jln 14/29, Seksyen 14, 46100 Petaling Jaya, Selangor, Malaysia",
-    "neighbourhood": null,
-    "googleMapsLink": null,
-    "wazeLink": null,
-    "googleRating": null,
-    "googleTotalReviews": null,
-    "metaDescription": "Epitro House — a spacious urban event house in the heart of Petaling Jaya with ample parking, ideal for stylish, intimate weddings.",
-    "whatsappNumber": null,
-    "whatsappMessage": null,
-    "youtubeLink": null,
-    "wpTag": "epitro-house",
-    "faq": [
-      {
-        "answer": "The Epitro House can have 10 parked cars without hindering the internal driveway; and 25 cars at max capacity if it's parked back to back.",
-        "question": "How many parking bays does the venue have?"
-      }
-    ],
-    "venueDetails": null,
-    "photographerDetails": null,
-    "adminOverrides": null,
-    "coverImageFocalPoint": null,
-    "coverImageDetectionData": null,
-    "coverImageSmartCrops": null,
-    "coverImageFocalPointOverride": null,
-    "fts": "'25':50B 'admir':60B 'air':74B 'air-wel':73B 'along':44B 'among':13B 'architectur':9B 'bask':82B 'bay':52B 'bustl':15B 'capac':48B 'ceil':64B 'continu':81B 'conveni':55B 'detach':10B 'doubl':70B 'drive':34B 'drive-through':33B 'eas':38B 'ensur':37B,76B 'entranc':72B 'epitro':1A,3B 'floor':62B 'glass':65B 'guest':43B 'heart':21B 'hous':2A,4B,11B,59B 'impress':97B 'intern':69B 'jaya':17B,100C 'klang':23B 'last':96B 'like':56B 'maximum':47B 'natur':85B 'nestl':12B 'offer':54B 'panel':66B 'park':51B 'pavement':36B 'perfect':92B 'petal':16B,99C 'properti':30B 'right':18B 'selangor':101C 'set':93B 'space':79B 'spacious':7B 'storey':71B 'sunlight':88B 'surround':28B 'today':98B 'tower':26B 'traffic':40B 'tree':27B 'urban':8B 'valley':24B 'warmth':86B 'well':75B",
-    "textEmbedding": null,
-    "catalogPosition": 78,
-    "isSpotlight": false,
-    "isDemo": false,
-    "isHidden": false,
-    "publishRequestedAt": null,
-    "isAiGenerated": false,
-    "humanReviewedAt": null,
-    "humanReviewedBy": null,
-    "liveAt": null,
-    "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
-    "spaces": [],
-    "packages": [
-      {
-        "name": "Morning Slot - 8am to 2pm",
-        "price": 1200,
-        "priceMax": null,
-        "priceFixture": "all_inclusive",
-        "pricePerPax": null,
-        "description": "Epitro House is only for rent Saturdays and Sundays. The base rental would be the Event Hall, with the option for adding the Family Hall for additional fees. The rental period will be either the 8am to 2pm slot; or the 4pm to 10pm slot.",
-        "includes": [
-          "Cleaning Up Services",
-          "Projector Rental",
-          "Wifi",
-          "Wifi Speakers",
-          "Water Dispenser"
-        ],
-        "guestMin": 1,
-        "guestMax": 50,
-        "brochureUrl": null
-      },
-      {
-        "name": "Evening Slot - 4pm to 10pm",
-        "price": 1200,
-        "priceMax": null,
-        "priceFixture": "all_inclusive",
-        "pricePerPax": null,
-        "description": "Epitro House is only for rent Saturdays and Sundays. The base rental would be the Event Hall, with the option for adding the Family Hall for additional fees. The rental period will be either the 8am to 2pm slot; or the 4pm to 10pm slot.",
-        "includes": [
-          "Cleaning Service",
-          "4 Round Tables (10 pax capacity each)",
-          "40 Chairs",
-          "Wifi",
-          "Wifi Speakers",
-          "Projector",
-          "Water Dispenser"
-        ],
-        "guestMin": 1,
-        "guestMax": 36,
-        "brochureUrl": null
-      }
-    ],
-    "venueCapacity": {
-      "min": 1,
-      "max": 50
-    }
-  },
-  {
     "id": "ad072a4e-0346-4def-a12c-74e71edf9ea6",
     "name": "Grand Hyatt Kuala Lumpur",
     "slug": "grand-hyatt-kuala-lumpur",
@@ -864,19 +721,16 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/0472d052-6ad9-4a7b-975d-057c8f83c4f8/bdd83a9d-41ad-44fd-b259-af80978f7bc4/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/0472d052-6ad9-4a7b-975d-057c8f83c4f8/dd3533b9-2cf2-4079-9db4-f4c55cd5268b/high.webp"
-      },
-      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/0472d052-6ad9-4a7b-975d-057c8f83c4f8/4e05798f-4020-4df5-89f7-2f21b7168f71/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/0472d052-6ad9-4a7b-975d-057c8f83c4f8/903a8ef4-d1dd-4a31-ad61-9fd31354e5c5/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/0472d052-6ad9-4a7b-975d-057c8f83c4f8/6e465d10-ea57-4cfb-a017-5b45aa19f14c/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/0472d052-6ad9-4a7b-975d-057c8f83c4f8/dd3533b9-2cf2-4079-9db4-f4c55cd5268b/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/0472d052-6ad9-4a7b-975d-057c8f83c4f8/2d6e1d45-da50-47b8-ae77-877f697ab2ca/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/0472d052-6ad9-4a7b-975d-057c8f83c4f8/6e465d10-ea57-4cfb-a017-5b45aa19f14c/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/0472d052-6ad9-4a7b-975d-057c8f83c4f8/c3ad9cc3-7aad-4198-9f3f-e49a7617ed3c/high.webp"
@@ -902,7 +756,7 @@
     "metaDescription": "Pavilion Hotel Kuala Lumpur by Banyan Tree — a luxury wedding venue in the heart of Bukit Bintang's shopping and dining district.",
     "whatsappNumber": null,
     "whatsappMessage": null,
-    "youtubeLink": null,
+    "youtubeLink": "",
     "wpTag": "pavilion-hotel-kuala-lumpur",
     "faq": [
       {
@@ -964,7 +818,13 @@
     ],
     "venueDetails": null,
     "photographerDetails": null,
-    "adminOverrides": null,
+    "adminOverrides": {
+      "photos-videos": {
+        "value": "photos-videos",
+        "overriddenAt": "2026-08-26T10:12:05.670Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      }
+    },
     "coverImageFocalPoint": null,
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
@@ -981,7 +841,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-08-26T10:12:05.586Z",
     "spaces": [],
     "packages": [
       {
@@ -3097,7 +2957,7 @@
     ],
     "description": "Experience the pulsating heart of Kuala Lumpur with a stay at Crowne Plaza Kuala Lumpur City Centre. Our prime location places you steps from embassies, chic eateries, shopping districts, the city's vibrant nightlife, and iconic landmarks like the Petronas Twin Towers and KL Convention Centre.\r\n",
     "createdAt": "2025-03-17T08:12:35.173Z",
-    "vendorId": "user_3Cy3Yz8yDkM9kiVwKHPBOi17yo1",
+    "vendorId": "user_3CRoLUwQJApirl7TEUvgKfe4upM",
     "address": "No 22, Menara 8, Jalan Yap Kwan Seng, Kampung Baru, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
     "postCode": "50450",
     "googlePlaceId": "ChIJmdtuonQ3zDERzsPqRObk8Y0",
@@ -3145,7 +3005,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-08-26T11:39:00.558Z",
     "spaces": [],
     "packages": [
       {

@@ -210,6 +210,21 @@
     "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"1-146 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"Indoor Dining Hall\", \"capacity\": \"1-86 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"The Verandah (Air Conditioned Outdoor)\", \"capacity\": \"1-60 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"The Verandah (Air-Conditioned Outdoor)\", \"capacity\": \"1-60 pax\", \"price\": \"From $167/pax\"}]"
   },
   {
+    "recordId": "recmnhQh4ANr89IdH",
+    "name": "Mount Faber Peak",
+    "url": "https://www.bridely.sg/venue/mount-faber-peak/r/recmnhQh4ANr89IdH",
+    "location": "Bukit Merah",
+    "overallRating": 4.7,
+    "venueRating": 4.8,
+    "serviceRating": 4.7,
+    "foodRating": 4.8,
+    "reviews": 39,
+    "tags": "Event Hall, Restaurant, Chinese, Fusion, Western, Ballroom, Garden & Greenery, Glasshouse, Indoor, Outdoor, Pet Friendly, Rooftop, Waterfront",
+    "price": "From $118/pax",
+    "capacity": "1-100 pax",
+    "rooms": "[{\"name\": \"Arbora\", \"capacity\": \"1-100 pax\", \"price\": \"From $118/pax\"}, {\"name\": \"The Ballroom\", \"capacity\": \"100-200 pax\", \"price\": \"From $148/pax\"}, {\"name\": \"Angsana Glasshouse\", \"capacity\": \"40-70 pax\", \"price\": \"From $148/pax\"}, {\"name\": \"Dusk & The Mirabilis Bar\", \"capacity\": \"1-100 pax\", \"price\": \"From $168/pax\"}]"
+  },
+  {
     "recordId": "recaFuygUVJPHDLpF",
     "name": "Conrad Singapore Orchard",
     "url": "https://www.bridely.sg/venue/conrad-singapore-orchard/r/recaFuygUVJPHDLpF",
@@ -1183,21 +1198,6 @@
     "price": "From $177/pax",
     "capacity": "108-180 pax",
     "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"108-180 pax\", \"price\": \"From $177/pax\"}]"
-  },
-  {
-    "recordId": "reciMgHviimwfaRnn",
-    "name": "NUSS Guild Houses",
-    "url": "https://www.bridely.sg/venue/nuss-guild-houses/r/reciMgHviimwfaRnn",
-    "location": "NUSS KENT RIDGE GUILD HOUSE: 9 Kent Ridge Dr, Singapore 119241 | NUSS SUNTEC CITY GUILD HOUSE: 3 Temasek Blvd, Tower 5, Mall, #02-401/402 Suntec City, Singapore 038983 | NUSS MANDALAY GUILD HOUSE: 2 Mandalay Rd, Singapore 308206",
-    "overallRating": 5,
-    "venueRating": 5,
-    "serviceRating": 5,
-    "foodRating": 5,
-    "reviews": 2,
-    "tags": "Event Hall, Chinese, Fusion, Muslim-friendly, Western",
-    "price": "From $78/pax",
-    "capacity": "160-200 pax",
-    "rooms": "[{\"name\": \"Kent Ridge Guild House\", \"capacity\": \"160-200 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Suntec City Guild House\", \"capacity\": \"100-120 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Mandalay Guild House\", \"capacity\": \"40-50 pax\", \"price\": \"From $89/pax\"}]"
   },
   {
     "recordId": "recGSE4cMEiR29mHX",
