@@ -94,27 +94,26 @@
     "response_time": null
   },
   {
-    "name": "Museum Of Ice Cream",
-    "url": "https://www.venuerific.com/sg/venues/museum-of-ice-cream",
-    "slug": "museum-of-ice-cream",
-    "area": "Tanglin",
-    "address": "100 Loewen Rd, Singapore 248837",
-    "lat": 1.30273,
-    "lng": 103.812423,
-    "capacity_standing": 700,
-    "capacity_seated": 700,
-    "rooms_count": 4,
-    "price": "S$500",
+    "name": "Maduro",
+    "url": "https://www.venuerific.com/sg/venues/maduro",
+    "slug": "maduro",
+    "area": "Sentosa",
+    "address": "2 Bukit Manis Rd, Lower Lobby of Sofitel Singapore Sentosa, Singapore 099891",
+    "lat": 1.2456916,
+    "lng": 103.8278754,
+    "capacity_standing": 150,
+    "capacity_seated": 100,
+    "rooms_count": 5,
+    "price": "S$2,000",
     "price_unit": "Min spend",
     "rating": 0,
     "reviews": 0,
-    "mrt_station": "Napier MRT Station",
+    "mrt_station": "HarbourFront MRT Station",
     "event_types": [
-      "Product Launch",
-      "Product Exhibition",
-      "Party"
+      "Birthday",
+      "Wedding"
     ],
-    "fast_response": true,
+    "fast_response": false,
     "response_time": null
   },
   {
@@ -138,7 +137,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "43 mins"
+    "response_time": "1 hr"
   },
   {
     "name": "Cargo39",
@@ -208,7 +207,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "31 mins"
+    "response_time": "29 mins"
   },
   {
     "name": "ONE°15 Marina Sentosa Cove",
@@ -256,30 +255,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "6 hrs"
-  },
-  {
-    "name": "Maduro",
-    "url": "https://www.venuerific.com/sg/venues/maduro",
-    "slug": "maduro",
-    "area": "Sentosa",
-    "address": "2 Bukit Manis Rd, Lower Lobby of Sofitel Singapore Sentosa, Singapore 099891",
-    "lat": 1.2456916,
-    "lng": 103.8278754,
-    "capacity_standing": 150,
-    "capacity_seated": 100,
-    "rooms_count": 5,
-    "price": "S$2,000",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "HarbourFront MRT Station",
-    "event_types": [
-      "Birthday",
-      "Wedding"
-    ],
-    "fast_response": false,
-    "response_time": null
+    "response_time": "16 hrs"
   },
   {
     "name": "KOMYUNITI Bar & Restaurant",
@@ -577,7 +553,7 @@
       "Reception"
     ],
     "fast_response": true,
-    "response_time": "11 hrs"
+    "response_time": "12 hrs"
   },
   {
     "name": "Industrial-Chic Event Venue at 20 Jln Kilang",
@@ -624,7 +600,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "16 hrs"
+    "response_time": "4 hrs"
   },
   {
     "name": "Lotus@Norris",
@@ -668,6 +644,30 @@
     "event_types": [],
     "fast_response": true,
     "response_time": "8 hrs"
+  },
+  {
+    "name": "Museum Of Ice Cream",
+    "url": "https://www.venuerific.com/sg/venues/museum-of-ice-cream",
+    "slug": "museum-of-ice-cream",
+    "area": "Tanglin",
+    "address": "100 Loewen Rd, Singapore 248837",
+    "lat": 1.30273,
+    "lng": 103.812423,
+    "capacity_standing": 700,
+    "capacity_seated": 700,
+    "rooms_count": 4,
+    "price": "S$500",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Napier MRT Station",
+    "event_types": [
+      "Product Launch",
+      "Product Exhibition",
+      "Party"
+    ],
+    "fast_response": true,
+    "response_time": null
   },
   {
     "name": "Unfolded",

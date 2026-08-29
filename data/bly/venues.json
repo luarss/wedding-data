@@ -210,6 +210,21 @@
     "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"1-146 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"Indoor Dining Hall\", \"capacity\": \"1-86 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"The Verandah (Air Conditioned Outdoor)\", \"capacity\": \"1-60 pax\", \"price\": \"From $167/pax\"}, {\"name\": \"The Verandah (Air-Conditioned Outdoor)\", \"capacity\": \"1-60 pax\", \"price\": \"From $167/pax\"}]"
   },
   {
+    "recordId": "recmnhQh4ANr89IdH",
+    "name": "Mount Faber Peak",
+    "url": "https://www.bridely.sg/venue/mount-faber-peak/r/recmnhQh4ANr89IdH",
+    "location": "Bukit Merah",
+    "overallRating": 4.7,
+    "venueRating": 4.8,
+    "serviceRating": 4.7,
+    "foodRating": 4.8,
+    "reviews": 39,
+    "tags": "Event Hall, Restaurant, Chinese, Fusion, Western, Ballroom, Garden & Greenery, Glasshouse, Indoor, Outdoor, Pet Friendly, Rooftop, Waterfront",
+    "price": "From $118/pax",
+    "capacity": "1-100 pax",
+    "rooms": "[{\"name\": \"Arbora\", \"capacity\": \"1-100 pax\", \"price\": \"From $118/pax\"}, {\"name\": \"The Ballroom\", \"capacity\": \"100-200 pax\", \"price\": \"From $148/pax\"}, {\"name\": \"Angsana Glasshouse\", \"capacity\": \"40-70 pax\", \"price\": \"From $148/pax\"}, {\"name\": \"Dusk & The Mirabilis Bar\", \"capacity\": \"1-100 pax\", \"price\": \"From $168/pax\"}]"
+  },
+  {
     "recordId": "recaFuygUVJPHDLpF",
     "name": "Conrad Singapore Orchard",
     "url": "https://www.bridely.sg/venue/conrad-singapore-orchard/r/recaFuygUVJPHDLpF",
@@ -283,21 +298,6 @@
     "price": "From $158/pax",
     "capacity": "300-550 pax",
     "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"300-550 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Waterfront Ballroom\", \"capacity\": \"200-280 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Riverfront Ballroom\", \"capacity\": \"150-200 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Galleria Ballroom\", \"capacity\": \"100-160 pax\", \"price\": \"From $158/pax\"}]"
-  },
-  {
-    "recordId": "recDE70TqO66tuVMT",
-    "name": "Little Island Brewing Co",
-    "url": "https://www.bridely.sg/venue/little-island-brewing-co/r/recDE70TqO66tuVMT",
-    "location": "Changi",
-    "overallRating": 4.7,
-    "venueRating": 4.8,
-    "serviceRating": 4.7,
-    "foodRating": 4.9,
-    "reviews": 37,
-    "tags": "Restaurant, Western",
-    "price": "From $68/pax",
-    "capacity": "50-350 pax",
-    "rooms": "[{\"name\": \"Changi Village\", \"capacity\": \"50-350 pax\", \"price\": \"From $68/pax\"}, {\"name\": \"Gillman Barracks\", \"capacity\": \"50-200 pax\", \"price\": \"From $78/pax\"}]"
   },
   {
     "recordId": "recEVqHq1aNQ9gkfi",
