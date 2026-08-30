@@ -4,13 +4,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Python web scraping project that collects wedding vendor and venue data from Singapore and Malaysia wedding websites. The project is organized as a monorepo of independent scrapers, each targeting a specific website.
+This is a Python web extraction project that collects wedding vendor and venue data from Singapore and Malaysia wedding websites. The project is organized as a monorepo of independent extractors, each targeting a specific website.
 
 ## Architecture
 
-### Scraper Modules (`src/`)
+### Extractor Modules (`src/`)
 
-Each subdirectory in `src/` is an independent scraper with its own entry point:
+Each subdirectory in `src/` is an independent extractor with its own entry point:
 
 | Module | Source | Description | Entry Point |
 |--------|--------|-------------|-------------|
@@ -30,13 +30,13 @@ Each subdirectory in `src/` is an independent scraper with its own entry point:
 3. **Transform**: Clean and structure data into dictionaries
 4. **Save**: Output to `data/<module>/` as both JSON (full data) and CSV (flattened)
 
-### Scraping Techniques Used
+### Extraction Techniques Used
 
-- **HTTP + HTML parsing**: `bb`, `twn`, `wv` - Direct HTTP requests with BeautifulSoup
+- **HTTP + HTML parsing**: `bb`, `twn`, `wv`, `sb` - Direct HTTP requests with BeautifulSoup
 - **GraphQL API**: `twn` - Uses `gql` library with HTTPX transport
 - **Session-based AJAX API**: `tv` - Session cookies from search page, then JSON API (`/ajax/search-list`)
-- **Browser automation**: `bly`, `wd`, `sb` - Playwright for JavaScript-rendered content
-- **External JS scrapers**: `wd` loads JavaScript files (`scraper.js`, `photographers_scraper.js`) for page evaluation
+- **Browser automation**: `bly`, `wd` - Playwright for JavaScript-rendered content
+- **External JS extractors**: `wd` loads JavaScript files (`extractor.js`, `photographers_extractor.js`) for page evaluation
 
 ## Common Commands
 
@@ -50,7 +50,7 @@ make sync           # uv sync --all-extras
 uv run playwright install chromium
 ```
 
-### Running Scrapers
+### Running Extractors
 
 ```bash
 # BlissfulBrides (Singapore venues)
@@ -74,8 +74,8 @@ uv run python -m src.wd.main 5                     # Limit to 5 for testing
 
 # SingaporeBrides
 uv run python -m src.sb.main
-uv run python -m src.sb.main --no-headless         # Show browser window
 uv run python -m src.sb.main --no-details          # Skip detail pages
+uv run python -m src.sb.main --no-pdfs             # Skip downloading PDFs
 
 # Tagvenue
 uv run python -m src.tv.main
@@ -105,7 +105,7 @@ make check          # ruff check
 
 ## Environment Variables
 
-Required for Bridely scraper (`bly`). See `.env.example`:
+Required for Bridely extractor (`bly`). See `.env.example`:
 
 - `BRIDELY_BASE_URL` - API base URL
 - `BRIDELY_APP_ID` - App identifier
@@ -145,9 +145,9 @@ data/
 
 ## CI/CD
 
-GitHub Actions workflow (`.github/workflows/daily-scrape.yml`):
+GitHub Actions workflow (`.github/workflows/daily-extraction.yml`):
 - Runs weekly, Sundays at 19:23 UTC
-- Executes all scrapers sequentially
+- Executes all extractors sequentially
 - Commits data changes automatically
 - Requires repository secrets for Bridely API endpoints
 
@@ -155,7 +155,7 @@ GitHub Actions workflow (`.github/workflows/daily-scrape.yml`):
 
 ### Browser Page Context Manager
 
-All Playwright-based scrapers use this pattern:
+All Playwright-based extractors use this pattern:
 
 ```python
 @asynccontextmanager
@@ -169,26 +169,26 @@ async def get_browser_page(headless=True):
             await browser.close()
 ```
 
-### Concurrent Scraping with Semaphore
+### Concurrent Extraction with Semaphore
 
 Used in `wd/` for rate-limited parallel processing:
 
 ```python
 semaphore = asyncio.Semaphore(concurrent_limit)
 
-async def scrape_with_semaphore(browser, url: str, index: int):
+async def extract_with_semaphore(browser, url: str, index: int):
     async with semaphore:
         page = await browser.new_page()
-        # ... scrape logic
+        # ... extraction logic
 ```
 
 ### Shared Configuration
 
 HTTP headers with rotating user agents in `src/shared/config.py`.
 
-## Testing Scrapers
+## Testing Extractors
 
-All scrapers support limiting results for faster testing:
+All extractors support limiting results for faster testing:
 - `wd`: Pass integer as CLI argument (e.g., `python -m src.wd.main 5`)
 - `twn`: Use `--limit N`
 - `bly/vendors`: Use `--limit-per-category N`

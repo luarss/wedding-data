@@ -1,4 +1,4 @@
-function scrapeVenuePage() {
+function extractVenuePage() {
   const name = document.querySelector('h1')?.textContent?.trim() || '';
 
   let vendorId = '';
@@ -103,5 +103,5 @@ function scrapeVenuePage() {
 }
 
 if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { scrapeVenuePage };
+  module.exports = { extractVenuePage };
 }

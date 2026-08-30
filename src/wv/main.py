@@ -238,7 +238,7 @@ async def fetch_venue_detail(client: httpx.AsyncClient, slug: str) -> dict:
         return {}
 
 
-async def scrape_all_venues_async(limit: int | None = None, concurrency: int = 5) -> list[dict]:
+async def extract_all_venues_async(limit: int | None = None, concurrency: int = 5) -> list[dict]:
     async with httpx.AsyncClient(headers=get_headers(), timeout=30, follow_redirects=True) as client:
         summaries = await fetch_all_listings(client, limit=limit)
         logger.info(f"\nFetching details for {len(summaries)} venues...")
@@ -258,13 +258,13 @@ async def scrape_all_venues_async(limit: int | None = None, concurrency: int = 5
     return venues
 
 
-def scrape_all_venues(limit: int | None = None, concurrency: int = 5) -> list[dict]:
-    """Synchronous wrapper for scrape_all_venues_async"""
-    return asyncio.run(scrape_all_venues_async(limit=limit, concurrency=concurrency))
+def extract_all_venues(limit: int | None = None, concurrency: int = 5) -> list[dict]:
+    """Synchronous wrapper for extract_all_venues_async"""
+    return asyncio.run(extract_all_venues_async(limit=limit, concurrency=concurrency))
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Scrape WeddingVenue.sg wedding venue data")
+    parser = argparse.ArgumentParser(description="Extract WeddingVenue.sg wedding venue data")
     parser.add_argument("--output", type=str, default="data/wv", help="Output directory")
     parser.add_argument("--limit", type=int, default=None, help="Limit number of venues (for testing)")
     parser.add_argument("--concurrency", type=int, default=5, help="Concurrent detail page requests")
@@ -272,15 +272,15 @@ def main():
     args = parser.parse_args()
 
     logger.info("\n" + "=" * 60)
-    logger.info("SCRAPING WEDDINGVENUE.SG")
+    logger.info("EXTRACTING WEDDINGVENUE.SG")
     logger.info("=" * 60 + "\n")
 
-    venues = scrape_all_venues(limit=args.limit, concurrency=args.concurrency)
+    venues = extract_all_venues(limit=args.limit, concurrency=args.concurrency)
 
     save_json_csv(venues, f"{args.output}/venues")
 
     if venues:
-        logger.info("\n✅ Scraping complete!")
+        logger.info("\n✅ Extraction complete!")
         logger.info(f"\n📊 Total venues: {len(venues)}")
 
         logger.info("\nSample venues:")

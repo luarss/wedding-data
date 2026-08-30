@@ -1,10 +1,10 @@
-# Wedding Data Scrapers
+# Wedding Data Extractors
 
-Python web scrapers that collect and archive wedding vendor and venue data from various Singapore and Malaysia wedding websites.
+Python web extractors that collect and archive wedding vendor and venue data from various Singapore and Malaysia wedding websites.
 
 ## Disclaimer
 
-This project is for **educational purposes only** and **not for profit**. The data collected is intended for learning web scraping techniques, data analysis, and software development practices. This project respects the terms of service of all data sources and is not intended for commercial use or redistribution.
+This project is for **educational purposes only** and **not for profit**. The data collected is intended for learning web extraction techniques, data analysis, and software development practices. This project respects the terms of service of all data sources and is not intended for commercial use or redistribution.
 
 ## Data Sources
 
@@ -27,16 +27,16 @@ uv sync
 
 ### BlissfulBrides (Singapore)
 
-Scrape wedding venue data from multiple sources:
+Extract wedding venue data from multiple sources:
 
 ```bash
-# Scrape from all sources (default - recommended)
+# Extract from all sources (default - recommended)
 uv run python -m src.bb.main
 
-# Scrape only from banquet price list
+# Extract only from banquet price list
 uv run python -m src.bb.main --source banquet
 
-# Scrape only from wedding venues booking
+# Extract only from wedding venues booking
 uv run python -m src.bb.main --source booking
 
 # Custom output directory
@@ -46,10 +46,10 @@ uv run python -m src.bb.main --output data/custom
 
 ### The Wedding Notebook (Malaysia)
 
-Scrape wedding venues using GraphQL API:
+Extract wedding venues using GraphQL API:
 
 ```bash
-# Scrape all venues
+# Extract all venues
 uv run python src/twn/main.py
 
 # Filter by state
@@ -66,13 +66,13 @@ Data is saved to `data/twn/venues.json` and `data/twn/venues.csv`.
 
 ### Bridely (Singapore)
 
-Scrape wedding venues and vendors using the Bridely API:
+Extract wedding venues and vendors using the Bridely API:
 
 ```bash
-# Scrape venues
+# Extract venues
 uv run python -m src.bly.main
 
-# Scrape vendors from all categories
+# Extract vendors from all categories
 uv run python -m src.bly.vendors
 
 # Options for venues
@@ -84,13 +84,13 @@ uv run python -m src.bly.vendors --limit-per-category 20 --output data/bly/vendo
 
 ### Wedded.sg (Singapore)
 
-Scrape wedding venues/vendors using Playwright:
+Extract wedding venues/vendors using Playwright:
 
 ```bash
-# Scrape all venues
+# Extract all venues
 uv run python -m src.wd.main
 
-# Scrape all photographers
+# Extract all photographers
 uv run python -m src.wd.photographers
 ```
 

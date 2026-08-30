@@ -1,7 +1,7 @@
 [project]
-name = "wedscraper"
+name = "wedextractor"
 version = "0.1.0"
-description = "Wedding vendor data scraper for Singapore wedding websites"
+description = "Wedding vendor data extractor for Singapore wedding websites"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [

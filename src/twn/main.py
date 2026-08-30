@@ -25,14 +25,14 @@ BROWSER_UA = (
 )
 
 
-def scrape_venues(category="venues", state=None, limit=None):
+def extract_venues(category="venues", state=None, limit=None):
     """
-    Scrape venues from TheWeddingNotebook.com, including detail pages.
+    Extract venues from TheWeddingNotebook.com, including detail pages.
 
     Args:
         category: "venues" (only category currently supported)
         state: Filter by state (e.g., "Selangor", "Kuala Lumpur")
-        limit: Max number of venues to scrape
+        limit: Max number of venues to extract
 
     Returns:
         List of venue dictionaries with detail fields merged in
@@ -209,7 +209,7 @@ def save_venues(venues, filename="data/twn/venues"):
     Save venues to JSON and CSV.
 
     Args:
-        venues: List of venue dicts from scrape_venues()
+        venues: List of venue dicts from extract_venues()
         filename: Output filename (without extension)
     """
     import os
@@ -245,18 +245,18 @@ def save_venues(venues, filename="data/twn/venues"):
 
 def main():
     """CLI entry point"""
-    parser = argparse.ArgumentParser(description="Scrape TheWeddingNotebook.com wedding venues")
+    parser = argparse.ArgumentParser(description="Extract TheWeddingNotebook.com wedding venues")
     parser.add_argument("--state", type=str, default=None, help="Filter by state (e.g. Selangor, Kuala Lumpur)")
-    parser.add_argument("--limit", type=int, default=None, help="Max venues to scrape")
+    parser.add_argument("--limit", type=int, default=None, help="Max venues to extract")
     parser.add_argument("--output", type=str, default="data/twn/venues", help="Output file path (without extension)")
     args = parser.parse_args()
 
-    logger.info(f"Scraping venues{f' in {args.state}' if args.state else ''}...")
-    venues = scrape_venues(state=args.state, limit=args.limit)
+    logger.info(f"Extracting venues{f' in {args.state}' if args.state else ''}...")
+    venues = extract_venues(state=args.state, limit=args.limit)
 
     save_venues(venues, args.output)
 
-    logger.info(f"\nScraped {len(venues)} venues")
+    logger.info(f"\nExtracted {len(venues)} venues")
     if venues:
         states = {}
         for v in venues:

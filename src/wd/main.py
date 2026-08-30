@@ -49,14 +49,14 @@ async def download_pdf(url: str, venue_slug: str, filename: str) -> str | None:
         return None
 
 
-def load_scraper_script() -> str:
-    script_path = Path(__file__).parent / "scraper.js"
+def load_extractor_script() -> str:
+    script_path = Path(__file__).parent / "extractor.js"
     with open(script_path, encoding="utf-8") as f:
         content = f.read()
-    return f"(() => {{ {content} return scrapeVenuePage(); }})()"
+    return f"(() => {{ {content} return extractVenuePage(); }})()"
 
 
-async def scrape_venue_page(page, url: str, max_retries: int = 2) -> dict:
+async def extract_venue_page(page, url: str, max_retries: int = 2) -> dict:
     slug = parse_venue_slug(url)
 
     for attempt in range(max_retries + 1):
@@ -70,8 +70,8 @@ async def scrape_venue_page(page, url: str, max_retries: int = 2) -> dict:
                 raise
             await asyncio.sleep(2**attempt)
 
-    scraper_script = load_scraper_script()
-    venue_data = await page.evaluate(scraper_script)
+    extractor_script = load_extractor_script()
+    venue_data = await page.evaluate(extractor_script)
 
     vendor_id = venue_data.get("vendorId") or None
     pdf_links = venue_data.get("pdfLinks", [])
@@ -97,16 +97,16 @@ async def scrape_venue_page(page, url: str, max_retries: int = 2) -> dict:
     }
 
 
-async def scrape_all_venues(urls: list[str], concurrent_limit: int = 5) -> list[dict]:
+async def extract_all_venues(urls: list[str], concurrent_limit: int = 5) -> list[dict]:
     semaphore = asyncio.Semaphore(concurrent_limit)
 
-    async def scrape_with_semaphore(browser, url: str, index: int) -> dict:
+    async def extract_with_semaphore(browser, url: str, index: int) -> dict:
         async with semaphore:
-            logger.debug(f"[{index}/{len(urls)}] Scraping: {url}")
+            logger.debug(f"[{index}/{len(urls)}] Extracting: {url}")
             try:
                 page = await browser.new_page()
                 try:
-                    result = await scrape_venue_page(page, url)
+                    result = await extract_venue_page(page, url)
                     pdf_count = len(result.get("pdfs", []))
                     pdf_info = f", {pdf_count} PDFs" if pdf_count > 0 else ""
                     logger.debug(f"  -> {result['name']}: {len(result['rooms'])} rooms{pdf_info}")
@@ -121,7 +121,7 @@ async def scrape_all_venues(urls: list[str], concurrent_limit: int = 5) -> list[
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         try:
-            tasks = [scrape_with_semaphore(browser, url, i + 1) for i, url in enumerate(urls)]
+            tasks = [extract_with_semaphore(browser, url, i + 1) for i, url in enumerate(urls)]
             results = await asyncio.gather(*tasks)
         finally:
             await browser.close()
@@ -232,12 +232,12 @@ async def main(limit: int = 0):
     if limit > 0:
         urls = urls[:limit]
         logger.info(f"Limited to {limit} venues for testing")
-    logger.info(f"Found {len(urls)} venue URLs to scrape")
+    logger.info(f"Found {len(urls)} venue URLs to extract")
 
-    logger.info("Scraping venues from wedded.sg using Playwright...")
-    venues = await scrape_all_venues(urls)
+    logger.info("Extracting venues from wedded.sg using Playwright...")
+    venues = await extract_all_venues(urls)
 
-    logger.info(f"\nTotal venues scraped: {len(venues)}")
+    logger.info(f"\nTotal venues extracted: {len(venues)}")
 
     total_pdfs = sum(len(v.get("pdfs", [])) for v in venues)
     venues_with_pdfs = sum(1 for v in venues if v.get("pdfs"))
@@ -259,7 +259,7 @@ async def main(limit: int = 0):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Scrape Wedded.sg wedding venues")
-    parser.add_argument("--limit", type=int, default=0, help="Max venues to scrape (0 = all)")
+    parser = argparse.ArgumentParser(description="Extract Wedded.sg wedding venues")
+    parser.add_argument("--limit", type=int, default=0, help="Max venues to extract (0 = all)")
     args = parser.parse_args()
     asyncio.run(main(limit=args.limit))

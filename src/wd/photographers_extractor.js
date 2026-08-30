@@ -1,4 +1,4 @@
-function scrapePhotographerPage() {
+function extractPhotographerPage() {
   const name = document.querySelector('h1')?.textContent?.trim() || '';
 
   let vendorId = null;
@@ -137,5 +137,5 @@ function scrapePhotographerPage() {
 }
 
 if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { scrapePhotographerPage };
+  module.exports = { extractPhotographerPage };
 }

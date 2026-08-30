@@ -8,7 +8,7 @@ on:
         required: false
         default: ""
   workflow_run:
-    workflows: ["Daily Wedding Data Scrape"]
+    workflows: ["Daily Wedding Data Extraction"]
     types: [completed]
 
 concurrency:

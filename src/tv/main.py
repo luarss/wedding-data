@@ -132,7 +132,7 @@ def _dedup_by_venue(rooms: list[dict]) -> list[dict]:
     return list(seen.values())
 
 
-def scrape_venues(limit: int | None = None) -> list[dict]:
+def extract_venues(limit: int | None = None) -> list[dict]:
     ua = get_random_user_agent()
     form_ts = int(time.time())
 
@@ -166,14 +166,14 @@ def scrape_venues(limit: int | None = None) -> list[dict]:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Scrape wedding venues from Tagvenue.com (Singapore)")
+    parser = argparse.ArgumentParser(description="Extract wedding venues from Tagvenue.com (Singapore)")
     parser.add_argument("--limit", type=int, default=None, help="Max venues (for testing)")
     parser.add_argument("--output", type=str, default="data/tv/venues", help="Output path without extension")
     args = parser.parse_args()
 
-    logger.info("Starting Tagvenue scraper...")
-    venues = scrape_venues(limit=args.limit)
-    logger.info(f"Scraped {len(venues)} venues")
+    logger.info("Starting Tagvenue extractor...")
+    venues = extract_venues(limit=args.limit)
+    logger.info(f"Extracted {len(venues)} venues")
 
     save_json_csv(venues, args.output)
     logger.info(f"Saved to {args.output}.json / .csv")

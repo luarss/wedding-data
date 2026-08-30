@@ -85,7 +85,7 @@ def parse_messages(soup: BeautifulSoup, channel: str) -> list[dict]:
     return messages
 
 
-async def scrape_channel(
+async def extract_channel(
     channel: str,
     limit: int | None = None,
     delay: float = 1.0,
@@ -117,7 +117,7 @@ async def scrape_channel(
                 all_messages.extend(new_msgs)
                 logger.info(f"  Got {len(new_msgs)} new messages (total: {len(all_messages)})")
                 if len(new_msgs) < len(page_messages):
-                    logger.info(f"  Reached already-scraped messages (since_id={since_id}), stopping.")
+                    logger.info(f"  Reached already-extracted messages (since_id={since_id}), stopping.")
                     break
             else:
                 all_messages.extend(page_messages)
@@ -142,7 +142,7 @@ def run_channel(channel: str, limit: int | None, delay: float, incremental: bool
     output = f"data/tg/{channel}/messages"
 
     logger.info("=" * 60)
-    logger.info(f"SCRAPING TELEGRAM CHANNEL: @{channel}")
+    logger.info(f"EXTRACTING TELEGRAM CHANNEL: @{channel}")
     logger.info("=" * 60)
 
     existing: list[dict] = []
@@ -157,7 +157,7 @@ def run_channel(channel: str, limit: int | None, delay: float, incremental: bool
                 since_id = max(m["message_id"] for m in existing)
                 logger.info(f"Incremental mode: {len(existing)} existing messages, fetching since id={since_id}")
 
-    new_messages = asyncio.run(scrape_channel(channel, limit=limit, delay=delay, since_id=since_id))
+    new_messages = asyncio.run(extract_channel(channel, limit=limit, delay=delay, since_id=since_id))
 
     if incremental and existing:
         existing_by_id = {m["message_id"]: m for m in existing}
@@ -172,11 +172,11 @@ def run_channel(channel: str, limit: int | None, delay: float, incremental: bool
         save_json_csv(messages, output)
         logger.info(f"\n✅ Saved {len(messages)} messages to {output}.json / .csv")
     else:
-        logger.warning("No messages scraped.")
+        logger.warning("No messages extracted.")
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Scrape public Telegram channels listed in channels.json")
+    parser = argparse.ArgumentParser(description="Extract public Telegram channels listed in channels.json")
     parser.add_argument("--limit", type=int, default=None, help="Max number of messages to fetch per channel")
     parser.add_argument("--delay", type=float, default=1.0, help="Seconds between page requests (default: 1.0)")
     parser.add_argument("--incremental", action="store_true", help="Only fetch messages newer than existing data and merge")

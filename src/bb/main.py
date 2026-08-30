@@ -47,8 +47,8 @@ async def download_pdfs_for_vendor(client: httpx.AsyncClient, vendor_data: dict)
     return vendor_data
 
 
-async def scrape_venue_booking_details(client: httpx.AsyncClient, venue_id: str) -> dict:
-    """Scrape venue booking detail page for additional information"""
+async def extract_venue_booking_details(client: httpx.AsyncClient, venue_id: str) -> dict:
+    """Extract venue booking detail page for additional information"""
     url = f"{BASE_URL}/wedding-venues-booking-details/{venue_id}"
     try:
         response = await client.get(url, timeout=30, follow_redirects=True)
@@ -97,8 +97,8 @@ async def scrape_venue_booking_details(client: httpx.AsyncClient, venue_id: str)
         return {}
 
 
-async def scrape_wedding_venues_booking_async() -> list[dict]:
-    """Scrape wedding venues booking page with pagination"""
+async def extract_wedding_venues_booking_async() -> list[dict]:
+    """Extract wedding venues booking page with pagination"""
     venues = []
     page = 1
 
@@ -156,7 +156,7 @@ async def scrape_wedding_venues_booking_async() -> list[dict]:
 
                         if venue_data.get("name") and venue_data["name"] not in [v.get("name") for v in venues]:
                             logger.debug(f"  Found: {venue_data.get('name', 'N/A')}")
-                            details = await scrape_venue_booking_details(client, venue_id)
+                            details = await extract_venue_booking_details(client, venue_id)
                             venue_data.update(details)
                             venues.append(venue_data)
 
@@ -170,12 +170,12 @@ async def scrape_wedding_venues_booking_async() -> list[dict]:
         return venues
 
     except Exception as e:
-        logger.error(f"Error scraping wedding venues booking: {e}")
+        logger.error(f"Error extracting wedding venues booking: {e}")
         return venues
 
 
-async def scrape_banquet_prices_async() -> list[dict]:
-    """Scrape banquet price list table and download PDFs"""
+async def extract_banquet_prices_async() -> list[dict]:
+    """Extract banquet price list table and download PDFs"""
     url = f"{BASE_URL}/wedding-banquet-price-list"
 
     try:
@@ -264,7 +264,7 @@ async def scrape_banquet_prices_async() -> list[dict]:
         return vendors
 
     except Exception as e:
-        logger.error(f"Error scraping banquet prices: {e}")
+        logger.error(f"Error extracting banquet prices: {e}")
         return []
 
 
@@ -312,20 +312,20 @@ def merge_venue_data(banquet_data: list[dict], booking_data: list[dict]) -> list
     return result
 
 
-async def scrape_all_venues_async() -> list[dict]:
-    """Scrape from both sources and merge the data"""
+async def extract_all_venues_async() -> list[dict]:
+    """Extract from both sources and merge the data"""
 
     logger.info("\n" + "=" * 60)
-    logger.info("SCRAPING WEDDING VENUES FROM MULTIPLE SOURCES")
+    logger.info("EXTRACTING WEDDING VENUES FROM MULTIPLE SOURCES")
     logger.info("=" * 60 + "\n")
 
-    logger.info("📋 Phase 1: Scraping banquet price list...")
+    logger.info("📋 Phase 1: Extracting banquet price list...")
     logger.info("-" * 60)
-    banquet_venues = await scrape_banquet_prices_async()
+    banquet_venues = await extract_banquet_prices_async()
 
-    logger.info("\n📋 Phase 2: Scraping wedding venues booking...")
+    logger.info("\n📋 Phase 2: Extracting wedding venues booking...")
     logger.info("-" * 60)
-    booking_venues = await scrape_wedding_venues_booking_async()
+    booking_venues = await extract_wedding_venues_booking_async()
 
     logger.info("\n🔄 Phase 3: Merging data from both sources...")
     logger.info("-" * 60)
@@ -351,23 +351,23 @@ async def scrape_all_venues_async() -> list[dict]:
     return merged_venues
 
 
-def scrape_banquet_prices() -> list[dict]:
-    """Synchronous wrapper for scrape_banquet_prices_async"""
+def extract_banquet_prices() -> list[dict]:
+    """Synchronous wrapper for extract_banquet_prices_async"""
     import asyncio
 
-    return asyncio.run(scrape_banquet_prices_async())
+    return asyncio.run(extract_banquet_prices_async())
 
 
-def scrape_all_venues() -> list[dict]:
-    """Synchronous wrapper for scrape_all_venues_async"""
+def extract_all_venues() -> list[dict]:
+    """Synchronous wrapper for extract_all_venues_async"""
     import asyncio
 
-    return asyncio.run(scrape_all_venues_async())
+    return asyncio.run(extract_all_venues_async())
 
 
 def main():
     """CLI entry point"""
-    parser = argparse.ArgumentParser(description="Scrape BlissfulBrides.sg wedding venue data")
+    parser = argparse.ArgumentParser(description="Extract BlissfulBrides.sg wedding venue data")
 
     parser.add_argument("--output", type=str, default="data/bb", help="Output directory")
     parser.add_argument(
@@ -375,30 +375,30 @@ def main():
         type=str,
         choices=["all", "banquet", "booking"],
         default="all",
-        help="Data source to scrape (default: all)",
+        help="Data source to extract (default: all)",
     )
 
     args = parser.parse_args()
 
     if args.source == "banquet":
         logger.info("\n" + "=" * 60)
-        logger.info("SCRAPING BANQUET PRICES ONLY")
+        logger.info("EXTRACTING BANQUET PRICES ONLY")
         logger.info("=" * 60 + "\n")
-        vendors = scrape_banquet_prices()
+        vendors = extract_banquet_prices()
     elif args.source == "booking":
         logger.info("\n" + "=" * 60)
-        logger.info("SCRAPING WEDDING VENUES BOOKING ONLY")
+        logger.info("EXTRACTING WEDDING VENUES BOOKING ONLY")
         logger.info("=" * 60 + "\n")
         import asyncio
 
-        vendors = asyncio.run(scrape_wedding_venues_booking_async())
+        vendors = asyncio.run(extract_wedding_venues_booking_async())
     else:
-        vendors = scrape_all_venues()
+        vendors = extract_all_venues()
 
     save_json_csv(vendors, f"{args.output}/venues")
 
     if vendors:
-        logger.info("\n✅ Scraping complete!")
+        logger.info("\n✅ Extraction complete!")
         logger.info(f"\n📊 Total venues: {len(vendors)}")
 
         sources_count = {}

@@ -1,4 +1,4 @@
-name: Weekly Wedding Data Scrape
+name: Weekly Wedding Data Extraction
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  scrape:
+  extract:
     runs-on: ubuntu-latest
     timeout-minutes: 60
     permissions:
@@ -48,68 +48,68 @@ jobs:
           BRIDELY_ENGAGEMENT_RINGS_ENDPOINT=${{ secrets.BRIDELY_ENGAGEMENT_RINGS_ENDPOINT }}
           EOF
 
-      - name: Run TWN scraper
+      - name: Run TWN extractor
         id: twn
         run: uv run python -m src.twn.main
         timeout-minutes: 15
         continue-on-error: true
 
-      - name: Run BlissfulBrides scraper
+      - name: Run BlissfulBrides extractor
         id: bb
         run: uv run python -m src.bb.main
         timeout-minutes: 15
         continue-on-error: true
 
-      - name: Run Bridely venues scraper
+      - name: Run Bridely venues extractor
         id: bly-venues
         run: uv run python -m src.bly.main
         timeout-minutes: 15
         continue-on-error: true
 
-      - name: Run Bridely vendors scraper
+      - name: Run Bridely vendors extractor
         id: bly-vendors
         run: uv run python -m src.bly.vendors
         timeout-minutes: 15
         continue-on-error: true
 
-      # Wedded.sg scraper disabled - site appears to be down (2026-08-30)
-      # - name: Run Wedded.sg venues scraper
+      # Wedded.sg extractor disabled - site appears to be down (2026-08-30)
+      # - name: Run Wedded.sg venues extractor
       #   id: wd-venues
       #   run: uv run python -m src.wd.main
       #   timeout-minutes: 15
       #   continue-on-error: true
 
-      # - name: Run Wedded.sg photographers scraper
+      # - name: Run Wedded.sg photographers extractor
       #   id: wd-photographers
       #   run: uv run python -m src.wd.photographers
       #   timeout-minutes: 15
       #   continue-on-error: true
 
-      - name: Run SingaporeBrides scraper
+      - name: Run SingaporeBrides extractor
         id: sb
         run: uv run python -m src.sb.main
         timeout-minutes: 15
         continue-on-error: true
 
-      - name: Run Venuerific scraper
+      - name: Run Venuerific extractor
         id: vrf
         run: uv run python -m src.vrf.main
         timeout-minutes: 15
         continue-on-error: true
 
-      - name: Run Tagvenue scraper
+      - name: Run Tagvenue extractor
         id: tv
         run: uv run python -m src.tv.main
         timeout-minutes: 15
         continue-on-error: true
 
-      - name: Run WeddingVenue.sg scraper
+      - name: Run WeddingVenue.sg extractor
         id: wv
         run: uv run python -m src.wv.main
         timeout-minutes: 15
         continue-on-error: true
 
-      - name: Run Telegram scraper + enrich links (blissfulbrides)
+      - name: Run Telegram extractor + enrich links (blissfulbrides)
         id: tg
         run: |
           uv run python -m src.tg.main --incremental
@@ -117,7 +117,7 @@ jobs:
         timeout-minutes: 15
         continue-on-error: true
 
-      - name: Report scraper failures
+      - name: Report extractor failures
         if: ${{ !cancelled() }}
         run: |
           FAILED=""
@@ -131,8 +131,8 @@ jobs:
           [ "${{ steps.tv.outcome }}" = "failure" ] && FAILED="$FAILED tv"
           [ "${{ steps.tg.outcome }}" = "failure" ] && FAILED="$FAILED tg"
           if [ -n "$FAILED" ]; then
-            echo "## Scraper Failures" >> $GITHUB_STEP_SUMMARY
-            echo "The following scrapers failed:" >> $GITHUB_STEP_SUMMARY
+            echo "## Extractor Failures" >> $GITHUB_STEP_SUMMARY
+            echo "The following extractors failed:" >> $GITHUB_STEP_SUMMARY
             for s in $FAILED; do echo "  - $s" >> $GITHUB_STEP_SUMMARY; done
             echo "Check the step logs above for error details." >> $GITHUB_STEP_SUMMARY
           fi
@@ -140,7 +140,7 @@ jobs:
       - name: Commit and push data
         uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7
         with:
-          commit_message: "chore(data): automated weekly scrape"
+          commit_message: "chore(data): automated weekly extraction"
           file_pattern: "data/*"
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"

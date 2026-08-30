@@ -28,14 +28,14 @@ async def fetch_photographer_sitemap() -> list[str]:
         return [loc.text for loc in locs if "/photographers/" in loc.text and loc.text.count("/") == 4]
 
 
-def load_photographer_scraper_script() -> str:
-    script_path = Path(__file__).parent / "photographers_scraper.js"
+def load_photographer_extractor_script() -> str:
+    script_path = Path(__file__).parent / "photographers_extractor.js"
     with open(script_path, encoding="utf-8") as f:
         content = f.read()
-    return f"(() => {{ {content} return scrapePhotographerPage(); }})()"
+    return f"(() => {{ {content} return extractPhotographerPage(); }})()"
 
 
-async def scrape_photographer_page(page, url: str, max_retries: int = 2) -> dict:
+async def extract_photographer_page(page, url: str, max_retries: int = 2) -> dict:
     slug = parse_photographer_slug(url)
 
     for attempt in range(max_retries + 1):
@@ -49,8 +49,8 @@ async def scrape_photographer_page(page, url: str, max_retries: int = 2) -> dict
                 raise
             await asyncio.sleep(2**attempt)
 
-    scraper_script = load_photographer_scraper_script()
-    photographer_data = await page.evaluate(scraper_script)
+    extractor_script = load_photographer_extractor_script()
+    photographer_data = await page.evaluate(extractor_script)
 
     vendor_id = photographer_data.get("vendorId") or None
     contact = photographer_data.get("contact", {})
@@ -87,16 +87,16 @@ async def scrape_photographer_page(page, url: str, max_retries: int = 2) -> dict
     }
 
 
-async def scrape_all_photographers(urls: list[str], concurrent_limit: int = 5) -> list[dict]:
+async def extract_all_photographers(urls: list[str], concurrent_limit: int = 5) -> list[dict]:
     semaphore = asyncio.Semaphore(concurrent_limit)
 
-    async def scrape_with_semaphore(browser, url: str, index: int) -> dict:
+    async def extract_with_semaphore(browser, url: str, index: int) -> dict:
         async with semaphore:
-            logger.debug(f"[{index}/{len(urls)}] Scraping: {url}")
+            logger.debug(f"[{index}/{len(urls)}] Extracting: {url}")
             try:
                 page = await browser.new_page()
                 try:
-                    result = await scrape_photographer_page(page, url)
+                    result = await extract_photographer_page(page, url)
                     package_count = len(result.get("packages", []))
                     photobook_count = result.get("portfolio", {}).get("photobook_count", 0)
                     logger.debug(f"  -> {result['name']}: {package_count} packages, {photobook_count} photobooks")
@@ -111,7 +111,7 @@ async def scrape_all_photographers(urls: list[str], concurrent_limit: int = 5) -
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         try:
-            tasks = [scrape_with_semaphore(browser, url, i + 1) for i, url in enumerate(urls)]
+            tasks = [extract_with_semaphore(browser, url, i + 1) for i, url in enumerate(urls)]
             results = await asyncio.gather(*tasks)
         finally:
             await browser.close()
@@ -217,12 +217,12 @@ async def main(limit: int = 0):
     if limit > 0:
         urls = urls[:limit]
         logger.info(f"Limited to {limit} photographers for testing")
-    logger.info(f"Found {len(urls)} photographer URLs to scrape")
+    logger.info(f"Found {len(urls)} photographer URLs to extract")
 
-    logger.info("Scraping photographers from wedded.sg using Playwright...")
-    photographers = await scrape_all_photographers(urls)
+    logger.info("Extracting photographers from wedded.sg using Playwright...")
+    photographers = await extract_all_photographers(urls)
 
-    logger.info(f"\nTotal photographers scraped: {len(photographers)}")
+    logger.info(f"\nTotal photographers extracted: {len(photographers)}")
 
     total_packages = sum(len(p.get("packages", [])) for p in photographers)
     total_photobooks = sum(p.get("portfolio", {}).get("photobook_count", 0) for p in photographers)
@@ -244,7 +244,7 @@ async def main(limit: int = 0):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Scrape Wedded.sg wedding photographers")
-    parser.add_argument("--limit", type=int, default=0, help="Max photographers to scrape (0 = all)")
+    parser = argparse.ArgumentParser(description="Extract Wedded.sg wedding photographers")
+    parser.add_argument("--limit", type=int, default=0, help="Max photographers to extract (0 = all)")
     args = parser.parse_args()
     asyncio.run(main(limit=args.limit))

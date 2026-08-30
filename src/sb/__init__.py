@@ -1,1 +1,1 @@
-# SingaporeBrides.com scraper
+# SingaporeBrides.com extractor

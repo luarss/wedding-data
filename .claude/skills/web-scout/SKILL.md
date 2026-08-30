@@ -1,12 +1,12 @@
 ---
 name: web-scout
-description: Autonomously analyze and discover scraping strategies for websites. Use this skill when the user wants to scrape data from a website, extract information from web pages, figure out how to crawl a site, or needs help understanding a website's structure for data extraction. This skill should be triggered for requests like "scrape data from example.com", "help me extract listings from a website", "how do I get data from this site", or any web scraping exploration tasks.
+description: Autonomously analyze and discover extraction strategies for websites. Use this skill when the user wants to extract data from a website, extract information from web pages, figure out how to crawl a site, or needs help understanding a website's structure for data extraction. This skill should be triggered for requests like "extract data from example.com", "help me extract listings from a website", "how do I get data from this site", or any web extraction exploration tasks.
 version: 1.0.0
 ---
 
-# Web Scout - Autonomous Web Scraping Discovery
+# Web Scout - Autonomous Web Extraction Discovery
 
-This skill autonomously explores websites to discover optimal scraping strategies. It analyzes site structure, identifies data patterns, detects anti-scraping measures, and generates working extraction code.
+This skill autonomously explores websites to discover optimal extraction strategies. It analyzes site structure, identifies data patterns, detects anti-extraction measures, and generates working extraction code.
 
 ## Overview
 
@@ -14,11 +14,11 @@ Web Scout uses Playwright to navigate websites, analyze their structure, and det
 
 ## When to Use This Skill
 
-- The user wants to scrape data from a specific website
+- The user wants to extract data from a specific website
 - The user needs to extract structured data from web pages
 - The user wants to understand how to navigate a site's structure programmatically
 - The user needs help with pagination, infinite scroll, or dynamic content
-- The user wants to generate scraping code for a website
+- The user wants to generate extraction code for a website
 
 ## Workflow
 
@@ -33,7 +33,7 @@ Web Scout uses Playwright to navigate websites, analyze their structure, and det
 
 1. **Scroll through the page** to detect lazy-loaded content
 2. **Test pagination** mechanisms (numbered pages, "Load More", infinite scroll)
-3. **Check for anti-scraping measures** (CAPTCHA, rate limiting, bot detection)
+3. **Check for anti-extraction measures** (CAPTCHA, rate limiting, bot detection)
 4. **Analyze API calls** in the Network tab for data endpoints
 5. **Look for JSON data** in script tags or window variables
 
@@ -43,7 +43,7 @@ Based on findings, determine the best approach:
 
 | Approach | When to Use |
 |----------|-------------|
-| **Direct DOM scraping** | Static content, clear selectors |
+| **Direct DOM extraction** | Static content, clear selectors |
 | **API endpoint extraction** | XHR/fetch calls with clean JSON |
 | **JavaScript execution** | Data in `window.__INITIAL_STATE__` or similar |
 | **Headless browser automation** | Heavy JavaScript, complex interactions |
@@ -82,7 +82,7 @@ Check for:
 - Look for `window.__` prefixed variables
 - Check for GraphQL endpoints or REST APIs
 
-## Anti-Scraping Detection
+## Anti-Extraction Detection
 
 Watch for:
 - CAPTCHA challenges (reCAPTCHA, hCaptcha)
@@ -95,13 +95,13 @@ If detected, note the specific measures and suggest workarounds.
 
 ## Code Templates
 
-### Template 1: Static Page Scraping (BeautifulSoup)
+### Template 1: Static Page Extraction (BeautifulSoup)
 
 ```python
 import requests
 from bs4 import BeautifulSoup
 
-def scrape_static(url):
+def extract_static(url):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
     }
@@ -123,7 +123,7 @@ def scrape_static(url):
 ```python
 from playwright.sync_api import sync_playwright
 
-def scrape_dynamic(url):
+def extract_dynamic(url):
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
@@ -147,7 +147,7 @@ def scrape_dynamic(url):
 ```python
 import requests
 
-def scrape_api(endpoint):
+def extract_api(endpoint):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
         'Accept': 'application/json',
@@ -177,7 +177,7 @@ After exploration, provide:
 1. **Site Analysis Summary**
    - Site type (static, SPA, e-commerce, etc.)
    - Technology stack (React, Vue, jQuery, etc.)
-   - Anti-scraping measures detected
+   - Anti-extraction measures detected
 
 2. **Recommended Strategy**
    - Best approach with justification
@@ -199,7 +199,7 @@ After exploration, provide:
 
 ## Example Session
 
-**User**: "Help me scrape wedding vendor listings from singaporebrides.com"
+**User**: "Help me extract wedding vendor listings from singaporebrides.com"
 
 **Approach**:
 1. Navigate to the vendor directory page

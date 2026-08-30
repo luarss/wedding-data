@@ -1,7 +1,7 @@
 import logging
 import sys
 
-LOGGER_NAME = "wedscraper"
+LOGGER_NAME = "wedextractor"
 
 _configured = False
 

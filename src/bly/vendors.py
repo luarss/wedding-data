@@ -91,7 +91,7 @@ def fetch_vendors_from_endpoint(
 
 def fetch_all_vendors(max_records_per_category: int | None = None):
     logger.info("=" * 80)
-    logger.info("BRIDELY.SG COMPLETE VENDOR SCRAPER")
+    logger.info("BRIDELY.SG COMPLETE VENDOR EXTRACTOR")
     logger.info("=" * 80)
     logger.info(f"\nFetching from {len(VENDOR_ENDPOINTS)} vendor categories...")
 
@@ -212,7 +212,7 @@ def save_vendors(vendors: list, filename: str = "data/bly/vendors"):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Scrape Bridely.sg wedding vendors")
+    parser = argparse.ArgumentParser(description="Extract Bridely.sg wedding vendors")
     parser.add_argument("--limit-per-category", type=int, help="Max records to fetch per category")
     parser.add_argument("--output", type=str, default="data/bly/vendors", help="Output file path")
 
@@ -227,7 +227,7 @@ def main():
     save_vendors(vendors, args.output)
 
     logger.info("\n" + "=" * 80)
-    logger.info("✅ SCRAPING COMPLETE")
+    logger.info("✅ EXTRACTION COMPLETE")
     logger.info("=" * 80)
 
 
