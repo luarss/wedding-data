@@ -146,7 +146,7 @@ data/
 ## CI/CD
 
 GitHub Actions workflow (`.github/workflows/daily-scrape.yml`):
-- Runs daily at 2 AM UTC
+- Runs weekly, Sundays at 19:23 UTC
 - Executes all scrapers sequentially
 - Commits data changes automatically
 - Requires repository secrets for Bridely API endpoints
