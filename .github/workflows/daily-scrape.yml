@@ -103,6 +103,12 @@ jobs:
         timeout-minutes: 15
         continue-on-error: true
 
+      - name: Run WeddingVenue.sg scraper
+        id: wv
+        run: uv run python -m src.wv.main
+        timeout-minutes: 15
+        continue-on-error: true
+
       - name: Run Telegram scraper + enrich links (blissfulbrides)
         id: tg
         run: |
@@ -121,6 +127,7 @@ jobs:
           [ "${{ steps.bly-vendors.outcome }}" = "failure" ] && FAILED="$FAILED bly-vendors"
           [ "${{ steps.sb.outcome }}" = "failure" ] && FAILED="$FAILED sb"
           [ "${{ steps.vrf.outcome }}" = "failure" ] && FAILED="$FAILED vrf"
+          [ "${{ steps.wv.outcome }}" = "failure" ] && FAILED="$FAILED wv"
           [ "${{ steps.tv.outcome }}" = "failure" ] && FAILED="$FAILED tv"
           [ "${{ steps.tg.outcome }}" = "failure" ] && FAILED="$FAILED tg"
           if [ -n "$FAILED" ]; then

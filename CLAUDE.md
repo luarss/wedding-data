@@ -20,6 +20,7 @@ Each subdirectory in `src/` is an independent scraper with its own entry point:
 | `wd/` | Wedded.sg | Singapore venues & photographers (Playwright) | `python -m src.wd.main` / `python -m src.wd.photographers` |
 | `sb/` | SingaporeBrides.com | Singapore wedding banquet prices | `python -m src.sb.main` |
 | `tv/` | Tagvenue.com | Singapore wedding venues (JSON API) | `python -m src.tv.main` |
+| `wv/` | WeddingVenue.sg | Singapore wedding venues (rooms + package pricing) | `python -m src.wv.main` |
 | `shared/` | - | Common utilities (HTTP headers, config) | - |
 
 ### Data Flow Pattern
@@ -31,7 +32,7 @@ Each subdirectory in `src/` is an independent scraper with its own entry point:
 
 ### Scraping Techniques Used
 
-- **HTTP + HTML parsing**: `bb`, `twn` - Direct HTTP requests with BeautifulSoup
+- **HTTP + HTML parsing**: `bb`, `twn`, `wv` - Direct HTTP requests with BeautifulSoup
 - **GraphQL API**: `twn` - Uses `gql` library with HTTPX transport
 - **Session-based AJAX API**: `tv` - Session cookies from search page, then JSON API (`/ajax/search-list`)
 - **Browser automation**: `bly`, `wd`, `sb` - Playwright for JavaScript-rendered content
@@ -79,6 +80,11 @@ uv run python -m src.sb.main --no-details          # Skip detail pages
 # Tagvenue
 uv run python -m src.tv.main
 uv run python -m src.tv.main --limit 10            # Limit for testing
+
+# WeddingVenue.sg
+uv run python -m src.wv.main
+uv run python -m src.wv.main --limit 10            # Limit for testing
+uv run python -m src.wv.main --concurrency 10      # Concurrent detail page requests
 ```
 
 ### Code Quality
@@ -129,7 +135,10 @@ data/
 │   ├── venues.json
 │   ├── venues.csv
 │   └── price-lists/ # Downloaded PDFs
-└── tv/              # Tagvenue
+├── tv/              # Tagvenue
+│   ├── venues.json
+│   └── venues.csv
+└── wv/              # WeddingVenue.sg
     ├── venues.json
     └── venues.csv
 ```
