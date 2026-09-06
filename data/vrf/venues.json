@@ -47,6 +47,29 @@
     "response_time": null
   },
   {
+    "name": "Major99",
+    "url": "https://www.venuerific.com/sg/venues/major99",
+    "slug": "major99",
+    "area": "Ang Mo Kio",
+    "address": "4190 Ang Mo Kio Ave 6, #02-02 Broadway Plaza, Singapore 569841",
+    "lat": 1.3718742,
+    "lng": 103.8460619,
+    "capacity_standing": 300,
+    "capacity_seated": 300,
+    "rooms_count": 0,
+    "price": "S$3,000",
+    "price_unit": "Min spend",
+    "rating": 4.6,
+    "reviews": 5,
+    "mrt_station": "Ang Mo Kio MRT Station",
+    "event_types": [
+      "Team Bonding",
+      "Party"
+    ],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
     "name": "7th Heaven Cafe ",
     "url": "https://www.venuerific.com/sg/venues/7th-heaven-cafe",
     "slug": "7th-heaven-cafe",
@@ -71,52 +94,6 @@
     "response_time": "4 hrs"
   },
   {
-    "name": "temper. Wine Room & Lounge",
-    "url": "https://www.venuerific.com/sg/venues/temper-wine-room-lounge",
-    "slug": "temper-wine-room-lounge",
-    "area": "Tanjong Pagar",
-    "address": "83 Neil Rd, #01-07 Access via Mondrian, Hotel Lobby, Singapore 089813",
-    "lat": 1.2789527,
-    "lng": 103.8419489,
-    "capacity_standing": 120,
-    "capacity_seated": 80,
-    "rooms_count": 0,
-    "price": "S$15,000",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Tanjong Pagar MRT Station (EW15) | Maxwell MRT Station (TE18) ",
-    "event_types": [
-      "Company Cocktail Party",
-      "Networking"
-    ],
-    "fast_response": false,
-    "response_time": null
-  },
-  {
-    "name": "HomeTeamNS Bedok Reservoir Clubhouse",
-    "url": "https://www.venuerific.com/sg/venues/hometeamns-bedok-reservoir-clubhouse",
-    "slug": "hometeamns-bedok-reservoir-clubhouse",
-    "area": "Bedok",
-    "address": "900 Bedok North Rd, Singapore 479994",
-    "lat": 1.3409594,
-    "lng": 103.9195417,
-    "capacity_standing": 380,
-    "capacity_seated": 380,
-    "rooms_count": 6,
-    "price": "S$478",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Bedok North MRT Station (DT29)",
-    "event_types": [
-      "Conference",
-      "Team Bonding"
-    ],
-    "fast_response": true,
-    "response_time": "11 hrs"
-  },
-  {
     "name": "The Inspire Space Sg",
     "url": "https://www.venuerific.com/sg/venues/the-inspire-space-sg",
     "slug": "the-inspire-space-sg",
@@ -137,7 +114,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "1 hr"
+    "response_time": "2 hrs"
   },
   {
     "name": "Cargo39",
@@ -159,8 +136,8 @@
       "Office Party",
       "Wedding"
     ],
-    "fast_response": false,
-    "response_time": null
+    "fast_response": true,
+    "response_time": "6 hrs"
   },
   {
     "name": "Artyzen Singapore",
@@ -207,7 +184,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "29 mins"
+    "response_time": "28 mins"
   },
   {
     "name": "ONE°15 Marina Sentosa Cove",
@@ -231,7 +208,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "7 hrs"
+    "response_time": "8 hrs"
   },
   {
     "name": "PEN & INC · One-North",
@@ -255,30 +232,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "16 hrs"
-  },
-  {
-    "name": "Maduro",
-    "url": "https://www.venuerific.com/sg/venues/maduro",
-    "slug": "maduro",
-    "area": "Sentosa",
-    "address": "2 Bukit Manis Rd, Lower Lobby of Sofitel Singapore Sentosa, Singapore 099891",
-    "lat": 1.2456916,
-    "lng": 103.8278754,
-    "capacity_standing": 150,
-    "capacity_seated": 100,
-    "rooms_count": 5,
-    "price": "S$2,000",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "HarbourFront MRT Station",
-    "event_types": [
-      "Birthday",
-      "Wedding"
-    ],
-    "fast_response": false,
-    "response_time": null
+    "response_time": "18 hrs"
   },
   {
     "name": "KOMYUNITI Bar & Restaurant",
@@ -305,29 +259,6 @@
     "response_time": "11 hrs"
   },
   {
-    "name": "Singapore EXPO",
-    "url": "https://www.venuerific.com/sg/venues/singapore-expo",
-    "slug": "singapore-expo",
-    "area": "Changi, Pasir Ris, Tampines",
-    "address": "1 Expo Dr, Singapore",
-    "lat": 1.3335851,
-    "lng": 103.9588795,
-    "capacity_standing": 9000,
-    "capacity_seated": 19000,
-    "rooms_count": 5,
-    "price": "S$2,000",
-    "price_unit": "Min spend",
-    "rating": 5.0,
-    "reviews": 2,
-    "mrt_station": "Expo MRT Station",
-    "event_types": [
-      "Conference",
-      "Meeting"
-    ],
-    "fast_response": true,
-    "response_time": "14 hrs"
-  },
-  {
     "name": "HAPPEN",
     "url": "https://www.venuerific.com/sg/venues/happen",
     "slug": "happen",
@@ -348,7 +279,30 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "11 hrs"
+    "response_time": "10 hrs"
+  },
+  {
+    "name": "Singapore EXPO",
+    "url": "https://www.venuerific.com/sg/venues/singapore-expo",
+    "slug": "singapore-expo",
+    "area": "Changi, Pasir Ris, Tampines",
+    "address": "1 Expo Dr, Singapore",
+    "lat": 1.3335851,
+    "lng": 103.9588795,
+    "capacity_standing": 9000,
+    "capacity_seated": 19000,
+    "rooms_count": 5,
+    "price": "S$2,000",
+    "price_unit": "Min spend",
+    "rating": 5.0,
+    "reviews": 2,
+    "mrt_station": "Expo MRT Station",
+    "event_types": [
+      "Conference",
+      "Meeting"
+    ],
+    "fast_response": true,
+    "response_time": "9 hrs"
   },
   {
     "name": " M Hotel Singapore ",
@@ -368,7 +322,7 @@
     "mrt_station": "Tanjong Pagar MRT Station",
     "event_types": [],
     "fast_response": true,
-    "response_time": "3 hrs"
+    "response_time": null
   },
   {
     "name": "Alta Studio",
@@ -392,31 +346,30 @@
       "Video Shoot"
     ],
     "fast_response": true,
-    "response_time": "22 mins"
+    "response_time": "1 hr"
   },
   {
-    "name": "The Spot Singapore",
-    "url": "https://www.venuerific.com/sg/venues/the-spot-singapore",
-    "slug": "the-spot-singapore",
-    "area": "Marina Bay, Raffles Place, Shenton Way",
-    "address": "5 Straits View, #01-26/27 Marina One East Tower, Singapore 018935",
-    "lat": 1.2780388,
-    "lng": 103.8531501,
-    "capacity_standing": 250,
-    "capacity_seated": 140,
-    "rooms_count": 3,
-    "price": "S$1,800",
+    "name": "HomeTeamNS Bedok Reservoir Clubhouse",
+    "url": "https://www.venuerific.com/sg/venues/hometeamns-bedok-reservoir-clubhouse",
+    "slug": "hometeamns-bedok-reservoir-clubhouse",
+    "area": "Bedok",
+    "address": "900 Bedok North Rd, Singapore 479994",
+    "lat": 1.3409594,
+    "lng": 103.9195417,
+    "capacity_standing": 380,
+    "capacity_seated": 380,
+    "rooms_count": 6,
+    "price": "S$478",
     "price_unit": "Min spend",
-    "rating": 4.7,
-    "reviews": 3,
-    "mrt_station": "Downtown MRT Station",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Bedok North MRT Station (DT29)",
     "event_types": [
-      "Business Luncheon",
-      "Business Dinner",
-      "Solemnisation"
+      "Conference",
+      "Team Bonding"
     ],
     "fast_response": true,
-    "response_time": "6 hrs"
+    "response_time": "10 hrs"
   },
   {
     "name": "WAKANUI Grill Dining Singapore",
@@ -440,6 +393,53 @@
     ],
     "fast_response": true,
     "response_time": "4 hrs"
+  },
+  {
+    "name": "The Spot Singapore",
+    "url": "https://www.venuerific.com/sg/venues/the-spot-singapore",
+    "slug": "the-spot-singapore",
+    "area": "Marina Bay, Raffles Place, Shenton Way",
+    "address": "5 Straits View, #01-26/27 Marina One East Tower, Singapore 018935",
+    "lat": 1.2780388,
+    "lng": 103.8531501,
+    "capacity_standing": 250,
+    "capacity_seated": 140,
+    "rooms_count": 3,
+    "price": "S$1,800",
+    "price_unit": "Min spend",
+    "rating": 4.7,
+    "reviews": 3,
+    "mrt_station": "Downtown MRT Station",
+    "event_types": [
+      "Business Luncheon",
+      "Business Dinner",
+      "Solemnisation"
+    ],
+    "fast_response": true,
+    "response_time": "5 hrs"
+  },
+  {
+    "name": "Maduro",
+    "url": "https://www.venuerific.com/sg/venues/maduro",
+    "slug": "maduro",
+    "area": "Sentosa",
+    "address": "2 Bukit Manis Rd, Lower Lobby of Sofitel Singapore Sentosa, Singapore 099891",
+    "lat": 1.2456916,
+    "lng": 103.8278754,
+    "capacity_standing": 150,
+    "capacity_seated": 100,
+    "rooms_count": 5,
+    "price": "S$2,000",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "HarbourFront MRT Station",
+    "event_types": [
+      "Birthday",
+      "Wedding"
+    ],
+    "fast_response": false,
+    "response_time": null
   },
   {
     "name": "ARC.",
@@ -533,27 +533,51 @@
     "response_time": null
   },
   {
-    "name": "The Outset",
-    "url": "https://www.venuerific.com/sg/venues/the-outset",
-    "slug": "the-outset",
-    "area": "Tai Seng",
-    "address": "39 MacTaggart Rd, #07 00, Singapore 368084",
-    "lat": 1.3339436,
-    "lng": 103.8832766,
-    "capacity_standing": 180,
-    "capacity_seated": 154,
-    "rooms_count": 0,
-    "price": "S$600",
+    "name": "Museum Of Ice Cream",
+    "url": "https://www.venuerific.com/sg/venues/museum-of-ice-cream",
+    "slug": "museum-of-ice-cream",
+    "area": "Tanglin",
+    "address": "100 Loewen Rd, Singapore 248837",
+    "lat": 1.30273,
+    "lng": 103.812423,
+    "capacity_standing": 700,
+    "capacity_seated": 700,
+    "rooms_count": 4,
+    "price": "S$500",
     "price_unit": "Min spend",
-    "rating": 5.0,
-    "reviews": 1,
-    "mrt_station": "Tai Seng MRT Station",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Napier MRT Station",
     "event_types": [
-      "Wedding",
-      "Reception"
+      "Product Launch",
+      "Product Exhibition",
+      "Party"
     ],
     "fast_response": true,
-    "response_time": "12 hrs"
+    "response_time": "22 hrs"
+  },
+  {
+    "name": "VIVA LOCA INTERNATIONAL @ NSRCC",
+    "url": "https://www.venuerific.com/sg/venues/viva-loca-international-nsrcc",
+    "slug": "viva-loca-international-nsrcc",
+    "area": "Changi",
+    "address": "10 Changi Coast Walk, #5th Floor of Sky Range, Singapore 499739",
+    "lat": 1.3206738,
+    "lng": 103.9742651,
+    "capacity_standing": 200,
+    "capacity_seated": 200,
+    "rooms_count": 3,
+    "price": "",
+    "price_unit": null,
+    "rating": 5.0,
+    "reviews": 2,
+    "mrt_station": "Expo MRT Station,",
+    "event_types": [
+      "Company Cocktail Party",
+      "Party"
+    ],
+    "fast_response": false,
+    "response_time": null
   },
   {
     "name": "Industrial-Chic Event Venue at 20 Jln Kilang",
@@ -579,30 +603,6 @@
     "response_time": "12 hrs"
   },
   {
-    "name": "METT Hotel",
-    "url": "https://www.venuerific.com/sg/venues/mett-hotel",
-    "slug": "mett-hotel",
-    "area": "Dhoby Ghaut, Fort Canning",
-    "address": "11 Canning Walk, Singapore 178881",
-    "lat": 1.295966,
-    "lng": 103.8454732,
-    "capacity_standing": 800,
-    "capacity_seated": 700,
-    "rooms_count": 5,
-    "price": "S$12,000",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Dhoby Ghaut MRT (NS24/NE6/CC1)",
-    "event_types": [
-      "Corporate Seminar",
-      "Company Dinner and Dance",
-      "Wedding"
-    ],
-    "fast_response": true,
-    "response_time": "4 hrs"
-  },
-  {
     "name": "Lotus@Norris",
     "url": "https://www.venuerific.com/sg/venues/lotus-norris",
     "slug": "lotus-norris",
@@ -621,120 +621,6 @@
     "event_types": [
       "Wedding",
       "ROM"
-    ],
-    "fast_response": false,
-    "response_time": null
-  },
-  {
-    "name": "Mount Faber Peak Event Space",
-    "url": "https://www.venuerific.com/sg/venues/mount-faber-peak-event-space",
-    "slug": "mount-faber-peak-event-space",
-    "area": "Bukit Merah, HarbourFront",
-    "address": "109 Mount Faber Rd, Singapore 099203",
-    "lat": 1.2712211,
-    "lng": 103.819556,
-    "capacity_standing": 350,
-    "capacity_seated": 200,
-    "rooms_count": 4,
-    "price": "S$5,000",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Harbourfront",
-    "event_types": [],
-    "fast_response": true,
-    "response_time": "8 hrs"
-  },
-  {
-    "name": "Museum Of Ice Cream",
-    "url": "https://www.venuerific.com/sg/venues/museum-of-ice-cream",
-    "slug": "museum-of-ice-cream",
-    "area": "Tanglin",
-    "address": "100 Loewen Rd, Singapore 248837",
-    "lat": 1.30273,
-    "lng": 103.812423,
-    "capacity_standing": 700,
-    "capacity_seated": 700,
-    "rooms_count": 4,
-    "price": "S$500",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Napier MRT Station",
-    "event_types": [
-      "Product Launch",
-      "Product Exhibition",
-      "Party"
-    ],
-    "fast_response": true,
-    "response_time": null
-  },
-  {
-    "name": "Unfolded",
-    "url": "https://www.venuerific.com/sg/venues/unfolded",
-    "slug": "unfolded",
-    "area": "Bugis, City Hall, Esplanade",
-    "address": "41 Beach Rd, #02 01, Singapore 189680",
-    "lat": 1.2962347,
-    "lng": 103.8558084,
-    "capacity_standing": 70,
-    "capacity_seated": 70,
-    "rooms_count": 2,
-    "price": "S$340",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Esplanade (CC3)",
-    "event_types": [
-      "Corporate Seminar",
-      "Birthday",
-      "Wedding"
-    ],
-    "fast_response": true,
-    "response_time": null
-  },
-  {
-    "name": "Mandai Wildlife Reserve",
-    "url": "https://www.venuerific.com/sg/venues/mandai-wildlife-reserve",
-    "slug": "mandai-wildlife-reserve",
-    "area": "Bukit Batok, Woodlands, Yishun",
-    "address": "80 Mandai Lake Rd, Singapore 729826",
-    "lat": 1.4049843,
-    "lng": 103.7905489,
-    "capacity_standing": 1300,
-    "capacity_seated": 500,
-    "rooms_count": 5,
-    "price": "S$1,200",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "",
-    "event_types": [
-      "Corporate Seminar",
-      "Team Building"
-    ],
-    "fast_response": false,
-    "response_time": null
-  },
-  {
-    "name": "VIVA LOCA INTERNATIONAL @ NSRCC",
-    "url": "https://www.venuerific.com/sg/venues/viva-loca-international-nsrcc",
-    "slug": "viva-loca-international-nsrcc",
-    "area": "Changi",
-    "address": "10 Changi Coast Walk, #5th Floor of Sky Range, Singapore 499739",
-    "lat": 1.3206738,
-    "lng": 103.9742651,
-    "capacity_standing": 200,
-    "capacity_seated": 200,
-    "rooms_count": 3,
-    "price": "",
-    "price_unit": null,
-    "rating": 5.0,
-    "reviews": 2,
-    "mrt_station": "Expo MRT Station,",
-    "event_types": [
-      "Company Cocktail Party",
-      "Party"
     ],
     "fast_response": false,
     "response_time": null
@@ -763,50 +649,94 @@
     "response_time": "10 hrs"
   },
   {
-    "name": "Creative lifestyle studio in Kallang",
-    "url": "https://www.venuerific.com/sg/venues/creative-lifestyle-studio-in-kallang",
-    "slug": "creative-lifestyle-studio-in-kallang",
-    "area": "Kallang, Tai Seng",
-    "address": "56 Kallang Pudding Rd, HH@Kallang 349328",
-    "lat": 1.3281716,
-    "lng": 103.878971,
-    "capacity_standing": 80,
-    "capacity_seated": 40,
-    "rooms_count": 1,
-    "price": "S$185",
-    "price_unit": "Per hour",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Mattar MRT Station",
-    "event_types": [
-      "Workshop",
-      "Photo Shoot"
-    ],
-    "fast_response": true,
-    "response_time": "6 hrs"
-  },
-  {
-    "name": "Tanjong Beach Club",
-    "url": "https://www.venuerific.com/sg/venues/tanjong-beach-club-1",
-    "slug": "tanjong-beach-club-1",
-    "area": "Sentosa",
-    "address": "120 Tanjong Beach Walk, Singapore 098942",
-    "lat": 1.243299,
-    "lng": 103.828128,
-    "capacity_standing": 600,
-    "capacity_seated": 500,
-    "rooms_count": 4,
-    "price": "S$6,500",
+    "name": "METT Hotel",
+    "url": "https://www.venuerific.com/sg/venues/mett-hotel",
+    "slug": "mett-hotel",
+    "area": "Dhoby Ghaut, Fort Canning",
+    "address": "11 Canning Walk, Singapore 178881",
+    "lat": 1.295966,
+    "lng": 103.8454732,
+    "capacity_standing": 800,
+    "capacity_seated": 700,
+    "rooms_count": 5,
+    "price": "S$12,000",
     "price_unit": "Min spend",
     "rating": 0,
     "reviews": 0,
-    "mrt_station": "HarbourFront",
+    "mrt_station": "Dhoby Ghaut MRT (NS24/NE6/CC1)",
     "event_types": [
-      "Corporate Retreat",
-      "Party"
+      "Corporate Seminar",
+      "Company Dinner and Dance",
+      "Wedding"
+    ],
+    "fast_response": true,
+    "response_time": "4 hrs"
+  },
+  {
+    "name": "Mandai Wildlife Reserve",
+    "url": "https://www.venuerific.com/sg/venues/mandai-wildlife-reserve",
+    "slug": "mandai-wildlife-reserve",
+    "area": "Bukit Batok, Woodlands, Yishun",
+    "address": "80 Mandai Lake Rd, Singapore 729826",
+    "lat": 1.4049843,
+    "lng": 103.7905489,
+    "capacity_standing": 1300,
+    "capacity_seated": 500,
+    "rooms_count": 5,
+    "price": "S$1,200",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "",
+    "event_types": [
+      "Corporate Seminar",
+      "Team Building"
     ],
     "fast_response": false,
     "response_time": null
+  },
+  {
+    "name": "temper. Wine Room & Lounge",
+    "url": "https://www.venuerific.com/sg/venues/temper-wine-room-lounge",
+    "slug": "temper-wine-room-lounge",
+    "area": "Tanjong Pagar",
+    "address": "83 Neil Rd, #01-07 Access via Mondrian, Hotel Lobby, Singapore 089813",
+    "lat": 1.2789527,
+    "lng": 103.8419489,
+    "capacity_standing": 120,
+    "capacity_seated": 80,
+    "rooms_count": 0,
+    "price": "S$15,000",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Tanjong Pagar MRT Station (EW15) | Maxwell MRT Station (TE18) ",
+    "event_types": [
+      "Company Cocktail Party",
+      "Networking"
+    ],
+    "fast_response": true,
+    "response_time": "9 hrs"
+  },
+  {
+    "name": "Mount Faber Peak Event Space",
+    "url": "https://www.venuerific.com/sg/venues/mount-faber-peak-event-space",
+    "slug": "mount-faber-peak-event-space",
+    "area": "Bukit Merah, HarbourFront",
+    "address": "109 Mount Faber Rd, Singapore 099203",
+    "lat": 1.2712211,
+    "lng": 103.819556,
+    "capacity_standing": 350,
+    "capacity_seated": 200,
+    "rooms_count": 4,
+    "price": "S$5,000",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Harbourfront",
+    "event_types": [],
+    "fast_response": true,
+    "response_time": "8 hrs"
   },
   {
     "name": "Waterfront Event Space at ACM",
@@ -833,6 +763,29 @@
     "response_time": "20 hrs"
   },
   {
+    "name": "Creative lifestyle studio in Kallang",
+    "url": "https://www.venuerific.com/sg/venues/creative-lifestyle-studio-in-kallang",
+    "slug": "creative-lifestyle-studio-in-kallang",
+    "area": "Kallang, Tai Seng",
+    "address": "56 Kallang Pudding Rd, HH@Kallang 349328",
+    "lat": 1.3281716,
+    "lng": 103.878971,
+    "capacity_standing": 80,
+    "capacity_seated": 40,
+    "rooms_count": 1,
+    "price": "S$185",
+    "price_unit": "Per hour",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Mattar MRT Station",
+    "event_types": [
+      "Workshop",
+      "Photo Shoot"
+    ],
+    "fast_response": true,
+    "response_time": "6 hrs"
+  },
+  {
     "name": "Chui Huay Lim Teochew Cuisines ",
     "url": "https://www.venuerific.com/sg/venues/chui-huay-lim-teochew-cuisines",
     "slug": "chui-huay-lim-teochew-cuisines",
@@ -853,6 +806,30 @@
       "Wedding"
     ],
     "fast_response": false,
+    "response_time": null
+  },
+  {
+    "name": "Unfolded",
+    "url": "https://www.venuerific.com/sg/venues/unfolded",
+    "slug": "unfolded",
+    "area": "Bugis, City Hall, Esplanade",
+    "address": "41 Beach Rd, #02 01, Singapore 189680",
+    "lat": 1.2962347,
+    "lng": 103.8558084,
+    "capacity_standing": 70,
+    "capacity_seated": 70,
+    "rooms_count": 2,
+    "price": "S$340",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Esplanade (CC3)",
+    "event_types": [
+      "Corporate Seminar",
+      "Birthday",
+      "Wedding"
+    ],
+    "fast_response": true,
     "response_time": null
   },
   {
@@ -879,29 +856,6 @@
     "response_time": null
   },
   {
-    "name": "Lebua Thai",
-    "url": "https://www.venuerific.com/sg/venues/lebua-thai",
-    "slug": "lebua-thai",
-    "area": "Clarke Quay, Raffles Place",
-    "address": "30 Victoria St, #01-31 CHIJMES, Singapore 187996",
-    "lat": 1.2948011,
-    "lng": 103.8519822,
-    "capacity_standing": 150,
-    "capacity_seated": 100,
-    "rooms_count": 0,
-    "price": "S$2,000",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "City Hall MRT Station",
-    "event_types": [
-      "Business Dinner",
-      "Party"
-    ],
-    "fast_response": true,
-    "response_time": "7 hrs"
-  },
-  {
     "name": "Park Regis by Prince Singapore  ",
     "url": "https://www.venuerific.com/sg/venues/park-regis-by-prince-singapore",
     "slug": "park-regis-by-prince-singapore",
@@ -923,30 +877,7 @@
       "Party"
     ],
     "fast_response": true,
-    "response_time": "20 hrs"
-  },
-  {
-    "name": "Asia Grand Restaurant",
-    "url": "https://www.venuerific.com/sg/venues/asia-grand-restaurant",
-    "slug": "asia-grand-restaurant",
-    "area": "City Hall, Esplanade",
-    "address": "252 N Bridge Rd, #03-22B Fairmont Singapore South Tower, Singapore 179103",
-    "lat": 1.2942187,
-    "lng": 103.8534304,
-    "capacity_standing": 220,
-    "capacity_seated": 220,
-    "rooms_count": 3,
-    "price": "S$1,200",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Bus Stop",
-    "event_types": [
-      "Party",
-      "Wedding"
-    ],
-    "fast_response": true,
-    "response_time": null
+    "response_time": "22 hrs"
   },
   {
     "name": "Momentus Hotel Alexandra",
@@ -972,24 +903,50 @@
     "response_time": "3 hrs"
   },
   {
-    "name": "Venuerific",
-    "url": "https://www.venuerific.com/sg/venues/venuerific",
-    "slug": "venuerific",
-    "area": "Raffles Place",
-    "address": "9 Raffles Pl, Republic Plaza, Singapore 048619",
-    "lat": 1.2832744,
-    "lng": 103.8508826,
-    "capacity_standing": 50,
-    "capacity_seated": 40,
-    "rooms_count": 0,
-    "price": "",
-    "price_unit": null,
-    "rating": 4.5,
-    "reviews": 6,
-    "mrt_station": "",
-    "event_types": [],
-    "fast_response": false,
+    "name": "Asia Grand Restaurant",
+    "url": "https://www.venuerific.com/sg/venues/asia-grand-restaurant",
+    "slug": "asia-grand-restaurant",
+    "area": "City Hall, Esplanade",
+    "address": "252 N Bridge Rd, #03-22B Fairmont Singapore South Tower, Singapore 179103",
+    "lat": 1.2942187,
+    "lng": 103.8534304,
+    "capacity_standing": 220,
+    "capacity_seated": 220,
+    "rooms_count": 3,
+    "price": "S$1,200",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Bus Stop",
+    "event_types": [
+      "Party",
+      "Wedding"
+    ],
+    "fast_response": true,
     "response_time": null
+  },
+  {
+    "name": "Lebua Thai",
+    "url": "https://www.venuerific.com/sg/venues/lebua-thai",
+    "slug": "lebua-thai",
+    "area": "Clarke Quay, Raffles Place",
+    "address": "30 Victoria St, #01-31 CHIJMES, Singapore 187996",
+    "lat": 1.2948011,
+    "lng": 103.8519822,
+    "capacity_standing": 150,
+    "capacity_seated": 100,
+    "rooms_count": 0,
+    "price": "S$2,000",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "City Hall MRT Station",
+    "event_types": [
+      "Business Dinner",
+      "Party"
+    ],
+    "fast_response": true,
+    "response_time": "7 hrs"
   },
   {
     "name": "Moon Rooftop Bar and Lounge",
@@ -1039,6 +996,29 @@
     "response_time": "5 hrs"
   },
   {
+    "name": "The Outset",
+    "url": "https://www.venuerific.com/sg/venues/the-outset",
+    "slug": "the-outset",
+    "area": "Tai Seng",
+    "address": "39 MacTaggart Rd, #07 00, Singapore 368084",
+    "lat": 1.3339436,
+    "lng": 103.8832766,
+    "capacity_standing": 180,
+    "capacity_seated": 154,
+    "rooms_count": 0,
+    "price": "S$600",
+    "price_unit": "Min spend",
+    "rating": 5.0,
+    "reviews": 1,
+    "mrt_station": "Tai Seng MRT Station",
+    "event_types": [
+      "Wedding",
+      "Reception"
+    ],
+    "fast_response": true,
+    "response_time": "12 hrs"
+  },
+  {
     "name": "WingsOverAsia",
     "url": "https://www.venuerific.com/sg/venues/wingsoverasia",
     "slug": "wingsoverasia",
@@ -1058,6 +1038,29 @@
       "Corporate Retreat",
       "Corporate Seminar",
       "Product Launch"
+    ],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
+    "name": "Tanjong Beach Club",
+    "url": "https://www.venuerific.com/sg/venues/tanjong-beach-club-1",
+    "slug": "tanjong-beach-club-1",
+    "area": "Sentosa",
+    "address": "120 Tanjong Beach Walk, Singapore 098942",
+    "lat": 1.243299,
+    "lng": 103.828128,
+    "capacity_standing": 600,
+    "capacity_seated": 500,
+    "rooms_count": 4,
+    "price": "S$6,500",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "HarbourFront",
+    "event_types": [
+      "Corporate Retreat",
+      "Party"
     ],
     "fast_response": false,
     "response_time": null
@@ -1083,6 +1086,26 @@
     "response_time": null
   },
   {
+    "name": "Garden-themed restaurant in Changi Village",
+    "url": "https://www.venuerific.com/sg/venues/garden-themed-restaurant-in-changi-village",
+    "slug": "garden-themed-restaurant-in-changi-village",
+    "area": "Changi",
+    "address": "2 Netheravon Rd, Block B Civil Service Club @ Changi, Singapore 508503",
+    "lat": 1.3913305,
+    "lng": 103.9862634,
+    "capacity_standing": 500,
+    "capacity_seated": 500,
+    "rooms_count": 4,
+    "price": "S$6,000",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Changi Airport MRT Station",
+    "event_types": [],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
     "name": "The Waddle Room",
     "url": "https://www.venuerific.com/sg/venues/the-waddle-room",
     "slug": "the-waddle-room",
@@ -1103,26 +1126,6 @@
       "Party",
       "Wedding"
     ],
-    "fast_response": false,
-    "response_time": null
-  },
-  {
-    "name": "Garden-themed restaurant in Changi Village",
-    "url": "https://www.venuerific.com/sg/venues/garden-themed-restaurant-in-changi-village",
-    "slug": "garden-themed-restaurant-in-changi-village",
-    "area": "Changi",
-    "address": "2 Netheravon Rd, Block B Civil Service Club @ Changi, Singapore 508503",
-    "lat": 1.3913305,
-    "lng": 103.9862634,
-    "capacity_standing": 500,
-    "capacity_seated": 500,
-    "rooms_count": 4,
-    "price": "S$6,000",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Changi Airport MRT Station",
-    "event_types": [],
     "fast_response": false,
     "response_time": null
   },

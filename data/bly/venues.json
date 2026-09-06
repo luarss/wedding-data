@@ -180,21 +180,6 @@
     "rooms": "[{\"name\": \"Island Ballroom\", \"capacity\": \"400-1000 pax\", \"price\": \"From $238/pax\"}, {\"name\": \"Tower Ballroom\", \"capacity\": \"250-590 pax\", \"price\": \"From $238/pax\"}, {\"name\": \"Azalea Room\", \"capacity\": \"160-220 pax\", \"price\": \"From $238/pax\"}, {\"name\": \"The Dutch Pavilion\", \"capacity\": \"60-100 pax\", \"price\": \"From $262/pax\"}]"
   },
   {
-    "recordId": "recBjzDZV6Tmy22FL",
-    "name": "The Acacia Geneo",
-    "url": "https://www.bridely.sg/venue/the-acacia-geneo/r/recBjzDZV6Tmy22FL",
-    "location": "1 Science Park Dr, #01-07, Singapore 118221",
-    "overallRating": 5,
-    "venueRating": 5,
-    "serviceRating": 5,
-    "foodRating": 4.9,
-    "reviews": 23,
-    "tags": "Restaurant, Fusion, Indian, Muslim-friendly, Peranakan, Vegetarian, Western",
-    "price": "From $55/pax",
-    "capacity": "100-500 pax",
-    "rooms": "[{\"name\": \"The Acacia Geneo\", \"capacity\": \"100-500 pax\", \"price\": \"From $55/pax\"}]"
-  },
-  {
     "recordId": "recfHEKdi2Pvj2eya",
     "name": "Vineyard at Hort Park",
     "url": "https://www.bridely.sg/venue/vineyard-at-hort-park/r/recfHEKdi2Pvj2eya",
@@ -285,6 +270,21 @@
     "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"300-550 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Waterfront Ballroom\", \"capacity\": \"200-280 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Riverfront Ballroom\", \"capacity\": \"150-200 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Galleria Ballroom\", \"capacity\": \"100-160 pax\", \"price\": \"From $158/pax\"}]"
   },
   {
+    "recordId": "recDE70TqO66tuVMT",
+    "name": "Little Island Brewing Co",
+    "url": "https://www.bridely.sg/venue/little-island-brewing-co/r/recDE70TqO66tuVMT",
+    "location": "Changi",
+    "overallRating": 4.7,
+    "venueRating": 4.8,
+    "serviceRating": 4.7,
+    "foodRating": 4.9,
+    "reviews": 37,
+    "tags": "Restaurant, Western",
+    "price": "From $68/pax",
+    "capacity": "50-350 pax",
+    "rooms": "[{\"name\": \"Changi Village\", \"capacity\": \"50-350 pax\", \"price\": \"From $68/pax\"}, {\"name\": \"Gillman Barracks\", \"capacity\": \"50-200 pax\", \"price\": \"From $78/pax\"}]"
+  },
+  {
     "recordId": "recEVqHq1aNQ9gkfi",
     "name": "JW Marriott Hotel Singapore South Beach",
     "url": "https://www.bridely.sg/venue/jw-marriott-hotel-singapore-south-beach/r/recEVqHq1aNQ9gkfi",
@@ -313,6 +313,21 @@
     "price": "From $214/pax",
     "capacity": "200-250 pax",
     "rooms": "[{\"name\": \"William Pickering Ballroom\", \"capacity\": \"200-250 pax\", \"price\": \"From $214/pax\"}, {\"name\": \"Alexander Room\", \"capacity\": \"80-100 pax\", \"price\": \"From $214/pax\"}]"
+  },
+  {
+    "recordId": "recBjzDZV6Tmy22FL",
+    "name": "The Acacia Geneo",
+    "url": "https://www.bridely.sg/venue/the-acacia-geneo/r/recBjzDZV6Tmy22FL",
+    "location": "1 Science Park Dr, #01-07, Singapore 118221",
+    "overallRating": 5,
+    "venueRating": 5,
+    "serviceRating": 5,
+    "foodRating": 4.9,
+    "reviews": 23,
+    "tags": "Restaurant, Fusion, Indian, Muslim-friendly, Peranakan, Vegetarian, Western",
+    "price": "From $55/pax",
+    "capacity": "100-500 pax",
+    "rooms": "[{\"name\": \"The Acacia Geneo\", \"capacity\": \"100-500 pax\", \"price\": \"From $55/pax\"}]"
   },
   {
     "recordId": "rec5Do9bNbZmbFnt9",
@@ -1183,21 +1198,6 @@
     "price": "From $177/pax",
     "capacity": "108-180 pax",
     "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"108-180 pax\", \"price\": \"From $177/pax\"}]"
-  },
-  {
-    "recordId": "reciMgHviimwfaRnn",
-    "name": "NUSS Guild Houses",
-    "url": "https://www.bridely.sg/venue/nuss-guild-houses/r/reciMgHviimwfaRnn",
-    "location": "NUSS KENT RIDGE GUILD HOUSE: 9 Kent Ridge Dr, Singapore 119241 | NUSS SUNTEC CITY GUILD HOUSE: 3 Temasek Blvd, Tower 5, Mall, #02-401/402 Suntec City, Singapore 038983 | NUSS MANDALAY GUILD HOUSE: 2 Mandalay Rd, Singapore 308206",
-    "overallRating": 5,
-    "venueRating": 5,
-    "serviceRating": 5,
-    "foodRating": 5,
-    "reviews": 2,
-    "tags": "Event Hall, Chinese, Fusion, Muslim-friendly, Western",
-    "price": "From $78/pax",
-    "capacity": "160-200 pax",
-    "rooms": "[{\"name\": \"Kent Ridge Guild House\", \"capacity\": \"160-200 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Suntec City Guild House\", \"capacity\": \"100-120 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Mandalay Guild House\", \"capacity\": \"40-50 pax\", \"price\": \"From $89/pax\"}]"
   },
   {
     "recordId": "recGSE4cMEiR29mHX",
