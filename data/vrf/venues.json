@@ -47,51 +47,74 @@
     "response_time": null
   },
   {
-    "name": "Major99",
-    "url": "https://www.venuerific.com/sg/venues/major99",
-    "slug": "major99",
-    "area": "Ang Mo Kio",
-    "address": "4190 Ang Mo Kio Ave 6, #02-02 Broadway Plaza, Singapore 569841",
-    "lat": 1.3718742,
-    "lng": 103.8460619,
+    "name": "Covert Rooftop Bar at Chinatown",
+    "url": "https://www.venuerific.com/sg/venues/covert-rooftop-bar-at-chinatown",
+    "slug": "covert-rooftop-bar-at-chinatown",
+    "area": "Chinatown, Outram, Tanjong Pagar",
+    "address": "33 Erskine Rd, Level 4 Scarlet Hotel, Singapore 069333",
+    "lat": 1.2807689,
+    "lng": 103.8454104,
     "capacity_standing": 300,
-    "capacity_seated": 300,
+    "capacity_seated": 150,
     "rooms_count": 0,
-    "price": "S$3,000",
+    "price": "S$2,500",
     "price_unit": "Min spend",
-    "rating": 4.6,
-    "reviews": 5,
-    "mrt_station": "Ang Mo Kio MRT Station",
+    "rating": 5.0,
+    "reviews": 3,
+    "mrt_station": "Maxwell MRT Station",
     "event_types": [
-      "Team Bonding",
+      "Office Party",
+      "Cocktail Party",
       "Party"
+    ],
+    "fast_response": true,
+    "response_time": "5 hrs"
+  },
+  {
+    "name": "Lebua Thai",
+    "url": "https://www.venuerific.com/sg/venues/lebua-thai",
+    "slug": "lebua-thai",
+    "area": "Clarke Quay, Raffles Place",
+    "address": "30 Victoria St, #01-31 CHIJMES, Singapore 187996",
+    "lat": 1.2948011,
+    "lng": 103.8519822,
+    "capacity_standing": 150,
+    "capacity_seated": 100,
+    "rooms_count": 0,
+    "price": "S$2,000",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "City Hall MRT Station",
+    "event_types": [
+      "Business Dinner",
+      "Party"
+    ],
+    "fast_response": true,
+    "response_time": "7 hrs"
+  },
+  {
+    "name": "Lotus@Norris",
+    "url": "https://www.venuerific.com/sg/venues/lotus-norris",
+    "slug": "lotus-norris",
+    "area": "Farrer Park, Jalan Besar, Little India",
+    "address": "20 Norris Rd, Singapore 208262",
+    "lat": 1.3079143,
+    "lng": 103.8536569,
+    "capacity_standing": 120,
+    "capacity_seated": 82,
+    "rooms_count": 0,
+    "price": "S$180",
+    "price_unit": "Per hour",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Jalan Besar MRT Station",
+    "event_types": [
+      "Wedding",
+      "ROM"
     ],
     "fast_response": false,
     "response_time": null
-  },
-  {
-    "name": "7th Heaven Cafe ",
-    "url": "https://www.venuerific.com/sg/venues/7th-heaven-cafe",
-    "slug": "7th-heaven-cafe",
-    "area": "Tampines",
-    "address": "1/A Tampines Street 92, SAFRA Tampines #03-02, 528882",
-    "lat": 1.344724,
-    "lng": 103.94173899999998,
-    "capacity_standing": 150,
-    "capacity_seated": 120,
-    "rooms_count": 3,
-    "price": "S$100",
-    "price_unit": "Min spend",
-    "rating": 5.0,
-    "reviews": 1,
-    "mrt_station": "Tampines West MRT Station",
-    "event_types": [
-      "Company Dinner and Dance",
-      "Kid's 1st Birthday",
-      "Solemnisation"
-    ],
-    "fast_response": true,
-    "response_time": "4 hrs"
   },
   {
     "name": "The Inspire Space Sg",
@@ -107,14 +130,14 @@
     "price": "S$80",
     "price_unit": "Per hour",
     "rating": 5.0,
-    "reviews": 5,
+    "reviews": 6,
     "mrt_station": "🚆 Farrer Park MRT Station (NE8)  🚆 Jalan Besar MRT Station (DT22)",
     "event_types": [
       "Product Launch",
       "Training"
     ],
     "fast_response": true,
-    "response_time": "2 hrs"
+    "response_time": "3 hrs"
   },
   {
     "name": "Cargo39",
@@ -137,7 +160,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "6 hrs"
+    "response_time": "4 hrs"
   },
   {
     "name": "Artyzen Singapore",
@@ -184,7 +207,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "28 mins"
+    "response_time": "1 hr"
   },
   {
     "name": "ONE°15 Marina Sentosa Cove",
@@ -208,7 +231,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "8 hrs"
+    "response_time": "3 hrs"
   },
   {
     "name": "PEN & INC · One-North",
@@ -232,7 +255,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "18 hrs"
+    "response_time": "14 hrs"
   },
   {
     "name": "KOMYUNITI Bar & Restaurant",
@@ -279,7 +302,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "10 hrs"
+    "response_time": "12 hrs"
   },
   {
     "name": "Singapore EXPO",
@@ -369,7 +392,7 @@
       "Team Bonding"
     ],
     "fast_response": true,
-    "response_time": "10 hrs"
+    "response_time": "6 hrs"
   },
   {
     "name": "WAKANUI Grill Dining Singapore",
@@ -438,7 +461,7 @@
       "Birthday",
       "Wedding"
     ],
-    "fast_response": false,
+    "fast_response": true,
     "response_time": null
   },
   {
@@ -484,6 +507,29 @@
     "event_types": [],
     "fast_response": true,
     "response_time": null
+  },
+  {
+    "name": "Restaurant venue at Fairmont Hotel",
+    "url": "https://www.venuerific.com/sg/venues/restaurant-venue-at-fairmont-hotel",
+    "slug": "restaurant-venue-at-fairmont-hotel",
+    "area": "City Hall, Esplanade, Raffles Place",
+    "address": "252 N Bridge Rd, #03-00 Fairmont Singapore, Singapore 179103",
+    "lat": 1.2942831,
+    "lng": 103.8529487,
+    "capacity_standing": 400,
+    "capacity_seated": 220,
+    "rooms_count": 4,
+    "price": "S$80",
+    "price_unit": "Per hour",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "City Hall MRT Station",
+    "event_types": [
+      "Product Launch",
+      "Wedding"
+    ],
+    "fast_response": true,
+    "response_time": "5 hrs"
   },
   {
     "name": "Singapore’s Iconic City Venue",
@@ -554,7 +600,7 @@
       "Party"
     ],
     "fast_response": true,
-    "response_time": "22 hrs"
+    "response_time": "17 hrs"
   },
   {
     "name": "VIVA LOCA INTERNATIONAL @ NSRCC",
@@ -600,30 +646,7 @@
       "Product Launch"
     ],
     "fast_response": true,
-    "response_time": "12 hrs"
-  },
-  {
-    "name": "Lotus@Norris",
-    "url": "https://www.venuerific.com/sg/venues/lotus-norris",
-    "slug": "lotus-norris",
-    "area": "Farrer Park, Jalan Besar, Little India",
-    "address": "20 Norris Rd, Singapore 208262",
-    "lat": 1.3079143,
-    "lng": 103.8536569,
-    "capacity_standing": 120,
-    "capacity_seated": 82,
-    "rooms_count": 0,
-    "price": "S$180",
-    "price_unit": "Per hour",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Jalan Besar MRT Station",
-    "event_types": [
-      "Wedding",
-      "ROM"
-    ],
-    "fast_response": false,
-    "response_time": null
+    "response_time": "9 hrs"
   },
   {
     "name": "HAUS217 ",
@@ -646,7 +669,7 @@
       "Product Launch"
     ],
     "fast_response": true,
-    "response_time": "10 hrs"
+    "response_time": "8 hrs"
   },
   {
     "name": "METT Hotel",
@@ -760,7 +783,7 @@
       "Company Dinner and Dance"
     ],
     "fast_response": true,
-    "response_time": "20 hrs"
+    "response_time": "18 hrs"
   },
   {
     "name": "Creative lifestyle studio in Kallang",
@@ -926,74 +949,51 @@
     "response_time": null
   },
   {
-    "name": "Lebua Thai",
-    "url": "https://www.venuerific.com/sg/venues/lebua-thai",
-    "slug": "lebua-thai",
-    "area": "Clarke Quay, Raffles Place",
-    "address": "30 Victoria St, #01-31 CHIJMES, Singapore 187996",
-    "lat": 1.2948011,
-    "lng": 103.8519822,
+    "name": "7th Heaven Cafe ",
+    "url": "https://www.venuerific.com/sg/venues/7th-heaven-cafe",
+    "slug": "7th-heaven-cafe",
+    "area": "Tampines",
+    "address": "1/A Tampines Street 92, SAFRA Tampines #03-02, 528882",
+    "lat": 1.344724,
+    "lng": 103.94173899999998,
     "capacity_standing": 150,
-    "capacity_seated": 100,
-    "rooms_count": 0,
-    "price": "S$2,000",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "City Hall MRT Station",
-    "event_types": [
-      "Business Dinner",
-      "Party"
-    ],
-    "fast_response": true,
-    "response_time": "7 hrs"
-  },
-  {
-    "name": "Moon Rooftop Bar and Lounge",
-    "url": "https://www.venuerific.com/sg/venues/moon-rooftop-bar-and-lounge",
-    "slug": "moon-rooftop-bar-and-lounge",
-    "area": "Keppel Bay, Marina Bay, Tanjong Pagar",
-    "address": "70 Anson Rd, #27-01 Hub Synergy Point, Singapore 079905",
-    "lat": 1.2739236,
-    "lng": 103.8444671,
-    "capacity_standing": 151,
-    "capacity_seated": 98,
-    "rooms_count": 0,
-    "price": "S$2,000",
+    "capacity_seated": 120,
+    "rooms_count": 3,
+    "price": "S$100",
     "price_unit": "Min spend",
     "rating": 5.0,
     "reviews": 1,
-    "mrt_station": "Tanjong Pagar MRT Station",
+    "mrt_station": "Tampines West MRT Station",
     "event_types": [
-      "Business Dinner",
-      "Office Party",
-      "Party"
+      "Company Dinner and Dance",
+      "Kid's 1st Birthday",
+      "Solemnisation"
     ],
     "fast_response": true,
-    "response_time": "7 hrs"
+    "response_time": "6 hrs"
   },
   {
-    "name": "DOMO",
-    "url": "https://www.venuerific.com/sg/venues/domo",
-    "slug": "domo",
-    "area": "City Hall, Esplanade, Raffles Place",
-    "address": "252 N Bridge Rd, #03-00 Fairmont Singapore, Singapore 179103",
-    "lat": 1.2942831,
-    "lng": 103.8529487,
-    "capacity_standing": 400,
-    "capacity_seated": 220,
-    "rooms_count": 4,
-    "price": "S$80",
-    "price_unit": "Per hour",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "City Hall MRT Station",
+    "name": "Major99",
+    "url": "https://www.venuerific.com/sg/venues/major99",
+    "slug": "major99",
+    "area": "Ang Mo Kio",
+    "address": "4190 Ang Mo Kio Ave 6, #02-02 Broadway Plaza, Singapore 569841",
+    "lat": 1.3718742,
+    "lng": 103.8460619,
+    "capacity_standing": 300,
+    "capacity_seated": 300,
+    "rooms_count": 0,
+    "price": "S$3,000",
+    "price_unit": "Min spend",
+    "rating": 4.6,
+    "reviews": 5,
+    "mrt_station": "Ang Mo Kio MRT Station",
     "event_types": [
-      "Product Launch",
-      "Wedding"
+      "Team Bonding",
+      "Party"
     ],
-    "fast_response": true,
-    "response_time": "5 hrs"
+    "fast_response": false,
+    "response_time": null
   },
   {
     "name": "The Outset",
@@ -1028,7 +1028,7 @@
     "lng": 103.8697186,
     "capacity_standing": 350,
     "capacity_seated": 300,
-    "rooms_count": 4,
+    "rooms_count": 0,
     "price": "S$240",
     "price_unit": "Min spend",
     "rating": 0,
@@ -1052,7 +1052,7 @@
     "lng": 103.828128,
     "capacity_standing": 600,
     "capacity_seated": 500,
-    "rooms_count": 4,
+    "rooms_count": 0,
     "price": "S$6,500",
     "price_unit": "Min spend",
     "rating": 0,
@@ -1095,7 +1095,7 @@
     "lng": 103.9862634,
     "capacity_standing": 500,
     "capacity_seated": 500,
-    "rooms_count": 4,
+    "rooms_count": 0,
     "price": "S$6,000",
     "price_unit": "Min spend",
     "rating": 0,

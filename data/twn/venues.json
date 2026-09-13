@@ -75,7 +75,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'5':52B 'adjac':25B 'amen':54B 'arriv':72B 'better':28B 'buggi':102B 'car':103B 'carpark':90B 'citi':39B 'construct':40B 'coupl':60B 'depot':31B 'design':98B 'drive':36B,80B 'entranc':93B 'event':12B,66B 'finish':50B 'fit':100B 'glasshous':43B 'group':19B 'guest':71B 'kl':3A 'known':29B 'kuala':108C,110C 'landscap':46B 'latest':11B 'look':61B 'lumpur':109C,111C 'manag':16B 'need':107B 'nestl':20B 'one':8B,105B 'overlook':44B 'park':24B,85B 'pavilion':2A,5B,96B 'perfect':58B 'place':56B 'plan':84B 'privat':23B 'rememb':68B 'reward':76B 'scenic':79B 'sentul':1A,4B,30B 'short':35B 'space':13B 'star':53B 'tast':49B 'upscal':65B 'vista':47B 'walkway':87B 'well':83B 'within':21B 'ytl':18B",
     "textEmbedding": null,
-    "catalogPosition": 85,
+    "catalogPosition": 82,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -87,7 +87,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-27T18:19:56.967Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -163,7 +163,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'-330':128B '20':127B '250':50B '360':103B '412':160B '42':163B '500':40B 'also':158B 'art':144B 'ballroom':38B,74B,106B 'best':184B 'capac':35B,48B,125B 'chandeli':93B 'cocktail':153B 'cover':102B 'crystal':92B 'cuisin':187B 'date':63B 'dazzl':79B 'dine':168B 'due':31B 'easili':107B 'effici':91B 'energi':90B 'energy-effici':89B 'entertain':135B 'especi':84B 'event':83B,147B 'excit':167B 'exclus':150B 'exhibit':145B 'favourit':195B 'featur':159B,190B 'free':72B 'function':134B 'gala':82B 'grand':1A,5B,37B,44B,73B,76B,121B,155B 'guest':129B 'guestroom':161B 'hand':119B 'healthi':191B 'high':34B 'hotel':25B 'hyatt':2A,6B,156B 'icon':15B 'ideal':139B 'includ':162B 'instal':98B 'intern':192B 'jp':180B 'kl':157B 'kuala':3A,7B,196C,198C 'launch':142B 'led':99B 'local':194B 'locat':9B 'lumpur':4A,8B,197C,199C 'malaysian':186B 'match':112B 'maximum':47B 'meet':151B 'nett':57B 'offer':171B 'one':20B 'option':80B,169B 'oval':68B 'oval-shap':67B 'packag':53B 'pax':41B,51B 'per':58B 'person':59B 'petrona':16B 'pillar':71B 'pillar-fre':70B 'poolsid':189B 'popular':24B 'product':141B 'public':65B 'recent':97B 'recept':154B 'resid':122B 'rm498':56B 'salon':45B,77B 'sashimi':179B 'screen':100B 'seafood':176B 'select':173B 'serv':182B 'shape':69B 'space':110B,136B 'start':54B 'steak':175B 'suit':164B 'sushi':177B 'tere':181B 'thank':86B 'theme':115B 'thirty8':170B 'three':166B 'tower':18B 'transform':108B 'twin':17B 'venu':26B 'vicin':12B 'wed':28B,52B,85B,114B 'welcom':132B",
     "textEmbedding": null,
-    "catalogPosition": 77,
+    "catalogPosition": 75,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -175,7 +175,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-11T10:21:35.596Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -267,7 +267,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'1930s':35B 'access':132B 'accommod':142B 'add':126B 'addit':114B 'affair':66B 'ambianc':31B 'amen':139B 'architectur':36B 'attract':137B 'blend':13B,163B 'charm':28B 'choic':158B 'citi':135B 'coloni':15B 'contemporari':168B 'conveni':127B 'coupl':160B 'culinari':74B,98B 'custom':88B 'day':173B 'delight':99B 'dine':83B,94B 'easi':131B 'eleg':16B,46B,166B 'ensur':103B 'event':47B 'experi':95B 'expertis':75B 'fine':93B 'fit':54B 'gastronom':106B 'gather':70B 'grand':65B 'guest':113B,129B 'heart':122B 'highlight':78B 'histor':27B,165B 'hotel':3A,8B,44B,72B,102B,116B,151B 'ideal':22B 'intim':69B 'journey':107B 'kuala':4A,9B,124B,152B,174C,176C 'local':97B 'locat':119B 'lumpur':5A,10B,125B,153B,175C,177C 'luxuri':19B,141B,169B 'majest':2A,7B,101B,150B 'make':154B 'memor':105B 'modern':18B 'need':57B 'notch':146B 'offer':45B,79B 'option':84B 'parti':111B 'prefer':157B 'present':20B 'provid':37B,130B 'rang':81B 'recept':91B 'romant':39B 'root':32B 'seek':161B 'servic':147B 'set':42B 'sophist':30B 'space':48B 'special':172B 'specif':56B 'strateg':118B 'tailor':52B 'timeless':41B 'top':145B 'top-notch':144B 'venu':23B 'wed':25B,60B,90B,110B 'whether':61B",
     "textEmbedding": null,
-    "catalogPosition": 76,
+    "catalogPosition": 74,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -279,7 +279,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-10T06:57:53.787Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -419,7 +419,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'access':105B 'accommod':79B 'addit':70B,129B 'afar':123B 'also':127B 'amen':16B 'appoint':78B 'arrang':134B 'attract':111B 'ballroom':23B 'boast':21B 'budget':165B 'cater':48B,158B 'celebr':92B 'choic':116B 'citi':110B 'comfort':74B 'commit':171B 'conveni':115B 'culinari':68B 'custom':30B 'customiz':153B 'design':156B 'dietari':60B 'differ':59B 'divers':52B 'easi':104B 'eleg':22B 'enhanc':86B 'ensur':146B 'entertain':137B 'equip':39B 'especi':119B 'event':25B,142B 'excel':18B,45B 'experi':89B,179B 'experienc':141B 'facil':42B 'floral':133B 'guest':81B,118B 'heart':97B 'hilton':1A,4B,124B 'hotel':44B,72B 'known':12B 'kuala':2A,5B,99B,125B,180C,182C 'locat':94B 'lumpur':3A,6B,100B,126B,181C,183C 'luxuri':15B 'make':112B 'memor':150B 'menu':55B 'modern':41B 'need':61B,163B 'offer':50B,103B,128B 'option':56B 'overal':88B 'packag':155B 'parti':85B 'photographi':135B 'plan':143B 'prefer':63B 'premier':9B 'prepar':64B 'provid':73B,173B 'proxim':107B 'rang':53B 'seamless':148B 'servic':19B,49B,130B 'size':35B 'skill':67B 'space':26B 'strateg':93B 'style':37B 'suit':58B 'support':138B 'team':69B,144B 'travel':121B 'underscor':167B 'unforgett':177B 'uniqu':175B 'varieti':161B 'various':109B 'venu':11B,102B,169B 'wed':10B,32B,84B,151B,154B,178B 'well':77B 'well-appoint':76B",
     "textEmbedding": null,
-    "catalogPosition": 75,
+    "catalogPosition": 73,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -431,7 +431,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-14T08:47:11.460Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -514,7 +514,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'160':25B '18':96B '2015':183B '355':84B '5':14B 'activ':49B 'addit':109B 'adjoin':95B 'alam':185C 'appoint':87B 'apt':71B 'beauti':76B 'boast':35B 'busi':46B 'championship':98B 'comfort':150B 'conveni':152B 'cours':100B 'creat':40B 'decor':132B 'definit':139B 'deriv':54B 'describ':72B 'design':129B 'destin':105B,181B 'di':61B 'distinguish':13B 'dock':147B 'encompass':83B 'enhanc':119B 'ensur':148B 'enthusiast':108B 'equip':135B 'europ':173B 'european':179B 'expans':28B 'experi':122B 'express':59B 'eye':68B 'far':65B 'featur':93B 'flat':141B 'flat-screen':140B 'forest':30B 'garden':32B 'golf':99B,107B 'guest':125B 'hectar':26B 'high':138B 'high-definit':137B 'highlight':164B 'hole':97B 'honor':176B 'hotel':3A,8B,19B,34B,156B 'ideal':104B 'ipod':146B 'kuala':4A,9B,157B 'lakesid':38B 'landscap':77B 'leisur':48B 'locat':20B 'lumpur':5A,10B,158B 'luxuri':121B 'make':101B 'malay':58B 'malaysia':22B 'mean':63B 'minibar':144B 'modern':131B 'name':51B 'nestl':23B 'notabl':91B 'offer':111B 'old':57B 'outdoor':113B 'outsid':172B 'picturesqu':42B 'pool':114B 'prestigi':160B 'properti':80B 'recognit':167B 'resort':17B,82B 'resort-styl':16B 'room':88B,127B 'sana':62B 'saujana':2A,7B,52B,155B 'screen':142B 'see':70B 'sejauh':60B 'selangor':186C 'seren':37B 'set':43B 'shah':184C 'spa':116B 'star':15B 'status':161B 'stay':153B 'style':18B 'surround':78B 'third':170B 'tour':180B 'treatment':117B 'tropic':29B 'tvs':143B 'two':94B 'vast':74B 'venu':171B 'view':39B 'well':86B 'well-appoint':85B 'within':24B",
     "textEmbedding": null,
-    "catalogPosition": 74,
+    "catalogPosition": 72,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -526,7 +526,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -666,7 +666,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'325':129B 'abund':106B 'access':64B 'addit':90B 'all-day':220B 'along':135B 'alor':99B 'amen':165B 'appoint':131B 'area':25B 'art':184B 'atop':56B 'attract':45B 'ballroom':142B 'banyan':11B 'bar':228B 'bath':150B 'bintang':24B 'boutiqu':74B 'breathtak':177B 'budget':77B 'budget-friend':76B 'bukit':23B 'busi':36B 'bustl':35B 'cater':229B 'center':32B 'children':196B 'chines':217B 'close':95B 'club':194B,202B 'conveni':94B 'cuisin':89B 'day':222B 'daylight​​':153B 'dedic':191B 'dine':46B,108B,207B,223B 'district':39B 'easi':63B 'eleg':138B 'enhanc':167B 'entertain':38B,198B 'enthusiast':189B 'event':147B 'exclus':205B 'experi':122B,170B 'experiences​​​​​​':50B 'featur':128B 'fit':188B 'free':216B 'friend':78B 'guest':169B 'gym':186B 'heart':17B 'hotel':2A,6B,52B,92B,111B,155B,211B 'impecc':118B 'includ':172B,212B 'infin':174B 'intern':88B 'jalan':98B 'kid':192B 'known':103B,113B 'kuala':3A,7B,19B,156B,237C,239C 'less':141B 'local':86B 'locat':27B 'loung':203B 'lumpur':4A,8B,20B,157B,238C,240C 'luxuri':73B,201B 'mall':61B 'manag':9B 'market':102B 'mega':59B 'metropolis​​​​':126B 'multi':146B 'multi-ev':145B 'natur':152B 'night':100B 'offer':62B,176B,204B 'on-sit':162B 'option':47B,71B,208B 'options​​':109B 'pavilion':1A,5B,58B,154B 'pillar':140B 'pillar-less':139B 'place':28B 'plethora':43B 'pool':175B 'pork':215B 'pork-fre':214B 'posit':55B 'preferences​​​​':236B 'privileg':206B 'provid':158B 'rang':68B,160B 'restaur':218B,224B 'room':132B 'servic':119B 'shop':49B,60B,70B 'site':164B 'situat':14B 'six':144B 'sky':185B 'space':148B 'spacious':130B 'speakeasi':227B 'state':181B 'state-of-the-art':180B 'store':79B 'street':101B,107B 'suit':134B 'surround':40B 'tast':234B 'tree':12B 'tropic':125B 'underst':116B 'uniqu':54B 'unmatch':121B 'varieti':84B,232B 'vibrant':22B 'view':178B 'warmth':117B 'well':81B 'wide':67B",
     "textEmbedding": null,
-    "catalogPosition": 73,
+    "catalogPosition": 71,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -678,7 +678,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-28T10:09:51.487Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -744,7 +744,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'1':49B '2016':24B '208':26B '270':63B '300':50B '47':68B '850':60B '990':55B 'across':35B 'astor':91B 'ballroom':40B,96B,139B 'banquet':58B 'bar':143B 'big':79B 'book':159B 'canva':66B 'car':84B 'citi':16B 'cocktail':115B 'crystal':140B 'decant':184B 'degre':64B 'direct':86B 'dollar':175B 'draw':169B 'dress':129B 'drop':105B 'drop-off':104B 'enough':80B 'entranc':101B 'event':112B,124B,161B 'exchang':172B 'feed':135B 'floor':37B 'four':36B 'function':32B 'grand':39B,138B 'hold':82B 'includ':164B 'interchang':20B 'junior':95B 'kept':119B 'kl':13B 'kuala':4A,9B,187C,189C 'largest':43B 'led':65B,153B 'level':147B 'lift':78B 'live':133B 'loung':127B,173B 'lumpur':5A,10B,188C,190C 'main':18B 'media':154B 'metr':52B 'off':106B 'open':22B,85B 'pool':150B 'pre':111B 'pre-ev':110B 'privat':77B,103B 'regi':3A,8B 'ringgit':177B 'rooftop':142B 'room':27B,46B,89B,92B,130B,163B,167B,170B,178B,181B,186B 'rough':48B 'run':34B,144B 'salon':117B 'screen':69B,180B 'seat':54B 'sentral':14B 'separ':100B 'side':72B 'sit':11B 'smaller':162B 'space':33B,113B 'squar':51B 'st':2A,7B 'stand':61B 'state':166B 'suit':29B 'three':71B 'transport':19B 'two':146B 'video':134B 'vip':123B 'wall':155B 'wed':121B 'wine':185B 'wrap':70B",
     "textEmbedding": null,
-    "catalogPosition": 12,
+    "catalogPosition": 15,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -756,7 +756,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -844,7 +844,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'access':70B 'accommod':218B 'affair':112B 'allur':138B 'also':215B 'amen':220B 'amidst':34B 'aspect':155B 'attent':183B,210B 'attract':76B 'backdrop':80B 'balanc':57B 'ballroom':89B 'beacon':10B 'bespok':122B 'beyond':136B 'bring':175B 'bustl':20B 'capit':21B 'cater':101B 'celebr':103B,261B 'character':93B 'charm':62B 'choic':52B 'cityscap':37B 'class':46B 'combin':40B 'complement':129B 'contemporari':12B,235B 'coupl':27B,177B,206B,227B 'craft':121B 'creat':189B 'culinari':114B 'cultur':243B 'dedic':166B 'deep':239B 'design':97B 'destin':25B,85B 'detail':187B 'dine':126B 'distinguish':255B 'dream':28B 'easi':69B 'eleg':42B 'ensur':124B,152B 'event':91B 'everi':154B 'excel':119B 'execut':160B 'expect':208B 'experi':127B,196B 'expertis':212B 'exquisit':24B 'facil':141B 'final':204B 'flexibl':99B 'free':195B 'fusion':233B 'gather':109B 'grace':164B 'grand':88B 'guest':230B 'heart':16B 'honor':270B 'hospit':47B 'hotel':39B,64B,171B,214B 'ideal':51B 'impecc':150B 'initi':199B 'intim':61B,108B 'key':75B 'kuala':3A,7B,72B,144B,250B,271C,273C 'lavish':111B 'layout':100B 'le':1A,5B,117B,142B,248B 'life':181B 'local':83B 'locat':67B 'love':268B 'lumpur':4A,8B,73B,145B,251B,272C,274C 'luxuri':13B,217B,236B 'make':48B 'malaysia':18B 'malaysian':246B 'memor':263B 'menus':123B 'meridien':2A,6B,118B,143B,249B 'modern':41B 'nestl':33B 'nuanc':244B 'offer':68B,216B 'pay':182B 'perfect':79B 'person':209B 'plan':200B 'planner':168B 'precis':162B 'present':22B 'prime':66B 'promis':258B 'provid':77B,221B 'renown':147B 'retreat':224B 'seamless':191B 'seren':223B 'servic':151B 'size':106B 'sleek':96B 'smallest':186B 'sophist':59B 'space':92B 'spirit':132B 'stage':201B 'stand':252B 'stress':194B 'stress-fre':193B 'team':115B 'tireless':173B 'toast':205B 'understand':240B 'unforgett':31B 'uniqu':131B,265B 'urban':58B 'venu':256B 'vibrant':36B 'vision':179B 'wed':32B,55B,86B,135B,158B,167B,247B,260B 'work':172B 'world':45B 'world-class':44B",
     "textEmbedding": null,
-    "catalogPosition": 72,
+    "catalogPosition": 70,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -856,7 +856,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-21T07:10:23.430Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -953,7 +953,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'access':60B 'add':54B 'allur':57B 'ballroom':10B 'celebr':16B 'central':39B 'cozi':23B 'district':53B 'easi':59B 'endless':64B 'ensur':29B 'entertain':52B 'everi':30B 'experi':35B 'gather':24B 'grand':13B 'guest':62B 'hotel':3A,37B 'intim':19B 'jw':1A,25B 'kuala':4A,27B,46B,70C,72C 'lavish':15B 'locat':40B 'lumpur':5A,28B,47B,71C,73C 'magnific':67B 'marriott':2A,26B 'midst':44B 'opportun':65B 'opul':8B 'perfect':11B 'photographi':69B 'provid':58B 'right':41B 'shop':50B 'smaller':22B 'space':20B 'starhil':9B 'unforgett':34B 'vibrant':49B 'wed':31B,68B",
     "textEmbedding": null,
-    "catalogPosition": 71,
+    "catalogPosition": 69,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -965,7 +965,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-17T03:11:34.459Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -1068,7 +1068,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'access':100B 'adorn':35B 'also':97B 'arrang':77B 'art':44B 'attent':63B 'backdrop':49B 'ballroom':34B 'bespok':68B 'blend':21B 'celebr':56B 'central':93B 'coupl':57B 'culinari':28B,72B 'day':81B 'decor':26B 'detail':66B 'easi':99B 'ensur':78B 'everi':65B 'excel':29B 'expect':59B 'experi':117B 'expert':73B 'exquisit':75B 'facil':45B 'flawless':84B 'floral':76B 'grand':33B 'guest':102B 'hotel':3A,8B,31B 'idyl':15B 'impecc':23B 'interior':38B 'intim':52B 'kuala':118C,120C 'lavish':54B 'locat':16B,94B 'love':89B 'lumpur':119C,121C 'make':103B 'menu':69B 'offer':19B,98B 'part':112B 'person':60B 'plan':70B 'provid':46B 'resid':5A,10B 'ruma':2A,7B,96B 'seamless':111B 'servic':24B,61B 'special':80B 'splendid':48B 'stand':11B 'state':41B 'state-of-the-art':40B 'stori':90B 'stun':25B 'tast':37B 'unforgett':115B 'uniqu':86B 'venu':108B 'wed':18B,55B,116B",
     "textEmbedding": null,
-    "catalogPosition": 4,
+    "catalogPosition": 2,
     "isSpotlight": true,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -1080,7 +1080,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-12T10:43:13.850Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -1177,7 +1177,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'architectur':33B 'art':68B 'ballroom':77B 'blend':22B 'capit':16B 'celebr':102B 'citi':39B 'contemporari':25B 'coupl':52B,92B 'craft':116B 'creat':118B 'dedic':106B 'detail':113B 'dream':88B 'eleg':26B 'ensur':111B 'eq':1A,4B,70B 'event':79B 'everi':112B 'except':61B 'experi':50B,121B 'exquisit':76B 'facil':69B 'gather':98B 'grand':101B 'heart':11B 'hotel':5B,29B,71B,104B 'icon':28B,43B 'includ':41B 'intim':97B 'kuala':2A,6B,122C,124C 'lumpur':3A,7B,123C,125C 'luxuri':23B 'malaysia':13B 'marvel':21B 'match':86B 'meticul':115B 'modern':20B 'offer':47B 'panoram':35B 'perfect':55B 'petrona':44B 'present':72B 'rang':74B 'renown':58B 'seek':53B 'servic':62B 'situat':8B 'skylin':40B 'sleek':32B 'space':80B 'specialist':110B 'stand':17B 'state':65B 'state-of-the-art':64B 'team':107B 'theme':89B 'tower':46B 'transform':84B 'twin':45B 'unforgett':120B 'unparallel':49B 'venu':57B 'vibrant':15B 'view':36B 'wed':56B,109B 'whether':93B",
     "textEmbedding": null,
-    "catalogPosition": 70,
+    "catalogPosition": 68,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -1189,7 +1189,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -1355,7 +1355,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'accommod':78B 'ambianc':102B 'amen':80B 'arrang':41B 'attent':22B 'bespok':35B 'beyond':5B 'bud':50B 'cater':44B 'chef':72B 'come':124B 'comfort':93B 'commit':32B 'coupl':51B,87B 'craft':34B 'cuisin':68B 'culinari':56B 'custom':59B 'dedic':26B 'destin':120B 'detail':24B 'dream':123B 'eleg':101B 'enjoy':95B 'ensur':91B 'event':8B 'except':19B 'experi':37B 'expert':71B 'exquisit':7B,39B 'featur':61B 'floral':40B 'fusion':63B 'gourmet':43B 'guest':90B 'hotel':4A,14B,75B,110B 'indulg':53B 'intern':67B 'jaya':3A,13B,109B,128C 'journey':57B 'life':126B 'local':65B 'locat':100B 'luxuri':77B 'menus':60B 'moreov':73B 'offer':81B 'option':45B 'petal':2A,12B,108B,127C 'planner':28B 'prepar':69B 'pride':15B 'prime':99B 'provid':18B 'retreat':84B 'selangor':129C 'seren':83B 'servic':20B,105B 'sheraton':1A,11B,30B,107B 'space':9B 'stay':96B 'tantal':47B 'tast':49B 'unparallel':104B 'venu':116B 'wed':27B,36B,122B",
     "textEmbedding": null,
-    "catalogPosition": 31,
+    "catalogPosition": 26,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -1367,7 +1367,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-17T04:11:31.112Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -1462,7 +1462,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'architectur':63B 'array':85B 'backdrop':76B 'ballroom':88B,94B 'blend':41B 'breathtak':34B 'cater':98B 'celebr':109B 'ceremoni':82B 'chef':119B 'citi':15B 'comfort':46B 'coupl':53B,64B,131B 'creat':73B 'dedic':121B 'destin':21B 'detail':128B 'ensur':126B 'event':125B 'everi':127B 'experi':58B 'experienc':115B 'fairi':25B 'fairy-tal':24B 'featur':72B 'gather':106B 'grand':62B,92B 'heart':10B 'hotel':3A,6B,30B,97B,111B 'ideal':50B 'idyl':20B 'includ':89B 'indoor':79B 'intim':105B 'jaya':138C 'kuala':37B 'lagoon':93B 'landscap':68B 'lavish':108B 'locat':51B 'lumpur':38B 'lush':67B 'luxuri':29B 'majest':75B 'make':47B 'memor':56B 'nestl':7B 'offer':39B 'opul':91B 'outdoor':81B 'person':123B 'petal':137C 'planner':117B 'prefer':136B 'present':16B 'reflect':129B 'resort':2A,5B,60B,96B 'seek':54B 'selangor':139C 'seren':70B 'size':103B 'skylin':35B 'sophist':44B 'stun':87B 'style':134B 'sunway':1A,4B,14B,95B 'surround':31B 'tale':26B 'team':113B 'uniqu':133B 'urban':43B 'vibrant':13B 'water':71B 'wed':27B,57B,100B,116B",
     "textEmbedding": null,
-    "catalogPosition": 69,
+    "catalogPosition": 67,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -1474,7 +1474,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -1571,7 +1571,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'accent':18B 'area':11B 'bee':2A,4B,57B 'brick':15B 'ceil':23B 'celebr':55B 'cement':29B 'choos':65B 'complement':6B 'distinct':9B 'door':38B 'event':64B 'expos':14B 'floor':21B,30B 'floor-to-ceil':20B 'free':80B 'glass':24B,37B 'grand':54B 'host':48B 'imagin':77B 'impact':62B 'jaya':82C 'larg':32B 'mean':70B 'metal':1A,3B,56B 'one':12B 'open':40B 'panel':25B 'patio':44B 'petal':81C 'privat':43B 're':47B 'recept':10B 'roam':79B 'selangor':83C 'set':58B 'slide':36B 'soiré':51B 'stage':60B 'steel':17B 'step':71B 'stylish':50B 'two':8B 'unforgett':63B 'wall':16B 'wed':69B 'whether':45B 'window':33B 'world':74B",
     "textEmbedding": null,
-    "catalogPosition": 68,
+    "catalogPosition": 66,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -1583,7 +1583,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -1703,7 +1703,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'allur':86B 'amen':44B 'asian':59B 'attract':109B 'audaci':26B 'away':99B 'bar':77B 'best':75B,108B 'chines':66B 'close':102B 'connect':17B 'cuisin':67B 'culinari':47B 'curat':56B 'deck':79B 'dine':50B 'discov':84B 'domin':6B 'even':91B 'exclus':115B 'experi':23B 'featur':35B 'flock':52B 'fusion':69B 'glam':88B 'globetrott':29B 'grill':60B 'hotel':31B 'inspir':25B 'journey':48B 'kuala':2A,15B,33B,105B,120C,122C 'lifestyl':27B 'limitless':21B 'live':93B 'lumpur':3A,16B,34B,106B,121C,123C 'luxuri':22B 'magnific':9B 'menu':61B 'modern':4B,65B 'pan':58B 'pan-asian':57B 'petrona':10B 'proxim':103B 'recharg':97B 'rooftop':76B 'room':38B,94B 'seen':72B 'signatur':42B 'skylin':5B,82B 'spa':100B 'special':55B 'stun':81B 'stylish':36B 'suit':40B 'take':45B 'tower':12B 'twin':11B 'twist':70B 'unwind':95B 'vibrant':37B,112B 'view':83B 'w':1A,14B,43B 'welcom':113B 'wet':78B 'whatever/whenever':119B 'within':101B 'world':19B 'yen':63B",
     "textEmbedding": null,
-    "catalogPosition": 2,
+    "catalogPosition": 7,
     "isSpotlight": true,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -1715,7 +1715,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -1796,7 +1796,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'ballroom':12B 'banquet':64B 'ceremoni':50B,68B 'cocktail':51B 'conveni':38B 'event':43B 'floor':44B 'four':1A 'hall':65B 'hotel':3A 'hour':52B 'ideal':24B 'intim':17B,67B 'kuala':4A,31B,71B,81C,83C 'lit':10B 'locat':39B 'look':58B 'lumpur':5A,32B,72B,82C,84C 'meet':77B 'modern':11B 'need':80B 'numer':46B 'offer':23B,45B 'option':47B 'privat':20B 're':57B 'recept':54B,62B 'salon':18B 'season':2A 'set':25B 'site':63B 'space':21B,75B 'two':7B 'varieti':15B 'venu':29B,36B,69B 'versatil':74B 'wed':28B,61B 'well':9B 'well-lit':8B 'whether':55B",
     "textEmbedding": null,
-    "catalogPosition": 66,
+    "catalogPosition": 64,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -1808,7 +1808,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -1897,7 +1897,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'blend':9B 'busi':25B 'citi':58B 'class':41B 'conveni':54B 'dine':46B 'eleg':35B 'enjoy':52B 'experi':6B 'exquisit':45B 'greeneri':50B 'heart':16B 'hospit':42B 'hotel':59B 'icon':57B 'indulg':43B 'kuala':4A,18B,31B,60C,62C 'la':3A,30B 'leisur':27B 'lumpur':5A,19B,32B,61C,63C 'lush':49B 'luxuri':11B 'offer':33B 'perfect':8B 're':22B 'retreat':37B 'seamless':53B 'shangri':2A,29B 'shangri-la':1A,28B 'unwind':47B 'urban':36B 'warmth':13B 'whether':20B 'world':40B 'world-class':39B",
     "textEmbedding": null,
-    "catalogPosition": 65,
+    "catalogPosition": 63,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -1909,7 +1909,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -1974,7 +1974,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'becom':36B 'cultur':26B 'estat':2A,18B 'everi':34B 'experi':30B 'feder':20B 'heart':9B 'hill':21B 'histori':14B,27B 'inspir':29B 'kl':3A 'kuala':11B,41C,43C 'landmark':6B 'legaci':40B 'lumpur':12B,42C,44C 'meet':15B 'modern':16B 'offer':22B 'part':37B 'place':32B 'sanctuari':24B 'timeless':5B 'visit':35B",
     "textEmbedding": null,
-    "catalogPosition": 64,
+    "catalogPosition": 62,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -1986,7 +1986,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -2067,7 +2067,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'also':86B 'balanc':35B 'believ':22B 'bother':42B 'bustl':66B 'chow':2A,8B,73B 'comfort':32B 'contemporari':19B 'edit':51B 'essenti':59B 'explor':88B 'focus':46B 'frivol':44B 'greatest':25B 'heart':67B 'hotel':6A 'hotelrethink':12B 'inspir':90B 'keep':57B 'kit':3A,9B,74B 'kuala':70B,91C,93C 'life':29B 'live':30B 'locat':63B 'lumpur':71B,92C,94C 'luxuri':16B,26B,62B 'matter':49B 'notion':14B 'old':69B 'ormond':5A,11B 'purpos':33B 'rest':85B 'sanctuari':79B 'sens':37B 'simplifi':61B 'travel':20B,77B 'unnecessari':55B",
     "textEmbedding": null,
-    "catalogPosition": 63,
+    "catalogPosition": 61,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -2079,7 +2079,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -2156,7 +2156,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'accommod':73B 'area':24B,56B 'authent':40B 'awam':61B 'belt':19B 'busi':85B 'citi':52B 'combin':65B 'comfort':68B 'connect':11B,37B 'conveni':14B 'culinari':74B 'cultur':34B 'damansara':21B 'design':35B 'elit':83B 'escap':13B 'excel':75B 'experi':41B 'exquisit':72B 'golf':59B 'green':18B,55B 'hotel':3A,6B,30B,44B 'inspir':31B 'intuit':70B 'kelab':58B 'kgpa':62B 'kuala':26B,87C,89C 'lifestyl':29B 'local':33B 'lumpur':27B,88C,90C 'luxuri':12B 'm':1A,4B 'nestl':15B 'offer':45B 'one':49B 'perkhidmatan':60B 'personalis':69B 'picturesqu':43B 'renown':54B 'resort':2A,5B 'seamless':64B 'servic':71B 'spas':80B 'spectacular':79B 'suburban':23B 'travel':86B 'uniqu':46B 'urban':82B 'valu':66B 'view':47B 'well':10B,77B 'well-connect':9B",
     "textEmbedding": null,
-    "catalogPosition": 62,
+    "catalogPosition": 60,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -2168,7 +2168,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -2230,7 +2230,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'11':92B '500':93B 'access':40B 'aloft':1A,8B,31B,81B,120B 'bed':28B 'camp':30B 'captur':112B 'center':72B 'charg':70B 'chill':50B 'citi':114B 'cityscap':62B 'conveni':39B 'day':101B 'done':104B 'energi':117B 'enjoy':64B 'event':97B 'except':125B 'explor':36B 'feet':95B 'fit':71B 'fuel':79B 'host':85B 'hotel':17B,107B 'hub':45B 'inspir':24B 'kl':37B,47B 'kuala':2A,9B,13B,59B,121B,127C,129C 'littl':34B 'loft':23B 'loft-inspir':22B 'lumpur':3A,10B,14B,60B,122B,128C,130C 'main':43B 'match':74B 'meal':76B 'mix':73B 'near':103B 'offer':18B 'one':35B 'outdoor':54B 'platform':27B 'pool':55B 're':69B,78B 'recharg':6B 'relax':5B 'retreat':105B 'room':20B,108B 'savvi':19B 'sentral':4A,11B,15B,48B,123B 'session':67B 'signatur':26B 'space':98B 'squar':94B 'station':16B,49B 'stay':126B 'suit':25B,110B 'transport':44B 'undeni':116B 'view':57B 'welcom':118B 'workout':66B",
     "textEmbedding": null,
-    "catalogPosition": 61,
+    "catalogPosition": 59,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -2242,7 +2242,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -2310,7 +2310,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'443':58B 'affair':75B 'all-day':49B 'bar':59B,69B 'bath':32B 'bed':39B 'bintang':97B 'bodi':34B 'bukit':96B 'busi':85B 'cocktail':56B 'day':42B,51B,86B 'discov':13B 'dynam':79B 'elev':77B 'enrich':16B 'event':80B 'featur':29B 'food':45B 'fresh':44B 'fuel':40B 'golden':93B 'heaven':38B 'hotel':8B,20B 'item':46B 'kuala':3A,10B,27B,98C,100C 'live':54B 'loung':60B 'lumpur':4A,11B,28B,99C,101C 'malaysia':12B 'meet':71B,88B 'offer':63B 'poolsid':66B 'premium':19B 'product':35B 'restaur':52B,67B 'room':21B,55B 'scenic':62B 'sightse':90B 'social':74B 'space':81B 'splash':70B 'suit':23B 'tea':31B 'thrive':5B 'triangl':94B 'wed':72B 'well':14B 'westin':2A,26B,37B 'white':30B",
     "textEmbedding": null,
-    "catalogPosition": 60,
+    "catalogPosition": 58,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -2322,7 +2322,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -2400,7 +2400,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'4':43B '80':46B 'brand':41B 'cdl':24B 'citi':21B 'compani':20B 'contin':44B 'destin':48B 'develop':22B 'estat':19B 'global':17B 'grand':1A 'headquart':25B 'homegrown':36B 'hong':10B 'hotel':5B,29B,40B 'intern':39B 'kl':3A 'kuala':49C,51C 'largest':35B 'leong':11B 'limit':23B 'list':16B 'lumpur':50C,52C 'millennium':2A,4B,28B 'oper':37B 'real':18B 'resort':7B,31B 'singapor':15B,27B,33B 'singapore-list':14B 'span':42B 'strateg':47B 'subsidiari':12B",
     "textEmbedding": null,
-    "catalogPosition": 59,
+    "catalogPosition": 57,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -2412,7 +2412,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -2485,7 +2485,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'centr':6A,23B,52B 'chic':32B 'citi':5A,22B,37B 'convent':51B 'crown':1A,18B 'district':35B 'eateri':33B 'embassi':31B 'experi':7B 'heart':10B 'icon':42B 'kl':50B 'kuala':3A,12B,20B,53C,55C 'landmark':43B 'like':44B 'locat':26B 'lumpur':4A,13B,21B,54C,56C 'nightlif':40B 'petrona':46B 'place':27B 'plaza':2A,19B 'prime':25B 'pulsat':9B 'shop':34B 'stay':16B 'step':29B 'tower':48B 'twin':47B 'vibrant':39B",
     "textEmbedding": null,
-    "catalogPosition": 58,
+    "catalogPosition": 56,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -2497,7 +2497,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-27T11:22:29.783Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -2581,7 +2581,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'abound':39B 'angsana':1A,6B 'awe':30B 'awe-inspir':29B 'bahang':3A 'becom':43B 'bungah':54C 'canva':52B 'cherish':13B 'citi':32B 'discov':34B 'dream':42B 'embrac':19B 'everi':41B 'forg':11B 'gentl':18B 'inspir':31B 'lose':14B 'majesti':24B 'moment':9B 'mountain':26B 'ocean':22B 'penang':55C 'playground':36B 'possibl':38B 'realiti':45B 'skylin':33B 'tanjung':53C 'teluk':2A 'unforgett':8B 'welcom':4B 'world':49B",
     "textEmbedding": null,
-    "catalogPosition": 57,
+    "catalogPosition": 55,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -2593,7 +2593,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -2674,7 +2674,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'000ft':61B '100':18B '24':60B 'adjoin':56B 'airi':79B 'atmospher':80B 'back':72B 'bathroom':57B 'beauti':32B 'bedroom':50B 'come':47B 'contemporari':25B 'differ':36B 'event':37B 'extens':26B 'garden':63B 'guest':53B 'heritag':22B 'home':23B 'hous':3A,6B,46B,75B 'impress':59B 'k':1A,4B 'ke':9B 'ke-si-na':8B 'kitchen':66B 'kuang':14B,81C 'luscious':62B 'mani':35B 'meet':41B 'na':11B 'nice':78B 'old':21B 'one':49B,52B 'open':68B 'present':42B 'pronounc':7B 'provid':28B,76B 'room':54B 'seena':2A,5B 'selangor':15B,82C 'set':33B 'si':10B 'situat':12B 'spacious':30B 'wed':40B 'workshop':44B 'year':20B 'year-old':19B",
     "textEmbedding": null,
-    "catalogPosition": 80,
+    "catalogPosition": 77,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -2686,7 +2686,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -2773,7 +2773,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-24T02:31:12.573Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -2883,8 +2883,8 @@
     "coverImageFocalPointOverride": null,
     "fts": "'+60163391027':133B '12':32B '452':57B '5':10B '50':100B 'access':43B,107B 'accommod':62B 'along':79B 'amen':98B 'bandar':46B,137C 'bathroom':110B 'bathtub':112B 'centr':38B 'citi':37B,52B 'coffe':113B 'comfort':123B 'complimentari':104B 'conveni':51B,125B 'delux':69B,72B 'design':83B 'direct':42B 'disabl':89B 'divers':65B 'ensur':50B 'equip':93B 'execut':71B,77B 'explor':53B 'facil':117B 'guest':55B,87B 'heart':27B 'hotel':3A,6B,12B,20B,40B 'ideal':22B 'includ':66B 'internet':106B 'jaya':16B,30B,135C 'junior':74B 'kilomet':33B 'kind':131B 'kuala':35B 'led':101B 'locat':13B 'lumpur':36B 'luxuri':9B 'make':116B 'malaysia':17B 'mrt':48B 'notch':97B 'offer':41B 'one':1A,4B,18B 'option':63B 'packag':130B 'person':119B 'petal':15B,29B,134C 'provid':121B 'room':58B,68B,70B,73B,85B,91B 'safe':120B 'selangor':136C 'situat':23B 'spacious':109B 'special':82B 'star':11B 'station':49B 'stay':126B 'suit':60B,75B,78B 'superior':67B,84B 'tea':115B 'televis':102B 'top':96B 'top-notch':95B 'utama':47B,138C 'vibrant':26B 'view':128B 'whatsapp':132B 'wireless':105B 'world':2A,5B,19B",
     "textEmbedding": null,
-    "catalogPosition": 6,
-    "isSpotlight": true,
+    "catalogPosition": 8,
+    "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
     "isDemo": false,
@@ -2895,7 +2895,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -3092,7 +3092,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'100':125B '550':126B 'ampl':58B 'assist':63B,149B 'atlant':1A,13B 'avail':64B,150B 'ballroom':3A,15B,43B,122B 'banquet':21B,86B,100B,107B,155B 'bridal':73B 'buggi':62B,148B 'cantones':24B,110B 'carpet':51B,141B 'celebr':41B,97B 'ceremoni':71B 'chandeli':49B,138B 'chines':19B,39B,98B,103B,119B,158B 'complimentari':59B,143B 'coordin':162B 'countri':8B,167B 'crystal':48B,137B 'cuisin':120B 'curat':23B,109B 'day':161B 'dedic':154B 'design':36B 'dine':35B 'dish':29B 'elder':66B,152B 'eleg':31B,136B 'entranc':74B 'everi':92B 'experienc':85B 'feast':78B 'featur':22B 'free':118B 'full':50B 'fulli':140B 'golf':7B,166B 'grand':2A,14B,38B,121B 'guest':67B,127B,153B 'highlight':101B 'import':93B 'impress':128B 'interior':142B 'jaya':12B,170B,172C 'light':53B,132B 'locat':4B,163B 'menus':26B,112B 'moment':94B 'on-sit':144B 'park':60B,147B 'petal':11B,169B,171C 'pork':117B 'pork-fre':116B 'premium':27B,114B 'profession':52B,131B 'provid':44B 'readi':89B 'resort':9B,168B 'round':33B,105B 'round-tabl':32B,104B 'seafood':28B,115B 'selangor':173C 'seng':82B 'set':25B,108B 'site':146B 'sound':55B,134B 'spacious':46B 'special':16B 'stage':47B,129B 'suitabl':123B 'support':91B 'system':56B,135B 'tabl':34B,106B 'tea':70B 'team':87B,156B 'toast':83B 'tradit':18B,80B,102B 'tropicana':6B,165B 'wed':20B,40B,77B,99B,111B,160B 'wedding-day':159B 'within':5B,164B 'yum':81B",
     "textEmbedding": null,
-    "catalogPosition": 10,
+    "catalogPosition": 13,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -3104,7 +3104,7 @@
     "humanReviewedBy": null,
     "liveAt": "2026-08-21T07:14:47.093Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-21T07:14:47.093Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -3258,7 +3258,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'atmospher':33B 'banquet':47B 'celebr':74B 'complet':112B 'confetti':1A,4B,97B 'corner':40B 'cozi':51B 'day':14B,102B 'dedic':95B 'design':62B 'eleg':22B 'elev':69B 'ensur':98B 'even':55B 'event':88B 'everi':39B,70B 'felt':108B 'flow':85B 'glow':79B 'grand':46B 'guest':27B 'hall':48B 'heartfelt':91B 'honeymoon':57B 'immers':30B 'joy':36B 'kembangan':114C 'kl':2A 'light':82B 'loung':53B 'love':66B 'lux':56B 'magic':109B 'make':12B 'memor':110B 'moment':17B,71B 'plan':106B 'power':10B 'privat':52B 'promis':6B 'reflect':64B 'romant':81B 'seamless':84B 'selangor':115C 'seri':113C 'servic':92B 'simpl':8B 'sophist':38B 'space':43B 'step':19B 'stori':67B 'suit':58B 'team':96B 'thought':61B 'venu':23B 'warmth':35B 'wed':101B 'whether':75B 'yet':9B",
     "textEmbedding": null,
-    "catalogPosition": 55,
+    "catalogPosition": 54,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -3270,7 +3270,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -3371,7 +3371,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'1':80B '200':81B 'affair':94B 'attent':60B 'ballroom':69B 'begin':8B 'believ':10B 'bring':104B 'capac':76B 'care':58B 'celebr':16B,88B 'chines':45B 'choos':38B 'cozi':22B 'craft':52B 'creat':30B 'curat':42B 'day':37B,107B 'design':56B 'detail':62B 'dream':106B 'eleg':68B 'envis':91B 'event':12B 'everi':11B 'extravag':86B 'gather':24B,99B 'grandeur':66B 'guest':82B 'hotel':3A 'ideal':32B 'indian':46B 'indoor':23B 'intim':26B,98B 'lavish':93B 'let':50B 'life':109B 'malay':44B 'marriott':2A 'matter':18B 'moment':28B 'occas':7B 'offer':70B 'outdoor':27B 'perfect':6B,83B 'person':15B 'putrajaya':1A,110C 'seek':65B 'selangor':111C 'set':33B 'size':20B 'someth':53B 'space':73B 'special':36B 'stun':72B 'theme':43B 'thought':41B 'uniqu':54B 'us':51B 'wed':87B 'western':48B 'whether':89B",
     "textEmbedding": null,
-    "catalogPosition": 54,
+    "catalogPosition": 53,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -3383,7 +3383,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -3483,7 +3483,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'avail':59B 'ballroom':43B 'bespok':65B 'blend':35B 'celebr':5B,72B 'citi':31B 'contemporari':36B 'coupl':76B 'craft':50B 'creat':70B 'curat':61B 'decor':69B 'design':18B,37B 'detail':63B 'eleg':33B 'elev':52B 'everi':21B,62B 'experienc':55B 'gather':46B 'grace':24B 'grand':42B 'inspir':68B 'intim':45B 'ioi':29B 'journey':79B 'le':1A,12B 'love':7B 'make':20B 'menus':66B 'meridien':2A 'méridien':13B 'occas':54B 'putrajaya':3A,14B,80C 'reflect':74B 'resort':30B 'selangor':81C 'servic':40B 'set':17B,25B 'sophist':16B 'space':48B 'specialist':57B 'stori':8B 'style':10B 'thought':39B 'unforgett':23B 'uniqu':78B 'venu':34B 'vibrant':28B 'wed':4A,22B,56B",
     "textEmbedding": null,
-    "catalogPosition": 53,
+    "catalogPosition": 52,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -3495,7 +3495,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -3611,7 +3611,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'25km':32B '350':62B '500':53B '6':45B '781':46B 'accommod':50B 'airport':30B 'area':49B 'art':90B 'audio':91B 'away':33B 'backdrop':78B 'ballroom':41B,102B 'banquet':66B 'banquet-styl':65B 'boast':42B 'ceil':71B 'centr':38B 'certifi':98B 'citi':37B 'combin':15B 'contemporari':73B 'design':74B 'eleg':16B 'ensur':103B 'equip':84B 'event':108B 'facil':93B 'ft':48B 'garden':2A,6B 'grand':77B 'guest':54B 'high':70B 'hotel':3A,7B 'intern':29B 'kuala':27B,35B 'locat':23B 'lumpur':28B,36B 'marriott':97B 'memor':107B 'nearbi':24B 'palm':1A,5B 'pillarless':40B 'planner':100B 'premier':11B 'provid':75B 'putrajaya':4A,8B,109C 'recept':68B 'seamless':105B 'selangor':110C 'setup':60B 'size':83B 'spacious':44B 'sq':47B 'state':87B 'state-of-the-art':86B 'strateg':22B 'style':59B,67B 'support':95B 'theater':58B 'theater-styl':57B 'venu':13B 'versatil':18B 'visual':92B 'wed':12B,80B,99B",
     "textEmbedding": null,
-    "catalogPosition": 52,
+    "catalogPosition": 51,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -3623,7 +3623,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-10T03:31:31.590Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -3789,7 +3789,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-13T08:36:31.883Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -3872,7 +3872,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'350':26B 'acr':27B 'alam':3A,117C 'area':62B 'backdrop':35B 'ballroom':55B 'celebr':51B,69B,110B 'charm':60B 'come':57B 'content':115B 'day':8B 'dream':19B 'ensur':5B,79B 'event':82B 'everi':95B 'everyth':101B 'exchang':42B 'fill':111B 'garden':61B 'glenmari':4A,54B 'goe':83B 'grand':50B 'greeneri':30B 'guid':89B 'help':78B 'hilton':1A 'hitch':87B 'joy':113B 'knot':40B 'lush':29B 'make':105B 'offer':32B,103B 'opt':47B 'outdoor':68B 'perfect':34B,65B 'plan':17B,93B 'planner':76B 'process':94B 'profession':74B 'selangor':108B,118C 'shah':2A,116C 'special':7B,11B 'step':96B 'tie':38B 'us':23B 'vow':44B 'way':99B 'wed':20B,75B,106B 'without':85B",
     "textEmbedding": null,
-    "catalogPosition": 51,
+    "catalogPosition": 50,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -3884,7 +3884,7 @@
     "humanReviewedBy": null,
     "liveAt": "2026-08-24T02:43:45.619Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-24T02:43:45.619Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -4015,7 +4015,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'activ':48B 'citi':44B 'collect':2A,6B 'day':17B 'earthi':25B 'environ':22B 'finish':30B 'gorgeous':23B 'greeneri':24B 'haven':12B 'hideaway':38B 'hotel':33B 'kuala':3A,7B,49C,51C 'lumpur':4A,8B,50C,52C 'make':34B 'mall':42B 'modern':16B 'modern-day':15B 'parkroy':1A,5B 'perfect':37B 'respect':20B 'shop':41B 'skyscrap':40B 'sleek':28B 'street':45B 'teem':46B 'tone':26B 'travel':18B 'welcom':11B 'within':31B 'wooden':29B",
     "textEmbedding": null,
-    "catalogPosition": 11,
+    "catalogPosition": 14,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -4027,7 +4027,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -4109,7 +4109,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'address':53B 'ancient':18B 'away':64B 'beckon':25B 'boutiqu':68B 'busi':42B 'capit':61B 'carlton':4A,10B 'citi':24B,62B 'command':50B 'converg':20B 'discov':5B 'district':43B 'downtown':37B 'enviabl':52B 'exclus':7B 'experi':14B 'explor':28B 'flavor':33B 'golden':40B 'guest':26B 'heart':56B 'hotel':46B 'kuala':11B,48B,71C,73C 'locat':36B 'lumpur':12B,49B,72C,74C 'luxuri':45B 'malaysia':35B,58B 'modern':23B 'place':16B 'ritz':3A,9B 'ritz-carlton':2A,8B 'river':19B 'sight':30B 'skyscrap':70B 'sound':31B 'step':63B 'triangl':41B 'upscal':67B 'vibrant':60B",
     "textEmbedding": null,
-    "catalogPosition": 50,
+    "catalogPosition": 49,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -4121,7 +4121,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-17T03:12:21.805Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -4222,7 +4222,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'1991':6B '30':33B 'ampl':66B 'authent':28B 'ceiling':86B 'ciao':1A,7B 'come':14B 'commit':36B 'cosi':51B 'cours':60B 'dine':17B 'disappoint':39B 'event':82B,92B 'experi':31B 'facil':68B 'farm':47B 'food':30B 'garden':52B 'golf':59B 'greeneri':63B 'high':85B 'high-ceiling':84B 'hous':48B 'indoor':91B 'institut':11B 'italian':16B,29B,46B 'kl':3A 'kuala':19B,93C,95C 'lake':56B 'look':24B 'lumpur':20B,94C,96C 'make':69B 'open':4B 'outdoor':75B 'overlook':57B 'park':67B 'resembl':43B 'restaur':42B 'ristorant':2A,8B 'room':87B 'rustic':45B 'sinc':5B 'small':55B 'spacious':83B 'suitabl':89B 'surround':62B 'truli':27B 'type':80B 'uniqu':72B 'us':70B 'venu':73B 'wed':76B 'year':34B",
     "textEmbedding": null,
-    "catalogPosition": 14,
+    "catalogPosition": 17,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -4234,7 +4234,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -4337,7 +4337,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'activ':72B 'altern':73B 'away':46B 'busi':37B 'centr':56B,89B 'citi':28B 'complimentari':78B 'convent':55B 'countless':68B 'distanc':60B 'enjoy':76B 'entertain':71B 'heart':8B,25B 'hotel':42B 'icon':49B 'ideal':32B 'intercontinent':1A,11B 'jewel':5B 'kl':84B 'klcc':87B 'kuala':2A,12B,53B,90C,92C 'leisur':39B 'locat':22B 'lumpur':3A,13B,54B,91C,93C 'make':29B 'malaysia':10B 'may':75B 'metro':63B 'offer':14B 'one':15B 'pavilion':83B 'petrona':50B 'retreat':34B 'schedul':79B 'servic':81B 'shop':69B,88B 'shuttl':80B 'sought':20B 'sought-aft':19B 'station':64B 'step':45B 'suria':86B 'tower':52B 'travel':40B 'twin':51B 'two':62B 'urban':33B 'walk':59B 'well':66B 'within':58B",
     "textEmbedding": null,
-    "catalogPosition": 49,
+    "catalogPosition": 48,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -4349,7 +4349,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-27T05:59:54.727Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -4482,7 +4482,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'1':29B,53B '10':191B '2':71B '200':86B '500':68B 'accommod':65B 'acr':30B 'agenda':184B 'air':61B,92B 'air-condit':60B 'airbnb':203B 'ampl':198B,215B 'bayswat':1A,4B,117B 'bayswaterklcc':57B,73B 'beauti':123B 'blend':18B 'build':247B 'casual':169B 'celebr':96B,249B 'centr':40B,129B 'ceremoni':93B 'choic':199B 'choos':141B 'citi':39B,128B,162B,225B 'city-centr':127B 'client':140B 'comfort':70B 'concept':145B,163B 'condit':62B 'conveni':188B 'corpor':108B 'could':226B 'cover':77B,231B 'customis':183B 'design':150B,245B 'differ':239B 'dinner':109B 'distinct':50B,144B 'eleg':20B 'estat':32B 'even':182B,214B 'event':12B,51B,134B,172B,221B 'facil':235B 'fashion':115B 'featur':48B 'flexibl':121B,174B 'formal':171B 'fulli':59B 'garden':72B,79B,159B 'googl':257B 'got':229B 'grand':55B 'greeneri':24B 'group':236B 'guest':69B,87B,208B 'hall':63B 'heart':35B 'host':83B 'hotel':201B 'instal':154B 'intim':95B 'kind':46B 'klcc':3A,6B,119B,195B 'kuala':37B,259C,261C 'land':220B 'landscap':31B 'launch':111B 'layout':122B,177B 'light':153B 'locat':130B 'look':253B 'lumpur':38B,260C,262C 'lush':23B 'make':132B 'matter':98B 'memor':136B 'min':192B 'night':113B 'offer':15B,120B 'one':43B 'one-of-a-kind':42B 'open':91B 'open-air':90B 'outdoor':78B 'outstat':207B 'oversea':205B 'own':238B 'park':216B 'pavilion':56B 'perfect':88B,166B 'plan':105B 'pleas':252B 'point':212B 'premier':9B 'present':179B 'product':110B,178B 'programm':156B 'prom':112B 'rain':99B 'rare':28B 'review':258B 'runway':116B 'semi':76B 'semi-cov':75B 'servic':210B 'setup':187B 'shine':101B 'showcas':180B 'smart':168B 'space':13B,52B,80B,217B 'suria':194B 'surround':124B,196B 'tabl':176B 'team':251B 'truli':135B 'trust':250B 'two':49B 'uniqu':17B,149B 'us':142B 'usual':138B 'valet':209B 'venu':47B,222B,240B,243B 'versatil':21B 'wed':10B,107B,186B 'whether':102B 'within':26B,157B",
     "textEmbedding": null,
-    "catalogPosition": 22,
+    "catalogPosition": 35,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -4494,7 +4494,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -4628,7 +4628,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'180':53B '400':38B 'accommod':35B 'ballroom':4A,10B 'beauti':66B 'ceil':46B 'celebr':76B 'citi':58B 'corpor':70B 'day':77B 'entiti':28B 'event':15B,71B 'floor':44B 'floor-to-ceil':43B 'galact':27B 'glass':47B 'gorgeous':26B 'grand':3A,9B 'kl':57B 'kuala':5A,80C,82C 'launch':73B 'lifestyl':14B 'like':22B 'lumpur':6A,81C,83C 'luna':2A,8B 'make':63B 'modern':13B 'moon':24B 'mysteri':31B 'name':19B 'night':79B 'offer':50B 'pax':39B 'privat':75B 'product':72B 'set':67B 'skylin':59B 'space':32B 'stun':52B 'trx':61B 'venu':16B,41B 'view':54B,62B 'wed':69B 'window':48B",
     "textEmbedding": null,
-    "catalogPosition": 16,
+    "catalogPosition": 36,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -4640,7 +4640,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -4766,7 +4766,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'+6010':211B '-256':212B '100':138B '150':128B '200':129B '550':111B '5618':213B '68000':208B 'all-in-on':189B 'ampang':209B,214C 'antarabangsa':207B 'architectur':106B 'ballroom':101B 'board':35B 'brand':94B 'bukit':206B 'celebr':64B,96B,174B 'centerpiec':132B 'charm':134B 'citi':180B 'come':65B 'comfort':171B 'concept':97B 'corpor':60B 'destin':196B 'dine':147B 'dream':58B 'dreami':122B 'entertain':143B 'estat':5A,74B,99B 'event':4A,14B,61B,73B,199B 'eventest':48B 'everyth':84B 'expect':152B 'explor':87B 'express':135B 'feel':30B 'first':9B 'fit':108B 'gem':53B 'getaway':181B 'glass':105B,124B 'grand':79B,100B 'guest':112B,130B,139B 'held':39B 'hill':2A,20B,184B,186B 'hous':125B 'icon':102B 'ideal':126B 'intim':121B,160B 'itali':43B 'jalan':202B 'kelab':203B 'kind':93B 'kl':76B 'kuala':17B,55B 'life':67B 'lifestyl':6A,162B 'like':36B 'littl':154B 'look':21B 'lot':157B 'love':141B 'lumpur':18B,56B 'magic':26B 'malaysia':46B 'moment':117B,161B 'mood':34B 'new':95B 'newest':52B 'night':169B 'one':90B,192B 'one-of-a-kind':89B 'pandora':119B 'parti':82B 'perfect':77B 'pinterest':33B 'privat':3A,72B 'pure':159B 'resort':12B,29B,70B,194B 'resort-feel':28B 'resort-styl':11B,69B,193B 'room':148B 'selangor':210B,215C 'show':115B 'show-stop':114B 'simpli':103B 'space':98B,136B 'stay':167B,201B 'staycat':177B 'stop':116B 'stun':104B 'style':13B,71B,145B,178B,195B 'stylish':81B 'suit':7A,49B,163B 'think':113B 'ukay':1A,19B,185B,204B 'ukayhil':47B 'unforgett':63B 'utama':205B 'venu':15B,24B 'vip':146B 'wed':41B,59B,80B,198B 'white':123B 'wind':164B",
     "textEmbedding": null,
-    "catalogPosition": 23,
+    "catalogPosition": 34,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -4778,7 +4778,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -4849,7 +4849,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'4':41B '7':16B '750':42B 'accommod':109B 'adapt':60B 'area':53B 'art':75B,93B 'artisan':149B 'artist':148B 'backstag':52B 'bazaar':101B 'believ':164B 'bintang':126B 'box':3A,7B,69B,84B,129B,162B 'bright':56B 'bukit':125B 'ceil':18B 'choic':24B 'collabor':114B,138B 'communiti':100B,122B,187B 'confer':38B 'connect':80B,112B,140B 'corpor':182B 'creat':154B,168B 'creativ':57B,66B,121B,144B,184B 'divers':110B 'dynam':10B 'ecosystem':145B 'enterpris':134B 'environ':58B 'event':11B,29B,111B,183B 'except':23B 'exhibit':76B,94B 'expans':40B 'experi':158B 'fashion':32B 'featur':70B 'flexibl':107B 'foster':142B 'front':48B 'front-of-hous':47B 'gather':35B,188B 'gmbb':4A,119B,141B 'grey':2A,6B,68B,128B,161B 'hall':12B 'height':19B 'host':91B 'hous':50B 'hub':135B 'impact':157B 'impress':15B 'includ':30B,46B 'inspir':172B 'kuala':189C,191C 'launch':31B 'line':72B 'locat':115B 'lumpur':190C,192C 'make':20B 'mall':123B 'meaning':155B 'meter':17B 'moretogeth':167B 'music':96B 'need':63B 'offer':54B 'part':131B 'partner':146B 'perfect':73B 'perform':97B 'practic':86B 'privat':34B 'provid':105B 'public':152B 're':90B 'seamless':79B 'seminar':36B 'show':33B 'showcas':185B 'space':44B,170B 'sqft':43B 'suit':87B 'support':174B 'valu':137B 'varieti':27B 'venu':104B 'versatil':64B,103B 'vibrant':118B 'vision':176B 'wall':71B 'whether':88B,177B 'white':83B",
     "textEmbedding": null,
-    "catalogPosition": 48,
+    "catalogPosition": 47,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -4861,7 +4861,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -4942,7 +4942,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'activ':68B 'addit':47B 'afford':28B 'ampl':57B 'ceremoni':62B 'classic':33B 'contemporari':35B 'cuisin':11B,30B 'deliv':27B 'eleg':17B 'especi':44B 'event':43B 'fa':53B 'fa-i':52B 'garden':55B 'intertwin':14B 'intim':42B 'kuala':69C,71C 'launch':51B,64B 'lumpur':70C,72C 'modern':20B 'newli':50B 'outdoor':60B,67B 'perfect':40B 'pride':24B 'product':63B 'provid':56B 'rama':1A,4B 'restaur':23B 'rom':61B 'seamless':13B 'set':36B 'space':58B 'thai':10B,29B 'timeless':7B 'tradit':8B 'v':2A,5B 'venu':38B 'world':21B 'yet':34B 'ying':54B",
     "textEmbedding": null,
-    "catalogPosition": 47,
+    "catalogPosition": 46,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -4954,7 +4954,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -5072,7 +5072,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'180':43B '250pax':62B '4':18B '500pax':73B 'accommod':59B 'affair':106B 'alam':49B,118C 'canva':112B 'captur':35B 'center':32B 'citi':24B,31B 'come':75B 'coupl':96B 'degre':44B 'design':57B 'dream':115B 'eleven':2A,7B,34B,80B,108B 'envis':99B 'essenc':37B 'event':4A,13B 'expans':54B 'fit':70B 'french':11B 'gather':102B 'go':77B 'guest':63B 'heart':28B 'hotel':20B 'intim':101B 'lavish':105B 'lifestyl':3A,12B 'link':21B 'locat':15B 'luxuri':40B 'maison':1A,6B,33B,79B,107B 'mall':25B 'modern':10B,39B 'offer':81B 'one':65B 'perfect':111B 'provid':109B 'seat':67B 'selangor':119C 'setia':23B,30B,48B 'shah':117C 'skylin':45B,51B 'space':84B 'star':19B 'style':78B 'suit':90B 'tailor':88B 'time':66B 'uniqu':92B 'venu':5A,14B 'versatil':83B 'view':46B,56B 'vision':93B 'wed':116B 'whether':97B 'window':55B",
     "textEmbedding": null,
-    "catalogPosition": 15,
+    "catalogPosition": 39,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -5084,7 +5084,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -5187,7 +5187,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'-10':34B '1':39B '5':33B 'bandar':26B 'centr':42B 'connect':31B 'cover':36B 'heart':19B 'hotel':3A,8B,15B 'jaya':5A,22B,57C 'largest':45B,52B 'locat':16B 'luxuri':14B 'm':1A,6B 'malaysia':43B 'mall':47B 'minut':35B 'modern':13B 'mrt':28B 'newli':11B 'next':23B 'one':49B 'open':12B 'petal':4A,21B,56C 'selangor':58C 'shop':41B,46B 'station':29B 'utama':27B,40B 'via':32B 'walkway':37B 'world':2A,7B,55B",
     "textEmbedding": null,
-    "catalogPosition": 46,
+    "catalogPosition": 45,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -5199,7 +5199,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -5276,7 +5276,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'back':63B 'ballroom':25B 'celebr':61B 'centr':53B 'ceremoni':58B 'citi':52B 'day':35B 'dream':34B,73B 'eleg':12B 'event':13B 'grand':24B 'guest':19B 'honour':18B 'hotel':3A,54B 'imagin':4B 'klcc':2A 'knot':40B 'kuala':50B,76C,78C 'lifetim':33B 'lumpur':51B,77C,79C 'luxuri':44B 'modern':60B 'once-in-a-lifetim':29B 'one':9B 'opul':22B 'packag':69B 'pullman':1A,23B,26B,49B 'realiti':37B,75B 'recept':7B,46B 'relax':65B 'resid':55B 'room':14B 'sit':62B 'tie':38B 'toast':16B 'tradit':57B 'turn':27B,71B 'unforgett':43B 'wed':6B,45B,68B",
     "textEmbedding": null,
-    "catalogPosition": 30,
+    "catalogPosition": 25,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -5288,7 +5288,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -5379,7 +5379,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -5456,7 +5456,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -5532,7 +5532,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'ambienc':48B 'boardroom':59B 'boost':8B 'breakout':64B 'casual':63B 'celebr':4B 'compani':16B,33B 'cultur':18B 'dinner':68B,72B 'drive':28B 'employe':10B,21B 'ensur':54B 'even':70B 'glasshous':1A,50B 'keep':20B 'kuala':74C,76C 'larg':35B 'layout':45B 'lead':5B 'lumpur':75C,77C 'memor':67B 'moral':11B 'motiv':22B 'organis':36B 'parti':73B 'product':24B,26B 'seminar':61B 'seputeh':3A,52B 'session':65B 'small':38B 'smooth':56B 'start':40B 'start-up':39B 'success':30B 'tie':13B 'transform':47B 'transit':57B 'up':41B 'venu':53B 'versatil':44B 'workforc':27B",
     "textEmbedding": null,
-    "catalogPosition": 67,
+    "catalogPosition": 65,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -5544,7 +5544,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -5562,7 +5562,7 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9f340f44-4556-4a41-bdcf-b71897a0e977/773805e2-5876-4729-9ec6-20843916ade6/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9f340f44-4556-4a41-bdcf-b71897a0e977/8b9e2a01-6e85-4339-a9ee-65122c7b506c/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/colony-the-met/1788943882157-DCP0681/DCP0681-high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9f340f44-4556-4a41-bdcf-b71897a0e977/a00bdd64-a55d-4e64-bfb1-d7fbb23f16e7/high.webp"
@@ -5571,13 +5571,16 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9f340f44-4556-4a41-bdcf-b71897a0e977/c2c943b0-8112-4ce1-b1fb-47b32c7c3624/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9f340f44-4556-4a41-bdcf-b71897a0e977/2ff19da5-e2b5-4321-9bca-ece7d46bbc3d/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9f340f44-4556-4a41-bdcf-b71897a0e977/8b9e2a01-6e85-4339-a9ee-65122c7b506c/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9f340f44-4556-4a41-bdcf-b71897a0e977/702d0ab0-1950-4439-b0ab-1d4a58748f06/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/colony-the-met/1788943901275-Rooftop_Terrace_2/Rooftop_Terrace_2-high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/9f340f44-4556-4a41-bdcf-b71897a0e977/5613fd58-f984-4215-98c9-eaf2e9de3358/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/colony-the-met/1788943956274-PikKhuanNatalie-TeddyChernPhotography-19__2_/PikKhuanNatalie-TeddyChernPhotography-19__2_-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/colony-the-met/1788944019137-Colony-TheGlassBox-Wedding/Colony-TheGlassBox-Wedding-high.webp"
       }
     ],
     "description": "Colony’s wedding venue in KL features breathtaking views and vibrant greenery, setting the stage for a truly memorable celebration. Exchange vows in the captivating Glass Box, where towering windows and a draped fabric ceiling create an airy, romantic ambiance. Or celebrate beneath the stars at the Rooftop Terrace, a peaceful garden hideaway above the bustling city. Whether you're planning a cozy ceremony or a lavish affair, every wedding here is crafted with elegance, charm, and personal flair.",
@@ -5652,7 +5655,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'affair':71B 'airi':41B 'ambianc':43B 'beneath':46B 'box':30B 'breathtak':11B 'bustl':59B 'captiv':28B 'ceil':38B 'celebr':23B,45B 'ceremoni':67B 'charm':79B 'citi':60B 'coloni':1A,4B 'cozi':66B 'craft':76B 'creat':39B 'drape':36B 'eleg':78B 'everi':72B 'exchang':24B 'fabric':37B 'featur':10B 'flair':82B 'garden':55B 'glass':29B 'greeneri':15B 'hideaway':56B 'kl':9B 'kuala':83C,85C 'lavish':70B 'lumpur':84C,86C 'memor':22B 'met':3A 'peac':54B 'person':81B 'plan':64B 're':63B 'romant':42B 'rooftop':51B 'set':16B 'stage':18B 'star':48B 'terrac':52B 'tower':32B 'truli':21B 'venu':7B 'vibrant':14B 'view':12B 'vow':25B 'wed':6B,73B 'whether':61B 'window':33B",
     "textEmbedding": null,
-    "catalogPosition": 38,
+    "catalogPosition": 37,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -5664,7 +5667,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-09T08:54:51.963Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -5743,7 +5746,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'16':41B 'ballroom':39B,49B 'besid':12B 'boast':36B 'cake':83B 'celebr':59B 'ceremoni':79B 'citi':30B 'coordin':78B 'custom':81B 'destin':35B 'everyth':54B 'experi':66B 'expert':77B 'five':20B 'five-star':19B 'function':43B 'grand':38B 'heart':8B 'honeymoon':94B 'hotel':24B,61B 'icon':14B 'includ':45B 'indulg':91B 'kl':51B 'kuala':3A,10B,96C,98C 'largest':47B 'like':72B 'lumpur':4A,11B,97C,99C 'luxuri':33B 'mandarin':1A,22B 'massag':73B 'need':55B 'nestl':5B 'offer':53B 'one':27B 'opul':58B 'orient':2A,23B 'pamper':71B 'petrona':15B 'pillarless':48B 'post':89B 'post-wed':88B 'pre':69B 'pre-wed':68B 'provid':62B 'room':44B 'seamless':64B 'stand':25B 'star':21B 'suit':95B 'therapi':75B 'tower':17B 'twin':16B 'two':37B 'versatil':42B 'way':86B 'wed':34B,65B,70B,82B,90B",
     "textEmbedding": null,
-    "catalogPosition": 29,
+    "catalogPosition": 24,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -5755,7 +5758,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -5832,7 +5835,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -5917,7 +5920,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'architectur':44B 'celebr':23B 'citi':30B 'day':57B 'eleg':11B 'elev':51B 'everi':52B 'five':34B 'five-star':33B 'grand':43B 'heart':27B 'hotel':36B 'icon':32B 'impecc':48B 'imperi':2A,5B 'interior':46B 'kl':3A 'kuala':6B,58C,60C 'lumpur':7B,59C,61C 'luxuri':41B 'meet':12B 'modern':13B 'moment':53B 'nestl':24B 'offer':15B 'opul':45B 'perfect':17B 'sanctuari':39B 'servic':49B 'set':18B 'sheraton':1A,4B 'sophist':14B 'special':56B 'star':35B 'timeless':10B 'unforgett':21B 'wed':22B",
     "textEmbedding": null,
-    "catalogPosition": 39,
+    "catalogPosition": 38,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -5929,7 +5932,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -6065,7 +6068,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'adorn':83B 'affair':70B,97B 'beauti':91B 'blend':30B 'breathtak':34B 'bring':107B 'celebr':19B,73B 'citi':13B,92B 'class':81B 'coupl':64B 'creat':37B 'day':44B 'dedic':103B 'design':60B 'décor':86B 'eleg':11B 'ensur':112B 'everi':63B 'exchang':75B 'experi':117B 'extraordinari':116B 'featur':54B 'gather':101B 'grand':72B 'grandeur':31B 'heart':23B,48B 'imagin':74B 'imperi':1A,27B 'intim':69B,96B 'kuala':3A,25B,50B,118C,120C 'lavish':100B 'lexi':2A,28B 'life':111B 'locat':45B 'lumpur':4A,26B,51B,119C,121C 'nestl':20B 'opul':85B 'perfect':39B 'rang':56B 'refin':10B 'seamless':29B,114B 'set':40B 'skylin':93B 'sophist':32B 'space':59B 'special':43B 'specialist':105B 'step':5B 'stun':58B 'suit':62B 'surround':88B 'transform':16B 'unforgett':18B 'uniqu':66B 'venu':53B,82B 'view':35B 'vision':67B,109B 'vow':76B 'wed':14B,104B 'whether':94B 'world':8B,80B 'world-class':79B",
     "textEmbedding": null,
-    "catalogPosition": 13,
+    "catalogPosition": 16,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -6077,7 +6080,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -6148,7 +6151,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'ambianc':48B 'ampang':12B,66C 'architectur':43B 'boathous':1A,5B,13B 'cherish':60B 'chic':46B 'coloni':17B 'contemporari':20B 'creat':25B 'design':24B 'dos':58B 'effortless':14B 'eleg':18B 'enchant':50B 'fond':9B 'grace':40B 'greeneri':38B 'inspir':23B 'known':10B 'lake':4A,8B 'last':63B 'lifetim':65B 'love':31B 'lush':37B 'luxuri':21B 'memori':61B 'perfect':27B 'romant':47B 'scene':54B 'selangor':67C 'set':52B 'stage':28B 'stori':32B 'strike':42B 'surround':35B 'timeless':16B 'unfold':34B 'unforgett':56B 'venu':51B 'weav':15B",
     "textEmbedding": null,
-    "catalogPosition": 36,
+    "catalogPosition": 33,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -6160,7 +6163,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -6225,7 +6228,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'300':48B '600':72B 'air':67B 'alfresco':80B 'amidst':51B 'away':59B 'backdrop':90B 'beauti':86B 'charm':52B 'cherish':94B 'coupl':27B 'creat':87B 'day':95B 'dream':29B 'enchant':14B 'event':20B,43B 'experi':82B 'garden':19B,42B,53B 'grand':64B 'greeneri':7B 'guest':50B,74B 'hulu':9B,96C 'kilomet':58B 'landscap':54B 'langat':10B,97C 'lush':6B 'magic':79B 'natur':39B,84B 'nestl':3B 'offer':12B 'open':66B 'open-air':65B 'outdoor':15B 'perfect':25B 'place':2A,21B,44B 'promis':77B 'provid':62B 'sangkot':1A,11B,17B,23B,40B,60B 'say':31B 'seat':49B,73B 'selangor':98C 'seren':37B 'set':68B 'surround':34B 'tree':24B,61B 'two':13B 'unforgett':89B 'venu':16B,76B 'wed':81B 'welcom':45B",
     "textEmbedding": null,
-    "catalogPosition": 81,
+    "catalogPosition": 78,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -6237,7 +6240,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -6305,7 +6308,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'18':3A,8B 'air':63B 'backdrop':18B 'bath':27B 'breathtak':17B 'ceil':36B 'celebr':26B 'changkat':1A 'charm':11B 'comfort':53B 'dreami':60B 'effortless':45B 'eleg':14B 'everi':70B 'experi':65B 'floor':34B 'floor-to-ceil':33B 'fuse':46B 'grand':32B 'hulu':72C 'indoor':56B 'langat':73C 'lawn':43B 'lifetim':25B 'light':30B 'linger':68B 'lush':41B 'manicur':42B 'moment':71B 'natur':29B,50B 'once-in-a-lifetim':21B 'onto':40B 'open':39B,62B 'open-air':61B 'pavilion':5B 'promis':58B 'provid':15B 'radiat':9B 'romanc':67B 'rustic':10B 'selangor':74C 'seren':48B 'telang':2A,7B 'timeless':13B 'venu':57B 'wed':64B 'window':37B",
     "textEmbedding": null,
-    "catalogPosition": 82,
+    "catalogPosition": 79,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -6317,7 +6320,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -6394,7 +6397,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'ampl':76B 'atmospher':55B 'backdrop':82B 'breathtak':46B 'ceil':42B 'celebr':58B 'ceremoni':68B 'chera':32B,87C 'complet':69B 'creat':51B 'dream':85B 'décor':74B 'enchant':27B 'fairi':72B 'fairy-tal':71B 'floor':40B 'floor-to-ceil':39B 'forest':1A,16B,29B 'garden':64B 'glass':43B 'glasshous':22B 'greeneri':37B 'hall':3A,18B 'lush':35B 'magic':54B 'mahkota':31B 'nestl':24B 'offer':19B 'one':6B 'outdoor':63B 'panel':44B 'park':77B 'perfect':81B 'picturesqu':62B 'promis':79B 'rainforest':50B 'renown':4B 'reveal':45B 'romant':67B 'selangor':8B,88C 'set':23B 'sought':12B 'sought-aft':11B 'space':65B 'spectacular':21B 'surround':33B 'tale':73B 'tropic':36B 'truli':53B 'urban':28B 'valley':2A,17B 'venu':15B,60B 'view':47B 'wed':14B,86B 'within':25B",
     "textEmbedding": null,
-    "catalogPosition": 83,
+    "catalogPosition": 80,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -6406,7 +6409,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-09-03T08:29:44.327Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -6486,7 +6489,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -6554,7 +6557,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'affair':39B 'alam':9B,60C 'bohemian':29B 'celebr':33B,58B 'ceremoni':44B 'charm':16B 'eleg':36B 'engag':43B 'garden':31B 'garden-inspir':30B 'heart':6B 'ideal':40B 'inspir':32B 'lantera':1A,13B 'locat':3B 'malay':38B 'offer':14B 'romant':55B 'rustic':28B 'selangor':61C 'set':49B 'shah':8B,59C 'solemn':46B 'space':19B 'stage':51B 'style':24B 'terrac':11B 'tradit':37B 'truli':54B 'unforgett':57B 'venu':2A,48B 'versatil':18B 'wed':21B",
     "textEmbedding": null,
-    "catalogPosition": 79,
+    "catalogPosition": 76,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -6566,7 +6569,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -6634,7 +6637,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'amidst':31B 'ampang':69C 'asian':54B 'beauti':58B 'blend':52B 'captiv':51B 'carv':47B 'day':28B 'destin':68B 'dream':11B 'eleg':55B 'embrac':39B 'enchant':7B 'escap':8B 'exchang':29B 'garden':33B 'gem':15B 'hidden':14B 'kl':17B,63B 'lush':32B 'natur':19B,57B 'offer':5B 'pond':38B 'selangor':70C 'seren':34B 'set':22B 'special':27B 'splendor':21B 'spring':2A,4B,60B 'stage':24B 'statu':48B 'stone':46B 'stone-carv':45B 'tamarind':1A,3B,59B 'timeless':44B 'tranquil':37B 'treetop':41B 'truli':62B 'unforgett':66B 'view':42B 'vow':30B 'walkway':35B 'wed':12B,67B",
     "textEmbedding": null,
-    "catalogPosition": 35,
+    "catalogPosition": 30,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -6646,7 +6649,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -6739,7 +6742,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'8':10B 'acr':2A,5B,11B 'backdrop':18B 'beauti':40B 'bentong':66C 'besid':43B 'breez':34B 'build':46B 'captiv':9B 'ceremoni':59B 'cool':32B 'destin':22B 'destination-styl':21B 'eco':13B 'eco-sanctuari':12B 'embrac':60B 'envelop':25B 'garden':58B 'grandeur':65B 'greeneri':28B 'heart':37B 'idyl':53B 'lawn':42B 'lie':38B 'lush':27B 'magic':57B 'main':45B 'manicur':41B 'mountain':33B,50B 'natur':62B 'offer':15B 'open':47B 'pahang':67C 'perfect':17B 'quiet':64B 'resort':3A,6B 'sanctuari':14B 'serenad':30B 'set':54B 'style':23B 'sweep':49B 'view':51B 'wed':24B",
     "textEmbedding": null,
-    "catalogPosition": 34,
+    "catalogPosition": 29,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -6751,14 +6754,94 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
+    "spaces": [],
+    "packages": [],
+    "venueCapacity": {}
+  },
+  {
+    "id": "aaebbe86-a542-4778-8b60-69bd69ceba2c",
+    "name": "Tanarimba Janda Baik",
+    "slug": "tanarimba-janda-baik",
+    "vendorType": "venue",
+    "status": "live",
+    "city": "Bentong",
+    "state": "Pahang",
+    "images": [
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/aaebbe86-a542-4778-8b60-69bd69ceba2c/0b6f8fa3-cfb1-4381-ae28-1e7cfc9c059c/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/aaebbe86-a542-4778-8b60-69bd69ceba2c/bdea9a4e-2347-48cb-8d6a-1585be717fa7/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/aaebbe86-a542-4778-8b60-69bd69ceba2c/9ce66490-a40a-46ef-b5b8-498fc36023c7/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/aaebbe86-a542-4778-8b60-69bd69ceba2c/1f268e6c-a9a8-42ec-b802-5ca45433e55a/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/aaebbe86-a542-4778-8b60-69bd69ceba2c/283dee87-c360-42ae-a82a-3d0dfc5845d9/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/aaebbe86-a542-4778-8b60-69bd69ceba2c/d98ac483-ddcf-4943-b18e-0632bb7c5ec2/high.webp"
+      }
+    ],
+    "description": "The award-winning Visitor Centre at Tanarimba is the heart of most wedding celebrations—a stunning architectural masterpiece crafted from timber that harmoniously blends with the natural beauty that surrounds it. Designed to seat 250 guests with a total capacity of up to 500, this grand space features soaring timber columns and a romantic glow from cascading fairy lights, creating an enchanting setting that’s perfect for your unforgettable “I do.”",
+    "createdAt": "2025-07-23T05:51:02.780Z",
+    "vendorId": "user_3Cy3Yz8yDkM9kiVwKHPBOi17yo1",
+    "address": "C1, Jalan Tanarimba Pine, Tanarimba, Janda Baik, 28750 Bentong, Pahang, Malaysia",
+    "postCode": "28750",
+    "googlePlaceId": "ChIJZ2CPjY09zDERUfC1spjy71k",
+    "latitude": "3.3370727",
+    "longitude": "101.8251602",
+    "googlePlaceName": "C1, Jalan Tanarimba Pine, Tanarimba, Janda Baik, 28750 Bentong, Pahang, Malaysia",
+    "neighbourhood": null,
+    "googleMapsLink": null,
+    "wazeLink": null,
+    "googleRating": null,
+    "googleTotalReviews": null,
+    "metaDescription": "Tanarimba Janda Baik — an award-winning timber Visitor Centre wedding venue for up to 500 guests amid the Bentong rainforest.",
+    "whatsappNumber": null,
+    "whatsappMessage": null,
+    "youtubeLink": null,
+    "wpTag": "tanarimba-janda-baik",
+    "faq": [],
+    "venueDetails": null,
+    "photographerDetails": null,
+    "adminOverrides": {
+      "packages": {
+        "value": "packages",
+        "overriddenAt": "2026-04-16T05:04:39.626Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      }
+    },
+    "coverImageFocalPoint": null,
+    "coverImageDetectionData": null,
+    "coverImageSmartCrops": null,
+    "coverImageFocalPointOverride": null,
+    "fts": "'250':39B '500':48B 'architectur':21B 'award':6B 'award-win':5B 'baik':3A 'beauti':32B 'bentong':74C 'blend':28B 'capac':44B 'cascad':61B 'celebr':18B 'centr':9B 'column':55B 'craft':23B 'creat':64B 'design':36B 'enchant':66B 'fairi':62B 'featur':52B 'glow':59B 'grand':50B 'guest':40B 'harmoni':27B 'heart':14B 'janda':2A 'light':63B 'masterpiec':22B 'natur':31B 'pahang':75C 'perfect':70B 'romant':58B 'seat':38B 'set':67B 'soar':53B 'space':51B 'stun':20B 'surround':34B 'tanarimba':1A,11B 'timber':25B,54B 'total':43B 'unforgett':73B 'visitor':8B 'wed':17B 'win':7B",
+    "textEmbedding": null,
+    "catalogPosition": 85,
+    "isSpotlight": false,
+    "spotlightStartAt": null,
+    "spotlightEndAt": null,
+    "isDemo": false,
+    "isHidden": false,
+    "publishRequestedAt": null,
+    "isAiGenerated": false,
+    "humanReviewedAt": null,
+    "humanReviewedBy": null,
+    "liveAt": null,
+    "spacePhotoNudgeDismissedAt": null,
+    "updatedAt": "2026-09-11T00:58:56.259Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
   },
   {
     "id": "fc83bc40-5119-486a-8339-b0cdaa653a59",
-    "name": "Club 360 Ecohill",
+    "name": "Ballroom, Club 360  @ Setia Ecohill",
     "slug": "club-360-setia-ecohill-semenyih",
     "vendorType": "venue",
     "status": "live",
@@ -6766,16 +6849,19 @@
     "state": "Selangor",
     "images": [
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/5919d2fe-98e2-4412-91c0-56099ee85938/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/800fbd29-f99c-4229-bf27-7c9e2d7d3956/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/bafd15f0-f7bc-4122-9b6b-3493dd8ef8c1/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/club-360-setia-ecohill-semenyih/1788837758317-ChatGPT_Image_May_4__2026__10_22_39_AM/ChatGPT_Image_May_4__2026__10_22_39_AM-high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/a1265200-73aa-4dc4-b0d4-05c016d8aea4/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/club-360-setia-ecohill-semenyih/1788837780025-ChatGPT_Image_Jun_30__2026__01_09_28_PM/ChatGPT_Image_Jun_30__2026__01_09_28_PM-high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/b74754d3-1a2b-49cf-ad12-7cfbc9e01474/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/20ef90c5-f958-4c49-9539-78f5f368c85c/high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/0331ef98-f3a8-4a9f-84d0-b8cec8e0fb78/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/e233fc2f-349f-4d7c-aaa2-0f86645bdb44/high.webp"
@@ -6784,16 +6870,10 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/5a2d6774-e4c0-44bf-9eaa-985e7cc6843d/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/1609bbae-2858-4c5e-9b89-48dba7e4dd66/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/9875f82b-93c2-4b86-b9bc-576667831d3d/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/b74754d3-1a2b-49cf-ad12-7cfbc9e01474/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/10e241ce-f69d-4527-9064-b5bb98213504/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/88154ae7-038d-4aee-89c3-f057ccb81208/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/f981b9c6-4dfc-4177-bf4c-29fa58db6c04/high.webp"
@@ -6808,22 +6888,13 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/ed7cbe9e-1117-4c64-bbab-c17c6f3ed400/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/0331ef98-f3a8-4a9f-84d0-b8cec8e0fb78/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/0ae57f43-b96a-417a-bc04-d3f03ade450e/high.webp"
-      },
-      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/520bff71-856c-4a14-8151-780538e1ee3f/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/10fbad6e-eb0b-4397-934f-85d61617285c/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/d51e97a3-e4b0-4ffa-ba76-bd5613b78f23/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/20ef90c5-f958-4c49-9539-78f5f368c85c/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/a1265200-73aa-4dc4-b0d4-05c016d8aea4/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/4ee4f396-a9bc-49fe-929f-53dc19a8459b/high.webp"
@@ -6835,19 +6906,13 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/701e1c58-f934-42dd-b6c7-030ab760d85b/high.webp"
       },
       {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/bafd15f0-f7bc-4122-9b6b-3493dd8ef8c1/high.webp"
+      },
+      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/4a80bae9-0357-48de-a149-972f342beac9/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/800fbd29-f99c-4229-bf27-7c9e2d7d3956/high.webp"
-      },
-      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/5baca6aa-cdca-4f7b-90d2-47ca66666ce3/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/f0e55e8c-5c4c-49c0-ab2c-50ad50e960b5/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/2c949a34-05c7-442c-aead-dfcdfb69fb98/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/a368b07e-6bfd-48ec-a312-a40fc5f65f85/high.webp"
@@ -6859,16 +6924,10 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/6357411d-8829-461a-a665-a2517cb920a9/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/5eda1aa1-7170-447d-b21e-60488ef91c0a/high.webp"
-      },
-      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/3ad2be8e-2d63-43fc-81a1-a0005827b06f/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/ca82be5b-35d8-4403-af52-83e2c7b11719/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/dc3b44e4-85af-4150-b478-1b984ef18812/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/f05a1463-258e-4025-8ec4-fb6a4da3f634/high.webp"
@@ -6877,22 +6936,25 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/75ec3dee-4c8f-41c3-a352-86e63858bf71/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/969c80df-70d8-475d-9f38-633e6a3a509d/high.webp"
-      },
-      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/59c4c5ae-11e8-48b8-ad3b-db478e9f9d1b/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/9f69be48-af81-42c7-8a44-aa582965d29c/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/club-360-setia-ecohill-semenyih/1788837769356-ChatGPT_Image_Jun_25__2026__11_49_06_AM/ChatGPT_Image_Jun_25__2026__11_49_06_AM-high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/8a2b8ee1-1d2c-482c-b956-55d3a2c086d7/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/club-360-setia-ecohill-semenyih/1788837772609-ChatGPT_Image_Sep_3__2026__11_04_23_AM/ChatGPT_Image_Sep_3__2026__11_04_23_AM-high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/6392281d-a05b-462d-b9af-08019ea71f54/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/club-360-setia-ecohill-semenyih/1788837782642-ChatGPT_Image_Sep_3__2026__11_14_37_AM/ChatGPT_Image_Sep_3__2026__11_14_37_AM-high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/fc83bc40-5119-486a-8339-b0cdaa653a59/5af0a3b0-4713-41ec-94a9-4cccf915cd3e/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/club-360-setia-ecohill-semenyih/1788837802926-ChatGPT_Image_May_4__2026__10_22_17_AM/ChatGPT_Image_May_4__2026__10_22_17_AM-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/club-360-setia-ecohill-semenyih/1788837815565-ChatGPT_Image_Jun_30__2026__12_45_33_PM/ChatGPT_Image_Jun_30__2026__12_45_33_PM-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/club-360-setia-ecohill-semenyih/1788837818759-ChatGPT_Image_Jun_30__2026__01_08_22_PM/ChatGPT_Image_Jun_30__2026__01_08_22_PM-high.webp"
       }
     ],
     "description": "Club 360 offers the elegant Sapphire and Amber Hall, providing versatile event spaces ideal for weddings, corporate functions, seminars, annual dinners, exhibitions, and private celebrations. With modern interiors, flexible layouts, and a comfortable ambience, both halls are designed to accommodate events of various sizes and create memorable experiences for every occasion.",
@@ -6912,7 +6974,7 @@
     "metaDescription": null,
     "whatsappNumber": "60126605921",
     "whatsappMessage": null,
-    "youtubeLink": "",
+    "youtubeLink": "https://www.youtube.com/watch?v=qblNM7DqdoQ",
     "wpTag": "club-360-setia-ecohill-semenyih",
     "faq": [
       {
@@ -6968,12 +7030,12 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'360':2A,5B 'accommod':43B 'amber':11B 'ambienc':37B 'annual':23B 'celebr':28B 'club':1A,4B 'comfort':36B 'corpor':20B 'creat':49B 'design':41B 'dinner':24B 'ecohil':3A,58C 'eleg':8B 'event':15B,44B 'everi':53B 'exhibit':25B 'experi':51B 'flexibl':32B 'function':21B 'hall':12B,39B 'ideal':17B 'interior':31B 'layout':33B 'memor':50B 'modern':30B 'occas':54B 'offer':6B 'privat':27B 'provid':13B 'sapphir':9B 'selangor':56C 'semenyih':55C 'seminar':22B 'setia':57C 'size':47B 'space':16B 'various':46B 'versatil':14B 'wed':19B",
+    "fts": "'360':3A,7B 'accommod':45B 'amber':13B 'ambienc':39B 'annual':25B 'ballroom':1A 'celebr':30B 'club':2A,6B 'comfort':38B 'corpor':22B 'creat':51B 'design':43B 'dinner':26B 'ecohil':5A,60C 'eleg':10B 'event':17B,46B 'everi':55B 'exhibit':27B 'experi':53B 'flexibl':34B 'function':23B 'hall':14B,41B 'ideal':19B 'interior':33B 'layout':35B 'memor':52B 'modern':32B 'occas':56B 'offer':8B 'privat':29B 'provid':15B 'sapphir':11B 'selangor':58C 'semenyih':57C 'seminar':24B 'setia':4A,59C 'size':49B 'space':18B 'various':48B 'versatil':16B 'wed':21B",
     "textEmbedding": null,
-    "catalogPosition": 17,
-    "isSpotlight": false,
-    "spotlightStartAt": null,
-    "spotlightEndAt": null,
+    "catalogPosition": 6,
+    "isSpotlight": true,
+    "spotlightStartAt": "2026-09-07T16:00:00.000Z",
+    "spotlightEndAt": "2026-12-08T15:59:59.999Z",
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
@@ -6982,14 +7044,14 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-24T14:38:10.260Z",
+    "updatedAt": "2026-09-11T03:02:20.012Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
   },
   {
     "id": "daa8d1bc-aaee-4dfe-9b72-297b3e783d3e",
-    "name": "LakePoint Club @ Alam Impian",
+    "name": "Ballroom, LakePoint Club @ Alam Impian",
     "slug": "grand-ballroom-lakepoint-club-setia-alamimpian",
     "vendorType": "venue",
     "status": "live",
@@ -6997,106 +7059,58 @@
     "state": "Selangor",
     "images": [
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/90cc7885-e3ca-4117-bda4-b41a81c12510/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/grand-ballroom-lakepoint-club-setia-alamimpian/1788855032997-ChatGPT_Image_Sep_8__2026__04_09_52_PM/ChatGPT_Image_Sep_8__2026__04_09_52_PM-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/grand-ballroom-lakepoint-club-setia-alamimpian/1788853743528-ChatGPT_Image_Aug_10__2026__04_33_53_PM/ChatGPT_Image_Aug_10__2026__04_33_53_PM-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/grand-ballroom-lakepoint-club-setia-alamimpian/1788853853726-ChatGPT_Image_Sep_6__2026__12_05_33_PM/ChatGPT_Image_Sep_6__2026__12_05_33_PM-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/grand-ballroom-lakepoint-club-setia-alamimpian/1788853846256-ChatGPT_Image_Sep_6__2026__11_57_12_AM/ChatGPT_Image_Sep_6__2026__11_57_12_AM-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/grand-ballroom-lakepoint-club-setia-alamimpian/1788853850394-ChatGPT_Image_Sep_6__2026__11_54_52_AM/ChatGPT_Image_Sep_6__2026__11_54_52_AM-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/grand-ballroom-lakepoint-club-setia-alamimpian/1788853772987-IMG_4148/IMG_4148-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/grand-ballroom-lakepoint-club-setia-alamimpian/1788854214716-IMG_4176/IMG_4176-high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/6cf18a4f-a459-4fb1-9b9e-88c3f8307b49/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/f28553d6-1cca-4635-8c30-a66beaf3616b/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/90cc7885-e3ca-4117-bda4-b41a81c12510/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/95f9f0d0-dd32-406c-9a3c-a2034d26988f/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/grand-ballroom-lakepoint-club-setia-alamimpian/1788854800299-ChatGPT_Image_Sep_8__2026__04_06_15_PM/ChatGPT_Image_Sep_8__2026__04_06_15_PM-high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/e5d34266-1869-4aa7-b8a8-f4c3073b05bc/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/fa030de3-538d-4811-8b44-4f76e2484fea/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/a78ec72e-6a8e-4c05-a98a-cd02e672fa0f/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/adfb8c33-8474-4ecb-ac2f-4cde67a11987/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/263e629a-6b55-4d19-98e0-4313bf0f2a52/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/08b5ba36-36f9-4f86-9e3d-ad469f9013f7/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/grand-ballroom-lakepoint-club-setia-alamimpian/1788853838910-ChatGPT_Image_Sep_6__2026__11_59_41_AM/ChatGPT_Image_Sep_6__2026__11_59_41_AM-high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/d2c06938-d29f-44c7-b063-e96c967387d5/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/12643640-b4e5-4a15-ae96-edfca23d0cf9/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/08b5ba36-36f9-4f86-9e3d-ad469f9013f7/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/3794e019-c6a7-4db1-9f40-c3ff62bf8a91/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/grand-ballroom-lakepoint-club-setia-alamimpian/1788854382189-WhatsApp_Image_2026-06-28_at_1.04.13_PM/WhatsApp_Image_2026-06-28_at_1.04.13_PM-high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/3297f498-2092-4777-a13f-fd645826c82e/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/grand-ballroom-lakepoint-club-setia-alamimpian/1788855340835-ChatGPT_Image_Sep_8__2026__04_15_31_PM/ChatGPT_Image_Sep_8__2026__04_15_31_PM-high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/0664e86d-519a-4f95-bd6b-d3792e25f65e/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/grand-ballroom-lakepoint-club-setia-alamimpian/1788855591441-ChatGPT_Image_Sep_8__2026__04_19_45_PM/ChatGPT_Image_Sep_8__2026__04_19_45_PM-high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/d688042a-136d-40b3-8640-6869c92b6fed/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/grand-ballroom-lakepoint-club-setia-alamimpian/1788855473471-ChatGPT_Image_Sep_8__2026__04_17_45_PM/ChatGPT_Image_Sep_8__2026__04_17_45_PM-high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/44115fed-0e6c-4576-9943-62899a9d89bf/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/b763a2df-e8a6-4def-82ff-13fe6f86dfab/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/d0b76e18-f2c5-4f1c-9751-892ada03c090/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/5d1ae47d-ea81-47e2-bc77-7b217a35afb0/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/dadf2aaa-c8bc-4f74-a7bf-9e14cb1456ff/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/b3b324c2-21bf-425e-9ac8-5f5749fcb1d6/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/ea46764c-e152-4c56-911e-82f4878032cb/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/6fb4bc77-c9b7-4f01-8c19-c19d3cc80bb7/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/cdde26c9-e8f7-4ba5-aa7e-fc2c7c5059a0/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/9fa88918-9c23-4fd9-b6df-ffea6c0a0339/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/b7ce228d-1cb2-423b-b888-7b77776eeae8/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/414592f0-1c48-46bc-b8ab-c94c023c6991/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/dc564f64-2ee8-4ef5-bb6e-216e9c6074ff/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/6ffe8d85-d492-4929-b728-c6a737c02d94/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/7dc87cd1-b0e8-4c8f-ba66-a70d1a278ecf/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/44a2b8fd-bd27-496e-80c5-14acb95ddba4/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/a6ae79c1-5c3f-470c-b6ce-8f5dc2291a7e/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/daa8d1bc-aaee-4dfe-9b72-297b3e783d3e/96d5e03a-e184-4d53-8d78-3fcbe39d0044/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/grand-ballroom-lakepoint-club-setia-alamimpian/1788855735478-ChatGPT_Image_Sep_8__2026__04_22_05_PM/ChatGPT_Image_Sep_8__2026__04_22_05_PM-high.webp"
       }
     ],
     "description": "Celebrate your once-in-a-lifetime moment at LakePoint Club @ Alam Impian—where elegance meets serenity.\r\n\r\nSet against a picturesque lakeside backdrop in Shah Alam, our Grand Ballroom offers a stunning space designed to turn your dream wedding into reality. With its high ceilings, spacious layout, and sophisticated ambiance, it creates the perfect setting for both intimate ceremonies and grand celebrations.\r\n\r\n✨ Why Choose LakePoint Club?\r\n• Grand Ballroom ideal for large, luxurious weddings\r\n• Beautiful lakeside surroundings for unforgettable photo moments\r\n• Fully air-conditioned comfort with elegant interior finishes\r\n• Flexible layout to match your dream theme\r\n• Professional event support for a smooth and stress-free experience\r\n\r\nFrom your solemnisation to your reception, every detail is thoughtfully curated to ensure your special day is seamless, memorable, and truly magical.\r\n\r\n💖 Begin your forever in a venue that reflects the beauty of your love story.",
@@ -7164,12 +7178,12 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'air':87B 'air-condit':86B 'alam':3A,16B,30B,149C,151C 'ambianc':54B 'backdrop':27B 'ballroom':33B,72B 'beauti':78B,143B 'begin':134B 'ceil':49B 'celebr':5B,66B 'ceremoni':63B 'choos':68B 'club':2A,15B,70B 'comfort':89B 'condit':88B 'creat':56B 'curat':122B 'day':127B 'design':38B 'detail':119B 'dream':42B,99B 'eleg':19B,91B 'ensur':124B 'event':102B 'everi':118B 'experi':111B 'finish':93B 'flexibl':94B 'forev':136B 'free':110B 'fulli':85B 'grand':32B,65B,71B 'high':48B 'ideal':73B 'impian':4A,17B,152C 'interior':92B 'intim':62B 'lakepoint':1A,14B,69B 'lakesid':26B,79B 'larg':75B 'layout':51B,95B 'lifetim':11B 'love':146B 'luxuri':76B 'magic':133B 'match':97B 'meet':20B 'memor':130B 'moment':12B,84B 'offer':34B 'once-in-a-lifetim':7B 'perfect':58B 'photo':83B 'picturesqu':25B 'profession':101B 'realiti':45B 'recept':117B 'reflect':141B 'seamless':129B 'selangor':150C 'seren':21B 'set':22B,59B 'shah':29B,148C 'smooth':106B 'solemnis':114B 'sophist':53B 'space':37B 'spacious':50B 'special':126B 'stori':147B 'stress':109B 'stress-fre':108B 'stun':36B 'support':103B 'surround':80B 'theme':100B 'thought':121B 'truli':132B 'turn':40B 'unforgett':82B 'venu':139B 'wed':43B,77B",
+    "fts": "'air':88B 'air-condit':87B 'alam':4A,17B,31B,150C,152C 'ambianc':55B 'backdrop':28B 'ballroom':1A,34B,73B 'beauti':79B,144B 'begin':135B 'ceil':50B 'celebr':6B,67B 'ceremoni':64B 'choos':69B 'club':3A,16B,71B 'comfort':90B 'condit':89B 'creat':57B 'curat':123B 'day':128B 'design':39B 'detail':120B 'dream':43B,100B 'eleg':20B,92B 'ensur':125B 'event':103B 'everi':119B 'experi':112B 'finish':94B 'flexibl':95B 'forev':137B 'free':111B 'fulli':86B 'grand':33B,66B,72B 'high':49B 'ideal':74B 'impian':5A,18B,153C 'interior':93B 'intim':63B 'lakepoint':2A,15B,70B 'lakesid':27B,80B 'larg':76B 'layout':52B,96B 'lifetim':12B 'love':147B 'luxuri':77B 'magic':134B 'match':98B 'meet':21B 'memor':131B 'moment':13B,85B 'offer':35B 'once-in-a-lifetim':8B 'perfect':59B 'photo':84B 'picturesqu':26B 'profession':102B 'realiti':46B 'recept':118B 'reflect':142B 'seamless':130B 'selangor':151C 'seren':22B 'set':23B,60B 'shah':30B,149C 'smooth':107B 'solemnis':115B 'sophist':54B 'space':38B 'spacious':51B 'special':127B 'stori':148B 'stress':110B 'stress-fre':109B 'stun':37B 'support':104B 'surround':81B 'theme':101B 'thought':122B 'truli':133B 'turn':41B 'unforgett':83B 'venu':140B 'wed':44B,78B",
     "textEmbedding": null,
-    "catalogPosition": 19,
-    "isSpotlight": false,
-    "spotlightStartAt": null,
-    "spotlightEndAt": null,
+    "catalogPosition": 4,
+    "isSpotlight": true,
+    "spotlightStartAt": "2026-09-07T16:00:00.000Z",
+    "spotlightEndAt": "2026-12-08T15:59:59.999Z",
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
@@ -7178,7 +7192,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-11T03:28:15.636Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -7307,7 +7321,7 @@
       },
       "packages": {
         "value": "packages",
-        "overriddenAt": "2026-08-21T08:09:28.173Z",
+        "overriddenAt": "2026-09-08T01:09:28.130Z",
         "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
       },
       "photos-videos": {
@@ -7327,7 +7341,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'220':37B 'accommod':34B 'adjoin':27B 'air':15B 'air-condit':14B 'alam':48C 'birthday':43B 'camellia':1A,8B 'canopi':3A,20B 'club':4A,21B 'combin':32B 'condit':16B 'corpor':45B 'eco':6A,23B,52C 'eco-park':51C 'event':17B,46B 'featur':25B 'guest':38B 'hall':2A,9B,28B 'ideal':39B 'park':7A,24B,53C 'selangor':49C 'seminar':42B 'setia':5A,22B,50C 'shah':47C 'space':18B 'three':26B 'versatil':12B 'wed':41B 'within':19B",
     "textEmbedding": null,
-    "catalogPosition": 18,
+    "catalogPosition": 32,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -7339,7 +7353,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-24T14:38:10.260Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -7444,7 +7458,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'accommod':22B,53B,84B 'baik':18B,49B,80B 'bentong':102C 'celebr':37B,68B,99B 'estat':4A,8B 'event':34B,65B,96B 'indoor':25B,56B,87B 'janda':17B,48B,79B 'kebun':1A,5B 'lush':16B,47B,78B 'natur':39B,70B,101B 'nestl':13B,44B,75B 'offer':20B,51B,82B 'outdoor':27B,58B,89B 'pahang':103C 'perfect':31B,62B,93B 'privat':3A,7B,36B,67B,98B 'rainforest':19B,50B,81B 'retreat':12B,43B,74B 'rimba':2A,6B 'rustic':10B,41B,72B 'uniqu':21B,52B,83B 'venu':28B,59B,90B 'versatil':24B,55B,86B 'villa':11B,42B,73B 'wed':33B,64B,95B",
     "textEmbedding": null,
-    "catalogPosition": 25,
+    "catalogPosition": 20,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -7456,7 +7470,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -7524,7 +7538,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'access':22B 'along':30B 'amidst':6B 'arriv':47B 'await':65B 'ballroom':64B 'bath':76B 'ceil':71B 'celebr':58B 'charm':7B 'citi':43B 'dream':26B 'easi':46B 'ensur':45B 'escap':23B 'exquisit':73B 'free':62B 'glow':83B 'grand':63B 'greater':37B 'heart':55B 'highway':33B 'jaya':4A,17B,42B,92C 'klang':38B 'kuala':12B 'le':1A,14B 'light':74B 'link':35B 'love':51B 'lumpur':13B 'major':32B 'meridien':2A 'méridien':15B 'neighbourhood':9B 'nestl':5B 'offer':18B 'one':52B 'opul':67B 'perfect':28B,86B 'petal':3A,16B,41B,91C 'pillar':61B 'pillar-fre':60B 'posit':29B 'residenti':8B 'romant':82B 'room':78B 'selangor':93C 'seren':20B 'set':84B 'soar':70B 'soft':81B 'space':68B 'stage':87B 'unforgett':90B 'valley':39B 'wed':27B 'west':11B 'yet':21B",
     "textEmbedding": null,
-    "catalogPosition": 33,
+    "catalogPosition": 28,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -7536,7 +7550,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -7622,14 +7636,14 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
   },
   {
     "id": "c00f5028-92fe-4b22-8cd5-9c9048238e9e",
-    "name": "Templer's Ballroom @ Setia Eco Templer, Rawang",
+    "name": "Ballroom, Templer's Club @ Setia Eco Templer",
     "slug": "templers-ballroom-setia-eco-templer-rawang",
     "vendorType": "venue",
     "status": "live",
@@ -7637,55 +7651,40 @@
     "state": "Selangor",
     "images": [
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/3a855dc5-eed6-4bf1-a690-b5d9300af40b/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/469ea49f-8b92-44e0-addc-faf020e296f0/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/c8240e1f-a06e-4149-a723-d7cb2b79eee1/high.webp"
-      },
-      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/960b2635-3fd0-4b2e-90c4-d6b383721605/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/14ff4d82-d74c-4782-a25d-5b5bb5c676c7/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/templers-ballroom-setia-eco-templer-rawang/1788840966130-ChatGPT_Image_Apr_29__2026__03_01_22_PM/ChatGPT_Image_Apr_29__2026__03_01_22_PM-high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/5360b2f7-c173-4f87-a0cc-0822ff4874d0/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/templers-ballroom-setia-eco-templer-rawang/1788840941887-ChatGPT_Image_Apr_29__2026__01_46_07_PM/ChatGPT_Image_Apr_29__2026__01_46_07_PM-high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/1db1be31-c1fd-449a-8f6a-5980b6fb6935/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/templers-ballroom-setia-eco-templer-rawang/1788840962471-ChatGPT_Image_Apr_29__2026__02_57_57_PM/ChatGPT_Image_Apr_29__2026__02_57_57_PM-high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/54bf0362-d928-4a7e-914b-180735bf85be/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/templers-ballroom-setia-eco-templer-rawang/1788840894595-ChatGPT_Image_Jun_30__2026__01_43_55_PM/ChatGPT_Image_Jun_30__2026__01_43_55_PM-high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/33a631af-68c5-408d-bf6e-cf7f6559d9d2/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/3a855dc5-eed6-4bf1-a690-b5d9300af40b/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/44c078c1-b4ee-4453-93af-1f97900d1361/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/17778d27-53e1-40d5-87ac-45230db5fb7e/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/5781352e-5b34-42e2-bf06-af234953e664/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/469ea49f-8b92-44e0-addc-faf020e296f0/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/5a688f43-53c6-480e-b861-8544962c1e56/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/6df11776-2fb0-4d30-ba1a-1d3b3edd0ef3/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/c8240e1f-a06e-4149-a723-d7cb2b79eee1/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/ce075ca7-bf70-45e5-972b-a790ff660a6c/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/afc32311-ca1b-4b8b-9e8c-d2d4d2037880/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/eb3d6ffa-b848-4756-b97d-18b5a322e4be/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/14ff4d82-d74c-4782-a25d-5b5bb5c676c7/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/3b273e50-774b-410d-99d2-8431b27d5722/high.webp"
@@ -7694,28 +7693,13 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/4c23c961-ea87-4db2-9099-8deb8dc51f67/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/6f9812c6-b6da-4abe-af80-c3e58b4c5bb9/high.webp"
-      },
-      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/3c85c559-f729-4916-8b7f-2f536ef745cf/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/da711342-0722-4652-9e0a-c52bb81a5471/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/e2a8957a-2347-4610-ba80-1726aaa6a079/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/1a13350b-f2ea-4a0a-a0be-455816f4e762/high.webp"
-      },
-      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/8f0c711c-3e87-4856-bc53-c20d22708202/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/41581546-2f5e-4cf8-b24c-b99d765bc51d/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/906e00b8-5c03-4120-9c3b-915e386f8cac/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/207c79c5-f056-409e-be3b-bf2386dd705b/high.webp"
@@ -7724,16 +7708,7 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/97d2145f-d39d-41fc-b5cc-e5a8bf0689bb/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/2b758312-d0ad-490c-8a53-82a4da282361/high.webp"
-      },
-      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/bcd706d9-25c7-4875-9af5-997e279a53bd/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/f472d7f4-0a0f-49e2-b8dc-53a0d4c9410e/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/d409bcc4-0f97-4652-a5b7-360c9e2a1685/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/910cdd3c-b29e-490a-b542-99e94e132c95/high.webp"
@@ -7757,19 +7732,7 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/6aa881b3-2e03-44e0-a804-fe17f1f2e84a/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/7bdbbd46-e8b9-4e77-8d4f-79f5e1cdce04/high.webp"
-      },
-      {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/73588576-cb29-4cc7-b39c-90e257e16e5d/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/48aea24d-0aac-46a8-a918-eb609dd74758/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/a850a866-f8ec-4eb1-8bee-1127b0d87db8/high.webp"
-      },
-      {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/429a4805-b861-4fb3-b8e9-5406fc71bd08/high.webp"
       },
       {
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/5013c6aa-7379-441b-a56a-e8862442fd89/high.webp"
@@ -7778,10 +7741,37 @@
         "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/bf48d39a-4986-47c3-ad8b-3229ee32aab4/high.webp"
       },
       {
-        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/c00f5028-92fe-4b22-8cd5-9c9048238e9e/77f67ce8-93b3-4b2d-86a3-be22ce498baf/high.webp"
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/templers-ballroom-setia-eco-templer-rawang/1788840890977-ChatGPT_Image_Jun_30__2026__01_58_06_PM/ChatGPT_Image_Jun_30__2026__01_58_06_PM-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/templers-ballroom-setia-eco-templer-rawang/1788840906283-KFR09937/KFR09937-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/templers-ballroom-setia-eco-templer-rawang/1788840913664-ChatGPT_Image_Apr_29__2026__01_37_00_PM/ChatGPT_Image_Apr_29__2026__01_37_00_PM-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/templers-ballroom-setia-eco-templer-rawang/1788840923158-ChatGPT_Image_Apr_30__2026__10_34_17_AM/ChatGPT_Image_Apr_30__2026__10_34_17_AM-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/templers-ballroom-setia-eco-templer-rawang/1788840927959-ChatGPT_Image_Apr_30__2026__10_35_53_AM/ChatGPT_Image_Apr_30__2026__10_35_53_AM-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/templers-ballroom-setia-eco-templer-rawang/1788840931305-ChatGPT_Image_Jun_23__2026__08_50_25_AM/ChatGPT_Image_Jun_23__2026__08_50_25_AM-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/templers-ballroom-setia-eco-templer-rawang/1788840943437-ChatGPT_Image_Apr_29__2026__01_48_19_PM/ChatGPT_Image_Apr_29__2026__01_48_19_PM-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/templers-ballroom-setia-eco-templer-rawang/1788840956804-ChatGPT_Image_Apr_29__2026__03_14_25_PM/ChatGPT_Image_Apr_29__2026__03_14_25_PM-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/templers-ballroom-setia-eco-templer-rawang/1788841129538-615830925_1463652679094381_8514822339948481526_n/615830925_1463652679094381_8514822339948481526_n-high.webp"
+      },
+      {
+        "url": "https://pub-b58e3eea2abc4deeb7e0a0db30b5e3c8.r2.dev/listings/templers-ballroom-setia-eco-templer-rawang/1788841133347-616767164_1463653325760983_6491595494040443147_n/616767164_1463653325760983_6491595494040443147_n-high.webp"
       }
     ],
-    "description": "Located amidst lush greenery in Setia Eco Templer, Rawang, Templer’s Ballroom offers a grand, pillar-free event space ideal for weddings, corporate functions, and cultural celebrations. The ballroom features high ceilings, elegant chandeliers, and a luxurious interior that blends modern sophistication with natural surroundings.\n\nCapacity: Up to 600 guests (banquet) or 800 guests (theatre-style)\n\nLayout: Divisible into two smaller ballrooms; includes a spacious pre-function foyer\n\nFacilities: AV system, stage, bridal/VIP rooms, cocktail tables, registration counter\n\nAmbience: Classic and refined with dark wood accents, red carpet, and natural light\n\nAccessibility: ~20 km from KL, easily accessible via major highways\n\nAmenities: On-site parking (300+ bays), swimming pool, gym, mini park (via Templer Club)\n\nTempler’s Ballroom is a versatile, scenic venue perfect for those seeking a tranquil yet elegant event setting near the city.",
+    "description": "Located amidst lush greenery in Setia Eco Templer, Rawang, Templer’s Ballroom offers a grand, pillar-free event space ideal for weddings, corporate functions, and cultural celebrations. The ballroom features high ceilings, elegant chandeliers, and a luxurious interior that blends modern sophistication with natural surroundings.\r\n\r\nCapacity: Up to 600 guests (banquet) or 800 guests (theatre-style)\r\n\r\nLayout: Divisible into two smaller ballrooms; includes a spacious pre-function foyer\r\n\r\nFacilities: AV system, stage, bridal/VIP rooms, cocktail tables, registration counter\r\n\r\nAmbience: Classic and refined with dark wood accents, red carpet, and natural light\r\n\r\nAccessibility: ~20 km from KL, easily accessible via major highways\r\n\r\nAmenities: On-site parking (300+ bays), swimming pool, gym, mini park (via Templer Club)\r\n\r\nTempler’s Ballroom is a versatile, scenic venue perfect for those seeking a tranquil yet elegant event setting near the city.",
     "createdAt": "2025-08-05T06:59:58.663Z",
     "vendorId": "user_3D3zIdzPTZearIFvCPx9DBhPdLD",
     "address": "1, Jalan Ipoh- KM20, Taman Rekreasi Templar, Templer Park, 48000 Rawang, Selangor, Malaysia",
@@ -7796,9 +7786,9 @@
     "googleRating": null,
     "googleTotalReviews": null,
     "metaDescription": "Templer's Ballroom, Setia Eco Templer (Rawang) — a grand, pillar-free wedding venue amid lush greenery with elegant chandeliers.",
-    "whatsappNumber": null,
+    "whatsappNumber": "",
     "whatsappMessage": null,
-    "youtubeLink": "",
+    "youtubeLink": "https://www.youtube.com/watch?v=EHCO8CSpxQU",
     "wpTag": "templer's-ballroom-setia-eco-templer-rawang",
     "faq": [
       {
@@ -7849,12 +7839,12 @@
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
-    "fts": "'20':103B '300':117B '600':57B '800':61B 'accent':96B 'access':102B,108B 'ambienc':89B 'amen':112B 'amidst':9B 'av':80B 'ballroom':3A,19B,37B,71B,129B 'banquet':59B 'bay':118B 'blend':48B 'bridal/vip':83B 'capac':54B 'carpet':98B 'ceil':40B 'celebr':35B 'chandeli':42B 'citi':147B 'classic':90B 'club':126B 'cocktail':85B 'corpor':31B 'counter':88B 'cultur':34B 'dark':94B 'divis':67B 'easili':107B 'eco':5A,14B 'eleg':41B,142B 'event':26B,143B 'facil':79B 'featur':38B 'foyer':78B 'free':25B 'function':32B,77B 'grand':22B 'greeneri':11B 'guest':58B,62B 'gym':121B 'high':39B 'highway':111B 'ideal':28B 'includ':72B 'interior':46B 'kl':106B 'km':104B 'layout':66B 'light':101B 'locat':8B 'lush':10B 'luxuri':45B 'major':110B 'mini':122B 'modern':49B 'natur':52B,100B 'near':145B 'offer':20B 'on-sit':113B 'park':116B,123B 'perfect':135B 'pillar':24B 'pillar-fre':23B 'pool':120B 'pre':76B 'pre-funct':75B 'rawang':7A,16B,148C 'red':97B 'refin':92B 'registr':87B 'room':84B 'scenic':133B 'seek':138B 'selangor':149C 'set':144B 'setia':4A,13B 'site':115B 'smaller':70B 'sophist':50B 'space':27B 'spacious':74B 'stage':82B 'style':65B 'surround':53B 'swim':119B 'system':81B 'tabl':86B 'templer':1A,6A,15B,17B,125B,127B 'theatr':64B 'theatre-styl':63B 'tranquil':140B 'two':69B 'venu':134B 'versatil':132B 'via':109B,124B 'wed':30B 'wood':95B 'yet':141B",
+    "fts": "'20':103B '300':117B '600':57B '800':61B 'accent':96B 'access':102B,108B 'ambienc':89B 'amen':112B 'amidst':9B 'av':80B 'ballroom':1A,19B,37B,71B,129B 'banquet':59B 'bay':118B 'blend':48B 'bridal/vip':83B 'capac':54B 'carpet':98B 'ceil':40B 'celebr':35B 'chandeli':42B 'citi':147B 'classic':90B 'club':4A,126B 'cocktail':85B 'corpor':31B 'counter':88B 'cultur':34B 'dark':94B 'divis':67B 'easili':107B 'eco':6A,14B 'eleg':41B,142B 'event':26B,143B 'facil':79B 'featur':38B 'foyer':78B 'free':25B 'function':32B,77B 'grand':22B 'greeneri':11B 'guest':58B,62B 'gym':121B 'high':39B 'highway':111B 'ideal':28B 'includ':72B 'interior':46B 'kl':106B 'km':104B 'layout':66B 'light':101B 'locat':8B 'lush':10B 'luxuri':45B 'major':110B 'mini':122B 'modern':49B 'natur':52B,100B 'near':145B 'offer':20B 'on-sit':113B 'park':116B,123B 'perfect':135B 'pillar':24B 'pillar-fre':23B 'pool':120B 'pre':76B 'pre-funct':75B 'rawang':16B,148C 'red':97B 'refin':92B 'registr':87B 'room':84B 'scenic':133B 'seek':138B 'selangor':149C 'set':144B 'setia':5A,13B 'site':115B 'smaller':70B 'sophist':50B 'space':27B 'spacious':74B 'stage':82B 'style':65B 'surround':53B 'swim':119B 'system':81B 'tabl':86B 'templer':2A,7A,15B,17B,125B,127B 'theatr':64B 'theatre-styl':63B 'tranquil':140B 'two':69B 'venu':134B 'versatil':132B 'via':109B,124B 'wed':30B 'wood':95B 'yet':141B",
     "textEmbedding": null,
-    "catalogPosition": 20,
-    "isSpotlight": false,
-    "spotlightStartAt": null,
-    "spotlightEndAt": null,
+    "catalogPosition": 5,
+    "isSpotlight": true,
+    "spotlightStartAt": "2026-09-07T16:00:00.000Z",
+    "spotlightEndAt": "2026-12-08T15:59:59.999Z",
     "isDemo": false,
     "isHidden": false,
     "publishRequestedAt": null,
@@ -7863,7 +7853,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-24T02:15:56.940Z",
+    "updatedAt": "2026-09-11T02:36:13.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -8096,7 +8086,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'000':50B '1':49B '600':43B 'access':27B 'accommod':40B 'alam':16B,19B,57C 'ampl':23B 'choic':32B 'comfort':55B 'contemporari':21B 'corpor':35B 'design':22B 'easi':26B 'event':13B,36B 'featur':20B 'guest':45B,51B 'hall':3A,6B 'ideal':31B 'impian':17B 'lksa':7B 'modern':10B 'occas':39B 'park':2A,5B,24B 'seat':44B 'selangor':58C 'shah':18B,56C 'spacious':12B 'special':38B 'style':53B 'urban':1A,4B 'venu':14B 'wed':34B",
     "textEmbedding": null,
-    "catalogPosition": 28,
+    "catalogPosition": 23,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -8108,7 +8098,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -8270,7 +8260,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'ampang':1A,4B,92B,124B,188C 'brim':63B 'bring':86B,170B 'cave':31B 'celebr':7B,112B,127B 'chapter':78B 'charm':28B 'client':122B,168B,186B 'come':187B 'corner':80B,149B 'corpor':138B 'countless':120B 'cozi':27B 'craft':142B 'creat':102B,175B 'design':43B,84B,109B 'detail':159B 'dinner':67B 'dream':88B,165B 'ensur':157B 'event':13B,139B,154B 'everi':6B,79B,153B,158B 'experi':104B,144B 'fill':68B 'forev':57B,181B 'garden':39B 'gather':73B 'glasshous':2A,5B,93B,125B 'grand':137B 'guest':146B 'hall':25B 'hold':45B 'honor':117B 'host':119B 'immens':172B 'intern':121B 'intim':134B 'joy':173B 'laughter':70B 'life':90B 'love':65B 'main':24B 'mark':75B 'matter':183B 'memori':51B 'moment':48B,130B,176B 'new':77B 'peac':34B 'person':156B 'poolsid':38B 'precious':50B 'provid':98B 'reflect':160B 'selangor':189C 'slogan':108B 'space':41B 'special':129B 'stay':54B 'stori':17B 'stun':23B 'thought':83B 'tranquil':35B 'treasur':180B 'true':105B 'unfold':20B 'unforgett':143B 'uniqu':162B 'us':132B,171B 've':114B,141B 'venu':100B 'vision':163B 'wait':18B 'wed':62B,135B 'whether':58B 'world':152B",
     "textEmbedding": null,
-    "catalogPosition": 21,
+    "catalogPosition": 18,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -8282,7 +8272,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-12T04:34:57.050Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -8511,7 +8501,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'accord':66B 'allow':59B 'blend':28B 'capac':72B 'celebr':18B,83B 'charact':56B 'charm':58B 'client':60B 'corpor':37B 'custom':62B 'damansara':21B 'design':14B 'eleg':12B 'event':2A,7B,38B,64B 'experi':65B 'featur':48B 'flexibl':33B 'four':49B 'function':40B 'gather':79B 'grand':82B 'guest':71B 'hall':3A,8B 'happen':92B 'host':16B 'ideal':34B 'intim':78B 'jaya':94C 'kind':46B 'locat':19B 'luminar':1A,6B,47B,84B 'make':90B 'natur':31B 'occas':43B 'offer':25B 'perdana':22B 'perfect':27B,87B 'petal':93C 'plan':76B 'privat':39B 'provid':85B 're':75B 'selangor':95C 'set':88B 'sophist':30B 'space':51B 'special':42B 'unforgett':17B 'uniqu':50B 'venu':13B,24B 'versatil':10B 'vision':69B 'wed':36B 'welcom':4B 'whether':73B",
     "textEmbedding": null,
-    "catalogPosition": 27,
+    "catalogPosition": 22,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -8523,7 +8513,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -8615,7 +8605,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'a-park':1A,6B 'corpor':24B 'daunt':35B 'day':47B 'detail':37B 'event':17B,32B,44B 'everi':36B 'garden':21B 'gather':25B 'help':11B 'host':13B,30B 'lead':38B 'manag':42B 'park':3A,8B 'puchong':4A,9B,48C 'rememb':19B 'selangor':49C 'team':27B 'understand':28B 'wed':22B",
     "textEmbedding": null,
-    "catalogPosition": 32,
+    "catalogPosition": 27,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -8627,7 +8617,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -8731,7 +8721,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'allur':33B 'astana':1A,5B,52B 'atmospher':41B 'bamboo':3A,7B 'bespok':12B 'ccec':51B 'centr':22B,50B 'citi':21B 'confer':48B 'connexion':47B 'distinct':32B 'eleg':26B 'event':13B,44B,49B 'everi':43B 'experi':55B 'glasshous':36B 'hall':29B 'hill':4A,8B 'kuala':18B,59C,61C 'lumpur':19B,60C,62C 'manag':45B 'minut':16B 'occas':58B 'pair':24B 'premium':11B 'prioritis':53B 'provid':38B 'seamless':23B 'sophist':40B 'unforgett':54B 'venu':14B",
     "textEmbedding": null,
-    "catalogPosition": 8,
+    "catalogPosition": 11,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -8743,7 +8733,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -8899,7 +8889,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'ambienc':26B 'celebr':10B 'corpor':19B 'customiz':15B 'eleg':12B 'event':6B,20B 'everi':34B 'experi':32B 'facil':28B 'g':1A 'glasshous':2A 'great':27B 'guest':35B 'high':14B 'klang':3A,36C 'parti':23B 'perfect':16B 'photo':24B 'premium':5B 'privat':22B 'readi':25B 'selangor':37C 'space':7B 'spacious':11B 'unforgett':9B 'wed':18B 'welcom':31B",
     "textEmbedding": null,
-    "catalogPosition": 9,
+    "catalogPosition": 12,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -8911,7 +8901,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -9009,7 +8999,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'900':36B 'amen':83B 'attract':53B 'award':87B 'award-win':86B 'balanc':19B 'bar':116B 'build':68B 'center':64B 'certifi':71B 'cocktail':112B 'come':22B 'comfort':21B 'complet':125B 'convent':63B 'custom':130B 'eas':120B 'eco':79B 'eco-friend':78B 'element':1A,7B,9B 'enjoy':105B 'event':118B 'expert':127B 'extend':33B 'famili':15B 'family-friend':14B 'feet':37B 'fill':102B 'flavor':109B 'fresh':106B 'friend':16B,80B 'fusion':108B 'green':67B 'ground':39B 'handcraft':111B 'host':117B 'hotel':17B,72B 'icon':42B 'ilham':43B 'includ':54B 'index':70B 'index-certifi':69B 'kl':50B,62B 'klcc':56B,96B 'kuala':2A,10B,58B,132C,134C 'light':101B 'light-fil':100B 'lobbi':103B 'lumpur':3A,11B,59B,133C,135C 'menus':131B 'minut':48B 'modern':123B 'natur':23B 'night':30B 'offer':77B 'pavilion':57B 'perch':35B 'planner':128B 'proud':75B 're':26B,46B,74B 'restaur':115B 'servic':89B 'skylin':97B 'space':124B 'stay':4B,34B,81B 'suria':55B 'sweep':92B 'take':90B 'thought':82B 'top':52B 'tower':44B 'trace':114B 'view':93B 'warm':85B 'welcom':13B 'western':107B 'whether':24B 'win':88B",
     "textEmbedding": null,
-    "catalogPosition": 84,
+    "catalogPosition": 81,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -9021,7 +9011,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -9187,7 +9177,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'also':90B 'backdrop':62B 'baik':3A,10B 'beauti':72B,109B 'becom':59B 'begin':85B 'beneath':44B 'bentong':113C 'beyond':86B 'celebr':65B,97B 'chucasa':1A,11B,88B 'coupl':40B 'creat':76B 'design':82B 'destin':105B 'eleg':46B 'embrac':29B 'enchant':15B 'event':94B 'exchang':42B 'feel':35B 'flow':24B 'garden':53B 'gather':100B 'greeneri':32B 'heart':7B 'hilltop':52B 'ideal':91B 'intim':36B,96B 'janda':2A,9B 'lake':28B 'love':69B 'lush':31B 'make':101B 'meet':70B 'moment':78B 'natur':18B,22B,58B 'nestl':4B 'offer':12B 'outdoor':75B,112B 'pahang':114C 'panoram':55B 'pavilion':47B 'peac':37B 'perfect':61B 'pool':23B 'privat':99B 'romant':39B 'scenic':51B 'set':81B,106B 'space':34B 'stream':25B 'surround':19B 'timeless':77B 'tranquil':27B 'truli':14B 'unforgett':84B 'versatil':104B 'view':56B 'vow':43B 'wed':16B,87B 'within':107B",
     "textEmbedding": null,
-    "catalogPosition": 26,
+    "catalogPosition": 21,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -9199,7 +9189,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -9317,7 +9307,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'bangsar':25B 'bridg':57B 'build':53B 'ccec':5A,11B,29B,67B 'center':49B 'centr':4A,10B 'cocktail':43B 'confer':2A,8B 'connect':51B 'connexion':1A,7B 'corpor':40B 'cover':56B 'design':18B 'develop':28B 'dinner':47B 'discov':6B 'dynam':32B 'event':3A,9B,21B,63B,72B 'except':73B 'experi':64B 'explor':65B 'flexibl':62B 'function':41B 'integr':27B 'intim':46B 'kuala':13B,74C,76C 'lumpur':14B,75C,77C 'make':69B 'modern':16B 'next':71B 'nexus':34B 'offer':30B 'perfect':38B 'provid':58B 'recept':44B 'seamless':50B 'situat':22B 'south':26B 'space':33B 'two':31B 'uniqu':60B 'venu':17B 'versatil':20B 'vertic':37B 'via':54B 'wed':42B 'within':23B",
     "textEmbedding": null,
-    "catalogPosition": 7,
+    "catalogPosition": 10,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -9329,7 +9319,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -9500,8 +9490,8 @@
     "coverImageFocalPointOverride": null,
     "fts": "'1':44B 'andaman':15B 'backdrop':77B 'ballroom':17B 'batu':28B,82C 'built':23B 'celebr':71B 'ceremoni':68B 'corpor':38B 'cozi':47B 'creat':72B 'day':81B 'dinner':36B 'event':13B 'exchang':65B 'featur':18B 'ferringhi':29B,83C 'function':39B 'gala':35B 'garden':52B 'gather':42B 'grand':16B,33B 'greeneri':57B 'ideal':63B 'intim':41B 'jintan':43B 'largest':22B 'led':25B 'lush':56B 'memor':76B 'offer':7B 'one':19B 'outdoor':70B 'parkroy':1A,4B 'penang':2A,5B,84C 'perfect':31B 'picturesqu':74B 'privat':49B 'provid':45B 'resort':3A,6B 'romant':67B 'screen':26B 'sea':60B 'space':50B 'special':80B 'stun':59B 'surround':54B 'venu':9B,53B 'versatil':8B 'view':61B 'vow':66B 'wed':11B,34B",
     "textEmbedding": null,
-    "catalogPosition": 5,
-    "isSpotlight": true,
+    "catalogPosition": 9,
+    "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
     "isDemo": false,
@@ -9512,7 +9502,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -9641,7 +9631,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'accommod':17B 'all-in-on':8B 'bentong':31C 'blend':15B 'bukit':34C 'environ':26B 'event':19B 'facil':20B 'hillhom':2A,4B 'hillsid':12B 'homestay':16B 'kampung':33C 'kuala':29B 'lumpur':30B 'mutiara':1A,3B 'natur':24B 'one':11B 'outsid':28B 'pahang':32C 'rainforest':25B 'retreat':13B 'seren':7B 'set':21B 'tinggi':35C",
     "textEmbedding": null,
-    "catalogPosition": 24,
+    "catalogPosition": 19,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -9653,7 +9643,7 @@
     "humanReviewedBy": null,
     "liveAt": "2026-07-08T01:30:14.718Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -9742,14 +9732,20 @@
     ],
     "venueDetails": null,
     "photographerDetails": null,
-    "adminOverrides": null,
+    "adminOverrides": {
+      "packages": {
+        "value": "packages",
+        "overriddenAt": "2026-09-11T00:56:38.049Z",
+        "overriddenBy": "user_3CHTVUOlaIKL3gET5d7wCNYayvb"
+      }
+    },
     "coverImageFocalPoint": null,
     "coverImageDetectionData": null,
     "coverImageSmartCrops": null,
     "coverImageFocalPointOverride": null,
     "fts": "'affair':79B 'alam':3A,6B,18B,82B,98C,101C 'anchor':26B 'attent':87B 'beauti':29B 'bright':36B 'bring':83B 'celebr':15B,58B 'ceremoni':41B 'coloni':1A,4B,53B,80B 'conservatori':33B 'creat':34B 'crown':32B 'design':12B,86B 'eleg':9B 'everi':57B 'famili':78B 'finish':65B 'forum':22B 'gather':45B 'grace':38B 'heartfelt':14B 'hospit':56B 'interior':48B 'intim':44B 'light':51B 'made':92B 'meaning':77B 'moment':94B 'natur':50B 'offer':7B 'plan':69B 're':68B 'recept':42B,74B 'refin':47B 'rememb':96B 'selangor':99C 'servic':88B 'set':19B,39B,91B 'setia':2A,5B,81B,100C 'shah':17B,97C 'signatur':55B 'skylight':31B 'skylight-crown':30B 'solemnis':71B 'space':24B 'start':63B 'sunsuria':21B 'support':61B 'thought':60B,85B 'togeth':84B 'venu':11B 'warm':49B 'wed':10B,73B 'whether':66B 'within':20B 'worth':95B",
     "textEmbedding": null,
-    "catalogPosition": 37,
+    "catalogPosition": 31,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -9761,7 +9757,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -9872,7 +9868,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'1810':41B 'anglo':13B 'anglo-chines':12B 'c19th':11B 'captur':57B 'celebr':59B 'chines':14B 'cultur':71B 'door':38B 'finest':22B 'georg':72C 'goddess':42B 'grand':7B 'heart':31B 'heritag':26B,35B,65B 'icon':55B 'intact':25B 'major':54B 'merci':44B 'minut':49B 'next':37B 'one':18B 'penang':20B,74C 'peranakan':70B 'row':8B 'seven':1A,3B,10B 'site':36B 'situat':16B 'spirit':61B 'street':27B 'templ':45B 'terrac':2A,4B,15B 'town':66B,73C 'uniqu':69B 'walk':50B 'world':34B,64B",
     "textEmbedding": null,
-    "catalogPosition": 95,
+    "catalogPosition": 92,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -9884,7 +9880,7 @@
     "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -9978,7 +9974,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'batu':24B,27C 'beach':16B,26B 'ferringhi':25B,28C 'golden':21B 'la':3A,9B 'luxuri':15B 'penang':6A,12B,29C 'rasa':4A,10B 'resort':17B 'sand':22B 'sayang':5A,11B 'set':18B 'shangri':2A,8B 'shangri-la':1A,7B",
     "textEmbedding": null,
-    "catalogPosition": 94,
+    "catalogPosition": 91,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -9990,7 +9986,7 @@
     "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T11:37:33.842Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -10082,7 +10078,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'1885':12B 'e':8B 'eastern':1A,5B 'establish':10B 'farquhar':21B 'georg':23B,26C 'heritag':16B 'hotel':3A,7B,18B 'landmark':15B 'lebuh':20B 'luxuri':17B 'o':9B 'orient':2A,6B 'penang':25B,28C 'town':24B,27C",
     "textEmbedding": null,
-    "catalogPosition": 93,
+    "catalogPosition": 90,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -10094,7 +10090,7 @@
     "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -10212,7 +10208,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'5':22B 'along':28B 'award':20B 'award-win':19B 'batu':31B,53C 'beach':25B,33B 'beauti':44B 'combin':36B 'cultur':41B 'famili':24B 'ferringhi':32B,54C 'first':11B 'greeneri':52B 'hard':1A,5B,38B 'hotel':3A,7B,15B 'inspir':14B 'legendari':37B 'locat':27B 'lush':51B 'malacca':47B 'malaysia':17B 'music':13B,40B 'music-inspir':12B 'penang':4A,8B,35B,55C 'popular':30B 'resort':26B 'rock':2A,6B,39B 'star':23B 'strait':48B 'tropic':50B 'win':21B",
     "textEmbedding": null,
-    "catalogPosition": 92,
+    "catalogPosition": 89,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -10224,7 +10220,7 @@
     "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -10308,7 +10304,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'10':32B '15':38B 'add':84B 'arrang':116B 'backdrop':114B 'ballroom':47B 'banquet':60B 'batu':17B,121C 'beach':13B 'benefit':107B 'cake':75B 'canap':91B 'carpet':72B 'chines':56B 'classic':24B 'cocktail':88B 'corkag':106B 'cours':59B 'decor':120B 'delux':25B 'doubletre':1A,6B,90B 'esplanad':46B 'event':87B 'ferringhi':18B,122C 'floral':115B 'four':51B 'higher':82B 'hilton':4A,9B,77B 'honor':78B 'host':43B 'hour':52B 'incent':80B 'includ':54B 'juic':93B 'light':70B 'locat':15B 'menu':61B 'microphon':68B 'minimum':36B 'mock':73B 'multi':58B 'multi-cours':57B 'offer':19B 'option':110B 'pa':62B 'packag':23B,41B 'park':101B 'penang':5A,10B,123C 'per':29B 'person':33B,109B 'point':81B 'pre':86B 'pre-ev':85B 'premium':27B 'price':28B 'projector':65B 'red':71B 'reserv':100B 'resort':2A,7B,14B 'screen':67B 'sea':98B 'signatur':89B 'spa':102B 'sparkl':92B 'stage':69B,113B 'stay':96B 'suit':95B 'system':63B 'tabl':30B,39B,119B 'theme':118B 'three':20B 'tier':21B,83B 'toast':94B 'view':99B 'voucher':103B 'wed':22B,74B,79B 'wine':104B",
     "textEmbedding": null,
-    "catalogPosition": 91,
+    "catalogPosition": 88,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -10320,7 +10316,7 @@
     "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -10385,7 +10381,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'10':48B '25':94B '30':124B '8':29B 'aisl':119B 'arch':116B 'banquet':25B,41B 'bar':97B 'beyond':90B 'breathtak':104B 'bridal':67B 'cake':61B 'canap':122B 'carpet':118B 'celebr':20B 'ceremoni':36B,65B 'champagn':62B 'chef':54B 'chines':24B,56B 'citi':108B 'complimentari':71B 'coupl':79B 'cours':30B 'decor':70B 'dinner':26B 'essenti':66B 'experienc':53B 'featur':112B 'feet':100B 'floral':115B 'fountain':63B 'full':23B 'g':1A,4B 'georg':15B,126C 'graviti':91B 'ground':102B 'happi':38B 'heart':13B 'hexagon':114B 'hill':111B 'horizon':86B 'hotel':2A,5B,10B 'hundr':98B 'includ':51B 'intim':34B 'kelawai':3A,6B 'level':93B 'love':40B 'main':68B 'menu':32B,58B 'modern':9B 'night':74B 'offer':18B 'packag':42B 'pax':49B,125B 'penang':17B,128C 'per':45B 'place':88B 'premium':121B 'price':44B 'rang':21B 'rooftop':35B,96B 'room':73B 'sea':109B 'set':31B,57B 'someth':81B 'stay':75B 'suite/suite':72B 'tabl':46B,69B 'take':87B 'tea':64B 'tier':59B 'town':16B,127C 'uniqu':82B 'view':105B 'want':80B 'wed':19B,60B,83B 'white':117B",
     "textEmbedding": null,
-    "catalogPosition": 90,
+    "catalogPosition": 87,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -10397,7 +10393,7 @@
     "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -10497,7 +10493,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'000':39B '1':131B '180':143B '2':133B '4':38B '50':140B '80':141B 'arch':83B 'area':56B 'around':37B 'atmospher':102B 'birthday':116B 'butterfli':80B 'capac':138B 'cast':66B 'ceil':90B 'centr':25B 'chandeli':65B 'combin':43B 'corpor':121B 'craft':95B 'creat':97B 'customiz':106B 'decor':46B,51B 'detail':92B 'drape':86B 'dreamland':78B 'eleg':64B 'essenti':130B,132B 'event':8B,13B,122B 'everi':91B 'exquisit':82B 'flower':85B 'ft':41B 'fulli':45B,50B 'garden':55B 'georg':27B,146C 'glasshous':60B,63B 'glow':69B 'granit':2A,17B 'hall':48B,53B,73B 'hotel':4A,19B 'icon':34B,59B 'komtar':35B 'light':81B 'locat':22B 'luxuri':3A,18B 'magic':101B 'main':47B,72B 'maximum':137B 'meet':108B 'meticul':94B 'need':110B 'occas':113B 'offer':129B 'packag':127B 'pax':144B 'penang':5A,20B,148C 'perfect':30B 'respect':145B 'reunion':118B 'rom':115B 'rooftop':12B 'school':117B 'second':52B 'seminars/workshops':119B 'skye':7B 'sophist':68B 'space':9B,104B,125B 'space-usag':124B 'span':36B 'sq':40B 'strateg':21B 'three':123B 'town':28B,147C 'transform':75B 'ultim':135B 'usag':126B 'venu':14B 'view':31B 'wall':88B 'warm':99B 'wed':114B",
     "textEmbedding": null,
-    "catalogPosition": 89,
+    "catalogPosition": 86,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -10509,7 +10505,7 @@
     "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -10594,7 +10590,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'4':79B 'angier':74B 'atmospher':48B 'ballroom':76B 'bar':71B 'borden':75B 'celebr':91B 'ceremoni':88B 'charm':23B 'classic':87B 'come':27B 'contemporari':38B,90B 'corridor':65B 'craft':83B 'creat':44B 'design':10B 'detail':43B 'effortless':46B 'eleg':21B 'elev':95B 'fill':61B 'final':53B 'first':50B 'gazebo':68B 'georg':16B,97C 'glasshous':63B 'glasshouse-styl':62B 'heart':14B 'heritag':22B,34B 'honour':92B 'hotel':3A,7B,11B 'icon':55B,67B 'includ':57B 'level':78B 'light':60B 'light-fil':59B 'look':51B 'minimalist':20B,30B 'modern':25B,33B,96B 'modern-heritag':32B 'nostalg':42B 'packag':36B 'pair':37B 'penang':4A,18B,99C 'photogen':47B 'pool':70B 'prestig':2A,6B 'romanc':26B 'sophist':39B 'space':56B 'style':64B 'subtl':41B 'suit':85B 'toast':54B 'togeth':28B 'town':17B,98C 'tradit':93B 'venu':81B 'wed':35B",
     "textEmbedding": null,
-    "catalogPosition": 88,
+    "catalogPosition": 85,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -10606,7 +10602,7 @@
     "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -10717,7 +10713,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'380':59B '800':47B 'accommod':42B 'across':19B 'baba':24B,31B,53B 'ballroom':30B,41B 'banquet':17B 'celebr':43B 'chines':23B 'design':39B 'four':20B 'full':10B 'full-servic':9B 'grand':29B,38B,40B 'hall':55B 'hotel':2A,5B 'indian':36B 'inspir':27B 'intim':52B 'ixora':1A,4B 'malay':34B 'nonya':32B 'nyonya':26B,54B 'nyonya-inspir':25B 'offer':16B 'packag':18B 'penang':3A,6B,62C 'perai':15B,61C 'peranakan':33B 'person':48B,60B 'seat':56B 'servic':11B 'tradit':22B 'venu':13B 'wed':12B,21B",
     "textEmbedding": null,
-    "catalogPosition": 87,
+    "catalogPosition": 84,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -10729,7 +10725,7 @@
     "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -10889,7 +10885,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'bukit':4C 'hotel':2A 'icon':1A 'mertajam':5C 'penang':3A,6C",
     "textEmbedding": null,
-    "catalogPosition": 86,
+    "catalogPosition": 83,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -10901,7 +10897,7 @@
     "humanReviewedBy": null,
     "liveAt": "2026-07-18T04:10:23.223Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:01:13.517Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -11021,7 +11017,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'100':73B '18':27B '38':177B '40':179B 'actual':79B 'al':99B 'alon':173B 'around':131B 'avail':50B 'bedroom':60B 'behind':35B 'belong':169B 'blue':5A,11B 'book':152B 'boutiqu':24B 'breakfast':98B 'build':125B,150B 'celebr':155B 'chef':134B 'cheong':1A,7B 'cocktail':112B 'cook':139B 'courtyard':17B,63B,84B 'd':78B 'day':165B 'deep':15B 'dine':161B 'dinner':115B 'east':141B 'eighteen':174B 'element':87B 'entireti':53B 'event':69B,133B 'fatt':2A,8B 'feng':89B 'first':120B 'floor':121B 'forward':109B 'fresco':100B 'full':154B 'garden':34B,104B,114B 'georg':189C 'guest':96B 'hall':61B 'hock':136B 'hotel':25B 'hous':18B,95B 'indigo':16B,30B,117B 'isn':41B 'kim':135B 'kitchen':59B,124B 'leith':20B 'main':83B 'mansion':6A,12B,48B,168B 'mean':181B 'meet':92B 'menu':127B 'orient':102B 'packag':156B 'parti':172B,184B 'penang':191C 'peopl':74B 'proposit':58B 'public':158B 'pull':151B 'put':108B,188B 'restaur':31B 'room':46B,76B 'run':140B 'setup':130B 'shui':91B 'simpli':186B 'sleep':176B 'sold':43B 'solemnis':111B 'stay':187B 'stop':162B 'street':21B 'su':137B 'suit':28B,175B 'take':97B 'tour':159B 'town':190C 'trick':148B 'tze':3A,9B 'use':80B 'venu':107B 'water':103B 'wed':39B,183B 'west':143B 'whole':57B",
     "textEmbedding": null,
-    "catalogPosition": null,
+    "catalogPosition": 103,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -11033,7 +11029,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:31:26.509Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -11125,7 +11121,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'12.4':119B '180':108B '1800s':16B '200':113B '2008':48B '9.4':122B 'account':23B 'across':87B 'ahead':186B 'also':163B 'anglo':8B 'anglo-indian':7B 'asia':56B 'asia-pacif':55B 'award':49B,59B 'ballroom':117B 'book':181B 'british':41B 'built':12B,149B 'ceremoni':111B 'colonnad':128B 'conserv':63B 'cultur':61B 'decad':35B 'deep':127B 'distinct':51B 'earli':15B 'edg':75B 'event':71B 'floor':96B,126B,172B 'four':168B 'garden':10B 'georg':77B,187C 'georgian':26B 'governor':42B 'ground':92B,95B,171B 'hall':99B 'harlequin':103B 'heritag':58B,62B,82B 'hire':135B 'hous':2A,4B,11B,162B 'includ':132B 'indian':9B 'keep':100B,164B 'larger':157B 'lawn':141B,155B 'level':89B 'm':120B,123B 'malaysia':31B 'mansion':27B 'marbl':98B,104B 'marque':151B 'matur':145B 'north':138B 'origin':102B 'outsid':136B 'pacif':57B 'penang':189C 'privat':166B 'raintre':146B 'resid':38B 'restaur':69B 'restor':45B 'room':167B 'run':66B,118B 'serv':33B 'sit':143B,177B 'six':165B 'smaller':176B 'stand':29B,114B 'still':28B 'success':40B 'suffolk':1A,3B 'take':107B,180B 'tile':105B 'timber':125B 'town':78B,188C 'two':88B,160B,173B,184B 'unesco':54B,80B 'upstair':115B,174B 'venu':20B,72B 'verandah':131B 'wed':84B 'west':140B,154B 'won':46B 'work':86B 'world':81B 'year':185B 'zone':83B",
     "textEmbedding": null,
-    "catalogPosition": null,
+    "catalogPosition": 102,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -11137,7 +11133,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:31:26.509Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -11229,7 +11225,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'1':172B '20':180B '200':167B '267.6':163B '40':182B '460':56B '50':242B '639.7':45B '7.5':50B '8':174B 'airport':25B 'aisl':83B,255B 'also':106B 'arch':265B 'around':213B 'arriv':71B 'attach':111B 'ballroom':42B,105B,268B 'banquet':210B 'bayan':13B,280C 'bedroom':143B 'behind':94B 'borrow':140B 'break':177B 'buffet':227B 'built':212B 'cake':263B 'cap':240B 'carpet':254B 'ceil':52B 'ceremoni':135B,262B 'champagn':256B 'chase':251B 'chines':209B 'closer':150B 'closest':22B 'coupl':119B,249B 'cours':217B 'cut':80B 'dinner':191B,219B 'dome':231B 'eight':216B 'eight-cours':215B 'eighti':152B 'either':225B 'entranc':269B 'everi':244B 'execut':275B 'famili':190B 'fit':88B 'five':260B 'five-ti':259B 'floor':67B 'floral':264B 'fountain':257B 'four':154B,208B 'free':28B 'given':203B 'grand':41B 'guest':57B,142B,147B 'hold':124B 'hotel':3A,7B,193B 'hundr':155B 'includ':246B 'island':21B 'jalan':10B 'larg':91B 'late':70B 'late-arriv':69B 'led':92B 'lepa':14B,281C 'level':63B 'list':148B 'look':38B 'mahsuri':11B 'malay':221B 'march':129B 'march-in':128B 'marriag':238B 'meet':175B 'metr':47B,51B,165B 'mezzanin':62B 'newlyw':279B 'night':272B 'offer':223B 'oliv':1A,5B,157B,171B 'open':198B 'option':161B 'otherwis':250B 'packag':211B,222B,239B 'penang':4A,20B,205B,282C 'peopl':243B 'photograph':74B 'powder':115B 'price':197B 'privat':109B 'projector':103B 'publish':194B 'rather':97B 'reason':36B 'red':253B 'registr':236B 'relat':72B 'roll':101B 'roll-down':100B 'room':33B,86B,110B,116B,125B,136B,176B 'round':59B 'run':43B 'screen':93B 'seat':55B,168B,183B 'separ':235B,252B 'servic':232B 'set':218B,230B 'sign':187B 'sit':8B 'smaller':160B 'somewher':76B 'southern':19B 'spare':138B 'squar':46B,164B 'stage':96B 'stand':78B 'stretch':17B 'suit':276B 'tabl':60B 'tea':134B 'thing':248B 'tier':245B,261B 'trade':29B 'tree':2A,6B 'upstair':144B 'use':120B 'washroom':118B 'wed':32B,196B 'without':79B 'wrap':64B 'zone':30B",
     "textEmbedding": null,
-    "catalogPosition": null,
+    "catalogPosition": 101,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -11241,7 +11237,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:31:26.509Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -11344,7 +11340,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'700':48B 'accommod':45B 'ballroom':44B,65B 'bespok':67B 'biggest':61B 'breathtak':14B 'bring':36B 'cake':71B 'celebr':87B 'ceremoni':55B 'cocktail':75B 'color':15B 'corpor':57B 'craft':34B 'day':83B 'dedic':77B 'detail':31B 'dream':38B 'eleg':91B 'ensur':80B 'event':58B 'everi':30B 'except':86B 'exchang':4B 'frame':11B 'g':1A,21B 'georg':92C 'grand':43B 'guest':49B 'gurney':3A,23B 'handcraft':70B 'hotel':2A,22B 'intim':9B,54B 'led':62B 'life':41B 'love':89B 'luxuri':52B 'menus':69B 'meticul':33B 'penang':18B,29B,94C 'perfect':50B 'person':73B 'pillarless':64B 'planner':79B 'premier':25B 'screen':63B 'set':10B 'signatur':74B 'special':82B 'sunset':19B 'town':93C 'venu':27B 'vow':6B 'wed':26B,39B,53B,68B,78B",
     "textEmbedding": null,
-    "catalogPosition": null,
+    "catalogPosition": 100,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -11356,7 +11352,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-27T02:51:49.173Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -11432,7 +11428,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'350':80B '500':85B '532':75B 'access':18B 'across':55B 'all-day-din':139B 'andaman':24B 'away':40B 'ballroom':60B,114B 'banquet':83B,117B 'bar':149B 'batu':30B 'beach':4A,8B,21B 'beyond':126B 'bungah':15B,160C 'call':144B 'concept':98B 'day':141B 'dine':142B 'direct':17B 'event':123B 'face':135B 'ferringhi':31B 'fifteen':38B 'four':71B 'friday':155B 'front':27B 'function':72B,128B 'georg':33B 'guest':46B 'hotel':1A,5B,69B,94B,119B 'largest':66B 'level':62B,109B 'level-six':108B 'live':152B 'lobbi':90B 'm':76B,148B 'make':42B 'mercur':2A,6B 'minut':39B 'music':153B 'night':158B 'ocean':105B 'ombak':146B 'open':97B 'open-concept':96B 'option':99B 'outdoor':101B,136B 'overlook':103B 'patio':91B 'pearl':59B 'penang':3A,7B,161C 'pinang':113B 'plan':124B 'pool':137B 'restaur':143B 'room':73B,111B 'run':54B 'sand':12B 'saturday':157B 'sea':25B,134B 'sea-fac':133B 'seat':79B 'second':107B 'set':57B 'sit':9B 'six':63B,110B 'smaller':116B 'space':102B,129B 'style':88B 'take':115B 'tanjung':14B,159C 'team':125B 'theatr':87B 'theatre-styl':86B 'town':34B 'travel':47B 'two':56B 'wed':52B 'weekend':51B 'workabl':44B",
     "textEmbedding": null,
-    "catalogPosition": null,
+    "catalogPosition": 99,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -11444,7 +11440,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:31:26.509Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -11520,7 +11516,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'134':86B '2':105B '20':130B '200':123B '3':42B,175B '30':161B '4':24B '420':52B '5':48B '50':109B '550':67B '583':43B '60':99B,107B '700':70B '8':154B '80':90B 'ad':203B 'adjoin':61B 'airport':14B 'angsana':93B 'arch':165B 'around':36B 'balau':94B 'ballroom':39B,128B 'bay':220B 'bayan':9B,236C 'boardroom':112B 'book':141B 'bridal':188B 'built':35B,149B 'busi':26B,33B 'cake':178B 'carpet':168B 'ceil':50B 'celebr':74B 'chair':172B 'champagn':181B 'charg':136B 'chengal':96B 'chines':151B 'corkag':205B 'coupl':192B,230B 'cours':155B 'cover':173B 'day':208B,214B 'day-us':207B 'dinner':152B 'display':177B 'eastin':1A,4B 'either':228B 'fall':142B 'fountain':182B 'foyer':62B 'full':170B 'full-length':169B 'function':77B,133B 'gather':116B 'georg':16B 'gold':199B,202B 'grand':38B,127B 'guest':53B,124B 'handl':113B 'hold':98B 'hotel':2A,5B,29B,118B,222B 'intern':13B 'kapur':100B 'kempa':79B 'kulim':102B 'largest':82B 'leisur':28B 'length':171B 'lepa':10B,237C 'level':41B,104B 'menu':157B 'metr':45B,49B,88B 'minimum':121B,159B 'need':231B 'next':18B 'night':185B 'offer':196B 'open':57B 'packag':147B 'park':219B 'penang':3A,6B,12B,238C 'plus':183B 'price':226B 'publish':225B 'queensbay':20B 'quot':235B 'red':167B 'rental':138B 'request':233B 'room':65B,78B,134B,137B,210B 'round':55B 'seat':51B,68B,91B 'set':119B,156B 'silver':197B 'sit':7B 'smaller':73B 'smallest':115B 'squar':44B,87B 'star':25B 'style':72B 'suit':189B 'tabl':56B,162B 'take':66B,106B 'theatr':71B 'third':217B 'tier':176B,194B 'town':17B 'two':111B,193B 'unlimit':204B 'use':75B,209B 'vip':218B 'wed':32B,146B,164B,213B",
     "textEmbedding": null,
-    "catalogPosition": null,
+    "catalogPosition": 98,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -11532,7 +11528,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-09-04T02:30:54.883Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -11616,7 +11612,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'130':115B '255':57B '30':71B '300':150B '4':9B '8':84B '9':86B 'age':32B 'ask':202B 'banquet':145B,196B 'bathtub':63B 'brass':46B 'built':159B 'built-in':158B 'capac':188B 'ceil':112B 'ceremoni':136B 'combin':104B 'coupl':147B 'courtyard':168B 'curtain':54B 'describ':94B 'dimens':180B 'dinner':140B 'direct':204B 'elsewher':153B 'event':79B,96B 'everi':59B 'evid':222B 'featur':209B 'follow':36B 'found':229B 'four':95B,155B 'full':144B 'genuin':90B 'gramophon':47B 'grand':49B 'guest':116B 'guestroom':58B 'hall':97B,156B,192B 'hotel':2A,5B,12B,93B,165B,184B,215B 'individu':191B 'infin':67B 'interior':35B 'intim':139B,170B 'jazz':1A,4B,31B 'larger':107B 'led':161B 'level':70B,83B 'lobbi':44B 'look':73B,152B 'market':166B,218B 'menus':197B 'mural':41B 'neon':39B 'one':60B,106B 'outdoor':163B 'packag':194B 'penang':3A,6B,232C 'photograph':178B 'piano':50B 'pinang':16B 'plan':148B 'pool':68B 'publish':176B,187B 'put':110B 'quay':24B 'rather':141B 'recept':173B 'red':52B 'rooftop':66B 'room':108B 'rough':114B 'saxophonist':40B 'screen':162B 'seat':45B 'seri':14B 'short':20B 'size':100B 'small':91B 'solemnis':133B 'space':80B 'star':10B 'strait':23B,77B 'tabl':121B,126B 'take':26B 'tanjung':15B,17B,230C 'tea':135B 'ten':118B 'theme':28B 'thirteen':125B 'though':174B 'tokong':18B,231C 'two':101B 'vari':99B 'velvet':53B 'venu':130B 'walk':21B 'waterfront':11B 'wed':171B,193B,211B,225B 'work':226B 'worth':201B 'yet':208B",
     "textEmbedding": null,
-    "catalogPosition": null,
+    "catalogPosition": 97,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -11628,7 +11624,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:31:26.509Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -11720,7 +11716,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'2':236B '20':244B '2024':27B '2m':128B '30pm':237B,240B '388':293B '4m':130B '5':239B '6pm':42B '888':248B 'abalon':321B 'air':190B 'air-condit':189B 'aisl':109B 'along':163B 'anyon':343B 'ask':349B 'back':171B 'ballroom':332B 'banquet':119B,290B,347B 'bar':162B 'basic':142B 'behind':6B 'bottl':268B 'brais':320B 'branch':85B 'breakfast':38B 'brick':70B 'built':62B 'burma':13B 'cake':262B 'canapé':252B 'capac':358B 'ceremoni':115B 'champagn':264B 'chines':289B 'column':160B 'come':46B 'condit':191B 'consol':200B 'core':22B 'coupl':45B,333B 'cours':288B 'courtyard':61B 'daytim':31B 'delux':304B 'dim':34B 'dine':151B 'dinner':126B,280B 'document':221B 'drape':90B 'dress':273B 'drink':257B 'duck':313B 'egg':317B 'eight':215B,287B 'eight-cours':286B 'enclos':188B 'etern':282B 'exclus':229B 'expos':69B 'fin':310B 'find':338B 'fit':193B,342B 'five':181B,302B 'five-item':301B 'floor':159B 'flow':256B 'fountain':265B 'four':1A,3B 'fourteen':209B 'free':255B 'free-flow':254B 'freestand':53B 'georg':19B,359C 'glass':10B,50B,57B,78B,233B 'glaze':96B 'grouper':315B 'guest':245B 'hall':152B 'hand':2A,4B 'head':136B 'heritag':21B,150B 'host':327B 'hotel':331B 'hour':227B 'hous':51B,234B 'includ':250B 'indoor':148B 'intim':336B 'item':303B 'jalan':12B 'karaok':199B 'laid':172B 'larg':346B 'larger':155B 'largest':202B 'led':131B 'length':93B 'let':80B 'light':82B 'long':118B,177B 'lunch':40B 'marbl':158B 'matur':65B 'menu':283B 'microphon':147B 'middl':112B 'minut':16B 'mix':175B 'natur':341B 'neighbour':73B 'novemb':26B 'number':351B 'one':164B 'open':24B,298B 'overal':357B 'pa':143B 'packag':224B 'parti':74B 'pavilion':58B 'penang':361C 'per':294B 'photo':277B 'pitch':77B 'plan':334B,344B 'platter':305B 'prawn':318B 'price':220B 'privat':182B 'prop':278B 'publish':218B,355B 'restaur':36B,325B 'rm2':292B 'rm3':247B 'roast':312B 'rom':223B 'roof':79B 'room':44B,139B,183B 'round':122B,180B,205B 'run':91B,225B,307B 'salt':316B 'screen':132B,197B 'serv':37B 'set':100B 'shark':309B 'sheer':88B 'side':165B 'sign':274B 'sinc':352B 'sit':5B,133B,184B 'smallest':211B 'someth':335B 'soup':311B 'space':156B 'sparkl':270B 'spend':29B 'spread':253B 'staircas':168B 'steam':314B 'steel':55B 'steel-and-glass':54B 'style':106B 'sum':35B 'system':144B 'tabl':120B,123B,178B,206B,213B,275B,295B 'take':203B 'ten':297B 'theatr':105B 'theatre-styl':104B 'three':226B 'tier':261B 'town':20B,360C 'tree':66B 'two':102B,146B,219B,260B 'two-tier':259B 'use':230B 'venu':99B,217B,354B 'wall':8B,75B,97B 'way':103B 'wed':328B 'white':89B,157B 'wine':271B",
     "textEmbedding": null,
-    "catalogPosition": null,
+    "catalogPosition": 96,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -11732,7 +11728,7 @@
     "humanReviewedBy": null,
     "liveAt": null,
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-07T03:31:26.509Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -11812,7 +11808,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'batu':66C 'begin':51B 'come':26B 'creat':38B 'destin':23B 'dream':25B 'enchant':40B 'experi':42B 'ferringhi':67C 'isn':15B 'journey':47B 'let':28B 'lone':1A,8B,53B 'love':35B,49B 'luxuri':65B 'meet':63B 'part':32B 'penang':3A,10B,55B,68C 'pine':2A,9B,54B 'portfolio':6A,13B,58B 'reflect':44B 'resort':7A,14B,59B 'romanc':62B 'stori':36B,50B 'timeless':61B 'tribut':5A,12B,57B 'true':27B 'uniqu':46B 'unparallel':64B 'us':29B 'venu':19B 'wed':41B",
     "textEmbedding": null,
-    "catalogPosition": null,
+    "catalogPosition": 95,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -11824,7 +11820,7 @@
     "humanReviewedBy": null,
     "liveAt": "2026-08-18T08:21:36.262Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-18T08:21:36.262Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}
@@ -11932,7 +11928,7 @@
     "coverImageFocalPointOverride": null,
     "fts": "'1':96B '1960s':102B '2026':74B '3':114B 'air':118B 'air-condit':117B 'alongsid':153B 'annex':103B 'assembl':28B 'barn':100B 'barn-lik':99B 'beyond':171B 'big':111B 'biggest':82B 'brick':47B,122B 'brought':65B 'build':193B 'buy':159B 'card':77B 'cater':165B 'ceil':107B 'central':85B 'come':175B 'condit':119B 'control':141B 'coupl':189B 'cover':105B 'day':164B,195B 'depot':2A,4B,135B,183B 'england':68B 'enough':109B 'event':35B,75B,156B 'factori':54B 'first':147B 'first-floor':146B 'floor':148B 'found':46B 'four':69B 'frame':127B 'fulli':104B 'furnitur':166B 'glass':128B 'high':108B 'hous':173B,185B 'insid':9B 'instal':112B 'kuala':203C,205C 'land':15B 'largest':59B,93B 'left':41B 'let':33B 'like':101B 'locomot':25B 'lumpur':204C,206C 'main':155B 'masterplan':21B 'much':42B 'one':120B 'origin':62B 'packag':202B 'park':11B 'part':17B 'pick':200B 'point':137B 'power':170B 'railway':7B 'rate':76B,158B 'rather':198B 'raw':121B 'repair':30B 'restor':12B 'roof':55B,64B 'room':142B,149B 'rule':186B 'run':152B 'saw':52B 'saw-tooth':51B 'scratch':197B 'sentul':1A,3B,10B,20B 'sit':84B 'small':145B 'space':36B,70B,133B,161B 'steel':49B,126B 'steel-fram':125B 'style':167B 'suit':188B 'suppli':174B 'supplier':180B 'take':91B 'tall':124B 'tooth':53B 'toward':139B 'truss':50B 'wall':48B 'want':191B 'wed':94B,138B 'whatev':151B 'work':8B 'workshop':23B,60B,88B,95B,113B 'yard':79B 'ytl':14B 'zinc':63B",
     "textEmbedding": null,
-    "catalogPosition": null,
+    "catalogPosition": 94,
     "isSpotlight": false,
     "spotlightStartAt": null,
     "spotlightEndAt": null,
@@ -11944,7 +11940,7 @@
     "humanReviewedBy": null,
     "liveAt": "2026-08-28T01:47:15.793Z",
     "spacePhotoNudgeDismissedAt": null,
-    "updatedAt": "2026-08-28T03:02:45.188Z",
+    "updatedAt": "2026-09-08T08:55:19.139Z",
     "spaces": [],
     "packages": [],
     "venueCapacity": {}

@@ -125,14 +125,14 @@
     "url": "https://www.bridely.sg/venue/the-masons-table/r/recssYSWy0BAMkBKH",
     "location": "Central Area",
     "overallRating": 4.7,
-    "venueRating": 4.9,
+    "venueRating": 4.8,
     "serviceRating": 4.8,
     "foodRating": 4.8,
-    "reviews": 40,
+    "reviews": 42,
     "tags": "Event Hall, Western",
     "price": "From $78/pax",
     "capacity": "1-150 pax",
-    "rooms": "[{\"name\": \"Whole Venue\", \"capacity\": \"1-150 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Main Room\", \"capacity\": \"1-120 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Bar Room\", \"capacity\": \"1-50 pax\", \"price\": \"From $78/pax\"}]"
+    "rooms": "[{\"name\": \"Whole Venue\", \"capacity\": \"1-150 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Main Room\", \"capacity\": \"1-120 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Bar Room\", \"capacity\": \"40-50 pax\", \"price\": \"From $78/pax\"}]"
   },
   {
     "recordId": "recQpPPBl9LBtl9ft",
@@ -268,21 +268,6 @@
     "price": "From $158/pax",
     "capacity": "300-550 pax",
     "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"300-550 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Waterfront Ballroom\", \"capacity\": \"200-280 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Riverfront Ballroom\", \"capacity\": \"150-200 pax\", \"price\": \"From $158/pax\"}, {\"name\": \"Galleria Ballroom\", \"capacity\": \"100-160 pax\", \"price\": \"From $158/pax\"}]"
-  },
-  {
-    "recordId": "recDE70TqO66tuVMT",
-    "name": "Little Island Brewing Co",
-    "url": "https://www.bridely.sg/venue/little-island-brewing-co/r/recDE70TqO66tuVMT",
-    "location": "Changi",
-    "overallRating": 4.7,
-    "venueRating": 4.8,
-    "serviceRating": 4.7,
-    "foodRating": 4.9,
-    "reviews": 37,
-    "tags": "Restaurant, Western",
-    "price": "From $68/pax",
-    "capacity": "50-350 pax",
-    "rooms": "[{\"name\": \"Changi Village\", \"capacity\": \"50-350 pax\", \"price\": \"From $68/pax\"}, {\"name\": \"Gillman Barracks\", \"capacity\": \"50-200 pax\", \"price\": \"From $78/pax\"}]"
   },
   {
     "recordId": "recEVqHq1aNQ9gkfi",
@@ -807,7 +792,7 @@
     "tags": "Hotel, Chinese, Vegetarian, Ballroom, Indoor, Pet Friendly",
     "price": "From $113/pax",
     "capacity": "30-80 pax",
-    "rooms": "[{\"name\": \"Lime\", \"capacity\": \"30-80 pax\", \"price\": \"From $113/pax\"}, {\"name\": \"Sugarcane\", \"capacity\": \"100-200 pax\", \"price\": \"From $123/pax\"}]"
+    "rooms": "[{\"name\": \"Lime\", \"capacity\": \"30-80 pax\", \"price\": \"From $113/pax\"}, {\"name\": \"Sugarcane\", \"capacity\": \"100-200 pax\", \"price\": \"From $123/pax\"}, {\"name\": \"3-Hour Solemnisation (Lime Room)\", \"capacity\": \"\", \"price\": \"From $1,000\"}]"
   },
   {
     "recordId": "reckSeDSohHZwJX4B",
@@ -1198,6 +1183,21 @@
     "price": "From $177/pax",
     "capacity": "108-180 pax",
     "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"108-180 pax\", \"price\": \"From $177/pax\"}]"
+  },
+  {
+    "recordId": "reciMgHviimwfaRnn",
+    "name": "NUSS Guild Houses",
+    "url": "https://www.bridely.sg/venue/nuss-guild-houses/r/reciMgHviimwfaRnn",
+    "location": "NUSS KENT RIDGE GUILD HOUSE: 9 Kent Ridge Dr, Singapore 119241 | NUSS SUNTEC CITY GUILD HOUSE: 3 Temasek Blvd, Tower 5, Mall, #02-401/402 Suntec City, Singapore 038983 | NUSS MANDALAY GUILD HOUSE: 2 Mandalay Rd, Singapore 308206",
+    "overallRating": 5,
+    "venueRating": 5,
+    "serviceRating": 5,
+    "foodRating": 5,
+    "reviews": 2,
+    "tags": "Event Hall, Chinese, Fusion, Muslim-friendly, Western",
+    "price": "From $78/pax",
+    "capacity": "160-200 pax",
+    "rooms": "[{\"name\": \"Kent Ridge Guild House\", \"capacity\": \"160-200 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Suntec City Guild House\", \"capacity\": \"100-120 pax\", \"price\": \"From $78/pax\"}, {\"name\": \"Mandalay Guild House\", \"capacity\": \"40-50 pax\", \"price\": \"From $89/pax\"}]"
   },
   {
     "recordId": "recGSE4cMEiR29mHX",
@@ -2910,6 +2910,66 @@
     "rooms": "[{\"name\": \"The Lighthouse\", \"capacity\": \"30-50 pax\", \"price\": \"From $238/pax\"}]"
   },
   {
+    "recordId": "akaganeresortkyotohigashiyama1925",
+    "name": "Akagane Resort Kyoto Higashiyama 1925",
+    "url": "https://www.bridely.sg/venue/akagane-resort-kyoto-higashiyama-1925/r/akaganeresortkyotohigashiyama1925",
+    "location": "Kyoto",
+    "overallRating": null,
+    "venueRating": null,
+    "serviceRating": null,
+    "foodRating": null,
+    "reviews": 0,
+    "tags": "Event Hall, Fusion, Japanese, Western, Colonial/Historical, Garden & Greenery, Indoor, Outdoor",
+    "price": "",
+    "capacity": "",
+    "rooms": "[{\"name\": \"Hisui\", \"capacity\": \"\", \"price\": \"\"}, {\"name\": \"Akagane\", \"capacity\": \"\", \"price\": \"\"}]"
+  },
+  {
+    "recordId": "funatsurukyotokamogawaresort",
+    "name": "Funatsuru Kyoto Kamogawa Resort",
+    "url": "https://www.bridely.sg/venue/funatsuru-kyoto-kamogawa-resort/r/funatsurukyotokamogawaresort",
+    "location": "Kyoto",
+    "overallRating": null,
+    "venueRating": null,
+    "serviceRating": null,
+    "foodRating": null,
+    "reviews": 0,
+    "tags": "Event Hall, Fusion, Japanese, Western, Colonial/Historical, Indoor, Outdoor, Waterfront",
+    "price": "",
+    "capacity": "",
+    "rooms": "[{\"name\": \"Grand Ballroom\", \"capacity\": \"\", \"price\": \"\"}, {\"name\": \"Gallery Room\", \"capacity\": \"\", \"price\": \"\"}, {\"name\": \"VIP Room\", \"capacity\": \"\", \"price\": \"\"}, {\"name\": \"Terrace\", \"capacity\": \"\", \"price\": \"\"}]"
+  },
+  {
+    "recordId": "heianjingushrinebanquethall",
+    "name": "Heian Jingu Shrine Banquet Hall",
+    "url": "https://www.bridely.sg/venue/heian-jingu-shrine-banquet-hall/r/heianjingushrinebanquethall",
+    "location": "Kyoto",
+    "overallRating": null,
+    "venueRating": null,
+    "serviceRating": null,
+    "foodRating": null,
+    "reviews": 0,
+    "tags": "Event Hall, Japanese, Colonial/Historical, Garden & Greenery, Indoor",
+    "price": "",
+    "capacity": "",
+    "rooms": "[{\"name\": \"Seihou-den\", \"capacity\": \"\", \"price\": \"\"}, {\"name\": \"Geihin-den\", \"capacity\": \"\", \"price\": \"\"}]"
+  },
+  {
+    "recordId": "osakageihinkanformerguesthouse",
+    "name": "Osaka Geihinkan Former Guest House",
+    "url": "https://www.bridely.sg/venue/osaka-geihinkan-former-guest-house/r/osakageihinkanformerguesthouse",
+    "location": "Osaka",
+    "overallRating": null,
+    "venueRating": null,
+    "serviceRating": null,
+    "foodRating": null,
+    "reviews": 0,
+    "tags": "Event Hall, Japanese, Colonial/Historical, Garden & Greenery, Indoor, Outdoor",
+    "price": "",
+    "capacity": "",
+    "rooms": "[{\"name\": \"Banquet\", \"capacity\": \"\", \"price\": \"\"}]"
+  },
+  {
     "recordId": "sipsociety",
     "name": "Sip Society: Rooftop Weddings",
     "url": "https://www.bridely.sg/venue/sip-society-rooftop-weddings/r/sipsociety",
@@ -2923,6 +2983,21 @@
     "price": "From $68/pax",
     "capacity": "60-200 pax",
     "rooms": "[{\"name\": \"Full Venue\", \"capacity\": \"60-200 pax\", \"price\": \"From $68/pax\"}]"
+  },
+  {
+    "recordId": "thehillsidekobe",
+    "name": "The Hillside Kobe",
+    "url": "https://www.bridely.sg/venue/the-hillside-kobe/r/thehillsidekobe",
+    "location": "Kobe",
+    "overallRating": null,
+    "venueRating": null,
+    "serviceRating": null,
+    "foodRating": null,
+    "reviews": 0,
+    "tags": "Event Hall, Japanese, Garden & Greenery, Indoor, Outdoor",
+    "price": "",
+    "capacity": "",
+    "rooms": "[{\"name\": \"Banquet\", \"capacity\": \"\", \"price\": \"\"}]"
   },
   {
     "recordId": "recElxOwXGol7Ji1G",
