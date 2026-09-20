@@ -47,6 +47,54 @@
     "response_time": null
   },
   {
+    "name": "Grand event space at Amara Hotel",
+    "url": "https://www.venuerific.com/sg/venues/grand-event-space-at-amara-hotel",
+    "slug": "grand-event-space-at-amara-hotel",
+    "area": "Tanjong Pagar",
+    "address": "Amara Hotel@ Tanjong Pagar 165 Tanjong Pagar Road 2nd, 165 Tg Pagar Rd, floor, #02-25, Singapore 088539",
+    "lat": 1.274961,
+    "lng": 103.843575,
+    "capacity_standing": 140,
+    "capacity_seated": 140,
+    "rooms_count": 3,
+    "price": "S$7,000",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Tanjong Pagar MRT Station",
+    "event_types": [
+      "Team Bonding",
+      "Company Cocktail Party",
+      "Lunch/dinner"
+    ],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
+    "name": "Warehouse Meeting Space",
+    "url": "https://www.venuerific.com/sg/venues/warehouse-meeting-space",
+    "slug": "warehouse-meeting-space",
+    "area": "Robertson Quay",
+    "address": "320 Havelock Rd, Singapore 169628",
+    "lat": 1.2892705,
+    "lng": 103.8374986,
+    "capacity_standing": 52,
+    "capacity_seated": 52,
+    "rooms_count": 1,
+    "price": "S$108",
+    "price_unit": "Per pax",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Havelock MRT station (Exit 4) | Fort Canning MRT station (800m) | Tiong Bahru MRT (2km)",
+    "event_types": [
+      "Meeting",
+      "Networking",
+      "Business Reception"
+    ],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
     "name": "Covert Rooftop Bar at Chinatown",
     "url": "https://www.venuerific.com/sg/venues/covert-rooftop-bar-at-chinatown",
     "slug": "covert-rooftop-bar-at-chinatown",
@@ -71,52 +119,6 @@
     "response_time": "5 hrs"
   },
   {
-    "name": "Lebua Thai",
-    "url": "https://www.venuerific.com/sg/venues/lebua-thai",
-    "slug": "lebua-thai",
-    "area": "Clarke Quay, Raffles Place",
-    "address": "30 Victoria St, #01-31 CHIJMES, Singapore 187996",
-    "lat": 1.2948011,
-    "lng": 103.8519822,
-    "capacity_standing": 150,
-    "capacity_seated": 100,
-    "rooms_count": 0,
-    "price": "S$2,000",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "City Hall MRT Station",
-    "event_types": [
-      "Business Dinner",
-      "Party"
-    ],
-    "fast_response": true,
-    "response_time": "7 hrs"
-  },
-  {
-    "name": "Lotus@Norris",
-    "url": "https://www.venuerific.com/sg/venues/lotus-norris",
-    "slug": "lotus-norris",
-    "area": "Farrer Park, Jalan Besar, Little India",
-    "address": "20 Norris Rd, Singapore 208262",
-    "lat": 1.3079143,
-    "lng": 103.8536569,
-    "capacity_standing": 120,
-    "capacity_seated": 82,
-    "rooms_count": 0,
-    "price": "S$180",
-    "price_unit": "Per hour",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Jalan Besar MRT Station",
-    "event_types": [
-      "Wedding",
-      "ROM"
-    ],
-    "fast_response": false,
-    "response_time": null
-  },
-  {
     "name": "The Inspire Space Sg",
     "url": "https://www.venuerific.com/sg/venues/the-inspire-space-sg",
     "slug": "the-inspire-space-sg",
@@ -137,7 +139,7 @@
       "Training"
     ],
     "fast_response": true,
-    "response_time": "3 hrs"
+    "response_time": "20 mins"
   },
   {
     "name": "Cargo39",
@@ -159,8 +161,8 @@
       "Office Party",
       "Wedding"
     ],
-    "fast_response": true,
-    "response_time": "4 hrs"
+    "fast_response": false,
+    "response_time": null
   },
   {
     "name": "Artyzen Singapore",
@@ -258,6 +260,30 @@
     "response_time": "14 hrs"
   },
   {
+    "name": "Solo Ristorante",
+    "url": "https://www.venuerific.com/sg/venues/solo-ristorante",
+    "slug": "solo-ristorante",
+    "area": "Chinatown",
+    "address": "45 Amoy St, Singapore 069871",
+    "lat": 1.2804262,
+    "lng": 103.8468933,
+    "capacity_standing": 49,
+    "capacity_seated": 47,
+    "rooms_count": 3,
+    "price": "S$1,200",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Telok Ayer MRT Station (DT18)",
+    "event_types": [
+      "Birthday",
+      "Corporate Seminar",
+      "Party"
+    ],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
     "name": "KOMYUNITI Bar & Restaurant",
     "url": "https://www.venuerific.com/sg/venues/komyuniti-bar-restaurant",
     "slug": "komyuniti-bar-restaurant",
@@ -302,7 +328,7 @@
       "Wedding"
     ],
     "fast_response": true,
-    "response_time": "12 hrs"
+    "response_time": "15 hrs"
   },
   {
     "name": "Singapore EXPO",
@@ -325,7 +351,7 @@
       "Meeting"
     ],
     "fast_response": true,
-    "response_time": "9 hrs"
+    "response_time": "14 hrs"
   },
   {
     "name": " M Hotel Singapore ",
@@ -345,7 +371,7 @@
     "mrt_station": "Tanjong Pagar MRT Station",
     "event_types": [],
     "fast_response": true,
-    "response_time": null
+    "response_time": "15 hrs"
   },
   {
     "name": "Alta Studio",
@@ -392,7 +418,7 @@
       "Team Bonding"
     ],
     "fast_response": true,
-    "response_time": "6 hrs"
+    "response_time": "8 hrs"
   },
   {
     "name": "WAKANUI Grill Dining Singapore",
@@ -506,7 +532,7 @@
     "mrt_station": "Promenade MRT Station",
     "event_types": [],
     "fast_response": true,
-    "response_time": null
+    "response_time": "9 hrs"
   },
   {
     "name": "Restaurant venue at Fairmont Hotel",
@@ -518,9 +544,9 @@
     "lng": 103.8529487,
     "capacity_standing": 400,
     "capacity_seated": 220,
-    "rooms_count": 4,
-    "price": "S$80",
-    "price_unit": "Per hour",
+    "rooms_count": 7,
+    "price": "S$5,000",
+    "price_unit": "Min spend",
     "rating": 0,
     "reviews": 0,
     "mrt_station": "City Hall MRT Station",
@@ -552,7 +578,7 @@
       "Conference"
     ],
     "fast_response": true,
-    "response_time": null
+    "response_time": "3 hrs"
   },
   {
     "name": "The Mill — A Modern, Versatile Event Venue",
@@ -646,30 +672,7 @@
       "Product Launch"
     ],
     "fast_response": true,
-    "response_time": "9 hrs"
-  },
-  {
-    "name": "HAUS217 ",
-    "url": "https://www.venuerific.com/sg/venues/haus217",
-    "slug": "haus217",
-    "area": "Kallang",
-    "address": "217 Lavender St., Singapore 338772",
-    "lat": 1.3146296,
-    "lng": 103.8596793,
-    "capacity_standing": 130,
-    "capacity_seated": 100,
-    "rooms_count": 0,
-    "price": "S$650",
-    "price_unit": "Min spend",
-    "rating": 0,
-    "reviews": 0,
-    "mrt_station": "Bendemeer MRT Station",
-    "event_types": [
-      "Corporate Seminar",
-      "Product Launch"
-    ],
-    "fast_response": true,
-    "response_time": "8 hrs"
+    "response_time": "7 hrs"
   },
   {
     "name": "METT Hotel",
@@ -783,7 +786,7 @@
       "Company Dinner and Dance"
     ],
     "fast_response": true,
-    "response_time": "18 hrs"
+    "response_time": "16 hrs"
   },
   {
     "name": "Creative lifestyle studio in Kallang",
@@ -900,7 +903,7 @@
       "Party"
     ],
     "fast_response": true,
-    "response_time": "22 hrs"
+    "response_time": "15 hrs"
   },
   {
     "name": "Momentus Hotel Alexandra",
@@ -949,6 +952,29 @@
     "response_time": null
   },
   {
+    "name": "Lebua Thai",
+    "url": "https://www.venuerific.com/sg/venues/lebua-thai",
+    "slug": "lebua-thai",
+    "area": "Clarke Quay, Raffles Place",
+    "address": "30 Victoria St, #01-31 CHIJMES, Singapore 187996",
+    "lat": 1.2948011,
+    "lng": 103.8519822,
+    "capacity_standing": 150,
+    "capacity_seated": 100,
+    "rooms_count": 0,
+    "price": "S$2,000",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "City Hall MRT Station",
+    "event_types": [
+      "Business Dinner",
+      "Party"
+    ],
+    "fast_response": true,
+    "response_time": "7 hrs"
+  },
+  {
     "name": "7th Heaven Cafe ",
     "url": "https://www.venuerific.com/sg/venues/7th-heaven-cafe",
     "slug": "7th-heaven-cafe",
@@ -970,7 +996,27 @@
       "Solemnisation"
     ],
     "fast_response": true,
-    "response_time": "6 hrs"
+    "response_time": "4 hrs"
+  },
+  {
+    "name": "Venuerific",
+    "url": "https://www.venuerific.com/sg/venues/venuerific",
+    "slug": "venuerific",
+    "area": "Raffles Place",
+    "address": "9 Raffles Pl, Republic Plaza, Singapore 048619",
+    "lat": 1.2832744,
+    "lng": 103.8508826,
+    "capacity_standing": 50,
+    "capacity_seated": 40,
+    "rooms_count": 0,
+    "price": "",
+    "price_unit": null,
+    "rating": 4.5,
+    "reviews": 6,
+    "mrt_station": "",
+    "event_types": [],
+    "fast_response": false,
+    "response_time": null
   },
   {
     "name": "Major99",
@@ -996,27 +1042,50 @@
     "response_time": null
   },
   {
-    "name": "The Outset",
-    "url": "https://www.venuerific.com/sg/venues/the-outset",
-    "slug": "the-outset",
-    "area": "Tai Seng",
-    "address": "39 MacTaggart Rd, #07 00, Singapore 368084",
-    "lat": 1.3339436,
-    "lng": 103.8832766,
-    "capacity_standing": 180,
-    "capacity_seated": 154,
+    "name": "Lotus@Norris",
+    "url": "https://www.venuerific.com/sg/venues/lotus-norris",
+    "slug": "lotus-norris",
+    "area": "Farrer Park, Jalan Besar, Little India",
+    "address": "20 Norris Rd, Singapore 208262",
+    "lat": 1.3079143,
+    "lng": 103.8536569,
+    "capacity_standing": 120,
+    "capacity_seated": 82,
     "rooms_count": 0,
-    "price": "S$600",
-    "price_unit": "Min spend",
-    "rating": 5.0,
-    "reviews": 1,
-    "mrt_station": "Tai Seng MRT Station",
+    "price": "S$180",
+    "price_unit": "Per hour",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Jalan Besar MRT Station",
     "event_types": [
       "Wedding",
-      "Reception"
+      "ROM"
+    ],
+    "fast_response": false,
+    "response_time": null
+  },
+  {
+    "name": "HAUS217 ",
+    "url": "https://www.venuerific.com/sg/venues/haus217",
+    "slug": "haus217",
+    "area": "Kallang",
+    "address": "217 Lavender St., Singapore 338772",
+    "lat": 1.3146296,
+    "lng": 103.8596793,
+    "capacity_standing": 130,
+    "capacity_seated": 100,
+    "rooms_count": 0,
+    "price": "S$650",
+    "price_unit": "Min spend",
+    "rating": 0,
+    "reviews": 0,
+    "mrt_station": "Bendemeer MRT Station",
+    "event_types": [
+      "Corporate Seminar",
+      "Product Launch"
     ],
     "fast_response": true,
-    "response_time": "12 hrs"
+    "response_time": "8 hrs"
   },
   {
     "name": "WingsOverAsia",

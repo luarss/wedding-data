@@ -1983,9 +1983,9 @@
       "https://www.blissfulbrides.sg/banquet/singapore-marriott-tang-plaza-hotel/wedding-banquet-price-list/singapore-marriott-tang-plaza-hotel-grand-ballroom-wedding-lunch-package-2026.pdf",
       "https://www.blissfulbrides.sg/banquet/singapore-marriott-tang-plaza-hotel/wedding-banquet-price-list/singapore-marriott-tang-plaza-hotel-grand-ballroom-wedding-dinner-package-friday-and-sunday-2026.pdf",
       "https://www.blissfulbrides.sg/banquet/singapore-marriott-tang-plaza-hotel/wedding-banquet-price-list/singapore-marriott-tang-plaza-hotel-grand-ballroom-wedding-dinner-package-saturday-ph-2026.pdf",
-      "https://www.blissfulbrides.sg/banquet/singapore-marriott-tang-plaza-hotel/wedding-banquet-price-list/singapore-marriott-tang-plaza-hotel-grand-ballroom-wedding-dinner-package-saturday-2027.pdf",
-      "https://www.blissfulbrides.sg/banquet/singapore-marriott-tang-plaza-hotel/wedding-banquet-price-list/singapore-marriott-tang-plaza-hotel-grand-ballroom-wedding-dinner-package-friday-and-sunday-2027.pdf",
-      "https://www.blissfulbrides.sg/banquet/singapore-marriott-tang-plaza-hotel/wedding-banquet-price-list/singapore-marriott-tang-plaza-hotel-grand-ballroom-wedding-lunch-package-2027_final.pdf"
+      "https://www.blissfulbrides.sg/banquet/singapore-marriott-tang-plaza-hotel/wedding-banquet-price-list/grand-ballroom-wedding-dinner-package-saturday-2027.pdf",
+      "https://www.blissfulbrides.sg/banquet/singapore-marriott-tang-plaza-hotel/wedding-banquet-price-list/grand-ballroom-wedding-dinner-package-friday-and-sunday-2027.pdf",
+      "https://www.blissfulbrides.sg/banquet/singapore-marriott-tang-plaza-hotel/wedding-banquet-price-list/grand-ballroom-wedding-lunch-package-2027.pdf"
     ]
   },
   {
@@ -2194,6 +2194,30 @@
     "tables_min": "10",
     "tables_max": "48",
     "tables_range": "10 - 48Mon - Sun"
+  },
+  {
+    "venue_id": "257",
+    "source": "wedding-venues-booking",
+    "name": "The Garden Studio",
+    "vendor_name": "Andaz Singapore",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1468/Andaz-Singapore",
+    "location": "5 Fraser Street, Singapore 189354",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/2026-the-glasshouse-wedding-package.pdf",
+      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/2026-garden-studio-wedding-package.pdf"
+    ]
+  },
+  {
+    "venue_id": "256",
+    "source": "wedding-venues-booking",
+    "name": "The Glasshouse",
+    "vendor_name": "Andaz Singapore",
+    "profile_url": "https://www.blissfulbrides.sg/detail/1468/Andaz-Singapore",
+    "location": "5 Fraser Street, Singapore 189354",
+    "price_lists": [
+      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/2026-the-glasshouse-wedding-package.pdf",
+      "https://www.blissfulbrides.sg/banquet//wedding-banquet-price-list/2026-garden-studio-wedding-package.pdf"
+    ]
   },
   {
     "venue_id": "219",
@@ -2539,10 +2563,10 @@
       "https://www.blissfulbrides.sg/banquet/w-singapore-sentosa-cove/wedding-banquet-price-list/bachelor-bachelorette-party-at-woobar.pdf",
       "https://www.blissfulbrides.sg/banquet/w-singapore-sentosa-cove/wedding-banquet-price-list/bachelor-bachelorette-party-at-wet-deck.pdf",
       "https://www.blissfulbrides.sg/banquet/w-singapore-sentosa-cove/wedding-banquet-price-list/wedding_skirt_24042026.pdf",
-      "https://www.blissfulbrides.sg/banquet/w-singapore-sentosa-cove/wedding-banquet-price-list/say-i-do-studios-dinner_2404.pdf",
-      "https://www.blissfulbrides.sg/banquet/w-singapore-sentosa-cove/wedding-banquet-price-list/say-i-do-studios-lunch_2404.pdf",
-      "https://www.blissfulbrides.sg/banquet/w-singapore-sentosa-cove/wedding-banquet-price-list/say-i-do-great-room-lunch_2404.pdf",
-      "https://www.blissfulbrides.sg/banquet/w-singapore-sentosa-cove/wedding-banquet-price-list/say-i-do-great-room-dinner_2404.pdf"
+      "https://www.blissfulbrides.sg/banquet/w-singapore-sentosa-cove/wedding-banquet-price-list/say-i-do-great-room-dinner-.pdf",
+      "https://www.blissfulbrides.sg/banquet/w-singapore-sentosa-cove/wedding-banquet-price-list/say-i-do-great-room-lunch-.pdf",
+      "https://www.blissfulbrides.sg/banquet/w-singapore-sentosa-cove/wedding-banquet-price-list/say-i-do-studios-dinner-.pdf",
+      "https://www.blissfulbrides.sg/banquet/w-singapore-sentosa-cove/wedding-banquet-price-list/say-i-do-studios-lunch-.pdf"
     ]
   },
   {
